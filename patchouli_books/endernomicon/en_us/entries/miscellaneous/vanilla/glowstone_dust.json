@@ -1,0 +1,24 @@
+{    
+    "name": "Glowstone Dust",
+    "icon": "minecraft:glowstone_dust",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:glowstone_dust",
+            "text": "$(li)Glowstone Dust is a essencial ingredient for Potions.$(br)$(li)This item can be used to upgrade normal potions to Level II in a Brewing Stand.$(br)$(li)Witches rarely drop Glowstone Dust on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)You can obtain Glowstone Dust breaking Glowstone blocks too.$(br)$(li)This item can be used to craft multiple items in a Crafting Table."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Crafts",
+            "text": "$(li)Glowstone$(li)Paper Lantern$(li)Dimstone$(li)Elightened Bushes$(li)GLowballs$(li)Glimmer Gravel$(li)Spectral Arrows$(li)Glowing Glass Item Frames$(li)Photometer$(li)Antiblock$(li)Shimmer Sand$(li)Glowstone Armor"
+        }
+             ]
+}

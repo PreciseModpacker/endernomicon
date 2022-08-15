@@ -1,0 +1,44 @@
+{    
+    "name": "Smithing Table",
+    "icon": "minecraft:smithing_table",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:smithing_table",
+            "text": "$(li)The Smithing Table is an advanced workplace that will allow you to unlock new crafting recipes.$(br)$(li)Just place the block and right click on it to open the Smithing Table GUI.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Smithing Table Recipes",
+            "text": "$(li)Wildfire Shield$(li)Glowsilk Bow$(li)Flamarang$(li)Netherite Wolf Armor$(li)Netherite Door$(li)Netherite Trapdoor$(li)Netherite Hoe$(li)Netherite Pickaxe$(li)Netherite Shovel$(li)Netherite Sword$(li)Netherite Axe$(li)Netherite Shield$(li)Netherite Armor$(li)Safe"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Smithing Table Recipes",
+            "text": "$(li)End Crystal Shovel$(li)End Crystal Hoe$(li)End Crystal Pickaxe$(li)End Crystal Sword$(li)End Crystal Axe$(li)End Crystal Armor$(li)Monstrous Helm"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smithing_table_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smithing_table_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

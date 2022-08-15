@@ -1,0 +1,19 @@
+{    
+    "name": "Bolloom Bud",
+    "icon": "endergetic:bolloom_bud",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endergetic:bolloom_bud",
+            "text": "$(li)Bolloom Buds can be found in the Poise Forest.$(br)$(li)After being pollinated by a Puff Bug, they bloom producing Bolloom Fruits.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

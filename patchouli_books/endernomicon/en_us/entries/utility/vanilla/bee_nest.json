@@ -1,0 +1,26 @@
+{    
+    "name": "Bee Nest",
+    "icon": "minecraft:bee_nest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bee_nest",
+            "text": "$(li)Bee Nest are naturally generated blocks where Bees live.$(br)$(li)To harvest Honey, you have to right click on the Bee Nest while you are holding a Glass Bottle in your hand.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To harvest Honeycomb, you have to right click on the Bee Nest while you are holding Shears in your hand.$(br)$(li)After harvesting, you will have to wait until obtain more Honey again.$(br)$(li)Harvesting from a Bee Nest causes any bees inside it becomes aggressive to you, unless there is a fire directly beneath it or a lit Campfire within five blocks below, and the smoke is not obstructed."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/bee_nest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

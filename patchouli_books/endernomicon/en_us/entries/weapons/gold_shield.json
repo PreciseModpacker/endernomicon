@@ -1,0 +1,22 @@
+{    
+    "name": "Shield (Gold)",
+    "icon": "bettershields:gold_shield",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bettershields:gold_shield",
+            "text": "$(li)The Gold Shield is an improve of the common Shield because this one has more durability than the last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Gold Shield",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"bettershields:gold_shield\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "To equip it, just open your inventory and place the Shield into your left hand slot"
+        }
+             ]
+}

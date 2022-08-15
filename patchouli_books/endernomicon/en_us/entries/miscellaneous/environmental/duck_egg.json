@@ -1,0 +1,19 @@
+{    
+    "name": "Egg (Duck)",
+    "icon": "environmental:duck_egg",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmental:duck_egg",
+            "text": "$(li)You can just throw the egg away right clicking while you are holding an Egg on your hand.$(br)$(li)When the egg hits a block, this one has a little possibility of make a tiny Duck appears.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Duck Eggs are a valious ingredient for a numerous kind of food recipes.$(br)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
+        }
+             ]
+}

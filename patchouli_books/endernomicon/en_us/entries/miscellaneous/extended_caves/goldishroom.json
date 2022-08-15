@@ -1,0 +1,15 @@
+{    
+    "name": "Goldishroom",
+    "icon": "extcaves:mushroom_goldishroom",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "extcaves:mushroom_goldishroom",
+            "text": "$(li)The Goldishroom is a eatable item that grows in the deeps of the caves.$(br)$(li)It increases your mining and attack speed when eaten for a few seconds.$(br)$(li)You can use it to craft a Sticky Stew in a Crafing Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

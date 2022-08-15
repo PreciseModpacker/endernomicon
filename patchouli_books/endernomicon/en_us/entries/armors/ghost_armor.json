@@ -1,0 +1,28 @@
+{    
+    "name": "Ghost Armor",
+    "icon": "extraarmor:ghost_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 25,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Ghost Armor is a quiet better than the $(l:patchouli:armors/obsidian_armor)Obsidian Armor$(/l) and $(l:patchouli:armors/crying_obsidian_armor)Crying Obsidian Armor$(/l).$(br)$(li)If you wear the complete set, you will get Invisibility II effect making you indetectable by other creatures."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Ghost Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:ghost_boots\",Count:1},{id:\"extraarmor:ghost_leggings\",Count:1},{id:\"extraarmor:ghost_chestplate\",Count:1},{id:\"extraarmor:ghost_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ghost_helmet",
+            "recipe2":"extraarmor:ghost_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ghost_leggings",
+            "recipe2":"extraarmor:ghost_boots"
+        }
+             ]
+}

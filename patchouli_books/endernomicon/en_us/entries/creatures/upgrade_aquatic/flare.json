@@ -1,0 +1,19 @@
+{    
+    "name": "Flare",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Flare is a creature that doesn't summon normally.$(br2)You have to hit a Phantom with a Splash $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l) or with a Arrow of Insomnia to transform it to a Flare.$(br2)This creature will attack Phantoms, so you can use them to defend your base of those annoying creatures."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "upgrade_aquatic:flare",
+            "scale": 0.4,
+            "text": "On death, like the Phantom, Flares may drop Phantom Membrane."
+        }
+             ]
+}

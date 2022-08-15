@@ -1,0 +1,17 @@
+{    
+    "name": "Woodland Mansion",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illagers have been researching immortality for years in the Woodland Mansion.$(br)$(li)They store the results of their experiments here. The most important item, the Totem of Undying can be found here.$(br)$(li)Be careful, Evokers and Vindicators will not hesitate to defend their mansion for intruders."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Woodland Mansion can be found in the Dark Forest biome."
+        }
+             ]
+}

@@ -1,0 +1,87 @@
+{    
+    "name": "Slow Falling",
+    "icon": "minecraft:potion{Potion:'minecraft:slow_falling'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:slow_falling'}",
+            "text": "$(li)Slow Falling potions makes you fall at a much slower rate, and no take any damage when hitting the ground.$(br)$(li)The Potion of Slow Falling gives you this effect during 3 minutes."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Potion of Slow Falling Extended gives you this effect during 8 minutes.$(br)$(li)They can be brewed using a Phantom Membrane and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling",
+            "input": "minecraft:phantom_membrane",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:slow_falling'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling Splash",
+            "input": "minecraft:phantom_membrane",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:slow_falling'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow F. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_slow_falling'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow F. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:slow_falling'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling Lingering",
+            "input": "minecraft:phantom_membrane",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow Falling Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:slow_falling'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow F. Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:slow_falling'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_slow_falling'}"
+        },
+        {
+            "type": "potion",
+            "title": "Slow F. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_slow_falling'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_slow_falling'}"
+        }
+             ]
+}

@@ -1,0 +1,14 @@
+{    
+    "name": "Serpent Charmer",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:serpentfriend',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:serpentfriend',lvl:1}]}",
+            "text": "$(li)The Serpent Friend enchantment can be applied in a $(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l).$(br)$(li)This enchantment makes the $(l:patchouli:mobs/alexsmobs/bone_serpent)Bone Serpents$(/l) passives to the player while using the Straddleboard.",
+            "title": "Serpent Charmer"
+        }
+             ]
+}

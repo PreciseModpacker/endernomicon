@@ -1,0 +1,23 @@
+{    
+    "name": "Feeding Trough",
+    "icon": "quark:feeding_trough",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:feeding_trough",
+            "text": "Feeding Trought is a block that you can use to automatizate passive creatures breeding.$(br2)First you have to right click in the Feeding Trough, now fill it with food, like Wheat, Seeds or Carrots.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Nearby creatures which can be feeded with the food that you added will eat the food and then they will enter in a love mode.$(br2)Insert a picture of Feeding Trough"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/feeding_trough"
+        }
+             ]
+}

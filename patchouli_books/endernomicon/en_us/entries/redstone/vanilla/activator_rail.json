@@ -1,0 +1,18 @@
+{
+    "name": "Rail (Activator)",
+    "icon": "minecraft:activator_rail",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:activator_rail",
+            "text": "$(li)Activator Rails are a variant of the common Rail.$(br)$(li)This kind of Rail works as Redstone Dust, it can transport input redstone signals, but only with others Activator Rails."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can active an specific kind of Minecarts, like the Minecart with TNT."
+        }
+             ]
+}

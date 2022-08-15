@@ -1,0 +1,28 @@
+{    
+    "name": "Diamond Armor",
+    "icon": "minecraft:diamond_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 26,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Diamond Armor is quiet better than Ghost Armor.$(br)$(li)This armor will not give to you any special effect."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:diamond_boots,Count:1},{id:diamond_leggings,Count:1},{id:diamond_chestplate,Count:1},{id:diamond_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:diamond_helmet",
+            "recipe2":"minecraft:diamond_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:diamond_leggings",
+            "recipe2":"minecraft:diamond_boots"
+        }
+             ]
+}

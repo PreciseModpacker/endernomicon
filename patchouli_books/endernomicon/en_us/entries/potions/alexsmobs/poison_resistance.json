@@ -1,0 +1,67 @@
+{    
+    "name": "Poison Resistance",
+    "icon": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Poison Resistance",
+            "item": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
+            "text": "$(li)Poison Resistance potions makes you inmune to any kind of poison damage.$(br)$(li)They can be brewed using a Cave Centipede Leg and Poisonous Essence as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be brewed too using Cave Centipede Leg and a Komodo Dragon Spit Bottle as ingredients in a Brewing Stand.$(br)$(li)The duration of the Poison Resistance potions can be extended using a Komodo Dragon Spit and a Potion of Poison Resistance as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Poison Resistance",
+            "input": "alexsmobs:centipede_leg",
+            "input2": "alexsmobs:poison_bottle",
+            "output": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Resistance",
+            "input": "alexsmobs:centipede_leg",
+            "input2": "alexsmobs:komodo_spit_bottle",
+            "output": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison R. Extended",
+            "input": "alexsmobs:komodo_spit",
+            "input2": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:long_poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison R. Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison R. Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:long_poison_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:long_poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison R. Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:poison_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:poison_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison R. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_poison_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_poison_resistance'}"
+        }
+             ]
+}

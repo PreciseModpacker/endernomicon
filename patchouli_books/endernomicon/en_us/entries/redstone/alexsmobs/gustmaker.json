@@ -1,0 +1,20 @@
+{    
+    "name": "Gustmaker",
+    "icon": "alexsmobs:gustmaker",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:gustmaker",
+            "text": "$(li)The Gustmaker is a block which can be activated with a redstone signal to release small guts.$(br)$(li)Those guts are able to move creatures, items and entities.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/gustmaker.png",
+            "text": "$(li)These gusts can travel up to 30 blocks in a straight line before dissolving."
+        }
+             ]
+}

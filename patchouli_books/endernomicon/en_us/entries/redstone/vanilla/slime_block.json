@@ -1,0 +1,33 @@
+{
+    "name": "Slime Block",
+    "icon": "minecraft:slime_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:slime_block",
+            "text": "$(li)The Slime Block is a sticky block that has special propierties.$(br)$(li)When any creature falls onto the top of a Slime Block bounces to height proportional to the falling velocity."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When being pushed by a Piston, entities that are ahead are launched into the direction the block is pushed into.$(br)$(li)When a Slime Block is pushed or pulled by a Piston, it attemps to move all adjacent blocks in the same as those that can be pulled by a Sticky Piston.$(br)$(li)Blocks that cannot be pulled by a sticky piston stay in place.$(br)$(li)There are exist multiple versions of the Slime Block."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/magenta_slime_block",
+            "text": "$(li)The blocks that are moved may in turn push other blocks.$(br)$(li)Slime Blocks can be tinted with some dyes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/red_slime_block",
+            "recipe2":"quark:automation/crafting/blue_slime_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/cyan_slime_block",
+            "recipe2":"quark:automation/crafting/yellow_slime_block"
+        }
+             ]
+}

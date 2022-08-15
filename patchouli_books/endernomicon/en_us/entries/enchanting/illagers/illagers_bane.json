@@ -1,0 +1,18 @@
+{    
+    "name": "Illager's Bane",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:1}]}",
+            "text": "$(li)The Illager's Bane enchantment can be applied in a Sword or Axe.$(br)$(li)A weapon with this enchantment applied does additional damage to Illager Mobs like the Evoker, Furanter, or Black Iron Golem.",
+            "title": "Illager's Bane"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be upgraded until Level VIII and arrive the IX with the Ancient Tome."
+        }
+             ]
+}

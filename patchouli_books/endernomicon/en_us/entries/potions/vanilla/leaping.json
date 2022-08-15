@@ -1,0 +1,139 @@
+{    
+    "name": "Leaping",
+    "icon": "minecraft:potion{Potion:'minecraft:leaping'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:leaping'}",
+            "text": "$(li)Leaping potions will increase your jump height for a couple of time.$(br)$(li)They can be brewed using a Golden Frog Leg or Rabbit's Foot and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Leaping",
+            "input": "quark:golden_frog_leg",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping",
+            "input": "minecraft:rabbit_foot",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash",
+            "input": "quark:golden_frog_leg",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash",
+            "input": "minecraft:rabbit_foot",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_leaping'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_leaping'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering",
+            "input": "quark:golden_frog_leg",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering",
+            "input": "minecraft:rabbit_foot",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_leaping'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:leaping'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_leaping'}"
+        },
+        {
+            "type": "potion",
+            "title": "Leaping Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_leaping'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_leaping'}"
+        }
+             ]
+}

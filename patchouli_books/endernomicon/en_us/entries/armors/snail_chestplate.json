@@ -1,0 +1,21 @@
+{    
+    "name": "Snail Shell Chestplate",
+    "icon": "autumnity:snail_shell_chestplate",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 19,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:snail_shell_chestplate",
+            "text": "$(li)The Snail Shell Chestplate has more durability than the $(l:patchouli:armors/crocodile_chestplate)Crocodile Chestplate$(/l), but it offers less protection.$(br)$(li)When Sneaking while you are wearing this chestplate, you will receive very little damage",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Snail Shell Chestplate",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"autumnity:snail_shell_chestplate\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "from incoming attacks, and you will not be pushed too far by other creatures because the Knockback Resistance obtained."
+        }
+             ]
+}

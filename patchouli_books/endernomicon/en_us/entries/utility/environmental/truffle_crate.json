@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Truffle)",
+    "icon": "environmental:truffle_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/truffle/truffle_crate",
+            "text": "$(li)The Truffle Crate is a new decorative block.$(br)$(li)It can be used to save Truffles in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

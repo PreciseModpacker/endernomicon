@@ -1,0 +1,22 @@
+{    
+    "name": "Antler Headdress",
+    "icon": "alexsmobs:moose_headgear",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 26,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:moose_headgear",
+            "text": "$(li)The Moose Headgear has Armor Toughness, giving you an extra protection from strong attacks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Antler Headdress",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"alexsmobs:moose_headgear\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "It gives Knockback, allowing you to push your other creatures far away when you hit them.",
+            "offset": "0.1"
+        }
+             ]
+}

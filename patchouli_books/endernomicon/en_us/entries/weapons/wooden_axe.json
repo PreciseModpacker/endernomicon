@@ -1,0 +1,22 @@
+{    
+    "name": "Axe (Wood)",
+    "icon": "minecraft:wooden_axe",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:wooden_axe",
+            "text": "$(li)The Wooden Axe is the most basic Axe that you can create.$(br)$(li)They are known like slow but powerful weapons compared with Swords." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Wooden Axe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:wooden_axe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "You can quickly cut down trees with the Axe. You should make a better Axe, like the Stone Axe."
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Lumberjack",
+    "icon": "minecraft:oak_log",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Lumberjack really loves collect Wood in the deep forests.$(br)$(li)It will trade you Saplings, Beds, Crates, Note Blocks, Bookfshelves and even Woodcutters for Emeralds and vice versa.$(br)$(li)A Villager can get the Lumberjack profession if is near of a Woodcutter."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'charm:lumberjack',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

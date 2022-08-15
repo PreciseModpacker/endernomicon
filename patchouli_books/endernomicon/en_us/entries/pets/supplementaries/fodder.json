@@ -1,0 +1,22 @@
+{    
+    "name": "Fodder",
+    "icon": "supplementaries:fodder",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:fodder",
+            "text": "$(li)The Fodder is a new block that serves as a way to automatically feed animals.$(br)$(li)Some animals will try to eat a layer out of the block when they are hungry.$(br)$(li)When eaten it will make a baby animals age faster and will set adults in love.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be placed down with dispensers.$(br2)Insert a picture of a Fodder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:fodder"
+        }
+             ]
+}

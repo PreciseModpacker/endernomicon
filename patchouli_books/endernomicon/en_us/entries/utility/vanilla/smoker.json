@@ -1,0 +1,34 @@
+{    
+    "name": "Smoker",
+    "icon": "minecraft:smoker",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:smoker",
+            "text": "$(li)The Smoker is a variant of the Furnace specialized in cooking.$(br)$(li)Smoker is twice as fast as the common Furnaces.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)First you have to place the Smoker and right click in it.$(br)$(li)Now you have to insert the Fuel in the second slot, the most common fuel are Wood, Charcoal, Coal, Coal Blocks, Lava Bucket, Blaze Rod and finally Blaze Lanterns.$(br)$(li)Then you need to place the item to cook in the first slot.$(br)$(li)Finally you can pick up the result and add it into your inventory."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smoker_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smoker_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,27 @@
+{    
+    "name": "Chandeliers",
+    "icon": "decorative_blocks:chandelier",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:chandelier",
+            "text": "$(li)Chandeliers are a good choice of a light source block.$(br)$(li)They are a good alternative of the common Torchs.",
+            "link_recipe": "true",
+            "title": "Chandeliers"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of the Braziers"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:soul_chandelier"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:ender_chandelier"
+        }
+             ]
+}

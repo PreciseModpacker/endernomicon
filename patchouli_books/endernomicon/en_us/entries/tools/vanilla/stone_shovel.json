@@ -1,0 +1,19 @@
+{    
+    "name": "Shovel (Stone)",
+    "icon": "minecraft:stone_shovel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/tools/stone_shovel",
+            "text": "$(li)The Stone Shovel is the direct upgrade of the Wooden Shovel.$(br)$(li)It has a greater durability than the Wooden Shovel." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to create Grass Path and obtain Snow.$(br)$(li)Toolsmiths will exchange your Emeralds by Stone Shovels." 
+        }
+             ]
+}

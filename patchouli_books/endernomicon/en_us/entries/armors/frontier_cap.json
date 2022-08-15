@@ -1,0 +1,20 @@
+{    
+    "name": "Frontiersman's Cap",
+    "icon": "alexsmobs:frontier_cap",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 26,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:frontier_cap",
+            "text": "$(li)The Frontierman's Cap can be weared on the head.$(br)$(li)It gives you an extra speed of while you are sneaking.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Frontiersman Cap",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"alexsmobs:frontier_cap\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

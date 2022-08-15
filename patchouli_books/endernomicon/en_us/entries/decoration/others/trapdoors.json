@@ -1,0 +1,190 @@
+{    
+    "name": "Trapdoors",
+    "icon": "minecraft:oak_trapdoor",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_trapdoor",
+            "text": "$(li)Trapdoors are a decoration block which can be used as an openable 1x1 barrier.$(br)$(li)They can be interacted with right click and nearby redstone signals.",
+            "link_recipe": "false",
+            "title": "Trapdoors"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:spruce_trapdoor",
+            "recipe2":"minecraft:birch_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:jungle_trapdoor",
+            "recipe2":"minecraft:acacia_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_trapdoor",
+            "recipe2":"environmental:building/wood/willow/willow_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_trapdoor",
+            "recipe2":"environmental:building/wood/wisteria/wisteria_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_trapdoor",
+            "recipe2":"enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_trapdoor",
+            "recipe2": "bayou_blues:crafting/cypress_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_trapdoor",
+            "recipe2":"upgrade_aquatic:river_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_trapdoor",
+            "recipe2":"atmospheric:morado_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_trapdoor",
+            "recipe2":"atmospheric:kousa_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:aspen_trapdoor",
+            "recipe2":"autumnity:maple_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"decorative_blocks:lattice"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/white",
+            "title": "White C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/orange",
+            "title": "Orange C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/magenta",
+            "title": "Magenta C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/light_blue",
+            "title": "Light Blue C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/yellow",
+            "title": "Yellow C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/lime",
+            "title": "Lime C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/pink",
+            "title": "Pink C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/gray",
+            "title": "Gray C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/light_gray",
+            "title": "Light Gray C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/cyan",
+            "title": "Cyan C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/purple",
+            "title": "Purple C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/blue",
+            "title": "Blue C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/brown",
+            "title": "Brown C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/green",
+            "title": "Green C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/carpeted_trapdoor/red",
+            "title": "Red C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"inspirations:utility/carpeted_trapdoor/black",
+            "title": "Black C. Trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:glass_trapdoor",
+            "recipe2":"inspirations:building/glass_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"buzzier_bees:honeycomb/honeycomb_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"decorative_blocks:bar_panel"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"upgrade_aquatic:tooth_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"minecraft:iron_trapdoor",
+            "text": "$(li)The Iron Trapdoor is a variant of the common Trapdoors.$(br)$(li)You can't open the Trapdoor directly, it will only reacts to a nearby redstone signal."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item":"supplementaries:gold_trapdoor",
+            "text": "$(li)The Gold Trapdoor by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any player.$(br)$(li)This means that a powerer trapdoor cannot be oppened or closed regardless of its state.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"supplementaries:gold_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crimson_trapdoor",
+            "recipe2":"minecraft:warped_trapdoor"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_trapdoor"
+        }
+             ]
+}

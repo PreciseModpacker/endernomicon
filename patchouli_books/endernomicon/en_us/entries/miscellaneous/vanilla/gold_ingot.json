@@ -1,0 +1,40 @@
+{    
+    "name": "Ingot (Gold)",
+    "icon": "minecraft:gold_ingot",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:gold_ingot",
+            "text": "$(li)The Gold Ingot is a shiny metal that can be obtained smelting a Gold Ore, and can be found in Loot Chests too.$(br)$(li)This item can be used in multiple crafts in a Crafting Table.$(br)$(li)You can trade Gold Ingots with the Piglins.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Armors & Weapons",
+            "text": "$(br)$(l)        Armors$()$(br)$(li)Gold Armor$(li)Gold Shield$(li)Golder Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Gold Axe$(li)Gold Sword" 
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tools",
+            "text": "$(li)Clock$(li)Dimension Compass$(li)Golden Hoe$(li)Golden Pickaxe$(li)Golden Shovel$(li)Key$(li)Passage's Toll$(li)Spectre's Eye$(li)Spectre's Grasp$(li)iChisel"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Redstone & Transport",
+            "text": "$(br)$(l)        Redstone$()$(br)$(li)Gold Button$(li)Hourglass$(li)Light W. Pressure Plate$(li)Redstone Charger$(br2)$(l)        Transport$()$(br)$(li)Powered Rail"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Decoration",
+            "text": "$(li)Crimson Lantern$(li)Gold Bars$(li)Gold Candelabra$(li)Gold Chain$(li)Gold Door$(li)Gold Door$(li)Gold Gate$(li)Gold Trapdoor$(li)Honey Lamp"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Miscellaneous",
+            "text": "$(li)Blast-Proof Plating$(li)Block of Gold$(li)Devil's Ante$(li)Gold Nugget$(li)G. to Diamond Chest Upgrade$(li)Golden Apple$(li)Haunted Bell$(li)Iron to Gold Chest Upgrade$(li)Netherite Ingot$(li)Shimmering Passionfruit"
+        }
+             ]
+}

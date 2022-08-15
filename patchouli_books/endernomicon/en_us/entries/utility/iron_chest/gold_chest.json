@@ -1,0 +1,37 @@
+{    
+    "name": "Chest (Gold)",
+    "icon": "ironchest:gold_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ironchest:chests/iron_gold_chest",
+            "text": "$(li)The Gold Chest is a upgrade of the $(l:patchouli:utility/iron_chest/iron_chest)Iron Chest$(/l).$(br)$(li)Unlike Iron Chests which have 54 slots of capacity, the Gold Chest has a capacity of 81 slots.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"ironchest:upgrades/iron_to_gold_chest_upgrade",
+            "text": "$(li)A Iron Chest can be upgraded to a Gold Chest.$(br)$(li)Just right click it while you have one Iron to Gold Chest Upgrade on your hand.",
+            "title": "Gold Chest Upgrade"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/gold_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/gold_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+
+             ]
+}

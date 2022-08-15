@@ -1,0 +1,15 @@
+{    
+    "name": "North Compass",
+    "icon": "inspirations:north_compass",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/north_compass",
+            "text": "$(li)The North Compass is an alternative of the Compass.$(br)$(li)Insteat of pointing towards the spawnpoint, it will point towards the north.",
+            "link_recipe": "true"
+        }
+             ]
+}

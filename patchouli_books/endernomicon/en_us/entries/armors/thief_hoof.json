@@ -1,0 +1,24 @@
+{    
+    "name": "Thief's Hood",
+    "icon": "environmental:thief_hood",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 28,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmental:thief_hood",
+            "text": "$(li)The Thief's Hood has the Stealth effect, making harder for other creatures to detect you.$(br)$(li)This effect can be upgraded slaying other creatures.$(br)$(li)It only can be found in Dungeon Chests.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Thief's Hood",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"environmental:thief_hood\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Stealth Levels$()$(br)$(li)Level 1   +0.15 Stealth$(br)   0/10 - Creatures Slain$(br)$(li)Level 2   +0.3 Stealth$(br)   10/50 - Creatures Slain$(br)$(li)Level 3   +0.45 Stealth$(br)   50/100 - Creatures Slain$(br)$(li)Level 4   +0.6 Stealth$(br)   100/500 - Creatures Slain$(br)$(li)Level 5   +0.75 Stealth$(br)   500/500 - Creatures Slain"
+        }
+             ]
+}

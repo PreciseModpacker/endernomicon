@@ -1,0 +1,18 @@
+{
+    "name": "Rail (Powered)",
+    "icon": "minecraft:powered_rail",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:powered_rail",
+            "text": "$(li)Powered Rails are a variant of the common Rail.$(br)$(li)This kind of Rail is used to increase or decrease the movement speed of Minecarts.."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)By default, Minecarts that walks on a Powered Rail will have their movement speed.$(br)$(li)If the Powered Rail receives a redstone signal, the Minecart than walk on that Powered Rail will increase its speed movement considerably."
+        }
+             ]
+}

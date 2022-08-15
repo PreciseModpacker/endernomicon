@@ -1,0 +1,19 @@
+{    
+    "name": "Stradpole",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Stradpole are tiny passive creatures that live naturally in lava, but they can also live in water too. You can transport them using a Bucket.$(br2)Despite popular belief, the Stradpole isn't useless. If you feed one a Crimson Mosquito Larva, it will grow up into an adult Straddler, allowing easy transport of Straddlers via Stradpoles in Buckets."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:stradpole",
+            "scale": 0.6,
+            "text": "When $(l:patchouli:creatures/alexsmobs/straddler)Straddler$(/l) hits you with a Stradpole, you take 1.5 damage, and the stradpole disappears after a few seconds."
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Stick",
+    "icon": "minecraft:stick",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stick",
+            "text": "$(li)The Sticks are very simple, but very used in multiple crafts in a Crafting Table.$(br)$(li)Witches may drop Sticks and they can be crafted placing Wood Planks, Bamboo or Dullthorns in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

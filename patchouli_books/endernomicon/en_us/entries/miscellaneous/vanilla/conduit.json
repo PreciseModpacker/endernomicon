@@ -1,0 +1,15 @@
+{    
+    "name": "Conduit",
+    "icon": "minecraft:conduit",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:conduit",
+            "text": "sasdaasdds.",
+            "link_recipe": "true"
+        }
+             ]
+}

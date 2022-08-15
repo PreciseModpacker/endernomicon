@@ -1,0 +1,28 @@
+{    
+    "name": "Quartz Armor",
+    "icon": "extraarmor:quartz_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Quartz Armor is quiet better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) and $(l:patchouli:armors/honeycomb_armor)Honeycomb Armor$(/l).$(br)$(li)This armor doesn't give to you any special effect."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Quartz Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:quartz_boots\",Count:1},{id:\"extraarmor:quartz_leggings\",Count:1},{id:\"extraarmor:quartz_chestplate\",Count:1},{id:\"extraarmor:quartz_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:quartz_helmet",
+            "recipe2":"extraarmor:quartz_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:quartz_leggings",
+            "recipe2":"extraarmor:quartz_boots"
+        }
+             ]
+}

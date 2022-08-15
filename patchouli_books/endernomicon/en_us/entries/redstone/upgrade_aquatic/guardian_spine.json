@@ -1,0 +1,19 @@
+{    
+    "name": "Guardian Spine",
+    "icon": "upgrade_aquatic:guardian_spine",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "upgrade_aquatic:guardian_spine",
+            "text": "$(li)The Guardian Spine only turns on when receives a nearby redstone signal.$(br)$(li)When a nearby creature or even you step on the Guardian Spine, its walking speed will be considerably reduced and it will receive a damage of 1 heart per second.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item only can be dropped by Guardians.$(br2)Insertar imagen Guardian Spine"
+        }
+             ]
+}

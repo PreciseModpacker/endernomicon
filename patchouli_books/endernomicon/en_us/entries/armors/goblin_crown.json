@@ -1,0 +1,21 @@
+{    
+    "name": "Goblin Crown",
+    "icon": "goblinsanddungeons:goblin_crown",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 42,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "goblinsanddungeons:goblin_crown",
+            "text": "$(li)The Goblin Crown once equipped inflicts the effect Weakness II to any Goblin or Ogre near of you and Weakness I to other creatures, reducing their damage in their attacks.$(br)$(li)It can only be found in Loot Chests of the Ruined Keep.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Goblin Crown",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"goblinsanddungeons:goblin_crown\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "offset": "0.2"
+        }
+             ]
+}

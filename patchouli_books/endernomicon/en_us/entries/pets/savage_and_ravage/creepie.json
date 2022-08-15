@@ -1,0 +1,27 @@
+{    
+    "name": "Creepie",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Creepies are the smaller version of the common Creepers.$(br)$(li)They can be summoned in an area with green particles produced by the explosion of the $(l:patchouli:tools/savage_and_ravage/spore_bomb)Spore Bomb$(/l).$(br)$(li)The Creepiers summoned of this way, will chase an explote to nearby creatures."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "savageandravage:creepie",
+            "scale": 0.85,
+            "text": "They spawn in groups of 8 Creepies for every area with green particles."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be summoned with Creeper Spores too.$(br)$(li)In this case, if you are near of the area with green particles, the Creepies will follow you, until you attack some creature.$(br)$(li)Then, those creatures will chase the attacked creature until they are close enough to explote."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)In a while, Creepiers grow up into Creepers, at this moment they will become hostile and they will attack you.$(br)$(li)You can accelearate this process giving Bone Meal to Creepiers.$(br)$(li)You can give them Poisonous Potatoes to stop this grow up process forever."
+        }
+             ]
+}

@@ -1,0 +1,34 @@
+{    
+    "name": "Sugar",
+    "icon": "minecraft:sugar",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:sugar_from_sugar_cane",
+            "text": "$(li)Sugar is a sweet flavour that can be obtained placing a Sugar Cane, Sap Bottle, or Honey Bottle in a Crafting Table.$(br)$(li)Witches may drop Sugar on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:sugar_from_sap_bottle",
+            "recipe2": "minecraft:sugar_from_honey_bottle"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item can be used to brew a Potion of Swiftness in a Brewing Stand.$(br)$(li)Sugar is a valious ingredient for numerous food recipes that can be crafted in a Crafting Table.$(br)$(li)Sugar allows to you to craft other useful items in a Crafting Table too."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Food Recipes",
+            "text": "$(li)Scones$(li)Ice Cream$(li)Candies$(li)Pie$(li)Chocolate Bar$(li)Passionfruit Sorbet$(li)Pancakes$(li)Fudge$(li)Cake$(li)Pudding$(li)Bonbons$(li)Bread$(li)Mulberry Jam Bottle$(li)Aether-Glazed Cupcake"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Other Items",
+            "text": "$(li)Sugar Block$(li)Fermented Spider Eye"
+        }
+             ]
+}

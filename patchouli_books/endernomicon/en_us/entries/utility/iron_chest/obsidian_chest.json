@@ -1,0 +1,36 @@
+{    
+    "name": "Chest (Obsidian)",
+    "icon": "ironchest:obsidian_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ironchest:chests/diamond_obsidian_chest",
+            "text": "$(li)The Obsidian Chest is a upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l).$(br)$(li)They have the same capacity of the Diamond Chests, 108 slots, but Obisidan Chests are completely Blast Resistant.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"ironchest:upgrades/diamond_to_obsidian_chest_upgrade",
+            "text": "$(li)A Diamond Chest can be upgraded to a Obsidian Chest.$(br)$(li)Just right click it while you have one Diamond to Obsidian Chest Upgrade on your hand.",
+            "title": "Obsidian Chest Upgrade"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/obsidian_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/obsidian_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

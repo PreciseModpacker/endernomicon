@@ -1,0 +1,24 @@
+{
+    "name": "Redstone Torch",
+    "icon": "minecraft:redstone_torch",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:redstone_torch",
+            "text": "$(li)The Redstone Torch is a variant of the common Torchs.$(br)$(li)It works as a toggeable redstone power source and it can be used to craft multiple items in a Crafting Table."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_torch.png",
+            "text": "$(li)It can be used to transport redstone signals vertically, but I recommend use Cog Blocks for that function."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Crafting Table Recipes",
+            "text": "$(li)Lit Redstone Lamps$(li)Redstone Comparators$(li)Redstone Repeater$(li)Redstone Randomizer$(li)Large Redstone Jack o'Lantern Slice$(li)Activator Rail$(li)Redstone Lantern$(li)Redstone Jack o'Lantern"
+        }
+             ]
+}    

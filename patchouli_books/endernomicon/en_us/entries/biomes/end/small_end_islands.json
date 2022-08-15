@@ -1,0 +1,30 @@
+{    
+    "name": "Small End Islands",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Small End Islands is a biome composed of mostly empty expanses between the Larger Islands of the End, populated only by smaller, circle-shaped islands.$(br)$(li)You can find Endermans in this biome."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the words $(l)Small End Islands$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:small_end_islands"
+#        }
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/small_end_islands.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

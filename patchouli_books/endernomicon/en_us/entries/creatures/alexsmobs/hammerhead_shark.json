@@ -1,0 +1,23 @@
+{    
+    "name": "Hammerhead Shark",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hammerhead Sharks are neutral fish that likes to live in warmer waters.$(br2)They will only attack any creature that is beneath half health and they special preys: tropical fish and squids.$(br2)Occasionally, when attacking prey, the Hammerhead may loose one Shark Tooth. This can be used to craft Shark Tooth Arrows."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:hammerhead_shark",
+            "scale": 0.5,
+            "text": "Those can travel better underwater and deal extra damage to aquatic creatures."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:shark_tooth_arrow"
+        }
+             ]
+}

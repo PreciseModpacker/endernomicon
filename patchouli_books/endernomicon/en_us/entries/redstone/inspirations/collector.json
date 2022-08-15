@@ -1,0 +1,29 @@
+{    
+    "name": "Collector",
+    "icon": "inspirations:collector",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/collector",
+            "text": "$(li)The Collector is a member of the Droppers and Dispensers family.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe2": "inspirations:tweaks/collector_stackable",
+            "text": "$(li)When it receives a redstone pulse signal, it will collect all the items that are dropped on the ground in front of it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/collector.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Ring of Glory",
+    "icon": "goblinsanddungeons:ring_of_glory",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 42,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "goblinsanddungeons:ring_of_glory",
+            "text": "$(li)The Ring of Glory makes you recover life everytime that you slay a creature.$(br)$(li)It can only be found in Loot Chests of the Ruined Keep.$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
+            "link_recipe": "true"
+        }
+             ]
+}

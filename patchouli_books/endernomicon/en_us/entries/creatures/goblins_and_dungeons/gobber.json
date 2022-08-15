@@ -1,0 +1,15 @@
+{    
+    "name": "Gobber",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:gobber",
+            "scale": 1,
+            "text": "Slow but very strong and tank Goblings that will attack you with their word or Crosswbow."
+        }
+             ]
+}

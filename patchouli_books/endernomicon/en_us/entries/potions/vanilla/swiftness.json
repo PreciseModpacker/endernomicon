@@ -1,0 +1,146 @@
+{    
+    "name": "Swiftness",
+    "icon": "minecraft:potion{Potion:'minecraft:swiftness'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:swiftness'}",
+            "text": "Swifness potions allow you to run more faster than normal.$(br2)They can be brewed using Sugar and Awkward Potions as ingredients.$(br2)Additionally the maximum level of this potion, can be brewed using a Gazelle Horn and Potion Of Swiftness II as ingredients."
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness",
+            "input": "minecraft:sugar",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness III",
+            "input": "alexsmobs:gazelle_horn",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_swiftness'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:speed_iii'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash",
+            "input": "quark:golden_frog_leg",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash",
+            "input": "minecraft:sugar",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_swiftness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_swiftness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Splash III",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:speed_iii'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:speed_iii'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering",
+            "input": "minecraft:sugar",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_swiftness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:swiftness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_swiftness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_swiftness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Swiftness Lingering III",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:speed_iii'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:speed_iii'}"
+        }
+             ]
+}

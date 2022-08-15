@@ -1,0 +1,15 @@
+{    
+    "name": "Hobgob",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:hobgob",
+            "scale": 1,
+            "text": "Hobgobs will attack passive creatures like animals and you too. On death the may drop Iron Nuggets and Leather."
+        }
+             ]
+}

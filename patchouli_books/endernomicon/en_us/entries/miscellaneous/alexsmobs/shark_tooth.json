@@ -1,0 +1,21 @@
+{    
+    "name": "Shark Tooth",
+    "icon": "alexsmobs:shark_tooth",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:shark_tooth",
+            "text": "$(li)When a Hammerhead Shark attack a prey, they may loose one Shark Tooth.$(br)$(li)It can be rarely obtained in a trade with a Seal too.$(br)$(li)It can be used to craft a Shield of The Deep.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:serrated_shark_tooth",
+            "text": "$(li)As Shark Tooths, when a Hammerhead Shark attacks a prey, they may loose one Serrated Shark Tooth.$(br)$(li)It is part of the craft of the SHield of The Deep.",
+            "link_recipe": "true"
+        }
+             ]
+}

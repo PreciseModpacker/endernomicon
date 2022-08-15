@@ -1,0 +1,33 @@
+{    
+    "name": "Campfires",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:campfire",
+            "text": "$(li)The Campfires are a block that it can be used to cook food.$(br)$(li)They can be used to pacify angry Bees too.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To use it, first you have to place the Campfire.$(br)$(li)Now, to fire it on, right click on the Campfire while you are holding a Flint and Steel on your hand.$(br)$(li)Finally just place your cookable food right clicking on the Campfire while you are holding it.$(br)$(li)In a few seconds, the food will be cook and drop like an item into the ground."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Unlike the Furnaces, the Campfire doesn't need any kind of Fuel.$(br)$(li)Be careful, if you are on a Campfire, you will receive damage.$(br)$(li)You can turn off the Campfire, right clicking on them with a Water Bucket.$(br)$(li)There are four different versions of the Campfire."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:soul_campfire",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glow_campfire",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:ender_campfire",
+            "link_recipe": "true"
+        }
+             ]
+}

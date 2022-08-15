@@ -1,0 +1,19 @@
+{    
+    "name": "Hummingbird",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hummingbirds are tiny passive bird creatures that can be found in flower forests, sunflower plains and jungles.$(br2)Hummingbirds really love flowers and often pollinate them.$(br2)The player can craft a $(l:patchouli:tools/alexsmobs/hummingbird_feeder)Hummingbird Feeder$(/l), which will keep them from straying. It will also boost their pollination rate."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:hummingbird",
+            "scale": 1,
+            "text": "The player can breed them with flowers."
+        }
+             ]
+}

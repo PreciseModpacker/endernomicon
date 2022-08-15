@@ -1,0 +1,31 @@
+{    
+    "name": "Beacon",
+    "icon": "minecraft:beacon",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:beacon",
+            "text": "$(li)The Beacon is an important block that use the chaotic power of the Nether Star for you benefit.$(br)$(li)You must meet and specific requirements before be able to activate the Beacon.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)First, Beacons require an unobstructed view of the Sky. Transparent blocks like Glass or Water are allowed.$(br)$(li)The Beacon is on top of a pyramid constructed from Iron Blocks, Gold Blocks, Emerald Blocks, Diamond Blocks, and/or Netherite Blocks.$(br)$(li)The Beacon will emit a powerfull beam of light pointing towards the sky.$(br)This means the Beacon is activated."
+        },
+{
+            "type": "patchouli:text",
+            "text": "Mostrar multiblocks para los diferentes niveles del Beacon"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can change the beam light placing an specific Dyed Glass block on the top of the Beacon.$(br)$(li)Now you can right click on it to open a new GUI.$(br)$(li)Here you have to insert an Iron Ingot, Gold Ingot, Diamond, Emerald or Netherite Ingot and activate it.$(br)$(li)Finally choose the desire Primary and Secundary Power."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Primary and Secondary Powers that we can choose depends of the number of levels of the pyramid built for the Beacon.$(br)$(li)Level 1 - Primary Power Speed and Haste$(li)Level 2 - Primary Power Resistance and Jump Boost $(li) Level 3 - Primary Power Strength$(li)Level 4 - Secondary Power Regeneration"
+        }
+             ]
+}

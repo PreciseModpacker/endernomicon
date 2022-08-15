@@ -1,0 +1,45 @@
+{    
+    "name": "Woodcutter & Sawmill",
+    "icon": "charm:woodcutter",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:woodcutters/woodcutter",
+            "text": "$(li)The Woodcutter is a new block that adds more efficient recipes for crafing Wood items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Lumberjack.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:crafting/sawmill",
+            "text": "$(li)The Sawmill is a other good block that adds more efficient recipes for crafing Wood items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Carpenter.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_3.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

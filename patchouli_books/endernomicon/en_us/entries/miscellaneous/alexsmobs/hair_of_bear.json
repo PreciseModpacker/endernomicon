@@ -1,0 +1,15 @@
+{    
+    "name": "Hair of Bear",
+    "icon": "alexsmobs:bear_fur",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:bear_fur",
+            "text": "$(li)The Hair of Fur can be used to brew a Potion of Knockback Resistance in a Brewing Stand.$(br)$(li)It can be used to craft a Falconry Glove, Banner Pattern, or even a Frontiersman's Cap.$(br)$(li)Grizzly Bears may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

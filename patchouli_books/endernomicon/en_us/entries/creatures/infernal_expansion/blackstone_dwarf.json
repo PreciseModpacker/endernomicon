@@ -1,0 +1,14 @@
+{    
+    "name": "Blackstone Dwarf",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "infernalexp:blackstone_dwarf",
+            "text": "Blackstone Dwarf are hostile creatures that can be found in Glowstone Canyons. On death they may drop Golden Apples."
+        }
+             ]
+}

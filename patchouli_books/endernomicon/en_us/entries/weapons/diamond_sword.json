@@ -1,0 +1,21 @@
+{    
+    "name": "Sword (Diamond)",
+    "icon": "minecraft:diamond_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:diamond_sword",
+            "text": "$(li)The Diamond Sword is the direct upgrade of the Iron Sword.$(br)$(li)This one inflicts more damage and has more durability than the Iron Sword." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:diamond_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

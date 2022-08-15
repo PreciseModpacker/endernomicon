@@ -1,0 +1,29 @@
+{    
+    "name": "Plains",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Plains is simple a biome with a flat grass terrain.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find vegetation like Oak Trees, Poppies, Dandenlions, Azure Bluets, Tulips, Oxeye Daidies, and Cornflowers."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Crows can be found flying around this biome.$(br)$(li)You can search this biome introducing the word $(l)Plains$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:plains"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/plains.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

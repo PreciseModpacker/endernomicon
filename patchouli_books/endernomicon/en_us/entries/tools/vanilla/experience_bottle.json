@@ -1,0 +1,19 @@
+{    
+    "name": "Bottle (Experience)",
+    "icon": "minecraft:experience_bottle",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:experience_bottle",
+            "text": "$(li)The Bottle o' Enchanting contain a strange magic inside.$(br)$(li)It can be thrown to the ground to generate Experience Orbs that you can absorb to earn Experience and level up.$(br)$(li)This experience can be used in an Enchanting Table or in an Anvil too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Those Bottles can be found in Loot Chests.$(br)$(li)Hungers may drop them on death.$(br)$(li)Clerics will exchange them by Emeralds too."
+        }
+             ]
+}

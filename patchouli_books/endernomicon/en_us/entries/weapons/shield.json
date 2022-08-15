@@ -1,0 +1,22 @@
+{    
+    "name": "Shield",
+    "icon": "minecraft:shield",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 15,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:shield",
+            "text": "$(li)The Shield is a useful weapon that can save you of melee and weapon hits.$(br)$(li)Just right click while you are holding a Shield on your left hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Shield",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:shield,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "To equip it, just open your inventory and place the Shield into your left hand slot"
+        }
+             ]
+}

@@ -1,0 +1,20 @@
+{    
+    "name": "Crocodile Chestplate",
+    "icon": "alexsmobs:crocodile_chestplate",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 17,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:crocodile_chestplate",
+            "text": "$(li)The Crocodile Chestplate has Armour Toughness giving you an extra protection from strong attacks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Crocodile Chestplate",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"alexsmobs:crocodile_chestplate\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

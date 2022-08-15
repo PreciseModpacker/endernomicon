@@ -1,0 +1,39 @@
+{    
+    "name": "Backpack Shelf",
+    "icon": "backpacked:oak_backpack_shelf",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "backpacked:oak_backpack_shelf",
+            "text": "$(li)The Backpack Shelfs allows you to place your $(l:patchouli:tools/backpacked/backpack)Backpack$(/l).",
+            "link_recipe": "false",
+            "title": "Backpack Shelf"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Backpack Shelfs."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "backpacked:oak_backpack_shelf",
+            "recipe2":"backpacked:spruce_backpack_shelf"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "backpacked:birch_backpack_shelf",
+            "recipe2":"backpacked:jungle_backpack_shelf"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "backpacked:dark_oak_backpack_shelf",
+            "recipe2":"backpacked:acacia_backpack_shelf"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "backpacked:crimson_backpack_shelf",
+            "recipe2":"backpacked:warped_backpack_shelf"
+        }
+             ]
+}

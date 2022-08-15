@@ -1,0 +1,20 @@
+{    
+    "name": "Outback Leggings",
+    "icon": "alexsmobs:emu_leggings",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 10,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:emu_leggings",
+            "text": "$(li)The Outback Leggings is a quiet better than the $(l:patchouli:armors/phantom_armor)Phantom Leggings$(/l).$(br)$(li)It has Armour Toughness giving you extra protection from strong attacks."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Outback Leggings",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"alexsmobs:emu_leggings\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "It offers a little probability of avoid projectile attacks like Arrows too."
+        }
+             ]
+}

@@ -1,0 +1,118 @@
+{    
+    "name": "Relief",
+    "icon": "minecraft:potion{Potion:'atmospheric:relief'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'atmospheric:relief'}",
+            "text": "$(li)Relief potions will heal you if the incoming damage is greater than or equal to the level.$(br)$(li)They can be brewed using Aloe Leaves and an Awkward potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Relief",
+            "input": "atmospheric:aloe_leaves",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'atmospheric:relief'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:potion{Potion:'atmospheric:relief_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:potion{Potion:'atmospheric:relief_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Splash",
+            "input": "atmospheric:aloe_leaves",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief_long'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief_strong'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:relief_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Lingering",
+            "input": "atmospheric:aloe_leaves",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief_long'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Relief Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:relief_strong'}"
+        }
+             ]
+}

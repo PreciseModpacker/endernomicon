@@ -1,0 +1,19 @@
+{    
+    "name": "Warped Toad",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Warped Toads are neutral large blue toads, that attacks with their tongues. Warped Toads target Flies and Crimsom Mosquitos. They move via hopping and they can also swim in lava and water.$(br2)Warped Toads can be tamed with Crimsom Mosquito Larva. Once tamed, you can command a Warped Toad to sit, follow or wander. These creatures will defend their owner."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:warped_toad",
+            "scale": 0.7,
+            "text": "Tamed Warped Toads can be bred with Crimson Mosquito Larva. On Death, they may drop Shroomlight or Nether Wart."
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Nether Quartz",
+    "icon": "minecraft:quartz",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:quartz",
+            "text": "$(li)The Nether Quartz is a hard crystaline mineral that can be found and mined over the Nether.$(br)$(li)Masons will exchange your Nether Quartz by Emeralds.$(br)$(li)It can be used to craft multiple items in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Laboratory Blocks$(li)Quartz Glass$(li)Blackboard$(li)Observer$(li)Block of Quartz$(li)Decorative Quartz Amphora$(li)Small Decorative Quartz Pot$(li)Redstone Comparators$(li)Diorite$(li)Granite$(li)Daylight Detectors$(li)Quartz Armor"
+        }
+             ]
+}

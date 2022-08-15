@@ -1,0 +1,18 @@
+{    
+    "name": "Mending",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:mending',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:mending',lvl:1}]}",
+            "text": "$(li)The Mending enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, Shields, Pickaxe, Axe, Sword, Hoe, Shovel, Shears, Bow, Crossbow, Trident, Fishing Rod, Pickarang, Flamarang, Elytras or any kind of item that have an specific durability.",
+            "title": "Mending"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When you get XP, part of this one, is shared with your enchanted items with Mending enchantment and use it to repair them."
+        }
+             ]
+}

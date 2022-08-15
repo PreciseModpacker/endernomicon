@@ -1,0 +1,29 @@
+{    
+    "name": "Enlightened Bushs",
+    "icon": "inspirations:white_enlightened_bush",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "inspirations:white_enlightened_bush",
+            "text": "$(li)The Enlightened Bushs are a new variant of the Leaves.$(br)$(li)They are a good alternative to typical light sources too.$(br)$(li)There exists a lot of variants of Enlightened Bushs.",
+            "link_recipe": "false",
+            "title": "Enlightened Bushs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:building/enlightened_bush/white",
+            "recipe2": "inspirations:building/enlightened_bush/red"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:building/enlightened_bush/green",
+            "recipe2": "inspirations:building/enlightened_bush/blue"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Enlightened Bushs"
+        }
+             ]
+}

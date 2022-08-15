@@ -1,0 +1,15 @@
+{    
+    "name": "Bottle (Lava)",
+    "icon": "alexsmobs:lava_bottle",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:lava_bottle",
+            "text": "$(li)Lava Bottles contains Lava in their interior.$(br)$(li)They can be used to brew a Potion of Lava Vision in a Brewing Potion.",
+            "link_recipe": "true"
+        }
+             ]
+}

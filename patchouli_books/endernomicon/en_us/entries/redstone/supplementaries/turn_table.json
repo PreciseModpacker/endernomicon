@@ -1,0 +1,20 @@
+{    
+    "name": "Turn Table",
+    "icon": "supplementaries:turn_table",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:turn_table",
+            "text": "$(li)The Turn Table can change the orientation of any block that it's facing when it's receiving a redstone signal.$(br)$(li)The speed of the rotation will depend of the received redstone signal strength.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/turn_table.png",
+            "text": "$(li)You can revert the direction right clicking the Turn Table block."
+        }
+             ]
+}

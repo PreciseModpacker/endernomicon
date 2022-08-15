@@ -1,0 +1,18 @@
+{
+    "name": "Minecart (TNT)",
+    "icon": "minecraft:tnt_minecart",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:tnt_minecart",
+            "text": "$(li)Minecart with TNT are a new variant of the common Minecart.$(br)$(li)The TNT contained in the Minecart will detonated if one of the following conditions is met:"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If it moves over a Activator Rail$(br)$(li)If it is destroyed while in motion$(br)$(li)If it is destroyed by fire, lava, or an explosion$(br)$(li)If it is hit by a Fire Charge."
+        }
+             ]
+}

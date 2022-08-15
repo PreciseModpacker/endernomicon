@@ -1,0 +1,23 @@
+{    
+    "name": "Grizzly Bear",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Grizzly Bears are defensive mobs that spawns in Forests Biomes of the Overworld. They will attack players if they get too close or attack them.$(br2)They can be tamed. The player must first feed it a honeycomb by dropping it on the ground. Then the player will have to fed it with a raw salmon, by throwing it on the ground, each salmon the bear consumes has a 30% change to tame."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:grizzly_bear",
+            "scale": 0.7,
+            "text": "These animals can sometimes be seen rummanging throught bee nests to find honeycomb for consumption."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Tamed Grizzly Bears can be made to sit, wander or follow.$(br2)They can be ridden without the need of a Saddle but they are slow and cannot jump.$(br2)Grizzly bears will defend its owner from attackers such as hostile mobs and players, they even can attack while their owner is riding them."
+        }  
+             ]
+}

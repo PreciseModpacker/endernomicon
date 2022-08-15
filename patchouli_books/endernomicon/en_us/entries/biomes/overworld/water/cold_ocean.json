@@ -1,0 +1,29 @@
+{    
+    "name": "Cold Ocean",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Cold Ocean is a variant of the Ocean biome that can be found in the Overworld.$(br)$(li)The surface of this place is composed mainly by Gravel blocks.$(br)$(li)You can find some water vegetation too, like Seagrass and Kelp Plants."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some aquatic creatures survives in this cold waters, like Orcas, Cachalot Whales, Salmons, Cods and Squids.$(br)$(li)You can search this biome introducing the words $(l)Cold Ocean$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:cold_ocean"
+#        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/cold_ocean.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

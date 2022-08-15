@@ -1,0 +1,18 @@
+{
+    "name": "Target",
+    "icon": "minecraft:target",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:target",
+            "text": "$(li)The Target is a block is that emits a temporary redstone signal to nearby blocks when is hit by an Arrow."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/target.png"
+        }
+             ]
+}

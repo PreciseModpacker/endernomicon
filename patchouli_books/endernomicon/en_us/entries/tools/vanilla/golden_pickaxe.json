@@ -1,0 +1,19 @@
+{    
+    "name": "Pickaxe (Gold)",
+    "icon": "minecraft:golden_pickaxe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_pickaxe",
+            "text": "$(li)The Golden Pickaxe is the worst pickaxe that you can have.$(br)$(li)It can be crafted placing a pair of Gold Ingots and Sticks in a Crafting Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This pickaxe only can mine the same kind of basic blocks than the Wooden Pickaxe and it has even less durabiliy than this last one." 
+        }
+             ]
+}

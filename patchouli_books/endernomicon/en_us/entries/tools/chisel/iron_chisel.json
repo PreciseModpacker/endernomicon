@@ -1,0 +1,27 @@
+{    
+    "name": "Chisel (Iron)",
+    "icon": "chisel:iron_chisel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chisel:iron_chisel",
+            "text": "$(li)The Iron Chisel is a tool that can be used to create new variations of blocks.$(br)$(li)You can left click click on any Chisel compatible block to convert it into a Chiseled version.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you shift left click, the Chiseled block will rollback.$(br)$(li)Just right click it to open a new GUI.$(br)$(li)In this GUI you can place any kind of block.$(br)$(li)If this block is compatible with Chisel, new variants of that block will appear.$(br)$(li)Just click on one of them to transform your blocks into a Chiseled version."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/iron_chisel.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

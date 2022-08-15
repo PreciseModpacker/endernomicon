@@ -1,0 +1,77 @@
+{    
+    "name": "Knockback Resistance",
+    "icon": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Knockback Resistance",
+            "item": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
+            "text": "$(li)Knockback Resistance potions reduces the knockback that you receive from other creatures.$(br)$(li)They can be brewed using a $(l:patchouli:potions/vanilla/strength)Strength Potion$(/l) and a Hair of Bear as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Knockback Resistance",
+            "input": "alexsmobs:bear_fur",
+            "input2": "minecraft:potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Knockback R. Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:long_knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Knockback Resistance II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:strong_knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Knockback R. Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "K. R. Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:long_knockback_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:long_knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Knockback R. Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:strong_knockback_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:strong_knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "K. R. Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:knockback_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "K. R. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_knockback_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_knockback_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "K. R. Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:strong_knockback_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:strong_knockback_resistance'}"
+        }
+             ]
+}

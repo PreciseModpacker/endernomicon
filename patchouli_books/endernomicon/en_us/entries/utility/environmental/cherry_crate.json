@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Cherry)",
+    "icon": "environmental:cherry_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/cherries/cherry_crate",
+            "text": "$(li)The Cherry Crate is a new decorative block.$(br)$(li)It can be used to save Cherries in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

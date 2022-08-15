@@ -1,0 +1,20 @@
+{    
+    "name": "Tarantula Hawk Elytra",
+    "icon": "alexsmobs:tarantula_hawk_elytra",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 35,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:tarantula_hawk_elytra",
+            "text": "$(li)The Tarantula Hawk Elytra is an upgraded version of the common Elytra.$(br)$(li)It gives more armor and durability than this last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Tarantula Hawk Elytra",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"alexsmobs:tarantula_hawk_elytra\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

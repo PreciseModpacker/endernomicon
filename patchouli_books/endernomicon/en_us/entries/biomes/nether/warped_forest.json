@@ -1,0 +1,29 @@
+{    
+    "name": "Warped Forest",
+    "icon": "minecraft:warped_stem",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Warped Forest is green-like biome.$(br)$(li)It can be found in the Nether.$(br)$(li)No hostile creatures can appears in this biome.$(br)$(li)You can find Warped trees, Shroomlights, Warped, Crimson Roots, Warped Fungus and Crimson Fungus here."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some creatures like Warpbeetles and Shroomloins can be found here.$(br)$(li)You can search this biome introducing the words $(l)Warped Forest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:warped_forest"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/warped_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

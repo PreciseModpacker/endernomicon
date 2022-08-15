@@ -1,0 +1,27 @@
+{    
+    "name": "Timbers",
+    "icon": "supplementaries:timber_cross_brace",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It exists three types of Timber Blocks: Frames, Braces and Cross Braces.$(br)$(li)Each of them visually hold any solid block inside. This allows to make every block into a framed one.$(br)$(li)Just right click on a Timber block while you are holding other solid block on your hand.",
+            "link_recipe": "true",
+            "title": "Timbers"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Frame_blocks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:timber_frame"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:timber_brace",
+            "recipe2":"supplementaries:timber_cross_brace"
+        }
+             ]
+}

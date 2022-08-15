@@ -1,0 +1,17 @@
+{    
+    "name": "Illager Mine",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illagers Mines are used by the Illagers to get all the minerals that they need.$(br)$(li)They like to get all this stuff fast, that explains all the TNT that you can found in this place.$(br)$(li)Be careful, the Pillagers and the Miners will not hesistate to attack you to defend their resources."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illager Mine can be found in the Desert, Mesa, Mushroom Forest and Savanna biomes."
+        }
+             ]
+}

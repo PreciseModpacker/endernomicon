@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Ender Pearl)",
+    "icon": "charm:ender_pearl_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:block_of_ender_pearls/ender_pearl_block",
+            "text": "$(li)Ender Pearl Block is a new decorative block.$(br)$(li)It can be used to save Ender Pearls in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

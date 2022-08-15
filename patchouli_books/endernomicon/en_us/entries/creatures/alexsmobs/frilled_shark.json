@@ -1,0 +1,23 @@
+{    
+    "name": "Frilled Shark",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Frilled Shark are small neutral sharks that appers at the bottom of deep oceans and feeds on Squid and Blobfish.$(br2)Don't stay close of them or they will attack you, inflicting Exsanguination effect, doing you an extra damage.$(br2)When left alone, they lure Squid with the shine of their teeth."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:frilled_shark",
+            "scale": 0.5,
+            "text": "When attacking prey, they may to throw out a Serrated Shark Tooth. It can be use to craft a Shield of The Deep."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:shield_of_the_deep"
+        }
+             ]
+}

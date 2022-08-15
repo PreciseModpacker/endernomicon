@@ -1,0 +1,90 @@
+{    
+    "name": "Sign (Hanging)",
+    "icon": "supplementaries:hanging_sign_oak",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:hanging_sign_oak",
+            "text": "The Hanging Sign is a decorative item that comes in all wood types.$(br2)The Hanging Sign can be placed under or on the side of a block, fence or wall.$(br2)You can write text on them by right-cliking the sign with an empty hand."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can right-click any item onto the sign to display it too.$(br2)The block can also display maps as well as banner patterns.$(br2)Hanging signs are animated and will swing back and forth when an entity collides with it, providing a bit of a realistic touch to the mod."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Hanging Sign"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_bamboo",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_oak"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_birch",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_rosewood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_brown_mushroom",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_poise"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_river",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_cherry_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_grimwood",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_spruce"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_maple_aut",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_glowshroom"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_red_mushroom",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_dark_oak"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_morado",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_kousa"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_yucca",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_willow_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_acacia",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_twisted"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_jungle",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_wisteria_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_cypress_bb",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_crimson"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_warped",
+            "recipe2":"supplementaries:hanging_signs/hanging_sign_driftwood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:hanging_signs/hanging_sign_aspen_atm"
+        }
+             ]
+}

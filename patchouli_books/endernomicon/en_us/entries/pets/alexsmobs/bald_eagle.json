@@ -1,0 +1,19 @@
+{    
+    "name": "Bald Eagle",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Bad Eagles are flying criatures that it can be found in mountain biomes.$(br2)You can tame this creatures, for that you will need to feed them with $(l:patchouli:mobs/alexsmobs/blobfish)Fish Oil$(/l).$(br2)Like other tameable creatures they can be commanded to follow, stay and wander, but, they can also be used for falconry with the $(l:patchouli:tools/alexsmobs/falconry_glove)Falconry Glove$(/l) and the $(l:patchouli:tools/alexsmobs/falconry_hood)Falconry Hood$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:bald_eagle",
+            "scale": 0.65,
+            "text": "A tamed eagle can be healed with any fish. Bald Eagles can be bred with rotten flesh."
+        }
+             ]
+}

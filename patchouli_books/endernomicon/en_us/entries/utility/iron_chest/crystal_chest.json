@@ -1,0 +1,36 @@
+{    
+    "name": "Chest (Crystal)",
+    "icon": "ironchest:crystal_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ironchest:chests/diamond_crystal_chest",
+            "text": "$(li)The Crystal Chest is a upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l).$(br)$(li)They have the same capacity of the Diamond Chests, 108 slots, but Crystal Chests allows the visualization of stored items.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"ironchest:upgrades/diamond_to_crystal_chest_upgrade",
+            "text": "$(li)A Diamond Chest can be upgraded to a Crystal Chest.$(br)$(li)Just right click it while you have one Diamond to Crystal Chest Upgrade on your hand.",
+            "title": "Crystal Chest Upgrade"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crystal_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crystal_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

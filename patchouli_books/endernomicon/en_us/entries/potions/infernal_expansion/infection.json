@@ -1,0 +1,122 @@
+{    
+    "name": "Infection",
+    "icon": "minecraft:potion{Potion:'infernalexp:infection'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'infernalexp:infection'}",
+            "text": "$(li)Infection potions will hurt any creature for a few seconds.$(br)$(li)If other creature is close of a infected creature, this one will received the Infection effect too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be brewed using an Ascus Bomb and a Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Infection",
+            "input": "infernalexp:ascus_bomb",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'infernalexp:infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:potion{Potion:'infernalexp:long_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:potion{Potion:'infernalexp:strong_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash",
+            "input": "infernalexp:ascus_bomb",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:long_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'infernalexp:long_infection'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:long_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:strong_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'infernalexp:strong_infection'}",
+            "output": "minecraft:splash_potion{Potion:'infernalexp:strong_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering",
+            "input": "infernalexp:ascus_bomb",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:long_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'infernalexp:long_infection'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:long_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'infernalexp:infection'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:strong_infection'}"
+        },
+        {
+            "type": "potion",
+            "title": "Infection Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'infernalexp:strong_infection'}",
+            "output": "minecraft:lingering_potion{Potion:'infernalexp:strong_infection'}"
+        }
+             ]
+}

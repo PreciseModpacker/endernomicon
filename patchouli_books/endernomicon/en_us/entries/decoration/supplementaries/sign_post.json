@@ -1,0 +1,86 @@
+{    
+    "name": "Sign (Post)",
+    "icon": "supplementaries:sign_post_oak",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:sign_post_oak",
+            "text": "The Sign Post can be place on any fence block.$(br2)They are like a normal Sign, and you can shift right-click to reverse it's orientation.$(br2)If you ise a Compass on them, they point towards wherever the compass directs to, so it works for spawn points and lodestones."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Sign Post"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_bamboo",
+            "recipe2":"supplementaries:sign_posts/sign_post_oak"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_birch",
+            "recipe2":"supplementaries:sign_posts/sign_post_rosewood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_brown_mushroom",
+            "recipe2":"supplementaries:sign_posts/sign_post_poise"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_river",
+            "recipe2":"supplementaries:sign_posts/sign_post_cherry_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_grimwood",
+            "recipe2":"supplementaries:sign_posts/sign_post_spruce"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_maple_aut",
+            "recipe2":"supplementaries:sign_posts/sign_post_glowshroom"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_red_mushroom",
+            "recipe2":"supplementaries:sign_posts/sign_post_dark_oak"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_morado",
+            "recipe2":"supplementaries:sign_posts/sign_post_kousa"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_yucca",
+            "recipe2":"supplementaries:sign_posts/sign_post_willow_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_acacia",
+            "recipe2":"supplementaries:sign_posts/sign_post_twisted"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_jungle",
+            "recipe2":"supplementaries:sign_posts/sign_post_wisteria_env"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_cypress_bb",
+            "recipe2":"supplementaries:sign_posts/sign_post_crimson"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_warped",
+            "recipe2":"supplementaries:sign_posts/sign_post_driftwood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sign_posts/sign_post_aspen_atm"
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Garch",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:garch",
+            "scale": 1,
+            "text": "Garch are speedy creatures that will attack you with their bows. On death the may drop Iron Nuggets and Arrows."
+        }
+             ]
+}

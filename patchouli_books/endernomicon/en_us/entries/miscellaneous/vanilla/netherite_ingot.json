@@ -1,0 +1,31 @@
+{    
+    "name": "Netherite Ingot",
+    "icon": "minecraft:netherite_ingot",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_ingot",
+            "text": "$(li)Netherite ingots are hard processed ingots that can be crafted with Gold Ingots and Netherite Scrap in a Crafting Table.$(br)$(li)They can be found rarely in Loot Chests of the Nether too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:netherite_nuggets/netherite_ingot_from_nuggets",
+            "text": "$(li)Netherite Ingots can be used to craft Netherite Nuggets and viceversa.$(br)$(li)They can be used to craft multiple items in a Crafting Table or Smithing Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "text",
+            "title": "Armors & Weapons",
+            "text": "$(br)$(l)        Armors$()$(br)$(li)Netherite Armor$(li)Netherite Shield$(li)Netherite Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Netherite Axe$(li)Netherite Sword"
+        },
+        {
+            "type": "text",
+            "title": "Tools & Utility",
+            "text": "$(br)$(l)        Tools$()$(br)$(li)Dimensional Carver$(li)Flamarang$(li)Netherite Hoe$(li)Netherite Pickaxe$(li)Netherite Shovel$(li)Straddleboard$(br2)$(l)        Utility$()$(br)$(li)Block of Netherite$(li)Lodestone$(li)Safe"
+        }
+             ]
+}

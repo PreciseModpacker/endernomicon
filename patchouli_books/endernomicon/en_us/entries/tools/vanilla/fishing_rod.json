@@ -1,0 +1,14 @@
+{    
+    "name": "Fishing Rod",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:fishing_rod",
+            "text": "$(li)You can Fishing using a Fishing Rod.$(br)$(li)They can be used to craft a Carrot on a Stick, Collector, Warped fungus on a Stick, Chorus Fruit on a Stick too."
+        }
+             ]
+}

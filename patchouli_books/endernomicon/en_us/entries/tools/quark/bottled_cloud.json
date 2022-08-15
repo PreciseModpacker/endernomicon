@@ -1,0 +1,27 @@
+{    
+    "name": "Bottle (Cloud)",
+    "icon": "quark:bottled_cloud",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:bottled_cloud",
+            "text": "$(li)The Could in a Bottle is interesting item that only can be obtained right clicking while you are holding a Glass Bottle on your hand and you are in a 128 blocks of high.$(br)$(li)You can create temporary invisible blocks that have approximately 8 seconds of duration until it dissapears.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You only have to right click while you are holding a Cloud in a Bottle in your hand to summon this block."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/bottle_cloud.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

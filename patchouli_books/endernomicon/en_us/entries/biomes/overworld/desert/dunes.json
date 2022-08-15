@@ -1,0 +1,29 @@
+{    
+    "name": "Dunes",
+    "icon": "minecraft:sand",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Dunes is a dry biome composed mainly of Arid Sand and Red Sand.$(br)$(li)It can be found in the Overworld.$(br)$(li)Even being a desert place without much life, you can find some vegetation like Yuccas Trees, Aloe Vera plants and Cactus."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)There are even animals that can withstand these harsh conditions, like the Roadrunner, Rattlesnake, Fly, Emu, Kangaroo and even the Tarantula Hawk.$(br)$(li)On the nights Hushes will be around the Dunes too.$(br)$(li)You can search this biome introducing the word $(l)Dunes$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)atmospheric:dunes,atmospheric:dunes_hills,atmospheric:flourishing_dunes,atmospheric:petrified_dunes,atmospheric:rocky_dunes,atmospheric:rocky_dunes_hills,mirabilis:dead_dunes,mirabilis:lush_dune"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/dunes.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

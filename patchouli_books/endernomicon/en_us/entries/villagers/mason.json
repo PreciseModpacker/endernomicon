@@ -1,0 +1,19 @@
+{    
+    "name": "Mason",
+    "icon": "minecraft:bricks",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Mason is an excellent builder.$(br)$(li)It will trade you Bricks, Stone, Diorite, Andersite, Terracota and Quartz BLocks. A Master Mason will exchange you the Architect's Belt.$(br)$(li)A Villager can get the Mason profession if is near of a Stonecutter."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:mason',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

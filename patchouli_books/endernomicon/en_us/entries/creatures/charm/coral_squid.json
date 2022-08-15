@@ -1,0 +1,19 @@
+{    
+    "name": "Coral Squid",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Coral Squid are a type of cephalopods that likes to hang out around coral in warm ocean biomes.$(br2) They have 5 different colors $(li)Yellow $(li)Red $(li)Pink $(li)Purple $(li)Blue $(br2) On death they may drop the corresponding coral color."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "charm:coral_squid",
+            "scale": 1,
+            "offset": -0.6
+        }
+             ]
+}

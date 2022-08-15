@@ -1,0 +1,21 @@
+{    
+    "name": "Gunwpoder",
+    "icon": "minecraft:gunpowder",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:gunpowder",
+            "text": "$(li)The Gunpowder is a item that can be used to craft Gunpowder Blocks, Gunpowder Sacks, Fire Charges, Splash Potion Bottles, Spring Launcher and TNT.$(br)$(li)They can be used to convert a Potion into a Splash Potion too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Gunpowder can be obtained as a loot in the Dungeons, Desert Temples, Woodland Mansions and Shipwreck Supply chests.$(br)$(li)They can be dropped by Creppers, Ghasts, Gooms, Griefers and Witchs.",
+            "link_recipe": "true"
+        }
+
+             ]
+}

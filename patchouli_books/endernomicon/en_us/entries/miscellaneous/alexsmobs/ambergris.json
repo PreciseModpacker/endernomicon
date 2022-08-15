@@ -1,0 +1,15 @@
+{    
+    "name": "Ambergris",
+    "icon": "alexsmobs:ambergris",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:ambergris",
+            "text": "$(li)The Ambergris can be used as a fuel to burn 64 items in a Furnace, Smoker, Blast Furnace, or Kiln. It can be used to craft a Echolocator too.$(br)$(li)It can be obtained trading it with a Fisherman or pushing back into the water a Cachalot Whale that is out of the water.",
+            "link_recipe": "true"
+        }
+             ]
+}

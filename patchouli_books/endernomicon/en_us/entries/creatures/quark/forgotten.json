@@ -1,0 +1,18 @@
+{    
+    "name": "Forgotten",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Forgotten are new variation of skeleton that can be found in deep underground.$(br2)Their bows are tipped with Blindness arrows, and when you're blinded, they'll charge at you with their sword, switching back to the bow once the effect ends.$(br2)On death they may drop an $(l:patchouli:armors/forgotten_hat)Forgotten Hat$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:forgotten",
+            "scale": 1
+        }
+             ]
+}

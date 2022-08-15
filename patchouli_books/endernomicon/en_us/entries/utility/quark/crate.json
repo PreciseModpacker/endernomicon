@@ -1,0 +1,55 @@
+{    
+    "name": "Crate",
+    "icon": "quark:crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:oddities/crafting/crate",
+            "text": "$(li)The Crate is a container like the common Chests which can hold up to 640 items, regardless of stack size.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A full stack of an item will take up 64, but 64 different items will also take up the same amount."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crate_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crate_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:crates/oak_crate",
+            "recipe2": "charm:crates/spruce_crate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:crates/birch_crate",
+            "recipe2": "charm:crates/jungle_crate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:crates/acacia_crate",
+            "recipe2": "charm:crates/dark_oak_crate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:crates/warped_crate",
+            "recipe2": "charm:crates/crimson_crate"
+        }
+             ]
+}

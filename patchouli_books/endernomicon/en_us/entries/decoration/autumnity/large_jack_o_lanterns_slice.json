@@ -1,0 +1,27 @@
+{    
+    "name": "Large Jack o'Lanterns Slice",
+    "icon": "autumnity:large_jack_o_lantern_slice",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:large_jack_o_lantern_slice",
+            "text": "$(li)Large Jack o'Lantern Slice is an alternative of the $(l:patchouli:decoration/autumnity/jack_o_lanterns)Jack o'Lantern$(/l).$(br)$(li)There are different variants of this block and a redstone lantern version too: $(l:patchouli:redstone/autumnity/large_redstone_jack_o_lantern_slice)Redstone Jack o'Lantern$(/l).",
+            "link_recipe": "true",
+            "title": "Large Jack Lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:large_soul_jack_o_lantern_slice",
+            "title": "L. Soul Jack Lantern",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:large_ender_jack_o_lantern_slice",
+            "title": "L. Ender Jack Lantern",
+            "link_recipe": "true"
+        }
+             ]
+}

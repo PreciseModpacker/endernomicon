@@ -1,0 +1,23 @@
+{    
+    "name": "Cave Centipede",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cave centipedes are big and log arthropods with a head mostly of puprple color, along with powerful mandibles while the rest of the body is black, but the antenna and legs are an red color$(br2)They are hostile and strong creatures but they are slow too. Don't let it bite you! Or you will be afflicted by a powerfull Posion II for 10 seconds"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:centipede_head",
+            "scale": 0.7,
+            "text": "Cave Centipedes target players and $(l:patchouli:creatures/alex_creatures/cockroaches)Cockroach$(/l)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "On death, Cave Centipedes can drop of their legs.$(br2)It can be used with Komodo Dragon Spit or Poisonous Essence to create a $(l:patchouli:potions/alexsmobs/poison_resistance)Potion of Poison Resistance$(/l).$(br2)You can use it to create the $(l:patchouli:armors/cave_centipede_leggings)Cave Centipede Leggings$(/l) too that grant the ability to climb blocks."
+        }
+             ]
+}

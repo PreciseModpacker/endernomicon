@@ -1,0 +1,15 @@
+{    
+    "name": "Pressure Plate (Gold)",
+    "icon": "minecraft:light_weighted_pressure_plate",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_weighted_pressure_plate",
+            "text": "$(li)Light Weighted Pressure Plates can detect any creature, player, or item that is placed on them.$(br)$(li)When this happens, it emits a very weak redstone signal to near blocks.",
+            "link_recipe": "true"
+        }
+             ]
+}

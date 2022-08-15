@@ -1,0 +1,19 @@
+{    
+    "name": "Dimension Compass",
+    "icon": "inspirations:dimension_compass",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/dimension_compass",
+            "text": "$(li)The Dimension Compass is an alternative of the Compass.$(br)$(li)It always points to the exit of the dimension.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)For example, in the Nether dimension, the Dimension Compass will be always pointing to the Nether Portal."
+        }
+             ]
+}

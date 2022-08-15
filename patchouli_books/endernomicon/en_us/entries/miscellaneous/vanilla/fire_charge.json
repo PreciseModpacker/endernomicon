@@ -1,0 +1,20 @@
+{    
+    "name": "Fire Charge",
+    "icon": "minecraft:fire_charge",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:fire_charge",
+            "text": "$(li)The Fire Charge is a item that can be used to generate fire.$(br)$(li)Just right click while you are holding the Fire Charge and you are pointing towards a near surface.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be crafted placing Coal or Charcoal, Blaze Powder and Gunpowder in a Crafting Table.$(br)$(li)You can craft Torchs, Braziers, Charred Nether Bricks and Campfires with this item.",
+            "link_recipe": "true"
+        }
+             ]
+}

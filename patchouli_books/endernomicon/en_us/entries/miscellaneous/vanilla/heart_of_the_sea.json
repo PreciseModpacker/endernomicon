@@ -1,0 +1,15 @@
+{    
+    "name": "Heart of the Sea",
+    "icon": "minecraft:heart_of_the_sea",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:heart_of_the_sea",
+            "text": "$(li)The Heart of the Sea is a very rare item that can be only found in Buried Treasures.$(br)$(li)It can be used to craft a Conduit, Tridents, or a Shield Of The Deep.",
+            "link_recipe": "true"
+        }
+             ]
+}

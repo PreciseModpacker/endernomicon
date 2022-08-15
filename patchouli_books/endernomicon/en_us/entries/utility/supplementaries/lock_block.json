@@ -1,0 +1,27 @@
+{    
+    "name": "Lock Block",
+    "icon": "supplementaries:lock_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:lock_block",
+            "text": "$(li)The Lock Block can be bound with a $(l:patchouli:tools/supplementaries/key)Key$(/l).$(br)$(li)To bind it, just right click a Lock Block while you are holding the Key in your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Then, if you right click on the Lock Block while you are holding the correct Key in your inventory, this one will emit a redstone pulse of nearby utility."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/lock_block.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

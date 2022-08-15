@@ -1,0 +1,56 @@
+{ 
+    "name": "Bug Pheromones",
+    "icon": "minecraft:potion{Potion:'alexsmobs:bug_pheromones'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'alexsmobs:bug_pheromones'}",
+            "title": "Bug Pheromones",
+            "text": "$(li)Bug Pheromones potions make all hostile Arthropods like Spiders, Cave Centipedes or other creatures neutral.$(br)$(li)They can be brewed using a Cockroach Wing and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Bug Pheromones",
+            "input": "alexsmobs:cockroach_wing",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:bug_pheromones'}"
+        },
+        {
+            "type": "potion",
+            "title": "Bug P. Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'alexsmobs:bug_pheromones'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:long_bug_pheromones'}"
+        },
+        {
+            "type": "potion",
+            "title": "Bug Pheromones Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:bug_pheromones'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:bug_pheromones'}"
+        },
+        {
+            "type": "potion",
+            "title": "Bug P. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:long_bug_pheromones'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:long_bug_pheromones'}"
+        },
+        {
+            "type": "potion",
+            "title": "Bug P. Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:bug_pheromones'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:bug_pheromones'}"
+        },
+        {
+            "type": "potion",
+            "title": "Bug P. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_bug_pheromones'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_bug_pheromones'}"
+        }
+             ]
+}

@@ -1,0 +1,24 @@
+{    
+    "name": "Flax",
+    "icon": "supplementaries:flax",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:wild_flax",
+            "text": "$(li)Flax can spawn near of the water in Desert Biomes.$(br)$(li)Like other crops, when you harvest the Wild Flax left clicking on it you will receive Flax Seeds and Flax.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:flax",
+            "text": "Flax can be used to craft multiple items in a Crafing Table.$(br)$(li)$(l:patchouli:blocks/supplementaries/flax_block)Flax Bale$(/l)$(li)$(l:patchouli:tools/supplementaries/rope)Rope$(/l)$(li)$(l:patchouli:blocks/supplementaries/sack)Sack$(/l)$(li)$(l:patchouli:pets/supplementaries/doormat)Doormat$(/l)$(li)String",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Wild Flax"
+        }
+             ]
+}

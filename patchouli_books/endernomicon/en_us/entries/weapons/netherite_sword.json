@@ -1,0 +1,23 @@
+{    
+    "name": "Sword (Netherite)",
+    "icon": "minecraft:netherite_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_sword",
+            "text": "$(li)The Netherite Sword is the direct upgrade of the Diamond Sword.$(br)$(li)This one inflicts more damage and has more durability than the Diamond Sword." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:netherite_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "This item can't be burned."
+        }
+
+             ]
+}

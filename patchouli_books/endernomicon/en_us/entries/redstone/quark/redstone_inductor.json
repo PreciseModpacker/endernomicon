@@ -1,0 +1,23 @@
+{    
+    "name": "Redstone Inductor",
+    "icon": "quark:redstone_inductor",
+    "category": "patchouli:redstone",
+    "sortnum": 2,
+    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:redstone_inductor",
+            "text": "The Redstone Inductor is a new redstone circuit piece. The output value of the inductor is the sum of all 3 input sides.$(br2)The inductor may also be locked by having a repeater or a comparator pointing it.$(br2)While locked, it will  maintain it's output value regardless of any changes on the sides.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Redstone Inductor dropping items"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/redstone_inductor"
+        }
+             ]
+}

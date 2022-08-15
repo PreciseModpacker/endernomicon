@@ -1,0 +1,24 @@
+{    
+    "name": "Architect's Belt",
+    "icon": "environmental:architect_belt",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 30,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "name": "Architect's Belt",
+            "item": "environmental:architect_belt",
+            "text": "$(li)Architect's Belt increases your reach distance when you place or break blocks.$(br)$(li)This Architect Belt effect can be upgrade placing blocks until the item level up.$(br)$(li)It can only be traded by the Mason, Ceramist and Carpenter villagers.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"environmental:architect_belt\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Reach Distance Levels$()$(br)$(li)Level 1 Reach Distance +1$(br)   0/100 - Blocks Placed$(br)$(li)Level 2 Reach Distance +2$(br)   100/500 - Blocks Placed$(br)$(li)Level 3 Reach Distance +3$(br)   500/1000 - Blocks Placed$(br)$(li)Level 4 Reach Distance +4$(br)   1000/2500 - Blocks Placed$(br)$(li)Level 5 Reach Distance +5$(br)   2500/2500 - Blocks Placed"
+        }
+             ]
+}

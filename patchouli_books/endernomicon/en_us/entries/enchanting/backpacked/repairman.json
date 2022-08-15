@@ -1,0 +1,14 @@
+{    
+    "name": "Repairman",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:repairman',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:repairman',lvl:1}]}",
+            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:tools/backpacked/backpack)Backpack$(/l).$(br)$(li)If you enchant your Backpack with the Repairman enchantment your items with Mending enchantment applied will be repair when you collect experience.",
+            "title": "Repairman"
+        }
+             ]
+}

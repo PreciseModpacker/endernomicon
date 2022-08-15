@@ -1,0 +1,15 @@
+{    
+    "name": "Fluoshroom",
+    "icon": "extcaves:mushroom_fluoshroom",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "extcaves:mushroom_fluoshroom",
+            "text": "$(li)The Fluoshroom is a eatable item that grows in the deeps of the caves and it works as a light source block.$(br)$(li)It produces nausea when eaten for a few seconds.$(br)$(li)You can use it to craft a Fluorescent Stew in a Crafing Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

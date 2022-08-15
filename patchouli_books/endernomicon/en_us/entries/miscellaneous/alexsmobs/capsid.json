@@ -1,0 +1,19 @@
+{    
+    "name": "Capsid",
+    "icon": "alexsmobs:capsid",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:capsid",
+            "text": "$(li)Capsid can be used .",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Dropbear Claw",
+    "icon": "alexsmobs:dropbear_claw",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:dropbear_claw",
+            "text": "$(li)The Dropbear Claw can be used to craft a Flint and Steel.$(br)$(li)They can be used to brew a Potion of Clinging too.$(br)$(li)They can only be dropped by Dropbears.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Wolf Armor (Leather)",
+    "icon": "revampedwolf:leather_wolf_armor",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "revampedwolf:leather_wolf_armor",
+            "text": "$(li)The Leather Wolf Armor is the most basic armor that you can equip to your tamed Fox or Foxhound.$(br)$(li)You can craft it placing Leather and Leather Boots in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

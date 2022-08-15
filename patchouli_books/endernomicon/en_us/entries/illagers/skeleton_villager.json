@@ -1,0 +1,18 @@
+{    
+    "name": "Skeleton Villager",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Creepies are the smaller version of the common Creepers.$(br2)They only can be summoned exploding a $(l:patchouli:tools/savage_and_ravage/spore_bomb)Spore Bomb$(/l).$(br2)They appears in groups, 8 for every bomb that you explote."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "savageandravage:skeleton_villager",
+            "scale": 1
+        }
+             ]
+}

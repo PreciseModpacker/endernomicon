@@ -1,0 +1,19 @@
+{    
+    "name": "Slingshot",
+    "icon": "supplementaries:slingshot",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:slingshot",
+            "text": "$(li)Slingshot is a tool which can be used to shoot blocks.$(br)$(li)Shot blocks will place themselves wherever they land if the position is suitable.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A Slingshot can be enchanted with Quick Charge, Multi Shot and $(l:patchouli:enchanted_books/supplementaries/stasis)Stasis$(/l)."
+        }
+             ]
+}

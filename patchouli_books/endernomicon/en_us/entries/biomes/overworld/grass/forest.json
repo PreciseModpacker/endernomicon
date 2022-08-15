@@ -1,0 +1,26 @@
+{    
+    "name": "Forest",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Forest is simple biome with a good variety of different kind of trees.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find mainly Birch trees and Oak trees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Deers, Crows, Raccoons and Wolfs can be found walking around here.$(br)$(li)You can search this biome introducing the word $(l)Forest$() in the search box of the Nature's Compass."
+        },
+#minecraft:forest
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

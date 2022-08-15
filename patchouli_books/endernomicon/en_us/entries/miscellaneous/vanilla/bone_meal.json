@@ -1,0 +1,30 @@
+{    
+    "name": "Bone Meal",
+    "icon": "minecraft:bone_meal",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bone_meal",
+            "text": "$(li)The Bone Meal is a useful dust that can be used to grown any kind of Plant or Sappling. Just right click on them while you are holding the Bone Meal on your hand to use it.$(br)$(li)It can be used to craft Bone Blocks, White Dye and Planters too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:bone_meal",
+            "text": "$(li)The Bone Meal can be crafted using Placing a Bone, Bone Block or Thrasher Tooth in a Crafting Table.$(br)$(li)You can use the Composter to generate Bone Meal."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:bone_meal_from_bone_block",
+            "recipe2": "upgrade_aquatic:bone_meal_from_tooth"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "quark:tweaks/smelting/bone_meal_utility",
+            "text": "$(li)You can obtain Bone Meal Smelting the Bones in a Furnace too$(br)$(li)Finally, Blobfishes, Cods, Kois, Lionfishes, Perchs, Pikes, Pufferfishes, Salmons, or Tropical Fishes may drop this useful item too."
+        }
+             ]
+}

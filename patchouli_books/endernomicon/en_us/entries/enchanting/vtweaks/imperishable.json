@@ -1,0 +1,18 @@
+{    
+    "name": "Imperishable",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:imperishable',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:imperishable',lvl:1}]}",
+            "text": "$(li)The Imperishable enchantment can be applied in a Sword, Pickaxe, Shovel, Axe, Hoe, Shears, Bow, Crossbow, Fishing Rod, Trident, Elytra, Pickarang, Helmet, Chestplate, Leggings and Boots.",
+            "title": "Imperishable"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This enchantment prevents that said equipment from being used when said equipment only has 1 durability left.$(br)$(li)It can be created combining two Umbreaking III books in an Anvil."
+        }
+             ]
+}

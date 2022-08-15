@@ -1,0 +1,19 @@
+{    
+    "name": "Blindsight",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Blindsights are hostile creatures that can be found in Glowstone Canyons.$(br2)They will use their strong legs and tongue to jump and snatch Glowsquitos or you.$(br2)On death the may drop a Blindsight Tongue, you can use it to craft a Fungus & Tongue Stew, that will give to you Jump Boost II for 30 seconds."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "infernalexp:blindsight",
+            "scale": 0.5,
+            "text": "You can use it to craft a Blindsight Tongue Whip too."
+        }
+             ]
+}

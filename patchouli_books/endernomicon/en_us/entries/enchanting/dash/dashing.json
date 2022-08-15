@@ -1,0 +1,14 @@
+{    
+    "name": "Dashing",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'dash:dashing',lvl:1}]}",
+            "text": "$(li)The Dashing enchantment can be applied in a pair of Boots.$(br)$(li)This enchantment allows to you to dash via the key 'R'.$(br)$(li)The Dashing enchantment book only can be obtained in chest loot, fishing, raid drops or trading with Villagers.",
+            "title": "Dashing"
+        }
+             ]
+}

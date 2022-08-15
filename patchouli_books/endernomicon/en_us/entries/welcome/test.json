@@ -1,0 +1,17 @@
+{    
+    "name": "Test",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:enders_journey",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/templates/pictures/test.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

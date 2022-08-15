@@ -1,0 +1,19 @@
+{    
+    "name": "Gold Trapdoor",
+    "icon": "supplementaries:gold_trapdoor",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:gold_trapdoor",
+            "text": "$(li)The Gold Trapdoor by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any player.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/gold_trapdoor.png",
+            "text": "$(li)This means that a powered Gold Trapdoor cannot be oppened or closed regardless of its state."
+        }
+             ]
+}

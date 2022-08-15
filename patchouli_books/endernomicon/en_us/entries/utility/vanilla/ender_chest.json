@@ -1,0 +1,34 @@
+{    
+    "name": "Chest (Ender)",
+    "icon": "minecraft:ender_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:ender_chest",
+            "text": "$(li)The Ender Chest is a a variant of the common Chest.$(br)$(li)It contains an inventory exlusive only for you. If other person try opens it, it will show them own exclusive inventory.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To use the Ender Chest, you need to place it.$(br)$(li)Then, right click on it you can access to a new inventory.$(br)$(li)Once placed, they can only be obtained with a pickaxe with Silk Touch enchant.$(br)$(li)If you try to use a pickaxe that doesn't have this enchant, the Ender Chest will break."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/ender_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/ender_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,14 @@
+{    
+    "name": "Leaping",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
+            "text": "$(li)The Leaping enchantment can be applied in a pair of Boots.$(br)$(li)This enchantment allows to you to double jump.$(br)$(li)The Leaping enchantment book only can be obtained in chest loot, fishing, raid drops or trading with Villagers.",
+            "title": "Leaping"
+        }
+             ]
+}

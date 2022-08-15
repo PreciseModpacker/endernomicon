@@ -1,0 +1,15 @@
+{    
+    "name": "Fish Oil",
+    "icon": "alexsmobs:fish_oil",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:fish_oil",
+            "text": "$(li)You can consume Fish Oil to make you float while you are contact with Water for a minute, that includes Rain too.$(br)$(li)You can use it to craft Copper Lanterns too.",
+            "link_recipe": "true"
+        }
+             ]
+}

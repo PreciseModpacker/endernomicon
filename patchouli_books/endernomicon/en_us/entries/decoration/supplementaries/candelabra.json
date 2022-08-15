@@ -1,0 +1,22 @@
+{    
+    "name": "Gold Candelabra",
+    "icon": "supplementaries:candelabra",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:candelabra",
+            "text": "$(li)The Gold Candelabra is a new kind of light source. $(br)$(li)It can be placed on the floor, wall, or even ceilling.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This block can be turned off with water and splash water bottles and lit up with fire charges, flaming arrows and flint and steel.$(br2)Insert a picture of a Candelabra"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:candelabra"
+        }
+             ]
+}

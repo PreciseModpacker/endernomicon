@@ -1,0 +1,15 @@
+{    
+    "name": "Blood Sac",
+    "icon": "alexsmobs:blood_sac",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:blood_sac",
+            "text": "$(li)The Blood Sac can be used to craft a Blood Sprayer.$(br)$(li)It can only be dropped by a Crimson Mosquito that first has stung a creature filling its blood sac.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Raccoon",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Raccoon are neutral gray small mammals. They are known thief that often steals food out chests and barrel.$(br2)Raccons can be tamed if given a Chicken's Egg near water where them were able to wash the egg. Tamed Raccoons can be made to sit, follow, wander.$(br)They can be given carpets and will gain bandanas dependind of the color of carpet used."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:raccoon",
+            "scale": 0.5,
+            "text": "They will plifer items from villagers and wandersing traders. Those items will appear in the Raccoon's mouth."
+        }
+             ]
+}

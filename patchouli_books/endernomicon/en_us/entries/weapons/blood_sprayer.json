@@ -1,0 +1,21 @@
+{    
+    "name": "Blood sprayer",
+    "icon": "alexsmobs:blood_sprayer",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:blood_sprayer",
+            "text": "$(li)The Blood Sprayer is a powerful short-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these inflicts 2 hearts of damage.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Blood Sprayer",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:blood_sprayer\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

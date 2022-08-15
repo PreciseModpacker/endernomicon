@@ -1,0 +1,29 @@
+{    
+    "name": "Marsh",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Marsh is a biome composed mostly by Water, Clay and Mud.$(br)$(li)In this wet place you can find some water vegetation, like Lilypads, Seagrass, Duckweed, and Tall Cattail.$(br)$(li)Some aquatic animals like Perchs, Pikes, Slabfishs and Squids can be found here too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the word $(l)Marsh$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)environmental:marsh,environmental:mushroom_marsh"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/marsh.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

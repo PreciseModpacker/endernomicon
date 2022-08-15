@@ -1,0 +1,129 @@
+{    
+    "name": "Poison",
+    "icon": "minecraft:potion{Potion:'minecraft:poison'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:poison'}",
+            "text": "$(li)Poison potions causes damage over time until the life arrives the one half of heart.$(br)$(li)Level I inflicts 18 Hearts in 45 seconds.$(br)$(li)The Extended Poison inflicts 36 hearts of damage during 1 minute and half."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The level II inflicts 19 hearts in 21.6 seconds.$(br)$(li)They can be brewed using Spider Eye and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Poison",
+            "input": "minecraft:spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Splash",
+            "input": "quark:golden_frog_leg",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Splash",
+            "input": "minecraft:spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "P. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "P. Splash Extented",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Lingering",
+            "input": "minecraft:spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "P. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "P. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_poison'}"
+        },
+        {
+            "type": "potion",
+            "title": "Poison Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_poison'}"
+        }
+             ]
+}

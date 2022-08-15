@@ -1,0 +1,18 @@
+{    
+    "name": "Furantur",
+    "icon": "extcaves:iron_dagger",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Furantur is an expert thief.$(br)$(li)If the Furantur hits you it will steal all your active potion effects.$(br)$(li)On death they may drop Wood Swords and Glass Bottles."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:furantur",
+            "scale": 1
+        }
+             ]
+}

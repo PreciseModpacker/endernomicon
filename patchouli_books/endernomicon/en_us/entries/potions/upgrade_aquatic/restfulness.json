@@ -1,0 +1,83 @@
+{    
+    "name": "Restfulness",
+    "icon": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
+            "text": "$(li)Restfulness potions can be used to transform a $(l:patchouli:mobs/upgrade_aquatic/flare)Flare$(/l) in a Phantom.$(br)$(li)They can be used to kill Phantoms too.$(br)$(li)They can be brewed using Cocoa Beans and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness",
+            "input": "minecraft:cocoa_beans",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:restfulness_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Splash",
+            "input": "minecraft:cocoa_beans",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:restfulness_strong'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Lingering",
+            "input": "minecraft:cocoa_beans",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:restfulness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:restfulness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:restfulness'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:restfulness_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Restfulness Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:restfulness_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:restfulness_strong'}"
+        }
+             ]
+}

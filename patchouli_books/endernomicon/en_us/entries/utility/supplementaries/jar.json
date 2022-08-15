@@ -1,0 +1,45 @@
+{    
+    "name": "Jar",
+    "icon": "supplementaries:jar",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:jar",
+            "text": "$(li)A normal Jar can store 4 Buckets, 12 Bottles, or 6 Bowls of any fluid, including honey, milk, potions, soups, stews, dragon breath, and XP from bottle-o-enchanting.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Jars can also store Cookies and Candies.$(br)$(li)They can be used to capture small mobs, like fishes or fireflies."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jars_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:jar_tinted",
+            "text": "$(li)A Tinted Jar works like the normal Jars.$(br)$(li)They can capture more mobs including hostile ones, like Vexes, Slimes and Endermites.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jars_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

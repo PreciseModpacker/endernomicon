@@ -1,0 +1,23 @@
+{    
+    "name": "Nugget (Gold)",
+    "icon": "minecraft:gold_nugget",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gold_nugget",
+            "text": "$(li)The Gold Nugget is a shiny part of the Gold Ingot that can be crafted placing a Gold Ingot in a Crafting Table.$(br)$(li)You can obtain it Smelting Gold Armors, Weapons and Tools in a Furnace or Blast Furnace.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item can be used in multiple crafts in a Crafting Table.$(br)$(li)Gold Lanterns$(li)Gilded Blackstone$(li)Glistering Melon Slice$(li)Gold Ingot$(li)Golden Carrot$(li)Key$(li)Golden Pet Bandage$(li)Gold Gate$(li)Gold Chain$(li)Golden Frog Leg"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some mobs like Rotten Burning Piglins, Volines and Zombified Piglins may drops it too.$(br)$(li)You can trade Gold Nuggets with the Piglins, just drop it in front of them."
+        }
+             ]
+}

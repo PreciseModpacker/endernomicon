@@ -1,0 +1,22 @@
+{    
+    "name": "Water Potion (Splash)",
+    "icon": "minecraft:splash_potion{Potion:'minecraft:water'}",
+    "category": "patchouli:potions",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:splash_potion{Potion:'minecraft:water'}",
+            "text": "$(li)Splash Water Bottles contains water in their interior.$(br)$(li)They can be used to brew a Splash Awkard Potion and Splash Potion of Weakness in a Brewing Stand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "potion",
+            "title": "Splash Water Potion",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:water'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:water'}"
+        }
+             ]
+}

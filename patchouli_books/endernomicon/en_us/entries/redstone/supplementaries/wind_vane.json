@@ -1,0 +1,20 @@
+{    
+    "name": "Wind Vane",
+    "icon": "supplementaries:wind_vane",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:wind_vane",
+            "text": "$(li)The Wind Vane is a block able to detect changes in the weather.$(br)$(li)The swing of the wind_vane will change dependinf of the weather and it will emit a redstone signal.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/wind_wane.png",
+            "text": "$(li)It will emit a redstone signal when is raining of storming."
+        }
+             ]
+}

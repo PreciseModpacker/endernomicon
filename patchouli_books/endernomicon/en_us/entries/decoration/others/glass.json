@@ -1,0 +1,270 @@
+{    
+    "name": "Glass Blocks",
+    "icon": "minecraft:glass",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/clear_glass",
+            "text": "$(li)The Glass blocks are transparent decorative blocks.$(br)$(li)They can be dyed.$(br)$(li)The Glass Blocks can be crafted placing Glass Shards in a Crafting Table.",
+            "link_recipe": "true",
+            "title": "Glass Blocks"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Glass Blocks"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:glass",
+            "recipe2": "quark:tweaks/smelting/clean_glass",
+            "text": "$(li)The Glass Blocks can be smelted placing any kind of Sand or a Dirty Glass in a Furnace too."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "infernalexp:smelting/glass",
+            "text": "$(li)The Glass Blocks can be smelted placing a Basalt Silt in a Furnace too."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/white_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/white",
+            "title": "White S. Glass"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:white_stained_glass",
+            "title": "White S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/orange_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/orange",
+            "title": "Orange S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:orange_stained_glass",
+            "title": "Orange S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/magenta_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/magenta",
+            "title": "Magenta S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:magenta_stained_glass",
+            "title": "Magenta S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/light_blue_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/light_blue",
+            "title": "Light Blue S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_blue_stained_glass",
+            "title": "Light Blue S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/yellow_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/yellow",
+            "title": "Yellow S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:yellow_stained_glass",
+            "title": "Yellow S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/lime_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/lime",
+            "title": "Lime S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lime_stained_glass",
+            "title": "Lime S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/pink_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/pink",
+            "title": "Pink S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:pink_stained_glass",
+            "title": "Pink S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/gray_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/gray",
+            "title": "Gray S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gray_stained_glass",
+            "title": "Gray S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/light_gray_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/light_gray",
+            "title": "Light Gray S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_gray_stained_glass",
+            "title": "Light Gray S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/cyan_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/cyan",
+            "title": "Cyan S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cyan_stained_glass",
+            "title": "Cyan S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/purple_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/purple",
+            "title": "Purple S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:purple_stained_glass",
+            "title": "Purple S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/blue_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/blue",
+            "title": "Blue S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blue_stained_glass",
+            "title": "Blue S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/brown_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/brown",
+            "title": "Brown S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brown_stained_glass",
+            "title": "Brown S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/green_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/green",
+            "title": "Green S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_stained_glass",
+            "title": "Green S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/red_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/red",
+            "title": "Red S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_stained_glass",
+            "title": "Red S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/black_glass",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass/black",
+            "title": "Black S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:black_stained_glass",
+            "title": "Black S. Glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/dirty_glass",
+            "text": "$(li)The Dirty Glass is a variant of the common Glass Blocks, that, as its name says, its dirty, so you will not be able to see too much through them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/framed_glass",
+            "text": "$(li)The Framed Glass are a good alternative of the common Glass Blocks for your constructions and decorations.",
+            "link_recipe": "false"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/white_framed_glass",
+            "recipe2": "quark:building/crafting/glass/orange_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/magenta_framed_glass",
+            "recipe2": "quark:building/crafting/glass/light_blue_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/yellow_framed_glass",
+            "recipe2": "quark:building/crafting/glass/lime_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/pink_framed_glass",
+            "recipe2": "quark:building/crafting/glass/gray_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/light_gray_framed_glass",
+            "recipe2": "quark:building/crafting/glass/cyan_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/purple_framed_glass",
+            "recipe2": "quark:building/crafting/glass/blue_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/brown_framed_glass",
+            "recipe2": "quark:building/crafting/glass/green_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/glass/red_framed_glass",
+            "recipe2": "quark:building/crafting/glass/black_framed_glass"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/quartz_glass",
+            "text": "$(li)The Quartz Glass is just the Quartz version of the common Glass Blocks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "infernalexp:smelting/glow_glass",
+            "text": "$(li)The Glow Glass is the only Glass Block that is a source light too.$(br)$(li)It can be smelted placing a Shimmer Sand inside of a Furnace.",
+            "link_recipe": "true"
+        }
+             ]
+}

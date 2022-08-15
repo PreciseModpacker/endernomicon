@@ -1,0 +1,15 @@
+{    
+    "name": "Fermented Spider eye",
+    "icon": "minecraft:fermented_spider_eye",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:fermented_spider_eye",
+            "text": "$(li)The Fermented Spider Eye is an item that can be used to brew a Potion of Weakness in a Brewing Stand.$(br)$(li)It can be used to craft Magic Beans in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

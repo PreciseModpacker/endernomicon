@@ -1,0 +1,15 @@
+{    
+    "name": "Chef Knife",
+    "icon": "extcaves:chef_knife",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "extcaves:chef_knife",
+            "text": "$(li)The Chef Knife is sharpness weapon which is as strong as a Iron Sword but is a little more faster than this last one.$(br)$(li)This weapon can't be crafted, it can only find it in naturally generated chests inside of Mineshafts and Dungeons.",
+            "link_recipe": "true"
+        }
+             ]
+}

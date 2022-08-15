@@ -1,0 +1,22 @@
+{    
+    "name": "Sword (Gold)",
+    "icon": "minecraft:golden_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_sword",
+            "text": "$(li)The Gold Sword is the worst Sword that you can craft.$(br)$(li)This one has even less durability than a Wooden Sword and the same damage than this last one." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Golden Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:golden_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Cocoa Beans",
+    "icon": "minecraft:cocoa_beans",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:cocoa_beans",
+            "text": "$(li)Cocoa Beans can be plant in a Jungle Log to generate more Cocoa Beans.$(br)$(li)You can use Cocoa Beans to craft Chocolate Bars, Cocoa Bean Stacks, Brown Dye, Seed Pouch, or Cookies in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use this item as an ingredient to brew a Potion of Restfulness in a Brewing Stand."
+        }
+             ]
+}

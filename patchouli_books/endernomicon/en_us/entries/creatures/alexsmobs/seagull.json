@@ -1,0 +1,18 @@
+{    
+    "name": "Seagull",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Seagulls are white birds they will not hesitate to steal food laying on the ground or from the player directly.$(br2)Anyway, the Seagulls have a useful purpose for you. If you have a buried treasure map in your offhand slot and give it a Lobster Tail, It will fly towards the spot the chest is buried and stand/sit directly above it."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:seagull",
+            "scale": 0.6
+        }
+             ]
+}

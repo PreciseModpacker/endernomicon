@@ -1,0 +1,19 @@
+{    
+    "name": "Cave Root",
+    "icon": "quark:root_item",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:root_item",
+            "text": "$(li)Cave Root is a basic food that can be found like roots inside of the caves.$(br)$(li)You can use it like a ingredient to brew a Potion of Fortitude.$(br)$(li)You can feed a Toretoise Cave with Roots to regenerate its ores too. ",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of the Soul Bead"
+        }
+             ]
+}

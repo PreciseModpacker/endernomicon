@@ -1,0 +1,21 @@
+{    
+    "name": "Bow",
+    "icon": "minecraft:bow",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bow",
+            "text": "$(li)Bow let you fire Arrows that you must have in your inventory.$(br)$(li)First keep press right click while you are holding the Bow in your hand.$(br)$(li)Once charged, just release right click to fire the arrow.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Bow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:bow,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

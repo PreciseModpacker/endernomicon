@@ -1,0 +1,28 @@
+{    
+    "name": "Cactus Armor",
+    "icon": "extraarmor:cactus_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Cactus Armor is a quiet better than $(l:patchouli:armors/wood_armor)Wood Armor$(/l), Leather Armor and $(l:patchouli:armors/snow_armor)Snow Armor$(/l)$(br)$(li)If you wear the complete set, you will get the Thorns I effect.$(br)$(li)This effect cause damage to any creature that attacks you."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Cactus Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:cactus_boots\",Count:1},{id:\"extraarmor:cactus_leggings\",Count:1},{id:\"extraarmor:cactus_chestplate\",Count:1},{id:\"extraarmor:cactus_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:cactus_helmet",
+            "recipe2":"extraarmor:cactus_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:cactus_leggings",
+            "recipe2":"extraarmor:cactus_boots"
+        }
+             ]
+}

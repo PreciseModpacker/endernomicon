@@ -1,0 +1,19 @@
+{    
+    "name": "Seal",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Seals are passive mostly aquatic mammals that can be foud on the Beaches and Icebergs biomes.$(br2)If one Seal is attacked, the entire bob will try and flee into the water.$(br2)You can drop fish near of them, with 3 fish, the Seal will give you something to you in exchange."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:seal",
+            "scale": 0.6,
+            "text": "They are the main prey of the $(l:patchouli:creatures/alexsmobs/cachalot_whale)Orcas$(/l)."
+        }
+             ]
+}

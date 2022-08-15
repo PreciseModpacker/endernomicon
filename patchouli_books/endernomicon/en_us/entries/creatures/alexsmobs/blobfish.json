@@ -1,0 +1,23 @@
+{    
+    "name": "Blobfish",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Blobfish are fish that are located in the Deep Oceans.$(br2)They becomes pink if they're under less than 10 blocks of water pressure.$(br2)When slain, you can use 4 blobfish and 1 bottle to craft Fish Oil. This item allow limited levitation in water or rain and it can be used to tame $(l:patchouli:creatures/alexsmobs/bald_eagle)Bald Eagles$(/l) too."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:blobfish",
+            "scale": 0.9,
+            "text": "Like other fish, they can be bucketed."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:fish_oil"
+        }
+             ]
+}

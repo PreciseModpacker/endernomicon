@@ -1,0 +1,19 @@
+{    
+    "name": "Koi",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Kois are a new kind of fish that can be found only in the Blossom Woods Forests.$(br2)If you are near of them, they will give you the Serenity effect preventing creatures from spawning around the player.$(br2)On death they may drop Koi, you can eat them, but they are not very satiating."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:koi",
+            "scale": 0.7,
+            "pffset": 1.50
+        }
+             ]
+}

@@ -1,0 +1,18 @@
+{    
+    "name": "On a Stick (Carrot)",
+    "icon": "minecraft:carrot_on_a_stick",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:carrot_on_a_stick",
+            "text": "$(li)Carrot on a Stick can be used to control saddled Pigs.$(br)$(li)A Carrot on a Stick can be crafted with a Fishing Rod and a Carrot."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To ride a Pig, first you have to equip a Saddle to the Pig.$(br)$(li)Then, right click to the Pig to ride it.$(br)$(li)Now, just hold the Carrot on a Stick on your hand to make walk your Pig in any direction."
+        }
+             ]
+}

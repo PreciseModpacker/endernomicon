@@ -1,0 +1,28 @@
+{    
+    "name": "Crank",
+    "icon": "supplementaries:crank",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:crank",
+            "text": "$(li)The Crank is an analog lever.$(br)$(li)This block can be placed on the floor and walls.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The strong of the redstone signal emitted by the Crack depends of the position of the lever inside of it.$(br)$(li)The Crank has 17 different possitions knowing that there is a position that does not emit a redstone signal.$(br)$(li)It can be turned clockwise right clicking on it or counterclockwise shift + right clicking on it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/crank.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

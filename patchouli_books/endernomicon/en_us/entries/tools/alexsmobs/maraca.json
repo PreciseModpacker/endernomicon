@@ -1,0 +1,27 @@
+{    
+    "name": "Maraca",
+    "icon": "alexsmobs:maraca",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:maraca",
+            "text": "$(li)The Maraca can be given to a $(l:patchouli:pets/alexsmobs/cockroach)Cockroach$(/l) to make it dance.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/maracas.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

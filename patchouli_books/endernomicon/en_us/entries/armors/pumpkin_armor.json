@@ -1,0 +1,28 @@
+{    
+    "name": "Pumpkin Armor",
+    "icon": "extraarmor:pumpkin_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Pumpkin Armor is a quiet better than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l), Leather Armor, and $(l:patchouli:armors/snow_armor)Snow Armor$(/l).$(br)$(li)This armor doesn't give to you any special effect."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Pumpkin Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:pumpkin_boots\",Count:1},{id:\"extraarmor:pumpkin_leggings\",Count:1},{id:\"extraarmor:pumpkin_chestplate\",Count:1},{id:\"extraarmor:pumpkin_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:pumpkin_helmet",
+            "recipe2":"extraarmor:pumpkin_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:pumpkin_leggings",
+            "recipe2":"extraarmor:pumpkin_boots"
+        }
+             ]
+}

@@ -1,0 +1,6 @@
+{    
+    "name": "Biomes",
+    "description": "Biomes category",
+    "icon": "endermonicon:textures/book/categories/biomes.png",
+    "sortnum": 10
+}

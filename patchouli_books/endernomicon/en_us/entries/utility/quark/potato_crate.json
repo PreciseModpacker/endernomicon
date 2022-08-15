@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Potato)",
+    "icon": "quark:potato_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/compressed/potato_crate",
+            "text": "$(li)The Potato Crate is a new decorative block.$(br)$(li)It can be used to save Potatos in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

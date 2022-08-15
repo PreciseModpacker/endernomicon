@@ -1,0 +1,28 @@
+{    
+    "name": "Snow Armor",
+    "icon": "extraarmor:snow_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Snow Armor has the same durability and resistance than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l).$(br)$(li)This armor can be crafted with Snow Blocks.$(br)$(li)That makes it perfect for the beginning of your adventure if you are situated in a Snowy biome."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Snow Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:snow_boots\",Count:1},{id:\"extraarmor:snow_leggings\",Count:1},{id:\"extraarmor:snow_chestplate\",Count:1},{id:\"extraarmor:snow_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:snow_helmet",
+            "recipe2":"extraarmor:snow_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:snow_leggings",
+            "recipe2":"extraarmor:snow_boots"
+        }
+             ]
+}

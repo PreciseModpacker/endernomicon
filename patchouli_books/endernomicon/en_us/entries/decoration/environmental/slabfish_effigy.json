@@ -1,0 +1,14 @@
+{    
+    "name": "Slabfish Effigy",
+    "icon": "environmental:slabfish_effigy",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/slabfish_effigy",
+            "text": "$(li)The Slabfish Effigy is a block that can be used for decoration purposes.$(br)$(li)Ceramists will exchange your Emeralds by Slabfish Effigies.",
+            "link_recipe": "true"
+        }
+             ]
+}

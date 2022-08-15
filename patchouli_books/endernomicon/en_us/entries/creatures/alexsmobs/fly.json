@@ -1,0 +1,19 @@
+{    
+    "name": "Fly",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These small, windged insects with big multiple large eyes called Flies are around the Overworld.$(br2)They are attracted to dead dying things, for example, Zomibes. Flies can be bred with Rotten Flesh.$(br2)On death, they may drop Maggots, this can be used to breed $(l:patchouli:creatures/alexsmobs/roadrunner)Roadruners$(/l) and $(l:patchouli:creatures/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:fly",
+            "scale": 1,
+            "text": "If a Fly happens to find itself in the Nether, it will transform into a dangerous $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l)."
+        }
+             ]
+}

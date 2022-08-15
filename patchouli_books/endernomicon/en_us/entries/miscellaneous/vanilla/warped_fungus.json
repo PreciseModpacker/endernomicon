@@ -1,0 +1,19 @@
+{    
+    "name": "Warped Fungus",
+    "icon": "minecraft:warped_fungus",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:warped_fungus",
+            "text": "$(li)Warped Fungus is a type of fungus that is commonly generated in Warped Forests.$(br)$(li)It can also be found in Crimson Forests.$(br)$(li)Warpbeetle can drop a Warped Fungus too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to scared away Hoglins or attract Striders.$(br)$(li)With Warped Fungus mainly you can craft a Warped Fungus on a Stick, a Fungus & Tongue Stew."
+        }
+             ]
+}

@@ -1,0 +1,23 @@
+{    
+    "name": "Toretoise",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Toretoises are neutral creatures that will spawn deep underground.$(br2)Toretoises will sink in water, and are immune to drowning, fall, and fire damage.$(br2)They will come with a random type of Ore (Coal, Copper, Iron, Lapis or Redstone).$(br)You may attack the Toretoise with a Pickaxe to have it drop that ore."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:toretoise",
+            "scale": 0.8,
+            "text": "Toretoises do not breed. They do spawn like hostile creatures, so you can go back for more."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Feeding the Toretoise Cave Roots will make regenerate its ores, but when they does, it will enter an eating coldown for 1 minute.$(br2)You can automate this feeding process using a Feeding Trough. $(br2)If you attack a Tortoise without a Pickaxe, or when it has not ore, it will emit a shockwave attack. This will hit any non-Toretoise entities around, and redirect their aggro to you."
+        }  
+             ]
+}

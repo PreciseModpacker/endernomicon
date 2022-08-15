@@ -1,0 +1,15 @@
+{    
+    "name": "Ascus Bomb",
+    "icon": "infernalexp:ascus_bomb",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:ascus_bomb",
+            "text": "$(li)The Ascus Bomb like the name says, it can be thrown generating a area. All creature inside of that area will receive the Infection effect damaging it and infecting the rest of the creatures around it.$(br)$(li)It can be used to brew a Potion of Infection too.",
+            "link_recipe": "true"
+        }
+             ]
+}

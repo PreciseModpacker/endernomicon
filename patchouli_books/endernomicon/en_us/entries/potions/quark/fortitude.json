@@ -1,0 +1,118 @@
+{    
+    "name": "Fortitude",
+    "icon": "minecraft:potion{Potion:'quark:resistance'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'quark:resistance'}",
+            "text": "$(li)Fortitude potions reduces the damage that you take.$(br)$(li)They can be brewed using a Cave Root and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude",
+            "input": "quark:root_item",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'quark:resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'quark:resistance'}",
+            "output": "minecraft:potion{Potion:'quark:long_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'quark:resistance'}",
+            "output": "minecraft:potion{Potion:'quark:strong_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash",
+            "input": "quark:root_item",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'quark:resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:resistance'}",
+            "output": "minecraft:splash_potion{Potion:'quark:resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'quark:resistance'}",
+            "output": "minecraft:splash_potion{Potion:'quark:long_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:long_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'quark:long_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'quark:resistance'}",
+            "output": "minecraft:splash_potion{Potion:'quark:strong_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:strong_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'quark:strong_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering",
+            "input": "quark:root_item",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'quark:resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:long_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:long_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:long_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'quark:resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:strong_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fortitude Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:strong_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:strong_resistance'}"
+        }
+             ]
+}

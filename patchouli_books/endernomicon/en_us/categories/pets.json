@@ -1,0 +1,6 @@
+{    
+    "name": "Pets",
+    "description": "Pets category",
+    "icon": "endermonicon:textures/book/categories/pets.png",
+    "sortnum": 8
+}

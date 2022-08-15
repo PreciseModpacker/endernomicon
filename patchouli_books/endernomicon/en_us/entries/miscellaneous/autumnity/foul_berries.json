@@ -1,0 +1,19 @@
+{    
+    "name": "Foul Berries",
+    "icon": "autumnity:foul_berries",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "autumnity:foul_berries",
+            "text": "$(li)Foul Berries are a fruit that can be growed up from Foul Berry Pips.$(br)$(li)You can use Foul Berries to craft Foul Berry Pips, or White Strawberry Basket in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you eat this fruit, you will get the Foul Taste effect during 15 seconds."
+        }
+             ]
+}

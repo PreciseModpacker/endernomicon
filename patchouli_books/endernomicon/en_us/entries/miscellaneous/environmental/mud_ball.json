@@ -1,0 +1,21 @@
+{    
+    "name": "Mud Ball",
+    "icon": "environmental:mud_ball",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/mud_balls_from_dirt",
+            "text": "$(li)Mud Balls can be thrown to other creatures just right clicking while you are holding them on your hand.$(br)$(li)They don't inflict damage to the creatures that they hit, but they push out away.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/mud_balls_from_mud",
+            "text": "$(li)They can be used to craft Mud blocks in a Crafting Table, make Mud Bricks Smelting Mud Balls in a Furnace or Kiln.$(br)$(li)Ceramist will exchange your Mud Balls by Emeralds too.",
+            "link_recipe": "true"
+        }
+             ]
+}

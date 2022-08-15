@@ -1,0 +1,28 @@
+{    
+    "name": "Golden Armor",
+    "icon": "minecraft:golden_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Golden Armor is quiet better than the Ice Armor.$(br)$(li)Anyway, this Armor is not the best choice, you should spent your Gold Ingot in something better."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Golden Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:golden_boots,Count:1},{id:golden_leggings,Count:1},{id:golden_chestplate,Count:1},{id:golden_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_helmet",
+            "recipe2":"minecraft:golden_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_leggings",
+            "recipe2":"minecraft:golden_boots"
+        }
+             ]
+}

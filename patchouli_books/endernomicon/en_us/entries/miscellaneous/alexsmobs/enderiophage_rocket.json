@@ -1,0 +1,19 @@
+{    
+    "name": "Enderiophage Rocket",
+    "icon": "alexsmobs:enderiophage_rocket",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:enderiophage_rocket",
+            "text": "$(li)The Enderiophage Rockets are a new kind of Firework Rockets.$(br)$(li)It can be crafted with Endstone, Iron Nuggets and a Capsid.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

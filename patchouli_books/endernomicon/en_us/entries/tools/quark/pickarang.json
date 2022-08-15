@@ -1,0 +1,19 @@
+{    
+    "name": "Pickarang",
+    "icon": "quark:pickarang",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/pickarang_heart",
+            "text": "$(li)The Pickarang is a tool that works like a boomerang pickage.$(br)$(li)You throw it, it breaks whatever it hits and comes back to you with the drops.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The Pickarang can be Enchanted with multiples enchantments:$(br)$(li)Tinted$(li)Bane of Arthropods$(li)Mending$(li)Sharpness$(li)Smite$(li)Curse of Vanishing$(li)Imperishable$(li)Lumbering$(li)Efficiency$(li)Umbreaking$(li)Fortune$(li)Silk Touch$(li)Piercing"
+        }
+             ]
+}

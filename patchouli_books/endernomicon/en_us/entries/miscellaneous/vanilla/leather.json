@@ -1,0 +1,43 @@
+{    
+    "name": "Leather",
+    "icon": "minecraft:leather",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:leather",
+            "text": "$(li)The Leather is a resistant material that can be dropped by Cows, Deers, Donkeys, Foxhounds, Goblos, Gooms, Hobgobs, Hoglins, Horses, Llamas, Mooblooms, Mooshrooms and Mules.$(br)$(li)They can be used in a Crafting Table to craft multiples items.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Armors & Weapons",
+            "text": "$(br)$(l)        Armors$()$(br)$(li)Leather Armor$(li)Leather Horse Armor$(li)Leather Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Pocket of Sand"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tools & Redstone",
+            "text": "$(br)$(l)        Tools$()$(br)$(li)Backpack$(li)Bedroll$(li)Falconry Glove$(li)Falconry Hood$(br2)$(l)        Redstone$()$(br)$(li)Bellow$(li)Trapped Book"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Utility & Miscellaneous",
+            "text": "$(br)$(l)        Utility$()$(br)$(li)Bonded Leather$(br2)$(l)      Miscellaneous$()$(br)$(li)Item Frame$(li)Trapped Book"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:leather",
+            "text": "$(li)The Leather can be found in Loot Chests too.$(br)$(li)It can be crafted with Rabbit Hide, Kangaroo Hide, or Bonded Leather too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:kangaroo_hide_to_leather",
+            "recipe2": "quark:building/crafting/compressed/bonded_leather_uncompress",
+            "link_recipe": "true"
+        }
+
+             ]
+}

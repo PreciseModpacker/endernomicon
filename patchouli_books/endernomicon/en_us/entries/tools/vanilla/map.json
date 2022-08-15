@@ -1,0 +1,34 @@
+{    
+    "name": "Map",
+    "icon": "minecraft:map",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:map",
+            "text": "$(li)The Map is a useful item that can be used to view explored terrain and mark landmarks.$(br)$(li)Cartographers will exchange this item by Emeralds."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can find Maps in Loot Chests too.$(br)$(li)Maps and Empty Maps can be inserted in an Atlas to have a very big map in one only item.$(br)$(li)To use a Map, first right click in an Empty Map. Then, just explore the surroundings until the Map is complete.$(br)$(li)A Map can be placed in an Item Frame to use it like part of your decoration."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/map_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/map_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

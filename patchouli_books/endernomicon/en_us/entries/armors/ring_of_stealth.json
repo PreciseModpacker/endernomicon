@@ -1,0 +1,15 @@
+{    
+    "name": "Ring of Stealth",
+    "icon": "goblinsanddungeons:ring_of_stealth",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 42,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "goblinsanddungeons:ring_of_stealth",
+            "text": "$(li)The Ring of Stealth reduces the range detection for other creatures while you are sneaking.$(br)$(li)Mimics may drop it on death.$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
+            "link_recipe": "true"
+        }
+             ]
+}

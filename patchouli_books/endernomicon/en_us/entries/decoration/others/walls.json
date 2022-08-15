@@ -1,0 +1,574 @@
+{    
+    "name": "Walls",
+    "icon": "minecraft:cobblestone_wall",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cobblestone_wall",
+            "text": "$(li)Walls are a decorative block. Like Fences, they can be used to create boundaries, because you and most creatures cannot climb or jump over them.",
+            "link_recipe": "true",
+            "title": "Walls"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:mossy_cobblestone_wall",
+            "recipe2":"upgrade_aquatic:kelpy_cobblestone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/cobblestone_bricks_wall",
+            "recipe2":"quark:building/crafting/walls/mossy_cobblestone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_stone_brick_wall",
+            "recipe2": "lepton:crafting/smooth_stone_wall"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/stone_wall",
+            "recipe2": "minecraft:mossy_stone_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stone_brick_wall",
+            "recipe2": "minecraft:granite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_granite_wall",
+            "recipe2": "quark:world/crafting/walls/granite_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_granite_wall",
+            "recipe2": "minecraft:granite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_andesite_wall",
+            "recipe2": "quark:world/crafting/walls/andesite_bricks_wall"
+        },
+        {    
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_andesite_wall",
+            "recipe2": "minecraft:andesite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_diorite_wall",
+            "recipe2": "quark:world/crafting/walls/diorite_bricks_wall"
+        },
+        {    
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_diorite_wall",
+            "recipe2": "minecraft:diorite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brick_wall",
+            "recipe2": "quark:world/crafting/walls/limestone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/limestone_bricks_wall",
+            "recipe2": "lepton:crafting/polished_limestone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/marble_wall",
+            "recipe2": "quark:world/crafting/walls/marble_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_marble_wall",
+            "recipe2": "quark:world/crafting/walls/jasper_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/jasper_bricks_wall",
+            "recipe2": "lepton:crafting/polished_jasper_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/slate_wall",
+            "recipe2": "quark:world/crafting/walls/slate_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_slate_wall",
+            "recipe2": "quark:backport/crafting/cobbled_deepslate_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/deepslate_bricks_wall",
+            "recipe2": "quark:backport/crafting/polished_deepslate_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/deepslate_tiles_wall",
+            "recipe2": "lepton:crafting/midori_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/brimstone_wall",
+            "recipe2": "quark:world/crafting/walls/brimstone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "goblinsanddungeons:scoria_wall",
+            "recipe2": "goblinsanddungeons:scoria_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "goblinsanddungeons:polished_scoria_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:sandstone_wall",
+            "recipe2": "lepton:crafting/cracked_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cut_sandstone_wall",
+            "recipe2": "lepton:crafting/smooth_sandstone_wall"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:sandstone_tile_wall",
+            "recipe2": "quark:building/crafting/walls/sandstone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_sandstone_wall",
+            "recipe2": "lepton:crafting/cracked_red_sandstone_wall"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cut_red_sandstone_wall",
+            "recipe2": "lepton:crafting/smooth_red_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:red_sandstone_tile_wall",
+            "recipe2": "quark:building/crafting/walls/red_sandstone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_arid_sandstone_wall",
+            "recipe2": "lepton:crafting/cut_arid_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/smooth_arid_sandstone_wall",
+            "recipe2": "atmospheric:arid_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:arid_sandstone_brick_wall",
+            "recipe2": "lepton:crafting/smooth_red_arid_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_red_arid_sandstone_wall",
+            "recipe2": "atmospheric:red_arid_sandstone_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/smooth_red_arid_sandstone_wall",
+            "recipe2": "lepton:crafting/cut_red_arid_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:red_arid_sandstone_wall",
+            "recipe2": "lepton:crafting/cut_red_arid_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/sandy_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:chocolate/tiles/chocolate_tile_wall",
+            "recipe2": "neapolitan:chocolate/bricks/chocolate_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/dirt_bricks_wall",
+            "recipe2": "environmental:building/bricks/mud/mud_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/acacia_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_acacia_wood_wall"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/birch_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_birch_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/dark_oak_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_dark_oak_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/oak_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_oak_wood_wall"
+        },         
+        { 
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/jungle_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_jungle_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/spruce_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_spruce_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/morado_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_morado_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/yucca_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_yucca_wood_wall"
+        }, 
+        {           
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/kousa_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_kousa_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/aspen_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_aspen_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/maple_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_maple_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/river_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_river_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/wisteria_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_wisteria_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/cherry_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_cherry_wood_wall"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/willow_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_willow_wood_wall"
+        },         
+        {
+            "type": "patchouli:crafting",   
+            "recipe": "lepton:crafting/wood_wall/cypress_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_cypress_wood_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/rosewood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_rosewood_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/driftwood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_driftwood_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/grimwood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_grimwood_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/glowshroom_hyphae_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_glowshroom_hyphae_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/red_mushroom_hyphae_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_red_mushroom_hyphae_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/brown_mushroom_hyphae_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_brown_mushroom_hyphae_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/paper_wall",
+            "recipe2": "quark:building/crafting/panes/paper_wall/big"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/sakura_paper_wall",
+            "recipe2": "quark:world/crafting/walls/cobbedstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:prismarine_wall",
+            "recipe2": "lepton:crafting/prismarine_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/dark_prismarine_wall",
+            "recipe2": "lepton:crafting/elder_prismarine_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/dark_elder_prismarine_wall",
+            "recipe2": "quark:world/crafting/walls/elder_prismarine_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/terracotta/terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/white/white_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/orange/orange_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/magenta/magenta_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/light_blue/light_blue_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/yellow/yellow_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/lime/lime_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/lime/lime_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/pink/pink_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/gray/gray_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/light_gray/light_gray_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/light_gray/light_gray_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/cyan/cyan_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/cyan/cyan_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/purple/purple_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/blue/blue_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/brown/brown_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/green/green_terracotta_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/red/red_terracotta_brick_wall",
+            "recipe2": "environmental:building/bricks/terracotta/black/black_terracotta_brick_wall"
+        },
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:scute_shingle_wall",
+            "recipe2": "upgrade_aquatic:scute_pavement_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:snail_shell_brick_wall",
+            "recipe2": "autumnity:snail_shell_tile_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:honeycomb/bricks/honeycomb_brick_wall",
+            "recipe2": "buzzier_bees:honeycomb/tiles/honeycomb_tile_wall"
+        },
+
+       ### ICE BIOME ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/snow_bricks_wall",
+            "recipe2": "environmental:building/bricks/ice/ice_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/permafrost_wall",
+            "recipe2": "quark:world/crafting/walls/permafrost_bricks_wall"
+        },
+
+        ### Get Obsidian ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:obsidian_brick_wall",
+            "recipe2": "charm:refined_obsidian/refined_obsidian_wall"
+        },
+
+       ### Kill Thraser ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:tooth_wall",
+            "recipe2": "upgrade_aquatic:tooth_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:coralstone_wall",
+            "recipe2": "upgrade_aquatic:kelpy_stone_brick_wall"
+        },
+
+        ### The Nether BIOME ###
+
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/warped_hyphae_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_warped_hyphae_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/crimson_hyphae_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_crimson_hyphae_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/quartz_wall",
+            "recipe2": "lepton:crafting/smooth_quartz_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/quartz_brick_wall",
+            "recipe2": "minecraft:nether_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_nether_brick_wall",
+            "recipe2": "lepton:crafting/cracked_nether_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/charred_nether_bricks_wall",
+            "recipe2": "quark:building/crafting/walls/blue_nether_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/netherrack_bricks_wall",
+            "recipe2": "crumbs:blue_nether_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blackstone_wall",
+            "recipe2": "minecraft:polished_blackstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_blackstone_brick_wall",
+            "recipe2": "lepton:crafting/cracked_polished_blackstone_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_polished_blackstone_brick_wall",
+            "recipe2": "lepton:crafting/gilded_blackstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/twisted_blackstone_bricks_wall",
+            "recipe2": "quark:building/crafting/walls/weeping_blackstone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/blackstone_bricks_wall",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glowstone_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/dimstone_brick_wall",
+            "recipe2": "infernalexp:crafting/crafting_shaped/dullstone_brick_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/glowdust_stone_brick_wall",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glowdust_stone_wall"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/basalt_brick_wall",
+            "recipe2": "infernalexp:crafting/crafting_shaped/basalt_wall"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/smooth_basalt_wall",
+            "recipe2": "quark:building/crafting/walls/vanilla_basalt_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_stone_wall",
+            "recipe2": "infernalexp:crafting/crafting_shaped/soul_stone_bricks_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_slate_bricks_wall",
+            "recipe2": "lepton:crafting/cracked_soul_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/soul_sandstone_bricks_wall",
+            "recipe2": "quark:building/crafting/walls/soul_sandstone_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/walls/magma_bricks_wall"
+        },
+
+
+       ### END BIOME ###
+
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_wall/poise_wood_wall",
+            "recipe2": "lepton:crafting/wood_wall/stripped_poise_wood_wall"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/purpur_wall",
+            "recipe2": "lepton:crafting/biotite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/biotite_brick_wall",
+            "recipe2": "lepton:crafting/smooth_biotite_wall"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/basalt_wall",
+            "recipe2": "quark:world/crafting/walls/basalt_bricks_wall"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_voidstone_wall",
+            "recipe2": "quark:world/crafting/walls/myalite_wall"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/walls/myalite_bricks_wall",
+            "recipe2": "lepton:crafting/polished_myalite_wall"
+        }
+
+             ]
+}

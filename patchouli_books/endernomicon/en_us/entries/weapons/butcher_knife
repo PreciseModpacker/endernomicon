@@ -1,0 +1,15 @@
+{    
+    "name": "Butcher Knife",
+    "icon": "extcaves:butcher_knife",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "extcaves:butcher_knife",
+            "text": "$(li)The Butcher Knife is sharpness weapon which is as strong as a Diamond Sword but is a little more faster than this last one.$(br)$(li)This weapon can't be crafted, it can only find it in naturally generated chests inside of Mineshafts and Dungeons.",
+            "link_recipe": "true"
+        }
+             ]
+}

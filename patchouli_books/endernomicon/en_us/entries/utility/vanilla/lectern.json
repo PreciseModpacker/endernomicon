@@ -1,0 +1,26 @@
+{
+    "name": "Lectern",
+    "icon": "minecraft:lectern",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lectern",
+            "text": "$(li)The Lectern is a block that is capable to hold Books.$(br)$(li)Just right click on the lectern while you are holding a written book on your hand."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Once placed, you will be able to read the book right clicking on the Lectern again."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/lectern.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

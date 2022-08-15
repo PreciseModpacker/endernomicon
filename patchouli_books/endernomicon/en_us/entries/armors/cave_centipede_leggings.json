@@ -1,0 +1,20 @@
+{    
+    "name": "Cave Centipede Leggings",
+    "icon": "alexsmobs:centipede_leggings",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 26,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:centipede_leggings",
+            "text": "$(li)The Cave Centipede Leggings has Armor Toughness, giving you an extra protection from strong attacks.$(br)$(li)This leggings allows you to climb walls like a Spider too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Cave Centipede Leggings",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"alexsmobs:centipede_leggings\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

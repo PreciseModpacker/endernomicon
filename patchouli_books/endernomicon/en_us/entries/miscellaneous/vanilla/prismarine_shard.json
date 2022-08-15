@@ -1,0 +1,15 @@
+{    
+    "name": "Prismarine Shard",
+    "icon": "minecraft:prismarine_shard",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:prismarine_shard",
+            "text": "$(li)The Prismarine Shard can be used to craft Guardian Lanterns, Prismarine Bricks, Prismarine Rods, Sea Lanterns, Tridents, Luminous Prismarine, Dark Prismarine, or even a Prismarine Armor in a Crafting Table.$(br)$(li)Guardians and Elder Guardians may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

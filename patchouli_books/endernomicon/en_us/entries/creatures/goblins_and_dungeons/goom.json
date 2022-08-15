@@ -1,0 +1,16 @@
+{    
+    "name": "Goom",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:goom",
+            "scale": 1,
+            "offset": 0.1,
+            "text": "Gooms will explode the smoke bomb from their heads in order to blind you. On death they may drop Gunpowder."
+        }
+             ]
+}

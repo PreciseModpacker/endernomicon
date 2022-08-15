@@ -1,0 +1,83 @@
+{    
+    "name": "Night Vision",
+    "icon": "minecraft:potion{Potion:'minecraft:night_vision'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:night_vision'}",
+            "text": "$(li)Night Vision potions improves your vision in the darkness or underwater. The Potion of Night Vision gives you 3 minutes and the Extended one 8 minutes.$(br)$(li)They can be brewed using a Golden Carrot and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision",
+            "input": "minecraft:golden_carrot",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:night_vision'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision Splash",
+            "input": "minecraft:golden_carrot",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:night_vision'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night V. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_night_vision'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night V. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:night_vision'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision Lingering",
+            "input": "minecraft:golden_carrot",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night Vision Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:night_vision'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night V. Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:night_vision'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_night_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Night V. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_night_vision'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_night_vision'}"
+        }
+             ]
+}

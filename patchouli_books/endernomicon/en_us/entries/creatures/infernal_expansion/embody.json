@@ -1,0 +1,19 @@
+{    
+    "name": "Embody",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Embodies are hostile creatures that can be found in Soul Sand zones of The Nether.$(br2)They will attack Skeletons, Piglins and you too, of course.$(br2)On death, they may drop Soul Salt Clumps, this item can be used to make new blocks Charged Chiseled Soul Slate Brick and Charged Chiseled Soul Stone Brick."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "infernalexp:embody",
+            "scale": 0.7,
+            "text": "It can be used to craft Cured Jerky, this item will give you Speed II effect for 7 seconds."
+        }
+             ]
+}

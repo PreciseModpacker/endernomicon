@@ -1,0 +1,24 @@
+{    
+    "name": "Duck",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Ducks can be found both swimming in the water and walking on land.$(br2)You can attract Ducks with Duckweed and breed them giving those to them as well.$(br2)On death they may drop Feathers and Raw Duck.$(br2)You can cook Raw Duck to make Cooked Duck as well."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:duck",
+            "scale": 1,
+            "text": "Sometines they drops Duck Eggs, you can use them like commons Egg or even cook Fried Eggs."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "environmental:misc/duck/cooked_duck",
+            "recipe2": "environmental:misc/eggs/fried_egg"
+        }
+             ]
+}

@@ -1,0 +1,66 @@
+{    
+    "name": "Button (Stone)",
+    "icon": "minecraft:stone_button",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stone_button",
+            "text": "$(li)Stone Buttons are placeable blocks that emites a restone pulse of 1 seconds.$(br)$(li)There are many variants of them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_slate_button",
+            "recipe2": "lepton:crafting/polished_jasper_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_limestone_button",
+            "recipe2": "lepton:crafting/polished_marble_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_granite_button",
+            "recipe2": "lepton:crafting/polished_diorite_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_andesite_button",
+            "recipe2": "environmental:building/wood/willow/willow_button",
+            "link_recipe": "true"
+        },
+#NETHER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_blackstone_button",
+            "recipe2": "infernalexp:crafting/crafting_shapeless/smooth_glowstone_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shapeless/smooth_dimstone_button",
+            "recipe2": "infernalexp:crafting/crafting_shapeless/smooth_dullstone_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shapeless/basalt_button",
+            "recipe2": "infernalexp:crafting/crafting_shapeless/soul_slate_button",
+            "link_recipe": "true"
+        },
+#END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_myalite_button",
+            "recipe2": "lepton:crafting/polished_voidstone_button",
+            "link_recipe": "true"
+        }
+
+             ]
+}

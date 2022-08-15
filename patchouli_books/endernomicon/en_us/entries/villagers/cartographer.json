@@ -1,0 +1,19 @@
+{    
+    "name": "Cartographer",
+    "icon": "minecraft:map",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Cartographer gather data from its surroundings and creates Maps.$(br)$(li)It will give them to you in exchange of Emeralds.$(br)$(li)A Villager can get the Cartographer profession if is near of a Cartography Table."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:cartographer',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

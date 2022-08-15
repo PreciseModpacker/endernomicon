@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Iron)",
+    "icon": "minecraft:iron_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_block",
+            "text": "$(li)Iron Block is a new decorative block that can be used to save Iron Ingots in a more efficient way and to craft an Anvil.$(br)$(li)This block is affected by a Magnet.",  
+            "link_recipe": "true"
+        }
+             ]
+}

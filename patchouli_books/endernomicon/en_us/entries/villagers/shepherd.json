@@ -1,0 +1,19 @@
+{    
+    "name": "Shepherd",
+    "icon": "minecraft:white_wool",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Shepherd is a master of the Wool.$(br)$(li)It will trade you Wool Blocks, Wool Carpets, Beds, Banners or even Paintings. $(br)$(li)A Villager can get the Shepherd profession if is near of a Loom."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:shepherd',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

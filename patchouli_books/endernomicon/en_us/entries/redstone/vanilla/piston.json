@@ -1,0 +1,19 @@
+{
+    "name": "Piston",
+    "icon": "minecraft:piston",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:piston",
+            "text": "$(li)The Piston is a block that is capable of pushing blocks and creatures.$(br)$(li)It will be turned on when receives a redstone pulse."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/piston.png",
+            "text": "$(li)This item can be used to craft a Hat Launcher or a Sticky Piston in a Crafting Table."
+        }
+             ]
+}

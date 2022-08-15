@@ -1,0 +1,24 @@
+{    
+    "name": "Iron and Gold Gates",
+    "icon": "supplementaries:iron_gate",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:iron_gate",
+            "text": "$(li)The Iron Gate is a new kind of gate, like Fence Gates.$(br)$(li)The Iron Gate can be visually connected with Iron Bars, Sunmetal Bars, Entwine Bars and Gold Bars.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:gold_gate",
+            "text": "$(li)The Gold Gate is a new kind of gate, like Fence Gates.$(br)$(li)The Iron Gate can be visually connected with Iron Bars, Sunmetal Bars, Entwine Bars and Gold Bars.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Iron Gate"
+        }
+             ]
+}

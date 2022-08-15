@@ -1,0 +1,18 @@
+{
+    "name": "Rail",
+    "icon": "minecraft:rail",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:rail",
+            "text": "$(li)Rails are blocks that provide a path along which Minecarts can travel.$(br)$(li)They can be found in the Mineshafts."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They are exists three additionally different Rails:$(br)$(li)Activator Rail$(li)Detector Rail$(li)Powered Rail."
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Soul Bead",
+    "icon": "quark:soul_bead",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:soul_bead",
+            "text": "Soul Bread is an item that you can use to find the nearest Nether Fortress in the Neter.$(br2)Just use it with right click and it will fly in the direction of a Nether Fortress.$(br2)$(l:patchouli:mobs/quark/wraith)Wraiths$(/l) may drop this item. ",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of the Soul Bead"
+        }
+             ]
+}

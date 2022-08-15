@@ -1,0 +1,19 @@
+{    
+    "name": "Glowsquito",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Glowsquitos are a horrible pest that can be found in Glowstone Canyons.$(br2)This neutral creatures loves sucking the dust out of Glowstone, turning it to Dimstone and finally to Dullstone.$(br2)You can breed Glowsquitos giving them Shroomlight Juice."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "infernalexp:glowsquito",
+            "scale": 0.5,
+            "text": "Be careful if you attack one of these creatures, because after that, all of them will attack you."
+        }
+             ]
+}

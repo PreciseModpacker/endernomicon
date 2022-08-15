@@ -1,0 +1,27 @@
+{    
+    "name": "Planter",
+    "icon": "supplementaries:planter",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:planter",
+            "text": "$(li)The Planter allows you to grow crops on it without need water or being able to be trampled on by entities.$(br)$(li)The Planter is a good way to grow crops in the Nether.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Plants and flowers can also be placed on them for decoration purposes."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/planter.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Chimpanzee",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "neapolitan:chimpanzee",
+            "scale": 1,
+            "text": "Chimpazees can be found in Jungle Biomes. They can be attracted and breed them too with Banana Bunchs."
+        }
+             ]
+}

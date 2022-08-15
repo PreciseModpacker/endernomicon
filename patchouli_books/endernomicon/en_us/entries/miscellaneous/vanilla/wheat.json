@@ -1,0 +1,19 @@
+{    
+    "name": "Wheat",
+    "icon": "minecraft:wheat",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:wheat",
+            "text": "$(li)Wheat can be obtained from Wheat Seeds.$(br)$(li)Cows can be feed with Wheat.$(br)$(li)You can put Wheat in a Composter to generate Bone Meal.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Farmers will exchange your Wheat by Emeralds.$(br)$(li)You can use Wheat to craft a Hay Bale, Daub, Cookies, Thatch, Grass Thatch, Scones, Hay Nest, Pancakes, Bread, Gateau, Cakes, Buns, Velvet Fortune, or Aether-Glazed Cupcake in a Crafting Table too."
+        }
+             ]
+}

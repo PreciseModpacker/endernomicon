@@ -1,0 +1,15 @@
+{    
+    "name": "Plant Fiber",
+    "icon": "extcaves:plant_fiber",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "extcaves:plant_fiber",
+            "text": "$(li)The Plant Fiber is an item that grows in the deeps of the caves.$(br)$(li)You can use it to craft Bandages in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

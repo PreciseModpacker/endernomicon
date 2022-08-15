@@ -1,0 +1,19 @@
+{    
+    "name": "Name Tag",
+    "icon": "minecraft:name_tag",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:name_tag",
+            "text": "$(li)Name Tags can be used to change the name of any Creature in this world.$(br)$(li)They can be found in Loot Chests.$(br)$(li)Librarians will exchange your Emeralds by Name Tags too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)First, in an Anvil, you can change the name of a Name Tag in exchange of a Level of experience.$(br)$(li)Then, you only have to right click to any kind of creature while you are holding a Name Tag on your hand.$(br)$(li)Additionally, the most of creatures that have a custon name applied with a Name Tag will never naturally despawn."
+        }
+             ]
+}

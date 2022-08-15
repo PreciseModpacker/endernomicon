@@ -1,0 +1,19 @@
+{    
+    "name": "Leafcutter Ant Pupa",
+    "icon": "alexsmobs:leafcutter_ant_pupa",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:leafcutter_ant_pupa",
+            "text": "$(li)Leafcutter Ant Pupas can be used on a Grass or Dirt block to start a new Leafcutter Ant Colony.$(br)$(li)The new Anthill won't be able to expand unless a Queen is present.$(br)$(li)It can be only obtained breaking a Anthill Chamber.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

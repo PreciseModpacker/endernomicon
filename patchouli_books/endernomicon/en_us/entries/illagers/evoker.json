@@ -1,0 +1,19 @@
+{    
+    "name": "Evoker",
+    "icon": "minecraft:totem_of_undying",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Evokers are powerfull summoners who are able to attack you summoning fangs on the ground that makes damage to you. It is able to summon Vexes to attack you too.$(br)$(li)On death they may drop Emeralds, a Totem of Undying and the Magical Eye.$(br)$(li)It can only be found in the Mansion."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:evoker",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

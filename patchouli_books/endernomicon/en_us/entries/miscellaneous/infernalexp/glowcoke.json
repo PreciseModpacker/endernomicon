@@ -1,0 +1,15 @@
+{    
+    "name": "Glowcoke",
+    "icon": "infernalexp:glowcoal",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:glowcoal",
+            "text": "$(li)Glowcoke is the Nether variant of the common Coal.$(br)$(li)It can be used to craft a Glowlight Campfire and Glowlight Torchs.$(br)$(li)Like Coal, it can be used to smell 8 items in a Furnace, Smoker, Blast Furnace, and Kiln.",
+            "link_recipe": "true"
+        }
+             ]
+}

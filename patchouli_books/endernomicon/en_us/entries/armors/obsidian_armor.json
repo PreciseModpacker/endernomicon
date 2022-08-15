@@ -1,0 +1,28 @@
+{    
+    "name": "Obsidian Armor",
+    "icon": "extraarmor:obsidian_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 23,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Obsidian Armor is a quite better than the $(l:patchouli:armors/prismarine_shard_armor)Prismarine Shard Armor$(/l) and $(l:patchouli:armors/prismarine_crystal_armor)Primsarine Crystal Armor$(/l).$(br)$(li)If you wear the complete set, you will get Blast Protection IV effect reducing the explosion damage that you receive."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Obsidian Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:obsidian_boots\",Count:1},{id:\"extraarmor:obsidian_leggings\",Count:1},{id:\"extraarmor:obsidian_chestplate\",Count:1},{id:\"extraarmor:obsidian_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:obsidian_helmet",
+            "recipe2":"extraarmor:obsidian_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:obsidian_leggings",
+            "recipe2":"extraarmor:obsidian_boots"
+        }
+             ]
+}

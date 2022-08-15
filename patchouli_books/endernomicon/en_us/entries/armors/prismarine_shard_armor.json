@@ -1,0 +1,30 @@
+{    
+    "name": "Prismarine Shard Armor",
+    "icon": "extraarmor:prismarine_shard_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 21,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Prismarine Shard Armor has less protection than the $(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l) and $(l:patchouli:armors/molten_armor)Molten Armor$(/l) but it has more durability.$(br)$(li)If you wear the complete set, you will get the Water Breathing II effect allowing you to hold your breath underwater during more time."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Prismarine Shard Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:prismarine_shard_boots\",Count:1},{id:\"extraarmor:prismarine_shard_leggings\",Count:1},{id:\"extraarmor:prismarine_shard_chestplate\",Count:1},{id:\"extraarmor:prismarine_shard_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "P.S. Helmet & Chestplate",
+            "recipe": "extraarmor:prismarine_shard_helmet",
+            "recipe2":"extraarmor:prismarine_shard_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "P.S. Leggings & Boots",
+            "recipe": "extraarmor:prismarine_shard_leggings",
+            "recipe2":"extraarmor:prismarine_shard_boots"
+        }
+             ]
+}

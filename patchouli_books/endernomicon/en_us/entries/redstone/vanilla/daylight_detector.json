@@ -1,0 +1,18 @@
+{
+    "name": "Daylight Detector",
+    "icon": "minecraft:daylight_detector",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:daylight_detector",
+            "text": "$(li)The Daylight Detector emits a redstone signal to near blocks if receives sunlight.$(br)$(li)The strength of the redstone signal depends of the game day time."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/daylight_detector.png"
+        }
+             ]
+}

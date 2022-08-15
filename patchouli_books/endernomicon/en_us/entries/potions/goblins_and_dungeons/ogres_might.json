@@ -1,0 +1,118 @@
+{    
+    "name": "Ogre's Might",
+    "icon": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "text": "$(li)Ogre's Might potions will increase your attack damage but will reduce your attack speed.$(br)$(li)They can be brewed using a Ogre Tusk and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might",
+            "input": "goblinsanddungeons:ogre_tusk",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash",
+            "input": "goblinsanddungeons:ogre_tusk",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might_long'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'goblinsanddungeons:ogres_might_strong'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Lingering",
+            "input": "goblinsanddungeons:ogre_tusk",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's M. Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's M. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_long'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Ogre's Might Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'goblinsanddungeons:ogres_might_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'goblinsanddungeons:ogres_might_strong'}"
+        }
+             ]
+}

@@ -1,0 +1,18 @@
+{    
+    "name": "Clock",
+    "icon": "minecraft:clock",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:clock",
+            "text": "$(li)The Clock is a good tool that display the current time.$(br)$(li)Clocks only works correctly in the Overworld."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be used to craft a Clock Block in a Crafting Table."
+        }
+             ]
+}

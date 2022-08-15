@@ -1,0 +1,21 @@
+{    
+    "name": "Blindsight Tongue Whip",
+    "icon": "infernalexp:blindsight_tongue_whip",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/nether_eye",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/blindsight_tongue_whip",
+            "text": "$(li)The Blindsight Tongue Whip is a melee weapon which has a special way to use.$(br)$(li)First you have to right clic to charge, when fully charged, release to strike!",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Blindsight Tongue Whip",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"infernalexp:blindsight_tongue_whip\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

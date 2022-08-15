@@ -1,0 +1,15 @@
+{    
+    "name": "Cachalot Whale Tooth",
+    "icon": "alexsmobs:cachalot_whale_tooth",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:cachalot_whale_tooth",
+            "text": "$(li)The Cachalot Whale Tooth can be used to craft a Echolocator.$(br)$(li)When a Cachalot Whale attacks a prey, like Squid, it exists a chance to drop this item.",
+            "link_recipe": "true"
+        }
+             ]
+}

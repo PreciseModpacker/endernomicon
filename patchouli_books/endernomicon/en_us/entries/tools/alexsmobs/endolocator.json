@@ -1,0 +1,15 @@
+{    
+    "name": "Endolocator",
+    "icon": "alexsmobs:endolocator",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:endolocator",
+            "text": "$(li)The Endolocator is an upgrade of the $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l).$(br)$(li)It can be used to find the location of the End Portal Rom in Strongholds but it doesn't works in End Castles or End Gates.",
+            "link_recipe": "true"
+        }
+             ]
+}

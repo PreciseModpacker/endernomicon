@@ -1,0 +1,35 @@
+{    
+    "name": "Chisel (Diamond)",
+    "icon": "chisel:diamond_chisel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "chisel:diamond_chisel",
+            "text": "$(li)Diamond Chisel is the direct upgrade of the $(l:patchouli:tools/chisel/iron_chisel)Iron Chisel$(/l).$(br)$(li)This one has more durability and new features than the last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can left click click on any Chisel compatible block to convert it into a Chiseled version.$(br)$(li)If you shift left click, the Chiseled block will rollback."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you right click while you have the Diamond Chisel in your hand, you will see new modes in the GUI:$(br)$(li)Single: Chisel a single Block$(li)Panel: Chisel a 3x3 square of blocks$(li)Column: Chisel a 3x1 column of blocks$(li)Row: Chisel a 1x3 row of blocks.$(br2)This modes allows to you to Chisel more blocks when you left click in one block."
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

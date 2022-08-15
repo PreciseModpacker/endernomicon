@@ -1,0 +1,23 @@
+{    
+    "name": "Mantis Shrimp",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Mantis Shrimp are giant neutral crustaceans found in the reefs of the Warm Oceans.$(br2)These giant shrimp are equipped with two powerful first-like claws.$(br2)They are fast and even can burn their prey."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:mantis_shrimp",
+            "scale": 0.6,
+            "text": "Mantis Shrimp can be tamed by feeding them 10 to 30 tropical fish."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Tamed Mantis Shrimp can be made to follow, sit, wander and break blocks.$(br2)When sneak-interacted with while holding a block, one can give this block to the Mantis Shrimp. The shrimp will then seek out and break any blocks matching the one held in its fist, if ordered to do so.$(br2)Mantis Shrimp can be healed with any kind of fish when injured, and can be bred with Lobster Tails."
+        }  
+             ]
+}

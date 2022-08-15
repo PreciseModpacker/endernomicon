@@ -1,0 +1,21 @@
+{    
+    "name": "Feather",
+    "icon": "minecraft:feather",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:feather",
+            "text": "$(li)Feathers are a soft material that can be used to craft Arrows, Book and Quill, Feather Blocks, Charged Arrows, and even even a complete Feather Armor.$(br)$(li)They can be crafted with Feather Blocks and viceversa in a Crafting Table or be found in Loot Chests too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:feather_block_2",
+            "text": "$(li)Some Mobs, like Bald Eagles, Chickens, Crows, Ducks, Emus, Parrots, Roadrunners, Seagulls, Shoebills and Turkeys may drops Feathers when they are slayed.",
+            "link_recipe": "true"
+        }
+             ]
+}

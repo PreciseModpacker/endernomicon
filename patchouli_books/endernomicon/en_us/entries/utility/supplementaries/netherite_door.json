@@ -1,0 +1,28 @@
+{    
+    "name": "Netherite Door & Trapdoor",
+    "icon": "supplementaries:netherite_door",
+    "category": "patchouli:utility",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:netherite_trapdoor",
+            "text": "$(li)The Netherite Door by default can be accesible to anyone.$(br)$(li)As $(l:patchouli:utility/supplementaries/lock_block)Lock Blocks$(/l), they can be locked with a $(l:patchouli:tools/supplementaries/key)Key$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:netherite_trapdoor",
+            "text": "$(li)The Netherite Trapdoor by default can be accesible to anyone.$(br)$(li)As $(l:patchouli:utility/supplementaries/lock_block)Lock Blocks$(/l), they can be locked with a $(l:patchouli:tools/supplementaries/key)Key$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/netherite_door.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

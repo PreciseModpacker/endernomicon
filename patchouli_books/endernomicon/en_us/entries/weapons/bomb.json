@@ -1,0 +1,20 @@
+{    
+    "name": "Bomb",
+    "icon": "supplementaries:bomb",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:bomb",
+            "text": "$(li)The Bombs are a new range weapon that explotes on impact and does not break blocks.$(br)$(li)They make 11 hearts of damage for every hit."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:bomb_blue",
+            "text": "$(li)The Blue Bombs are a very poweful version of the Bombs. $(br)$(li)They deals 35-75 hearts of damage approximately and they Burn and inflicts Weakness effect too.$(br)$(li)They only can be found in naturally generated Chests.",
+            "link_recipe": "true"
+      
+        }
+             ]
+}

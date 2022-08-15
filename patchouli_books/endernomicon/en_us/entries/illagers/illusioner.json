@@ -1,0 +1,19 @@
+{    
+    "name": "Illusioner",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illusioner are tricky wizards that are armed with a Bow.$(br)$(li)Its arrows can inflict Blindness effect, hindering your vision.$(br)$(li)They are able to create illusions of itselft, in this moment, the Illusioner is completely immune to any kind of attack."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:illusioner{HandItems:[{Count:1,id:bow}]}",
+            "scale": 1,
+            "text": "$(li)The Illusioner can only be found in a Raid."
+        }
+             ]
+}

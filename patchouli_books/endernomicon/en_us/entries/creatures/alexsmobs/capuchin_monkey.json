@@ -1,0 +1,26 @@
+{    
+    "name": "Capuchin Monkey",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Capuchin monkeys are small creatures with black and cream-colored fur around their head that are located in the depths of the jungle. $(br2)You can find four variants:$(li)White Headed Capuchin $(li)Blond Capuchin $(li)Brown Capuchin $(li)Weeper Capuchin$(br2)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:capuchin_monkey",
+            "scale": 0.65
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Feeding them with eggs will heal them and they can bred feeding them with Maggots. You can feed them with bananas to tame them too. $(br2)If you give them Ancient Darts they will gain piercing damage.$(br2)Sometimes they can drop Banana Peel when they're eating a Banana. Those can be used to make Sopa De Macaco."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:sopa_de_macaco"
+        }
+             ]
+}

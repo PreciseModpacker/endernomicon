@@ -1,0 +1,19 @@
+{    
+    "name": "Pickaxe (Iron)",
+    "icon": "minecraft:iron_pickaxe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_pickaxe",
+            "text": "$(li)The Iron Pickaxe is the upgrade of the Stone Pickaxe.$(br)$(li)It can be crafted placing a pair of Iron Ingots and Sticks in a Crafting Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This pickaxe opens the possibility of mine new blocks like Gold Ore, Redstone Ore, Diamond Ore and Emerald Ore.$(br)$(li)The Iron Pickaxe has more durability than the Stone Pickaxe." 
+        }
+             ]
+}

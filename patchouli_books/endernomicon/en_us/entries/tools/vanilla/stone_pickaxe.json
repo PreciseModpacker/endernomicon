@@ -1,0 +1,19 @@
+{    
+    "name": "Pickaxe (Stone)",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/tools/stone_pickaxe",
+            "text": "$(li)The Stone Pickaxe is the upgrade of the Wooden Pickaxe.$(br)$(li)It can be crafted placing a pair of Cobblestone blocks and Sticks in a Crafting Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This pickaxe opens the possibility of mine new blocks like Iron Ore and Lapis Lazuli Ore.$(br)$(li)Toolsmiths will exchange your Emeralds by Stone Pickaxes.$(br)$(li)The Stone Pickaxe has more durability than the Wooden Pickaxe." 
+        }
+             ]
+}

@@ -1,0 +1,28 @@
+{    
+    "name": "Slime Armor",
+    "icon": "extraarmor:slime_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 7,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Slime Armor is a quiet better than the$(l:patchouli:armors/lapis_armor)Lapis Armor$(/l), $(l:patchouli:armors/feather_armor)Feather Armor$(/l) and $(l:patchouli:armors/magma_armor)Magma Armor$(/l).$(br)$(li)If you wear the complete set, you will get Projectile Protection II effect, reducing all the projectile damage that you receive like Arrows, thrown Tridents, shulker bullets or blaze fireballs."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Slime Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:slime_boots\",Count:1},{id:\"extraarmor:slime_leggings\",Count:1},{id:\"extraarmor:slime_chestplate\",Count:1},{id:\"extraarmor:slime_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:slime_helmet",
+            "recipe2":"extraarmor:slime_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:slime_leggings",
+            "recipe2":"extraarmor:slime_boots"
+        }
+             ]
+}

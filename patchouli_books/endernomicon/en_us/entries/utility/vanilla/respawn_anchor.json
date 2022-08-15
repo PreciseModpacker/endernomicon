@@ -1,0 +1,14 @@
+{    
+    "name": "Respawn Anchor",
+    "icon": "minecraft:respawn_anchor",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:respawn_anchor",
+            "text": "$(li)The Respawn Anchor is a block that allows you to set the Spawn Point in The Nether, as the Beds in the Overworld.$(br)$(li)First you have to place the Respawn Anchor and then, right click on it.",  
+            "link_recipe": "true"
+        }
+             ]
+}

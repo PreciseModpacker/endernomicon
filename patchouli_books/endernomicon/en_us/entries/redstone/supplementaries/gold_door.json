@@ -1,0 +1,19 @@
+{    
+    "name": "Gold Door",
+    "icon": "supplementaries:gold_door",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:gold_door",
+            "text": "$(li)The Gold Door by default can be accesible to anyone.$(br)$(li)If this one is powered by a redstone signal, it will disable any interaction with any person.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/gold_door.png",
+            "text": "$(li)This means that a powered Gold Door cannot be oppened or closed regardless of its state."
+        }
+             ]
+}

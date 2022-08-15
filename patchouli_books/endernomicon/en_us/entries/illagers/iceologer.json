@@ -1,0 +1,23 @@
+{    
+    "name": "Iceologer",
+    "icon": "savageandravage:wand_of_freezing",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Iceologers, are powerful wizards that are specialized in the ice element.$(br)$(li)It is rumored that the Iceologers were Frostmancers corrupted by their own magic, because of this, Illagers exiled them of their lands.$(br)$(li)The few Iceologers still alive appears rarely in Snowy Biomes during the night."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "savageandravage:iceologer",
+            "scale": 1,
+            "text": "On death they maybe drop the Wand of Freezing."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can inflict you the Frostbite effect too, slowing your walking speed in 80% and damaging you every second.$(br)$(li)They can summon big ice block on you, when those hit you, inflicts a lot of damage."
+        }
+             ]
+}

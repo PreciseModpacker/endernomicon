@@ -1,0 +1,105 @@
+{    
+    "name": "Boats",
+    "icon": "minecraft:oak_boat",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_boat",
+            "text": "$(li)Boats are vehicles used primarily for fast transport over the water and even over the Ice.$(br)$(li)A rider and a passager can be on a same Boat.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If a creature is near of a Boat, it will be trapped on it. This doesn't happend with all creatures, so be careful.$(br)$(li)To use it, just place the Boat and right click on it, then you will be able to move the Boat and finally get out of it pressing the Shift key.$(br)$(li)The are exist some variants of Boats for decoration purporses, just try it using any kind of wood."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/boats.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:birch_boat",
+            "recipe2": "minecraft:spruce_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_boat",
+            "recipe2": "minecraft:jungle_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:acacia_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/willow/willow_boat",
+            "recipe2": "environmental:building/wood/cherry/cherry_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/wisteria/wisteria_boat",
+            "recipe2": "bamboo_blocks:bamboo_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bayou_blues:crafting/cypress_boat",
+            "recipe2": "atmospheric:rosewood_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:morado_boat",
+            "recipe2": "atmospheric:yucca_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:aspen_boat",
+            "recipe2": "autumnity:maple_boat",
+            "link_recipe": "true"
+        },
+
+# MUSHROOMS
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_boat",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_boat",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_boat",
+            "link_recipe": "true"
+        },
+
+# RIVER
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_boat",
+            "recipe2": "upgrade_aquatic:river_boat",
+            "link_recipe": "true"
+        },
+
+# END
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_boat",
+            "link_recipe": "true"
+        }
+             ]
+}

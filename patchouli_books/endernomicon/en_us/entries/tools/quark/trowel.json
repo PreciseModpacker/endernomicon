@@ -1,0 +1,15 @@
+{    
+    "name": "Trowel",
+    "icon": "quark:trowel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/trowel",
+            "text": "$(li)A Trowel is a useful construction tool to build ruins or paths.$(br)$(li)When you right click while you have the Trowel in your hand, you will place a random block from your hotbar.",
+            "link_recipe": "true"
+        }
+             ]
+}

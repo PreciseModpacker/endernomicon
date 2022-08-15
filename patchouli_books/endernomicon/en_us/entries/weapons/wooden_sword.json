@@ -1,0 +1,21 @@
+{    
+    "name": "Sword (Wood)",
+    "icon": "minecraft:wooden_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:wooden_sword",
+            "text": "$(li)The Wooden Sword is the most basic Sword that you can create.$(br)$(li)You can make a better Sword, like the Stone Sword." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Wooden Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:wooden_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

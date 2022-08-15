@@ -1,0 +1,29 @@
+{    
+    "name": "Gravelly Mountains",
+    "icon": "minecraft:gravel",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Gravelly Mountains are a variant of the Mountains biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The Gravelly Mountains are like common Mountains, but They are composed of mostly by Gravel, Dirt and Stone."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the words $(l)Gravelly Mountains$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:gravelly_mountains, minecraft:modified_gravelly_mountains"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/gravelly_mountains.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

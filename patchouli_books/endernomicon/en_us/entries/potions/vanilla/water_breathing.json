@@ -1,0 +1,88 @@
+{    
+    "name": "Water Breathing",
+    "icon": "minecraft:potion{Potion:'minecraft:water_breathing'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Water Breathing",
+            "item": "minecraft:potion{Potion:'minecraft:water_breathing'}",
+            "text": "$(li)Water Breathing potions increases the duration that you can stay underwater without running out of exygen.$(br)$(li)The Potion of Water Breathing gives you 3 minutes of this effect."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Potion of Water Breathing Extended gives you 8 minutes of this effect.$(br)$(li)They can be brewed using a Pufferfish and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Water Breathing",
+            "input": "minecraft:pufferfish",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Water B. Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:water_breathing'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Water Breathing Splash",
+            "input": "minecraft:pufferfish",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Water Breathing Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:water_breathing'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. B. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_water_breathing'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. B. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:water_breathing'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Water B. Lingering",
+            "input": "minecraft:pufferfish",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Water B. Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:water_breathing'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. B. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:water_breathing'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_water_breathing'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. B. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_water_breathing'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_water_breathing'}"
+        }
+             ]
+}

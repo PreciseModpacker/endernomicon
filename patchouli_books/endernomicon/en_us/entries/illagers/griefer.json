@@ -1,0 +1,19 @@
+{    
+    "name": "Griefer",
+    "icon": "savageandravage:spore_bomb",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Griefer is a master of the explosives. It will never attack you directly, insteat it will use Creeper Spores to summon Creepies that will follow you and explote like common Creepers.$(br)$(li)It only can be found in a Raid.$(br)$(li)Oh Death, it may drops Creeper Spores."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "savageandravage:griefer",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Komodo Dragon Spit",
+    "icon": "alexsmobs:komodo_spit",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:komodo_spit",
+            "text": "$(li)Komodo Dragon Spit can be used to craft Slime Balls or Komodo Dragon Spit Bottles.$(br)$(li)It can be used to brew a Potion of Poison Resistance in a Brewing Stand too.$(br)$(li)Tamed Komodo Dragons sometimes drops this item.",
+            "link_recipe": "true"
+        }
+             ]
+}

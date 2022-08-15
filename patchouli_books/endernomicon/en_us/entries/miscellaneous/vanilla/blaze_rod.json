@@ -1,0 +1,20 @@
+{    
+    "name": "Blaze Rod",
+    "icon": "minecraft:blaze_rod",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:blaze_rod",
+            "text": "$(li)The Blaze Rod is a hot item that has diverses uses.$(br)$(li)It can be used to craft multiple items like Blaze Powder, Brewing Stand, Infernal Paintings, Blaze Lanterns and End Rods.$(br)$(li)Blazes and Wildifres may drop it on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be placed in a Furnace, Smoker, Blast Furnace, or Kiln to burn up to 12 items too.$(br2)Insert a picture of the Furnace and the Blaze Rod",
+            "link_recipe": "true"
+        }
+             ]
+}

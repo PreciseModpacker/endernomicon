@@ -1,0 +1,21 @@
+{    
+    "name": "Cocktail Cutlass",
+    "icon": "meetyourfight:cocktail_cutlass",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:cocktail_cutlass",
+            "text": "$(li)The Cocktail Cutkass is a magic sword which gives you beneficial Potion effects every time that you hit any creature with it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Bow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"meetyourfight:cocktail_cutlass\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Paintings",
+    "icon": "minecraft:painting",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:painting",
+            "text": "$(li)Paintings are decorative blocks that can only be placed in walls.$(br)$(li)This item will show a random design when is placed.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/infernal_painting",
+            "text": "$(li)The Infernal Painting is a variant of the common Paintings.$(br)$(li)They have a gold color frame and new designs than common Paintings."
+        }
+             ]
+}

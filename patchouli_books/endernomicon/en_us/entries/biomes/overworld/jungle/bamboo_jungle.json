@@ -1,0 +1,29 @@
+{    
+    "name": "Bamboo Jungle",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Bamboo Jungle is a humid climate composed of mostly of Bamboo and Podzo that can be found in the Overworld.$(br)$(li)Because the climate of this place, you can find a lot vegetation, like Bamboo, Melons, Bird of Paradise, Jungle and Oak Trees, Vines, Cocoa and Banana Bundles."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can find animals like Leafcutter Ants, Plantain Spiders, Panda Bears, Hummingbirds, Parrots, and even Tigers.$(br)$(li)You can search this biome introducing the words $(l)Bamboo Jungle$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:bamboo_jungle,minecraft:bamboo_jungle_hills"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/bamboo_jungle.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

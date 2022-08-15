@@ -1,0 +1,15 @@
+{    
+    "name": "Barometer",
+    "icon": "inspirations:barometer",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/barometer",
+            "text": "$(li)The Barometer is a tool that can be used to determine the altitude of the position you are in the world.$(br)$(li)The glass capsule inside of this item will be more full when higher your altiture.",
+            "link_recipe": "true"
+        }
+             ]
+}

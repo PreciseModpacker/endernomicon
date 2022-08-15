@@ -1,0 +1,23 @@
+{    
+    "name": "Deer",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Deers can be found in Flower Forest biomes and rarely over the Overworld.$(br2)If you are close of them, they will try desperately run away from you.$(br2)On death they may drop Leather or Raw Venison.$(br2)You can eat Raw Venison or cook it to get Cooked Venison."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:deer",
+            "scale": 0.9,
+            "offset": 0.20
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "environmental:misc/deer/cooked_venison"
+        }  
+             ]
+}

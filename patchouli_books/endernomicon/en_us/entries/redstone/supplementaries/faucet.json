@@ -1,0 +1,28 @@
+{    
+    "name": "Faucet",
+    "icon": "supplementaries:faucet",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:faucet",
+            "text": "Faucet can be activated by right clicking it's handle.$(br2)If it's powered with redstone it's active and non active states are inverted.$(br2)They extract items from the inventory bellow and spill them right bellow it's nozzle with a one second interval.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can connect Faucet in a fluid containing block.$(br2)Fluid containing blocks include: Waterlogged blocks, Fluid tanks, Jars, Goblets, Cauldrons, and special blocks like Pancakes, Tipped Spikes, Beehives are incluided too. $(br2)Once it's connected to a fluid containing block behind it can pour those fluids in any possible fluid container block below it. This will only be possible in 250mb increment."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:faucet",
+            "text": "Faucets can dump fluids in sponges effectively voiding them.$(br2)The same can already be done with lava cauldrons making them ideal trash can solutions."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insertar imagen faucet moviendo items y/o mobs"
+        }
+             ]
+}

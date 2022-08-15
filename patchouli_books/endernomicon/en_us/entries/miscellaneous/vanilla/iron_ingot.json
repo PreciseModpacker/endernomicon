@@ -1,0 +1,50 @@
+{    
+    "name": "Ingot (Iron)",
+    "icon": "minecraft:iron_ingot",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:iron_ingot",
+            "text": "$(li)The Iron Ingot is a hard metal that can be obtained smelting an Iron Ore, slaying creatures as Husks, Zombies or Mimics or found in Loot Chests.$(br)$(li)This item can be used in multiple crafts in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Armors & Weapons",
+            "text": "$(li)Ace of Iron$(li)Antler Headdress$(li)Bone Raker$(li)Bomb$(li)Caged Heart$(li)Crossbow$(li)Depth Star$(li)Iron Armor$(li)Iron Axe$(li)Iron Shield$(li)Iron Sword$(li)Iron Wolf Armor$(li)Shield$(li)Slicer's Dice" 
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tools",
+            "text": "$(li)Abacus$(li)Backpack$(li)Bucket$(li)Compass$(li)Echolocator$(li)Flint and Steel$(li)Iron Chisel$(li)Iron Hoe$(li)Iron Shovel$(li)North Compass$(li)Photometer$(li)Shears$(li)Trowel$(li)Wrench"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Utility",
+            "text": "$(li)Anvil$(li)Black Key$(li)Black Lock$(li)Blast Furnace$(li)Cage$(li)Cauldron$(li)Goblet$(li)Hummingbird Feeder$(li)Iron Chest$(li)Lock Block$(li)Sawmill$(li)Smithing Table$(li)Stonecutter$(li)Woodcutter"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Redstone",
+            "text": "$(li)Cog Block$(li)Faucet$(li)Heavy W. Pressure Plate$(li)Hopper$(li)Iron Button$(li)Iron Rod$(li)Item Pipe$(li)Magnet$(li)Pipe$(li)Piston$(li)Pulley Block$(li)Spring Launcher$(li)Tripwire Hook$(li)Wind Vane"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Transport",
+            "text": "$(li)Activator Rail$(li)Detector Rail$(li)Minecart$(li)Minecart with Chest$(li)Minecart with Furnace$(li)Minecart with Hopper$(li)Minecart with TNT$(li)Rail"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Decoration",
+            "text": "$(li)Chains$(li)Copper Lantern$(li)Crates$(li)Factory Blocks$(li)Framed Glass$(li)Framed Glass$(li)Iron Bars$(li)Iron Door$(li)Iron Gate$(li)Iron Ladder$(li)Iron Plate$(li)Iron Trapdoor$(li)Rusty Iron Plate$(li)Tyrian"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Miscellaneous",
+            "text": "$(li)Block of Iron$(li)End Crystal Ingot$(li)Iron Nugget$(li)Iron to Gold Chest Upgrade$(li)Wood to Iron Chest Upgrade"
+        }
+             ]
+}

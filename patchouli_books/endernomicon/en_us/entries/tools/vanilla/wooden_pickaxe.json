@@ -1,0 +1,19 @@
+{    
+    "name": "Pickaxe (Wood)",
+    "icon": "minecraft:wooden_pickaxe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:wooden_pickaxe",
+            "text": "$(li)The Wooden Pickaxe is the most basic Pickaxe that you can create.$(br)$(li)It can be crafted placing a pair of Wood Planks and Sticks in a Crafting Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can mine basic block like Stone, Coal, Nether Quartz Ore, Nether Gold Ore, End Crystal Ore, or Biotite Ore with this pickaxe." 
+        }
+             ]
+}

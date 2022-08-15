@@ -1,0 +1,27 @@
+{    
+    "name": "Falconry Hood",
+    "icon": "alexsmobs:falconry_hood",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:falconry_hood",
+            "text": "To improve upon one's falconry skill with your $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagle$(/l), a Falconry Hood can be crafted.$(br2)The hood can be placed on an eagle's head, and an eagle with be able to be piloted by its owner, like a drone.$(br2)If the eagle flies further than 150 blocks from its owner, it will attempt to return.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To stop controlling the eagle, the owner can also sneak. The hood can be removed from the eagle with shears."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Falnconry Hood"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:falconry_hood"
+        }
+             ]
+}

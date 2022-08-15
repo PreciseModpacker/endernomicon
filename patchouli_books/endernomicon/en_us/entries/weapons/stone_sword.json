@@ -1,0 +1,22 @@
+{    
+    "name": "Sword (Stone)",
+    "icon": "minecraft:stone_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/tools/stone_sword",
+            "text": "$(li)The Stone Sword is the direct upgrade of the Wooden Sword.$(br)$(li)This one inflicts more damage and has more durability than the Wood Sword." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Stone Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:stone_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+
+             ]
+}

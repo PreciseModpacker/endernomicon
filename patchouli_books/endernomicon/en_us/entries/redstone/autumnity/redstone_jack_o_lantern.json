@@ -1,0 +1,20 @@
+{    
+    "name": "Redstone Jack o'Lantern",
+    "icon": "autumnity:redstone_jack_o_lantern",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:redstone_jack_o_lantern",
+            "text": "$(li)A Jack o'Lantern is the $(l:patchouli:decoration/autumnity/jack_o_lanterns)Jack'o Lantern$(/l) Redstone Lamp version.",
+            "link_recipe": "true",
+            "title": "Redstone Jack Lantern"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_jack_lantern.png",
+            "text": "$(li)As the Redstone Lamp, the Redstone Jack o'Lantern can only be turned on with a redstone signal."
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Snowy Beach",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Snowy Beach is variant of the Beach biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place, as the Beach biome is composed of mostly by Sand and Water, but but is covered on top with a layer of Snow and water were turned into Ice."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Seals can be found lying on the Ice of these Beaches.$(br)$(li)You can search this biome introducing the words $(l)Snowy Beach$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "minecraft:snowy_beach"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/snowy_beach.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

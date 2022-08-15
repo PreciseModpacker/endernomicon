@@ -1,0 +1,14 @@
+{
+    "name": "Redstone Comparator",
+    "icon": "minecraft:comparator",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:comparator",
+            "text": "$(li)The Redstone Comparator that is used to maintain, compare, subtract signal strength, or to measure certain block states. [When we insert pictures use the Wiki Redstone comparator as a reference to explain the different functions]"
+        }
+             ]
+}

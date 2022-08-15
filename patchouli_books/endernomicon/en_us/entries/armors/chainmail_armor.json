@@ -1,0 +1,38 @@
+{    
+    "name": "Chainmail Armor",
+    "icon": "minecraft:chainmail_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Chainmail Armor is quiet better than Ice Armor.$(br)$(li)Armorers will exchange pieces of this armor by Emeralds."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Chainmail Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:chainmail_boots,Count:1},{id:chainmail_leggings,Count:1},{id:chainmail_chestplate,Count:1},{id:chainmail_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:chainmail_helmet",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item":"minecraft:chainmail_chestplate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:chainmail_leggings",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item":"minecraft:chainmail_boots",
+            "link_recipe": "true"
+        }
+             ]
+}

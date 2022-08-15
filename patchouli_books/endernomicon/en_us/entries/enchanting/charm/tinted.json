@@ -1,0 +1,14 @@
+{    
+    "name": "Tinted",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
+            "text": "$(li)The Tinted enchantment can be applied in a Sword, Pickaxe, Shovel, Axe, Hoe, Shears, Bow, Crossbow, Fishing Rod, Trident, Elytra, Pickarang, Helmet, Chestplate, Leggings and Boots.$(br)$(li)This enchantment allows changing the color of the enchantment glint using dye in a Anvil.",
+            "title": "Tinted"
+        }
+             ]
+}

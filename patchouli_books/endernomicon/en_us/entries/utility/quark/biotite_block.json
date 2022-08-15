@@ -1,0 +1,19 @@
+{    
+    "name": "Block (Biotite)",
+    "icon": "quark:biotite_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/biotite_block",
+            "text": "$(li)Biotite Block is a new decorative block.$(br)$(li)It can be used to save Biotite in a more efficient way.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to craft Biotite Bricks, Ender Watcher, Biotite Slabs, Biotite Stairs, Biotite Walls and Biotite Pillars in a Crafting Table.$(br)$(li)You can obtain Smooth Biotite block Smelting a Block of Biotite in a Furnace or Kiln.$(br)$(li)It can be placed in a Stonecutting to make other decorative blocks.",
+            "link_recipe": "true"
+        }
+             ]
+}

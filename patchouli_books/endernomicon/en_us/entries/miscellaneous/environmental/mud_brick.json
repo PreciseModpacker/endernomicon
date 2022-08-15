@@ -1,0 +1,20 @@
+{    
+    "name": "Mud Brick",
+    "icon": "environmental:mud_brick",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "environmental:building/mud_brick",
+            "text": "$(li)The Mud Bricks can be used to craft Mud Bricks and a Slabfish Effigy.$(br)$(li)You can throw them to your enemies right clicking while you have a Mud Brick on your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They will inflict half of heart of damage and will push your enemies away too.$(br)$(li)You can obtain Bricks smelting Mud in a Furnace, or Kiln.$(br)$(li)Ceramist will trade this item in exchange of Emerals too.$(br)$(li)Their throw range is the largest compared to the Nether Brick (Lowest) and Brick (Middle).",
+            "link_recipe": "true"
+        }
+             ]
+}

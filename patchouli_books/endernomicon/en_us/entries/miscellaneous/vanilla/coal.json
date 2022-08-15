@@ -1,0 +1,20 @@
+{    
+    "name": "Coal",
+    "icon": "minecraft:coal",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:coal",
+            "text": "$(li)The Coal is a burnable material that can be found and mined easily in the Caves.$(br)$(li)Some creatures as the Baby Wither Skeletons, Wither Skeletons, Foxhounds, and Soul Vultures drops this material when they are slayed too.$(br)You can find Coal in Loot Chests too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Coal can be used as a fuel in Furnaces, Smokers, Blast Furnaces and Kilns.$(br)$(li)One Coal can smell up 8 items, so with 8 Coals you can smelt 1 complete stack.$(br)$(li)Coal can be used to craft Fire Charges, Torchs, Braziers, Block of Coal and Campfires in a Crafting Table too.",
+            "link_recipe": "true"
+        }
+             ]
+}

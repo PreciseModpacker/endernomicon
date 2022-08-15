@@ -1,0 +1,27 @@
+{    
+    "name": "Hat Launcher",
+    "icon": "hats:hat_launcher",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "hats:hat_launcher",
+            "text": "$(li)The Hat Launcher is a tool that can be used to cover mobs with any of your current hats of the Hats mod.$(br)$(li)Just right click while you are holding this tool in your hand to shoot a random hat.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you hit a creature with this shooted hat, it will start to wear that hat.$(br)$(li)If the hat falls to the ground, it will appear like an static entity.$(br)$(li)When any creature walks very near of this hat, it will weat it."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/hat_launcher.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

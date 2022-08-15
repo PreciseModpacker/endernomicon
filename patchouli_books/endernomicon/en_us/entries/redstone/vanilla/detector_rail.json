@@ -1,0 +1,18 @@
+{
+    "name": "Rail (Detector)",
+    "icon": "minecraft:detector_rail",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:detector_rail",
+            "text": "$(li)Detector Rails are a variant of the common Rail.$(br)$(li)This kind of Rail works as Pressure Plates, but only for Minecarts."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When a Minecart is located on a Detector Rail, this one will emit a redstone signal to near blocks."
+        }
+             ]
+}

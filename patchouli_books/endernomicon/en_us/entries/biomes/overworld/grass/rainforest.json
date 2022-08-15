@@ -1,0 +1,29 @@
+{    
+    "name": "Rain Forest",
+    "icon": "minecraft:mossy_cobblestone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Rain Forest is a biome composed of trees flooded by the abundant water.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this wet place you can find some vegetation, like Rosewood and Morado Trees, Lily Pads, Bird of Paradise and Scalding Monkey Brush."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Hummingbirds can be found here.$(br)$(li)You can find an exclusive kind of Spider in this biome known as the Plantain Spider.$(br)$(li)You can search this biome introducing the word $(l)Rainforest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)atmospheric:rainforest,atmospheric:rainforest_basin,atmospheric:rainforest_mountains,atmospheric:rainforest_plateau,atmospheric:sparse_rainforest_basin,atmospheric:sparse_rainforest_plateau,"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/rain_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

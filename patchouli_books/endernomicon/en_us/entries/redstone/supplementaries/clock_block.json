@@ -1,0 +1,27 @@
+{    
+    "name": "Clock Block",
+    "icon": "supplementaries:clock_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:clock_block",
+            "text": "$(li)The Clock Block visually displays the current in-game time.$(br)$(li)Right clicking on it will display the current time in digital format.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A Comparator can be used to receive a signal from 0 to 15 that is proporcional to the in-game time which is from 0 to 24.$(br)$(li)An Observer will detect a block update each time an in-game hour passes."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/clock_block.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

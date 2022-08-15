@@ -1,0 +1,19 @@
+{    
+    "name": "Pickaxe (Netherite)",
+    "icon": "minecraft:netherite_pickaxe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_pickaxe",
+            "text": "$(li)The Netherite Pickaxe is the upgrade of the Diamond Pickaxe.$(br)$(li)It can be crafted placing a Netherite Ingot and a Diamond Pickaxe in a Smithing Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This pickaxe has more durability than the Diamond Pickaxe.$(br)$(li)This item can't be burned." 
+        }
+             ]
+}

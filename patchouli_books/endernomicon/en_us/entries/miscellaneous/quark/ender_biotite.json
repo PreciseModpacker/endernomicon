@@ -1,0 +1,15 @@
+{    
+    "name": "Ender Biotite",
+    "icon": "quark:biotite",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "quark:world/smelting/biotite",
+            "text": "$(li)The Ender Biotite is an item that you can use to craft a Block of Biotite, a Redstone Randomizer, or a Weather Detector in a Crafting Table.$(br)$(li)You can obtain this item Smelting Biotite Ore in a Furnace or Blast Furnace.",
+            "link_recipe": "true"
+        }
+             ]
+}

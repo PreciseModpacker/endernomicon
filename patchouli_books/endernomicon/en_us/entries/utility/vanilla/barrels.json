@@ -1,0 +1,52 @@
+{    
+    "name": "Barrels",
+    "icon": "crumbs:oak_barrel",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:oak_barrel",
+            "text": "$(li)Barrels are an alternative from the common Chests.$(br)$(li)Just place the block and right click on them to open their inventory.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)As the common Chests, Barrels have 27 slots of capacity.$(br)$(li)There are exist ten different versions of the Barrels."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/barrels_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/barrels_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:dark_oak_barrel",
+            "recipe2": "crumbs:birch_barrel",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:jungle_barrel",
+            "recipe2": "crumbs:acacia_barrel",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:crimson_barrel",
+            "recipe2": "crumbs:warped_barrel",
+            "link_recipe": "true"
+        }
+             ]
+}

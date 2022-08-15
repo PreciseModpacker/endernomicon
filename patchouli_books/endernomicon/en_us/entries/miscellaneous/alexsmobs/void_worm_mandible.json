@@ -1,0 +1,15 @@
+{    
+    "name": "Void Worm Mandible",
+    "icon": "alexsmobs:void_worm_mandible",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:void_worm_mandible",
+            "text": "$(li)Those hard mandibles once belonged to a mighty creature from the End.$(br)$(li)They can be used to craft a Void Worm Break and the Dimensional Carver in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

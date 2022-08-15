@@ -1,0 +1,20 @@
+{    
+    "name": "Nether Brick",
+    "icon": "minecraft:nether_brick",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:nether_brick",
+            "text": "$(li)The Nether Bricks can be used to craft Nether Brick Fences, Nether Brick Fence Gates, Nether Bricks, Red Nether Bricks, Blue Nether Bricks and a Blood Sprayer.$(br)$(li)You can throw them to your enemies right clicking while you have a Nether Brick on your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They will inflict half of heart of damage and will push your enemies away too.$(br)$(li)You can obtain Bricks smelting Clay in a Furnace, Baking or Kiln.$(br)$(li)Their throw range is the lowest compared to the Brick and Mud Brick.",
+            "link_recipe": "true"
+        }
+             ]
+}

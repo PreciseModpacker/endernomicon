@@ -1,0 +1,18 @@
+{
+    "name": "Tripwire Hook",
+    "icon": "minecraft:tripwire_hook",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:tripwire_hook",
+            "text": "$(li)The Tripwire Hook is a placeable block that is capable of detect players, creatures, or even items.$(br)$(li)First you need to place two Tripwire Hook lined up."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Now just right click on them while you are holding String on your hand.$(br)$(li)This item can be used to craft a Trapped Chest in a Crafting Table.$(br)$(li)Fletcher will exchange your Tripwire Hooks by Emeralds.$(br2)Insert a picture of Tripwire Hook"
+        }
+             ]
+}

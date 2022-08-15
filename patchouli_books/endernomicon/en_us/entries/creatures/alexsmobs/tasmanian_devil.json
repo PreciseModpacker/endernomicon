@@ -1,0 +1,19 @@
+{    
+    "name": "Tasmanian Devil",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tasmanian Devils are small marsupials found in temperate or roofed forest biomes.$(br2)When attacking their preis (rabbits or chickens), all nearby Tasmanian Devils will join in on the hunt.$(br2)The Tasmanian Devil will unleash a howl that turns their eyes red and can scare away all nearby monsters for a short time."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:tasmanian_devil",
+            "scale": 0.65,
+            "text": "Their favorite food of Rotten Flesh. These little creatures cannot be tamed, but they can be bred with any meat."
+        }
+             ]
+}

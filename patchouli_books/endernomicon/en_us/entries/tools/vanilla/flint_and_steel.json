@@ -1,0 +1,19 @@
+{    
+    "name": "Flint and Steel",
+    "icon": "minecraft:flint_and_steel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:flint_and_steel",
+            "text": "$(li)The Flint and Steel is a tool that allows you to produce fire.$(br)$(li)Just right click while you are holding the Flint and Steel on your hand."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:flint_n_steel_dropbear_claw",
+            "text": "$(li)You can use it to activate the Nether Portal.$(br)$(li)Be careful, if you or other creature touch the fire, it will start to burn."
+        }
+             ]
+}

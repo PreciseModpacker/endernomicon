@@ -1,0 +1,28 @@
+{    
+    "name": "Lapis Armor",
+    "icon": "extraarmor:lapis_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 5,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Lapis Armor is quiet better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)If you wear the complete set, you will obtain the Mending effect, making your armor repair automatically when you get experience orbs."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Lapis Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:lapis_boots\",Count:1},{id:\"extraarmor:lapis_leggings\",Count:1},{id:\"extraarmor:lapis_chestplate\",Count:1},{id:\"extraarmor:lapis_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:lapis_helmet",
+            "recipe2":"extraarmor:lapis_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:lapis_leggings",
+            "recipe2":"extraarmor:lapis_boots"
+        }
+             ]
+}

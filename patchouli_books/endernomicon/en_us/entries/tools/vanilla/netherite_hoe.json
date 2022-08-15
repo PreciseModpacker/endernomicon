@@ -1,0 +1,15 @@
+{    
+    "name": "Hoe (Netherite)",
+    "icon": "minecraft:netherite_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:netherite_hoe",
+            "text": "$(li)The Netherite Hoe is the upgrade of the Diamond Hoe.$(br)$(li)It has a greater durability than the Netherite Hoe.$(br)$(li)This item can't be burned.$(br)$(li)You can use it to create Farmland." ,
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Bell",
+    "icon": "minecraft:bell",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bell",
+            "text": "$(li)The Bell is a decorative item that will emit sound when you right click on it.$(br)$(li)Armorers, Toolsmiths, and Weaponsmiths will exchange your Emeralds by a Bell.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/bell.png",
+            "text": "$(li)You can find Bells placed in the center of the Villagers."
+        }
+             ]
+}

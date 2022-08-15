@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "type": "image",
+      "image": "#picture",
+      "x": 2,
+      "y": -4,
+      "width": 110,
+      "height": 107,
+      "texture_width": 110,
+      "texture_height": 107
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 0,
+      "y": 96
+    }
+  ]
+}

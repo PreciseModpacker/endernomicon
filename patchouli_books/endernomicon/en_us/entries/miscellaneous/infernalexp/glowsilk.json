@@ -1,0 +1,15 @@
+{    
+    "name": "Glowsilk",
+    "icon": "infernalexp:glowsilk",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:glowsilk",
+            "text": "$(li)Glowsilk is a hard and shiny item that can be used to craft a Glowsilk Bow in a Crafting Table.$(br)$(li)This item can be crafted with a Moth Dust an String in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

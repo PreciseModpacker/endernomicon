@@ -1,0 +1,259 @@
+{    
+    "name": "Glass Panes",
+    "icon": "minecraft:glass_pane",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:glass_pane",
+            "text": "$(li)The Glass Panes are transparent decorative blocks.$(br)$(li)They are a good alternative of the Glass Blocks.$(br)$(li)They can be added in a lot of Slabs and Stairs.",
+            "link_recipe": "true",
+            "title": "Glass Panes"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Glass Panes"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:white_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/white",
+            "title": "White S. Glass Pane"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:white_stained_glass_pane",
+            "title": "White S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:orange_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/orange",
+            "title": "Orange S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:orange_stained_glass_pane",
+            "title": "Orange S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:magenta_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/magenta",
+            "title": "Magenta S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:magenta_stained_glass_pane",
+            "title": "Magenta S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_blue_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/light_blue",
+            "title": "Light Blue S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_blue_stained_glass_pane",
+            "title": "Light Blue S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:yellow_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/yellow",
+            "title": "Yellow S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:yellow_stained_glass_pane",
+            "title": "Yellow S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lime_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/lime",
+            "title": "Lime S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lime_stained_glass_pane",
+            "title": "Lime S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:pink_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/pink",
+            "title": "Pink S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:pink_stained_glass_pane",
+            "title": "Pink S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gray_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/gray",
+            "title": "Gray S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gray_stained_glass_pane",
+            "title": "Gray S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_gray_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/light_gray",
+            "title": "Light Gray S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_gray_stained_glass_pane",
+            "title": "Light Gray S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cyan_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/cyan",
+            "title": "Cyan S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cyan_stained_glass_pane",
+            "title": "Cyan S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:purple_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/purple",
+            "title": "Purple S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:purple_stained_glass_pane",
+            "title": "Purple S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blue_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/blue",
+            "title": "Blue S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blue_stained_glass_pane",
+            "title": "Blue S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brown_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/brown",
+            "title": "Brown S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brown_stained_glass_pane",
+            "title": "Brown S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/green",
+            "title": "Green S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_stained_glass_pane",
+            "title": "Green S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/red",
+            "title": "Red S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_stained_glass_pane",
+            "title": "Red S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:black_stained_glass_pane_from_glass_pane",
+            "recipe2": "inspirations:cauldron/bottle/stained_glass_pane/black",
+            "title": "Black S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:black_stained_glass_pane",
+            "title": "Black S. Glass Pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/panes/dirty_glass_pane",
+            "text": "$(li)The Dirty Glass Pane is a variant of the common Glass Panes, that, as its name says, its dirty, so you will not be able to see too much through them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafing/panes/framed_glass_pane",
+            "text": "$(li)The Framed Glass Panes are a good alternative of the common Glass Panes for your constructions and decorations.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/white_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/orange_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/magenta_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/light_blue_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/yellow_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/lime_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/pink_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/gray_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/light_gray_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/cyan_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/purple_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/blue_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/brown_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/green_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/panes/red_framed_glass_pane",
+            "recipe2": "quark:building/crafting/panes/black_framed_glass_pane"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/quartz_glass_pane",
+            "text": "$(li)The Quartz Glass Pane is just the Quartz version of the common Glass Panes.$(br)$(li)It can not be added in any Slabs or Stairs.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/glow_glass_pane",
+            "text": "$(li)The Glow Glass Pane is the only Glass Pane that is a source light too.$(br)$(li)It can not be added in any Slabs or Stairs.",
+            "link_recipe": "true"
+        }
+             ]
+}

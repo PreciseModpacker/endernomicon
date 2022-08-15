@@ -1,0 +1,160 @@
+{    
+    "name": "Bad Luck",
+    "icon": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
+            "text": "$(li)Bad Luck potions decrease your probability of finding good loot in the naturally generated chests.$(br)$(li)They can be brewed using a Fermented Spider Eye and a $(l:patchouli:potions/buzzier_bees/luck)Luck Potion$(/l) as ingredients in a Brewing Stand."
+        },
+        {
+	    "type": "potion",
+            "title": "Bad Luck", 
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Extended", 
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:long_luck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck II",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:strong_luck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Splash Ext...",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:long_luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:long_unluck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck II Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:strong_luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck II Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:strong_unluck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck II Splash",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering Ext...",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'buzzier_bees:long_luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:long_unluck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:long_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'buzzier_bees:unluck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:strong_unluck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_unluck'}"
+       },
+       {
+            "type": "potion",
+            "title": "Bad Luck Lingering II",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_unluck'}"
+       }
+             ]
+}

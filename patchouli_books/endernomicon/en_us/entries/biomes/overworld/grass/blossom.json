@@ -1,0 +1,29 @@
+{    
+    "name": "Blossom",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Blossom is a biome composed of Cherry trees and Cherry Leaf Carpets on the ground that can be found in the Overworld.$(br)$(li)In this wet place you can find some vegetation, like Cherry and Birch Trees, Bamboo, Red Lotus Flowers and Lilies of the Valley."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Foxes or Kois can be found here.$(br)$(li)You can search this biome introducing the word $(l)Blossom$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)environmental:blossom_highlands, environmental:blossom_hills, environmental:blossom_valleys, environmental:blossom_woods"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/blossom_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

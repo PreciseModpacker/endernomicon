@@ -1,0 +1,15 @@
+{    
+    "name": "Seeds (Sweet Berry)",
+    "icon": "berry_good:sweet_berry_pips",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "berry_good:sweet_berry_pips",
+            "text": "$(li)Sweet Berry Pips can be plant in Farmland to generate Sweet Berries.$(br)$(li)You can use Sweet Berry Pips to craft a Seed Pouch in a Crafting Table too.$(br)$(li)Finally you can put Sweet Berry Pips in a Composter to generate Bone Meal.",
+            "link_recipe": "true"
+        }
+             ]
+}

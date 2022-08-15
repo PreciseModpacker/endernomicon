@@ -1,0 +1,29 @@
+{    
+    "name": "Frozen River",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Frozen River is a variant of the River biome in which its surface is composed by Ice.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed by Clay, Sand, and rarely Driftwood logs."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can find some water vegetation like Seagrass or Tall Purle Pickerelweed.$(br)$(li)Some aquatic animals can like Salmons, Cods, Pikes and Squids can be found inside of the water of this place.$(br)$(li)You can search this biome introducing the words $(l)Frozen River$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:frozen_river"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/frozen_river.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

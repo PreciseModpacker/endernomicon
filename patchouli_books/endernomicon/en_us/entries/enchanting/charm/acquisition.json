@@ -1,0 +1,14 @@
+{    
+    "name": "Acquisition",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:acquisition',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:acquisition',lvl:1}]}",
+            "text": "$(li)The Acquisition enchantment can be applied in a Pickaxe, Shovel, Axe, Hoe and Shears.$(br)$(li)This enchantment makes tools automatically pick up drops.",
+            "title": "Acquisition"
+        }
+             ]
+}

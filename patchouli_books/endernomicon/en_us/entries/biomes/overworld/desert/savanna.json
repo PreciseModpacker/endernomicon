@@ -1,0 +1,29 @@
+{    
+    "name": "Savanna",
+    "icon": "minecraft:sand",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Savanna is a warm biome composed mostly by Grass.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find some vegetation, like Acacia trees, Cactus, Poppies, Dandelions, Alliums, Grass and sometimes Spruce or Oak trees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Roadrunners, Kangaroos, Emus, Elephants and Gazelles can be found here.$(br)$(li)On the nights Hushes will be around the Deserts too.$(br)$(li)You can search this biome introducing the word $(l)Savanna$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:savanna,minecraft:savanna_plateau,minecraft:shattered_savanna,minecraft:shattered_savanna_plateau"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/savanna.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,27 @@
+{    
+    "name": "Magnet",
+    "icon": "quark:magnet",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:oddities/crafting/magnet",
+            "text": "$(li)The Magnet is a block that can attrack metal blocks when is receiving a redstone singnal.$(br)$(li)It has two sides, the blue side will attrack metalic blocks up to 4 blocks away.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The red side will repel metalic blocks up to 4 blocks away.$(br)$(li)Some of the blocks that are affected by Magnets are the Iron Block and the Chain."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/magnet.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

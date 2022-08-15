@@ -1,0 +1,20 @@
+{
+    "name": "Portable Crafting Table",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Pressing the V key on your keyboard you can access to a Portable Crafting Table.$(br)$(li)In other words you will not need to place a Crafting Table to use it anymore.$(br)$(li)Sadly, this function only works with the common Oak Crafting Table." 
+        },
+        {
+            "type": "patchouli:image",
+            "title": "Portable Crafting Table",
+            "images": [
+                      "endermonicon:textures/book/entries/perks/portable_crafting_table.png"
+                      ]
+        }
+             ]
+}

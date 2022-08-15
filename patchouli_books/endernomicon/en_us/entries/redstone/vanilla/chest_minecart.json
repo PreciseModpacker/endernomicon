@@ -1,0 +1,14 @@
+{
+    "name": "Minecart (Chest)",
+    "icon": "minecraft:chest_minecart",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:chest_minecart",
+            "text": "$(li)Minecart with Chest are a new variant of the common Minecart.$(br)$(li)The Chest contained in the Minecart works as the common Chests."
+        }
+             ]
+}

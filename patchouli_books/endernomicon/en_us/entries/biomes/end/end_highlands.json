@@ -1,0 +1,29 @@
+{    
+    "name": "End Highlands",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The End Highlands is a biome composed of the outer islands of the End, forming the the hilltops in the center of each island.$(br)$(li)In this Biome you can find Chorus Plants.$(br)$(li)Some creatues like Endermans and Spectres can be found here too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the words $(l)End Highlands$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:end_highlands"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/end_highlands.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

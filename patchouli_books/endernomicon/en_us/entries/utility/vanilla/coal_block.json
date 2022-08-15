@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Coal)",
+    "icon": "minecraft:coal_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:coal_block",
+            "text": "$(li)Coal Block is a new decorative block that can be used to save Coal in a more efficient way.$(br)$(li)It can be used as a fuel to burn up to 80 items with only 1 block of Coal. ",  
+            "link_recipe": "true"
+        }
+             ]
+}

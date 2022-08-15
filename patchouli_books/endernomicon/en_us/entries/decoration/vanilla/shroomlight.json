@@ -1,0 +1,18 @@
+{    
+    "name": "Shroomlight",
+    "icon": "minecraft:shroomlight",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:shroomlight",
+            "text": "$(li)The Shroomlight is a source light block that can be found in the Crimson Forest and Warped Fungus biomes.$(br)$(li)Warped Toads may drop them on death.$(br)$(li)They can be used to craft Crimson Lanterns and Lamps in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Shroomlight in the Nether"
+        }
+             ]
+}

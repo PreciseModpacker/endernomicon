@@ -1,0 +1,18 @@
+{    
+    "name": "Snow Leopard",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Snow Leopars are big cats that can be found in snowy and mountainous biomes. For lucky, they are not aggresive towards humans.$(br2)They will hunt other animals like Sheeps or Horsers.$(br2)You can't tame them but you still bred them with Raw Moose Ribs, this meat is dropped by $(l:patchouli:creatures/alexsmobs/moose)Mooses$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:snow_leopard",
+            "scale": 0.6
+        }
+             ]
+}

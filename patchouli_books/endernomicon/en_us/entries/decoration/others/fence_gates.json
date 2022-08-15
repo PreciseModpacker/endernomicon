@@ -1,0 +1,79 @@
+{    
+    "name": "Fence Gates",
+    "icon": "minecraft:oak_fence_gate",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_fence_gate",
+            "text": "$(li)Fences Gates are blocks that can be placed near to Fences to allow you or other creatures go though them more easily.",
+            "link_recipe": "true",
+            "title": "Fence Gates"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:spruce_fence_gate",
+            "recipe2":"minecraft:birch_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:jungle_fence_gate",
+            "recipe2":"minecraft:acacia_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_fence_gate",
+            "recipe2":"environmental:building/wood/willow/willow_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_fence_gate",
+            "recipe2":"environmental:building/wood/wisteria/wisteria_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_fence_gate",
+            "recipe2":"enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_fence_gate",
+            "recipe2": "bayou_blues:crafting/cypress_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_fence_gate",
+            "recipe2":"upgrade_aquatic:river_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_fence_gate",
+            "recipe2":"atmospheric:morado_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_fence_gate",
+            "recipe2": "atmospheric:aspen_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bamboo_blocks:bamboo_fence_gate",
+            "recipe2":"autumnity:maple_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crimson_fence_gate",
+            "recipe2":"minecraft:warped_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/nether_brick_fence_gate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_fence_gate",
+            "recipe2": "cataclysm:chorus_fence_gate"
+        }
+             ]
+}

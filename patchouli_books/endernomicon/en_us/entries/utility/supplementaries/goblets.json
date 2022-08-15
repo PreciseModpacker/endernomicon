@@ -1,0 +1,26 @@
+{    
+    "name": "Goblet",
+    "icon": "supplementaries:goblet",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:goblet",
+            "text": "$(li)The Goblet is a new decoration block.$(br)$(li)It can hold 1 bottle of liquids like Water, Lava and Milk.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If the liquid stored in the Goblet is drinkable, you will be able to drink it directly from the Goblet"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/goblet.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

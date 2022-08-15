@@ -1,0 +1,78 @@
+{    
+    "name": "Wood Armor",
+    "icon": "extraarmor:oak_wood_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Wood Armor is an armor with low durability and protection. You need Wood to craft it, that makes it perfect for the beginning of your adventure.$(br2)$(l)Wood Armor variants$()$(li)Oak Wood Armor $(li)Birch Wood Armor $(li)Jungle Wood Armor $(li)Spruce Wood Armor $(li)Dark Oak Armor $(li)Acacia Wood Armor"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Wood Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:oak_wood_boots\",Count:1},{id:\"extraarmor:oak_wood_leggings\",Count:1},{id:\"extraarmor:oak_wood_chestplate\",Count:1},{id:\"extraarmor:oak_wood_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:oak_wood_helmet",
+            "recipe2":"extraarmor:oak_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:oak_wood_leggings",
+            "recipe2":"extraarmor:oak_wood_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:birch_wood_helmet",
+            "recipe2":"extraarmor:birch_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:birch_wood_leggings",
+            "recipe2":"extraarmor:birch_wood_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:jungle_wood_helmet",
+            "recipe2":"extraarmor:jungle_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:jungle_wood_leggings",
+            "recipe2":"extraarmor:jungle_wood_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:spruce_wood_helmet",
+            "recipe2":"extraarmor:spruce_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:spruce_wood_leggings",
+            "recipe2":"extraarmor:spruce_wood_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:dark_oak_wood_helmet",
+            "recipe2":"extraarmor:dark_oak_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:dark_oak_wood_leggings",
+            "recipe2":"extraarmor:dark_oak_wood_boots"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:acacia_wood_helmet",
+            "recipe2":"extraarmor:acacia_wood_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:acacia_wood_leggings",
+            "recipe2":"extraarmor:acacia_wood_boots"
+        }
+             ]
+}

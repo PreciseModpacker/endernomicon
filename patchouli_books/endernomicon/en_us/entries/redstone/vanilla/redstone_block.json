@@ -1,0 +1,19 @@
+{    
+    "name": "Block of Redstone",
+    "icon": "minecraft:redstone_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:redstone_block",
+            "text": "$(li)The Redstone Block is a new block that can be used to save Redstone in a more efficient way.$(br)$(li)It can be used to craft a Cog Block in a Crafting Table too.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_block.png",
+            "text": "$(li)The Redstone Block emits a constant redstone signal to nearby blocks."
+        }
+             ]
+}

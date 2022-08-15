@@ -1,0 +1,6 @@
+{    
+    "name": "Potions",
+    "description": "Potions category",
+    "icon": "minecraft:potion",
+    "sortnum": 15
+}

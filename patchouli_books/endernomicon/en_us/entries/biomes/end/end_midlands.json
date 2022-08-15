@@ -1,0 +1,29 @@
+{    
+    "name": "End Midlands",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The End Midlands is a biome composed of the outer islands of the End, forming the gradual slope from the hilltops of each island down to the cliffs around the edge.$(br)$(li)In this Biome you can find Endermans and Spectres."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the words $(l)End Midlands$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:end_midlands"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/end_midlands.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

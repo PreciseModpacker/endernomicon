@@ -1,0 +1,15 @@
+{    
+    "name": "Snail Slime",
+    "icon": "autumnity:snail_slime",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "autumnity:snail_slime",
+            "text": "$(li)The gluey Snail Slime can be used to make a Snail Slime Block.$(br)$(li)It can be used to brew a Potion of Extension too.$(br)$(li)It can only be obtained slaying Snails.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,87 @@
+{    
+    "name": "Invisibility",
+    "icon": "minecraft:potion{Potion:'minecraft:invisibility'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:invisibility'}",
+            "text": "$(li)Invisibility potions makes you indetectable by other creatures.$(br)$(li)The Potion of Invisibility gives you 3 minutes of this effect.$(br)$(li)The Potion of Invisibility Extended gives you one 8 minutes of this effect."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be brewed using a Fermented Spider Eye and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:invisibility'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:invisibility'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_invisibility'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:invisibility'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:invisibility'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:invisibility'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_invisibility'}"
+        },
+        {
+            "type": "potion",
+            "title": "Invisibility Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_invisibility'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_invisibility'}"
+        }
+             ]
+}

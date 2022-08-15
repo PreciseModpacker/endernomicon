@@ -1,0 +1,27 @@
+{    
+    "name": "Trident",
+    "icon": "minecraft:trident",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:trident",
+            "text": "$(li)The Trident is a weapon used in both melee and ranged combat.$(br)$(li)It can be enchanted with Imperisable, Mending, Channeling, Riptide and Loyalty enchants.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Trident",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:trident,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "Drowneds may drop it on death."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:trident",
+            "recipe2": "charm:extra_recipes/trident"
+        }
+             ]
+}

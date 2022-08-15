@@ -1,0 +1,95 @@
+{    
+    "name": "Button (Wood)",
+    "icon": "minecraft:oak_button",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_button",
+            "text": "$(li)Wood Buttons are placeable blocks that emites a restone pulse of 1.5 seconds.$(br)$(li)There are many variants of them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:spruce_button",
+            "recipe2": "minecraft:birch_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:jungle_button",
+            "recipe2": "minecraft:acacia_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_button",
+            "recipe2": "bamboo_blocks:bamboo_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bayou_blues:crafting/cypress_button",
+            "recipe2": "environmental:building/wood/willow/willow_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_button",
+            "recipe2": "environmental:building/wood/wisteria/wisteria_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_button",
+            "recipe2": "atmospheric:morado_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_button",
+            "recipe2": "atmospheric:aspen_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_button",
+            "link_recipe": "true"
+        },
+#Mushrooms
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_button",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_button",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_button",
+            "link_recipe": "true"
+        },
+#WATER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_button",
+            "recipe2": "upgrade_aquatic:river_button",
+            "link_recipe": "true"
+        },
+#NETHER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crimson_button",
+            "recipe2": "minecraft:warped_button",
+            "link_recipe": "true"
+        },
+#END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_button",
+            "link_recipe": "true"
+        }
+
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Shovel (Netherite)",
+    "icon": "minecraft:netherite_shovel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:netherite_shovel",
+            "text": "$(li)The Netherite Shovel is the direct upgrade of the Diamond Shovel.$(br)$(li)It has a greater durability than the Diamond Shovel." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to create Grass Path and obtain Snow.$(br)$(li)This item can't be burned." 
+        }
+             ]
+}

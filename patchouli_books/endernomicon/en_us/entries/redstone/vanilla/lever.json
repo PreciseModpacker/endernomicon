@@ -1,0 +1,19 @@
+{
+    "name": "Lever",
+    "icon": "minecraft:lever",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lever",
+            "text": "$(li)The Lever is a block that can provided redstone powder.$(br)$(li)Right clicking on it, you can turn it on or turn it off."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/lever.png",
+            "text": "$(li)This item can be used to craft Lanterns in a Crafting Table too."
+        }
+             ]
+}    

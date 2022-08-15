@@ -1,0 +1,15 @@
+{    
+    "name": "Hoe (Iron)",
+    "icon": "minecraft:iron_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_hoe",
+            "text": "$(li)The Iron Hoe is the upgrade of the Stone Hoe.$(br)$(li)It has a greater durability than the Stone Hoe. $(br)$(li)You can use it to create Farmland." ,
+            "link_recipe": "true"
+        }
+             ]
+}

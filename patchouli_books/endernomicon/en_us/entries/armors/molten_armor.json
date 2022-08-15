@@ -1,0 +1,28 @@
+{    
+    "name": "Molten Armor",
+    "icon": "extraarmor:molten_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 15,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Molten Armor is a quiet better than the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l).$(br)$(li)If you wear the complete set, you will get the Fire Resistance II effect, giving to you inmunity to damage from fire, blaze fireballs, fire charges, magma blocks and lava."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Molten Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:molten_boots\",Count:1},{id:\"extraarmor:molten_leggings\",Count:1},{id:\"extraarmor:molten_chestplate\",Count:1},{id:\"extraarmor:molten_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:molten_helmet",
+            "recipe2":"extraarmor:molten_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:molten_leggings",
+            "recipe2":"extraarmor:molten_boots"
+        }
+             ]
+}

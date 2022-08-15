@@ -1,0 +1,19 @@
+{    
+    "name": "Wraith",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Wraiths are new aggresive creatures that can be found in the Soul Sand Valley.$(br2)They attack like a common Zombie, inflict slowness and jump back upon dealing damage.$(br2)On death, they always drop a $(l:patchouli:tools/quark/soul_bead)Soul Bead$(/l) on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:wraith",
+            "scale": 1,
+            "text": "They're the lost souls of different creatures, and as such, their sounds are low pitch versions of normal mob sounds."
+        }
+             ]
+}

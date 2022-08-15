@@ -1,0 +1,18 @@
+{    
+    "name": "Miner",
+    "icon": "minecraft:iron_pickaxe",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Miner can only be found in the Illager Mines extracting essential resources for them, mainly ores.$(br)$(li)On death they may drop Coal, Iron Nuggets, Gold Nuggets, or even TNT."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:miner",
+            "scale": 1
+        }
+             ]
+}

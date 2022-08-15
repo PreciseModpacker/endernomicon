@@ -1,0 +1,28 @@
+{    
+    "name": "Phantom Armor",
+    "icon": "extraarmor:phantom_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 9,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Phantom Armor is a quiet better than the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)If you wear the complete set, you will get the Slow Falling II effect, making you fall slow, so you will not take fall damage."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Phantom Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:phantom_boots\",Count:1},{id:\"extraarmor:phantom_leggings\",Count:1},{id:\"extraarmor:phantom_chestplate\",Count:1},{id:\"extraarmor:phantom_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:phantom_helmet",
+            "recipe2":"extraarmor:phantom_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:phantom_leggings",
+            "recipe2":"extraarmor:phantom_boots"
+        }
+             ]
+}

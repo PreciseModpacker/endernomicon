@@ -1,0 +1,15 @@
+{    
+    "name": "Bolloom Fruit",
+    "icon": "endergetic:bolloom_fruit",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endergetic:bolloom_fruit",
+            "text": "$(li)Bolloom Fruits can be recollected in the Poise Forest.$(br)$(li)They can be ate to gain Levitation effect during 5 seconds.$(br)$(li)They can be used to craft a Bolloom Baloon and Bolloom Crates too.",
+            "link_recipe": "true"
+        }
+             ]
+}

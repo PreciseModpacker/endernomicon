@@ -1,0 +1,37 @@
+{    
+    "name": "Bottle (Glass)",
+    "icon": "minecraft:glass_bottle",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:glass_bottle",
+            "text": "$(li)Glass Bottles are basically containers.$(br)$(li)You can fill Glass Bottles with Honey, Water, Lava, and Ink.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To use a Glass Bottle, just right click pointing the specific liquid while you are holding a Glass Bottle on your hand.$(br)$(li)Depending of the liquid, you will obtain a Water Bottle, Lava Bottle, Honey Bottle, or Ink Bottle."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buzzier_bees:bee_bottle",
+            "text": "$(li)You can trap Bees with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buzzier_bees:silverfish_bottle",
+            "text": "$(li)You can trap Silverfish with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buzzier_bees:endermite_bottle",
+            "text": "$(li)You can trap Endermite with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "link_recipe": "true"
+        }
+             ]
+}

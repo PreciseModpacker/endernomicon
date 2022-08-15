@@ -1,0 +1,18 @@
+{    
+    "name": "Redstone Lantern",
+    "icon": "charm:redstone_lantern",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:redstone_lanterns/redstone_lantern",
+            "text": "$(li)The Redstone Lantern is an alternative of the $(l:patchouli:decoration/charm/lanterns)Lanters$(/l).$(br)$(li)As a common Redstone Lamp, it only will turned on if receives a redstone signal from neighbouring blocks."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_lantern.png"
+        }
+             ]
+}

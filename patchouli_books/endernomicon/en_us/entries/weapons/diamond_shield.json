@@ -1,0 +1,22 @@
+{    
+    "name": "Shield (Shield)",
+    "icon": "bettershields:diamond_shield",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 17,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bettershields:diamond_shield",
+            "text": "$(li)The Diamond Shield is a quiet better of the $(l:patchouli:weapons/wildfire_shield)Wildfire Shield $(/l)because this one has more durability than the last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Shield",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"bettershields:diamond_shield\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "To equip it, just open your inventory and place the Shield into your left hand slot"
+        }
+             ]
+}

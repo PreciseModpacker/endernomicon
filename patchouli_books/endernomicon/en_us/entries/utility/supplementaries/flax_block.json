@@ -1,0 +1,19 @@
+{    
+    "name": "Block (Flax)",
+    "icon": "supplementaries:flax_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:flax_block",
+            "text": "$(li)The Flax Bale is a new decoration block.$(br)$(li)It can be used to storage Flax in a more efficient way.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Flax Block"
+        }
+             ]
+}

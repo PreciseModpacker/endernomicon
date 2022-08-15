@@ -1,0 +1,26 @@
+{    
+    "name": "Armor Stand",
+    "icon": "minecraft:armor_stand",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:armor_stand",
+            "text": "$(li)The Armor Stand is a block that allows you to hold and display Armors and Tools.$(br)$(li)To use it, first you have to place the Armor Stand.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Then, right click on them while you are holding an Armor or Tool in your hand.$(br)$(li)If you want to recover the placed item, just right click on the Armor Stand again while you are not holding any item in your hand."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/armor_stand.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

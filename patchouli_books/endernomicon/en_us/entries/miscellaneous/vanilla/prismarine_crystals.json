@@ -1,0 +1,15 @@
+{    
+    "name": "Prismarine Crystals",
+    "icon": "minecraft:prismarine_crystals",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:prismarine_crystals",
+            "text": "$(li)Prismarine Crystals can be used to craft Sea Lanterns, Tooth Lanterns, Tridents, or even a Prismarine Crystal Armor.$(br)$(li)Guardians and Elder Guardians may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

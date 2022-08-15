@@ -1,0 +1,27 @@
+{    
+    "name": "Mimic Octopus",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Mimic Octopus can be bound in warm oceans and coral reefs. They are neutral creatures.$(br2)They have the hability to camouflage into their surrounding, changing their skin colour.$(br2)While they are not in camouflage state, they can be tamed with Lobster Tails."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:mimic_octopus",
+            "scale": 0.5,
+            "text": "Tamed Mimic Octopus can be commanded to stay, follow, and wander."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Tamed Mimic Octopus can walk on land if tame too but only 5 minutes out of water.$(br2)This can be circumvented by giving them slime balls, which will allow them to last longet out of water.$(br2)If you right click a tame Mimic Octopus with an Ink Sack, It will stop chaning colours to camouflage it's self."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can also use prismarine shards, pupperfish or gunpowder on it, which will cause it to change it to change it's look ro rememble a guardian, a pupperfish or a creeper respectively.$(br2)If fed a few mimicream, it will actually learn how to mimic the attacks of the mobs  allowing it to shoot lasers as a guardian, poison mobs as a pufferfish, and create small explosions as a creeper, which will not kill it. On death it may drop a Ink Sac."
+        }
+             ]
+}

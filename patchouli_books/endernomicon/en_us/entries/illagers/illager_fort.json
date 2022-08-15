@@ -1,0 +1,17 @@
+{    
+    "name": "Illager Fort",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illagers, unlike the Villagers don't live quietly in a small village. They live in walled big camps with water wells, crops, bedrooms, stables and even a shooting range.$(br)$(li)Be careful, Archers, Pillagers, Vindicators, and Generals will not hesitate to defend their fort for intruders like you."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illager Fort can be found in the Desert, Forest, Jungle, Mesa, Mushroom Forest, Plains and Savanna biomes."
+        }
+             ]
+}

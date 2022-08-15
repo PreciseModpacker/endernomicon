@@ -1,0 +1,100 @@
+{    
+    "name": "Glass Shards",
+    "icon": "quark:clear_shard",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:clear_shard",
+            "text": "$(li)Glass Shards are a item that can be used to Craft Dirty Glass and Glass depending of the color of the Glass Shards used.$(br)$(li)They can be obtained breaking Glass Blocks.",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:dirty_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:white_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:orange_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:magenta_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:light_blue_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:yellow_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:lime_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:pink_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:gray_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:light_gray_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:cyan_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:purple_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:blue_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:brown_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:green_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:red_shard",
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:spotlight",
+            "item": "quark:black_shard",
+            "link_recipe": "true"
+        }
+             ]
+}

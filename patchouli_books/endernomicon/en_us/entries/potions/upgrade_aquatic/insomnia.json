@@ -1,0 +1,83 @@
+{    
+    "name": "Insomnia",
+    "icon": "minecraft:potion{Potion:'upgrade_aquatic:insomnia'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'upgrade_aquatic:insomnia'}",
+            "text": "$(br)$(li)Insomnia potions can be used in Phantoms to transform them into $(l:patchouli:mobs/upgrade_aquatic/flare)Flares$(/l).$(br)$(li)They can be brewed using a Fermented Spider Eye and a $(l:patchouli:potions/upgrade_aquatic/restfulness)Restfulness Potion$(/l) as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:insomnia'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:insomnia'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:insomnia_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:insomnia'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:insomnia_strong'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:insomnia'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:insomnia'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:insomnia'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:insomnia_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Insomnia Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:insomnia_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:insomnia_strong'}"
+        }
+             ]
+}

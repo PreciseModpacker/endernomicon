@@ -1,0 +1,14 @@
+{    
+    "name": "Flame",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:flame',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:flame',lvl:1}]}",
+            "text": "$(li)The Flame enchantment can be applied in any kind of Bow.$(br)$(li)This enchantment inflicts the burn state of every creature that was hit with and Arrow fires by the enchanted Bow.",
+            "title": "Flame"
+        }
+             ]
+}

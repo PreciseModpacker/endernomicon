@@ -1,0 +1,15 @@
+{    
+    "name": "Soul Compass",
+    "icon": "quark:soul_compass",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:oddities/crafting/soul_compass",
+            "text": "$(li)The Soul Compass is a new variant of the common Compass.$(br)$(li)It's always pointing into the Totem of Holding.",
+            "link_recipe": "true"
+        }
+             ]
+}

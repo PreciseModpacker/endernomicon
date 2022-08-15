@@ -1,0 +1,15 @@
+{    
+    "name": "Lodestone",
+    "icon": "minecraft:lodestone",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lodestone",
+            "text": "$(li)The Lodestone is a block that allows to you to bind a Compass to it.$(br)$(li)This will make that Compass to point the Lodestone insteat the Spawn Point.",
+            "link_recipe": "true"
+       }
+             ]
+}

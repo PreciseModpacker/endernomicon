@@ -1,0 +1,28 @@
+{    
+    "name": "Wand of Freezing PDT DOCUMENTAR",
+    "icon": "savageandravage:wand_of_freezing",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "savageandravage:wand_of_freezing",
+            "text": "The Trident is a weapon used in both melee and ranged combat. Drowneds may drop it.$(br2)It can be crafted in different ways too: $(li)Kraken Tooths, Prismarine Rod and Heart of Sea $(li)Prismarine Crystals, Heart of Sea and Prismarine Shard$(li)Trasher Tooths amd Prismarine Rods.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Trident"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:trident",
+            "recipe2": "charm:extra_recipes/trident"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:trident"
+        }
+             ]
+}

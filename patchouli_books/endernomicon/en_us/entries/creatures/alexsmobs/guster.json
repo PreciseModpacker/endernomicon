@@ -1,0 +1,19 @@
+{    
+    "name": "Guster",
+    "icon": "minecraft:sand",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Guster are hostile creatures that can be found in the Desserts.$(br2)They uses Sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br2)On death the may drop Sand or a Gunter Eye. You can use this last one to craft a $(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l) or a $(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:guster",
+            "scale": 1,
+            "text": "Guster take damage when in contact with water."
+        }
+             ]
+}

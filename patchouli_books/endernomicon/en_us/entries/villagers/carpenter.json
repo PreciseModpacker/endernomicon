@@ -1,0 +1,19 @@
+{    
+    "name": "Carpenter",
+    "icon": "charm:woodcutter",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Carpenter really love to treat and processes the wood.$(br)$(li)It will trade you Doors, Trapdoors, Wood Blocks, Signs and even a Architect's Belt for Emeralds and vice versa.$(br)$(li)A Villager can get the Carpenter profession if is near of a Sawmill."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'environmental:carpenter',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

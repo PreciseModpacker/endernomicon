@@ -1,0 +1,19 @@
+{    
+    "name": "Rattlesnake Rattle",
+    "icon": "alexsmobs:maggot",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:rattlesnake_rattle",
+            "text": "$(li)Rattlesnake Rattle can be used to craft a Maraca.$(br)$(li)It can be obtained slaying Rattlesnakes.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

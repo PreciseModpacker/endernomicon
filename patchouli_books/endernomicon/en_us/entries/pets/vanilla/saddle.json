@@ -1,0 +1,15 @@
+{    
+    "name": "Saddle",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:saddle",
+            "text": "$(li)Saddle can be used to ride Pigs, Horsers and Endergrades right clicking on them while you are holding a Saddle on your hand.$(br)$(li)Leatherworkers will exchange your Emeralds by Saddles, they can be found in Loot Chests and Ravagers drops them on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

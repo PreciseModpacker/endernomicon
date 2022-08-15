@@ -1,0 +1,18 @@
+{    
+    "name": "Necromancer",
+    "icon": "inspirations:black_book",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Necromander really knows how to use dark magic very well.$(br)$(li)If it detects you or any nearby Villager, it will not hesitate to use it to summon Zombies to make them attack you.$(br)$(li)On death it may drops Rotten Flesh, Bones or even a Totem of Undying."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:necromancer",
+            "scale": 1
+        }
+             ]
+}

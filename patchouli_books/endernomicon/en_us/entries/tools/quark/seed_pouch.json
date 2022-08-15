@@ -1,0 +1,23 @@
+{    
+    "name": "Seed Pouch",
+    "icon": "quark:seed_pouch",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/seed_pouch",
+            "text": "$(li)The Seed Pouch is a new item that can store up to 10 stacks of any seed in it.$(br)$(li)To add seeds, grab the seed you want to add in your inventory, and right click it onto the pouch.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can then right click the pouch to take a stack of seeds out.$(br2)The Seed Pouch has other features included:$(br)$(li)Right clicking the pouch onto farmable soil will plant the seed. Shift-right clicking plants a 3x3$(br)$(li)Holding the seed pouch in either hand will have picked up seeds of that type go directly in the bag."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If the Usage Ticker feature is enabled, it'll show how many seeds you have left"
+        }
+             ]
+}

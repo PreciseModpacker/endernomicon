@@ -1,0 +1,55 @@
+{    
+    "name": "Clinging",
+    "icon": "minecraft:potion{Potion:'alexsmobs:clinging'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'alexsmobs:clinging'}",
+            "text": "$(li)Clinging potions allow you to cling onto ceilings.$(br)$(li)They can be brewed using a Dropbear Claw and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Clinging",
+            "input": "alexsmobs:dropbear_claw",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:clinging'}"
+        },
+        {
+            "type": "potion",
+            "title": "Clinging Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'alexsmobs:clinging'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:long_clinging'}"
+        },
+        {
+            "type": "potion",
+            "title": "Clinging Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:clinging'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:clinging'}"
+        },
+        {
+            "type": "potion",
+            "title": "Clinging Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:long_clinging'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:long_clinging'}"
+        },
+        {
+            "type": "potion",
+            "title": "Clinging Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:clinging'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:clinging'}"
+        },
+        {
+            "type": "potion",
+            "title": "Clinging Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_clinging'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_clinging'}"
+        }
+             ]
+}

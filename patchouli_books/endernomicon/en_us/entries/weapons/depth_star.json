@@ -1,0 +1,22 @@
+{    
+    "name": "Depth Star",
+    "icon": "meetyourfight:depth_star",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:depth_star",
+            "text": "$(li)The Depth Star is a mace which not only a melee weapon but also a range weapon.$(br)$(li)To use the range attack, first you have to charge the attack right clicking while you are holding it in your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Depth Star",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"meetyourfight:depth_star\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "Finally just stop right clicking to release the charged range attack"
+        }
+             ]
+}

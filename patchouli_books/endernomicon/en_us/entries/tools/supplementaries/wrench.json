@@ -1,0 +1,15 @@
+{    
+    "name": "Wrench",
+    "icon": "supplementaries:wrench",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:wrench",
+            "text": "$(li)Wrench is a tool which can be used to rotate blocks or entities like Armor Stands or Item Frames.$(br)$(li)The rotation axis will be the one of the face you click.",
+            "link_recipe": "true"
+        }
+             ]
+}

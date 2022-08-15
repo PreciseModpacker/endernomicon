@@ -1,0 +1,15 @@
+{    
+    "name": "Golden Frog Leg",
+    "icon": "quark:golden_frog_leg",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/golden_frog_leg",
+            "text": "$(li)The Golden Frog Leg is a shiny item that can be used to brew a Potion of Jump Boost in a Brewing Stand.$(br)$(li)It gives too much saturation when is eaten.",
+            "link_recipe": "true"
+        }
+             ]
+}

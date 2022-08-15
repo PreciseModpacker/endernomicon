@@ -1,0 +1,18 @@
+{    
+    "name": "Lumbering",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:lumbering',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:lumbering',lvl:1}]}",
+            "text": "$(li)The Lumbering enchantment Axe and Pickarang.$(br)$(li)This enchantment allows to you cut down whole trees. You must to be sneaking while you are cutting the tree to apply this effect.",
+            "title": "Lumbering"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be created combining a Golden Axe with a Book and Quill in an Anvil."
+        }
+             ]
+}

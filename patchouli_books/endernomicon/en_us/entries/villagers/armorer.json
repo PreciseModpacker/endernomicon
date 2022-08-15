@@ -1,0 +1,19 @@
+{    
+    "name": "Armorer",
+    "icon": "minecraft:iron_chestplate",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Armorer is a skilled blacksmith.$(br)$(li)It will trade you Armors, common Shields and even a Bell for Emeralds.$(br)$(li)A Villager can get the Armorer profession if is near of a Blast Furnace."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:armorer',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

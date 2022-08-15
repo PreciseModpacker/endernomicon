@@ -1,0 +1,28 @@
+{    
+    "name": "Leather Armor",
+    "icon": "minecraft:leather_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Leather Armor is an armor with low protection but with a bit more durability than the Wood Armor and Snow Armor."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Leather Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:leather_boots,Count:1},{id:leather_leggings,Count:1},{id:leather_chestplate,Count:1},{id:leather_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:leather_helmet",
+            "recipe2":"minecraft:leather_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:leather_leggings",
+            "recipe2":"minecraft:leather_boots"
+        }
+             ]
+}

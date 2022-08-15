@@ -1,0 +1,20 @@
+{    
+    "name": "Ender Pearl",
+    "icon": "minecraft:ender_pearl",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:ender_pearl",
+            "text": "$(li)The Ender Pearl is a item with has ancient magic.$(br)$(li)You can right click while you have the Ender Pearl on your hand to throw it and teleport you were this falls.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ender Pearl can be used to craft Ender Pearl Blocks, Gravisand, Duskbound Lanterns, Eye of Ender, Dimension Compass, Endolocator and even an Ender Armor.$(br)$(li)They may be dropped by slayed Endermans, or Tuba Endermans too.$(br)$(li)Clerics trade this items in exchange of Emerals too.",
+            "link_recipe": "true"
+        }
+             ]
+}

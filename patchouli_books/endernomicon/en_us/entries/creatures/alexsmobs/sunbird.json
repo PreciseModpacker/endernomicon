@@ -1,0 +1,27 @@
+{    
+    "name": "Sunbird",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Sunbirds are passive creatures that flies around the overworld.$(br2)If a Sunbird is near a Beacon's beam, it will begin circling around it. This can be a way to keep Sunbirds within an area.$(br2)When Sunbirds fly over undead creatures, the undead creatures burn up, as if they were in direct sunlight."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:sunbird",
+            "scale": 0.6,
+            "text": "Don't try to burn them, Sunbirds are completely resistant to fire damage."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When Sunbirds fly over undead creatures, the undead creatures burn up.$(br2)If a player manages to get close to a Sunbird, they are granted the Sunbird's Blessing effect for 30 seconds, which causes players to fall slowly.$(br2)If the player has an Elytra on whilst having this effect, it makes it easier to fly and reduces kinetic damage. When the Sunbird grants this effect, it emits a bright flash."
+        },  
+        {
+            "type": "patchouli:text",
+            "text": "If a player hits a Sunbird, the blessing is revoked and instead the player is given the Sunbird's Curse effect for 30 seconds, which causes players to fall to the ground and greatly reduces jumping."
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Flint",
+    "icon": "minecraft:flint",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:flint",
+            "text": "$(li)Flint is a sedimentary rock.$(br)$(li)It can be obtained when you break a block of Gravel or be found around the world.$(br)$(li)Fletchers, Leatherworkers, Toolsmiths, Weaponsmiths will exchange this item by Emeralds.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Flint can be used to craft multiple items:$(br)$(li)Stone Sword$(li)Stone Pickaxe$(li)Stone Axe$(li)Stone Shovel$(li)Stone Hoe$(li)Flint Picker$(li)Flint Block$(li)Fletcher$(li)Arrows$(li)Flint and Steel."
+        }
+             ]
+}

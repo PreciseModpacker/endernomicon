@@ -1,0 +1,20 @@
+{    
+    "name": "Gazelle",
+    "icon": "minecraft:sand",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Gazelles are passive creatures and can be found in the Savanna.$(br2)If just one Gazelle is attacked, the whole herd flees. Gazelles are very fast, so you will not be able to catch it easily.$(br2)On death, Gazelles may drop a Gazelle Horn. This can be used to upgrade a potion of $(l:patchouli:potions/vanilla/swiftness)$(/l)Swiftness II to Swiftness III$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:gazelle",
+            "scale": 0.7,
+            "offset": 0.4,
+            "text": "You can use an $(l:patchouli:creatures/alexsmobs/cachalot_whale)Echolocator$(/l) to attract Gazelles"
+        }
+             ]
+}

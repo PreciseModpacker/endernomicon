@@ -1,0 +1,20 @@
+{    
+    "name": "Turtle Shell",
+    "icon": "minecraft:turtle_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 1,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:turtle_helmet",
+            "text": "$(li)The Turtle Shell is a quiet better of $(l:patchouli:armors/wood_armor)Wood Helmet$(/l), Leather Helmet and $(l:patchouli:armors/snow_armor)Snow Helmet$(/l).$(br)$(li)This helmet doesn't give to you any special effect.$(br)It can be used to craft a $(l:patchouli:armors/spiked_turtle_shell)Spike Turtle Shell$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Turtle Shell",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:turtle_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

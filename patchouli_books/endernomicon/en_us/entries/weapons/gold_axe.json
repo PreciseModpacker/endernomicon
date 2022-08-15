@@ -1,0 +1,21 @@
+{    
+    "name": "Axe (Gold)",
+    "icon": "minecraft:golden_axe",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_axe",
+            "text": "$(li)The Golden Axe is the direct upgrade of the Wooden Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the Wood Axe." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Golden Axe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:golden_axe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

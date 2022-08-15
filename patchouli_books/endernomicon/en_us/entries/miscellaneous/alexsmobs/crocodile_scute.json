@@ -1,0 +1,15 @@
+{    
+    "name": "Crocodile Scute",
+    "icon": "alexsmobs:crocodile_scute",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:crocodile_scute",
+            "text": "$(li)Crocodile Scutes can be used to craft a Crocodile Chestplate.$(br)$(li)They can only be dropped by Adult Crocodiles or when a Baby Crocodile grows into an Adult Crocodile.",
+            "link_recipe": "true"
+        }
+             ]
+}

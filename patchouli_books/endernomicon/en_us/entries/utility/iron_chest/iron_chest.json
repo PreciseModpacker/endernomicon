@@ -1,0 +1,36 @@
+{    
+    "name": "Chest (Iron)",
+    "icon": "ironchest:iron_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ironchest:chests/vanilla_iron_chest",
+            "text": "$(li)The Iron Chest is a upgrade of the common Chest.$(br)$(li)Unlike Chests which have 27 slots of capacity, the Iron Chest has a capacity of 54 slots.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"ironchest:upgrades/wood_to_iron_chest_upgrade",
+            "text": "$(li)A common Chest can be upgraded to a Iron Chest.$(br)$(li)Just right click it while you have one Wood to Iron Chest Upgrade on your hand.",
+            "title": "Iron Chest Upgrade"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/iron_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/iron_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

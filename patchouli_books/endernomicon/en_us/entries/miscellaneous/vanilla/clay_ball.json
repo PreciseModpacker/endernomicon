@@ -1,0 +1,15 @@
+{    
+    "name": "Clay Ball",
+    "icon": "minecraft:clay_ball",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:clay_ball",
+            "text": "$(li)The Clay Ball is a maleable material that can be used to craft Clay Lump, Clay and Daub.$(br)$(li)You can make Bricks Smelting this item in a Furnace Baking or Kiln.$(br)$(li)Masons will exchange your Clay Balls by Emeralds.",
+            "link_recipe": "true"
+        }
+             ]
+}

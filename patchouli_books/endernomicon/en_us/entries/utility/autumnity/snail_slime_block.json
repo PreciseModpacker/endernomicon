@@ -1,0 +1,18 @@
+{    
+    "name": "Block (Snail Slime)",
+    "icon": "autumnity:snail_slime_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:snail_slime_block",
+            "text": "$(li)The Snail Slime Block is a new variant of the Slime block which reduce the movement speed of any creature that is situated on it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Feather Block"
+        }
+             ]
+}

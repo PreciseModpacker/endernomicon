@@ -1,0 +1,28 @@
+{    
+    "name": "Feather Armor",
+    "icon": "extraarmor:feather_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 5,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Feather Armor is quiet better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)If you wear the complete set, you will get Jump Boost II effect, allowing you jump higher than normal."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Feather Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:feather_boots\",Count:1},{id:\"extraarmor:feather_leggings\",Count:1},{id:\"extraarmor:feather_chestplate\",Count:1},{id:\"extraarmor:feather_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:feather_helmet",
+            "recipe2":"extraarmor:feather_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:feather_leggings",
+            "recipe2":"extraarmor:feather_boots"
+        }
+             ]
+}

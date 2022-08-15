@@ -1,0 +1,22 @@
+{    
+    "name": "Rotten Burning Piglin",
+    "icon": "minecraft:egg",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is about nether knowledge"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "rotten_piglins:burning_zombie_piglin",
+            "scale": 1
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is about nether knowledge 3"
+        }  
+             ]
+}

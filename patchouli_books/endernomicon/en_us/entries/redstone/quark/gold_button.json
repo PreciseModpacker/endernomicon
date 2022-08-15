@@ -1,0 +1,15 @@
+{    
+    "name": "Button (Gold)",
+    "icon": "quark:gold_button",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/gold_button",
+            "text": "$(li)Gold Buttons are placeable blocks that emites a short pulse of redstone of 2 redstone ticks.",
+            "link_recipe": "true"
+        }
+             ]
+}

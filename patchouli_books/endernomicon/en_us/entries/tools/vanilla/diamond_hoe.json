@@ -1,0 +1,15 @@
+{    
+    "name": "Hoe (Diamond)",
+    "icon": "minecraft:diamond_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:diamond_hoe",
+            "text": "$(li)The Diamond Hoe is the upgrade of the Iron Hoe.$(br)$(li)It has a greater durability than the Iron Hoe. $(br)$(li)You can use it to create Farmland." ,
+            "link_recipe": "true"
+        }
+             ]
+}

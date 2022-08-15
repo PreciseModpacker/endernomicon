@@ -1,0 +1,20 @@
+{    
+    "name": "Brick",
+    "icon": "minecraft:brick",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:brick",
+            "text": "$(li)The Bricks can be used to craft Flower Pots, Planters, Bricks and Honey Pots.$(br)$(li)You can throw them to your enemies right clicking while you have a Brick in your hand.$(br)$(li)They will inflict half of heart of damage and will push your enemies away too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can obtain Bricks smelting Clay in a Furnace, Baking or Kiln.$(br)$(li)Masons will trade this item in exchange of Emerals too.$(br)$(li)Their throw range is in the middle compared with the Nether Brick (Lowest) and Mud Brick (Largest).",
+            "link_recipe": "true"
+        }
+             ]
+}

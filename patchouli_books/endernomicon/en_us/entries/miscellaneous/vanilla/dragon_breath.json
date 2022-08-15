@@ -1,0 +1,19 @@
+{    
+    "name": "Dragon's Breath",
+    "icon": "minecraft:dragon_breath",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:dragon_breath",
+            "text": "$(li)Dragon Breath is a essencial ingredient for Potions.$(br)$(li)This item can be used to transform Splash Potions into Lingering Potions in a Brewing Stand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to craft an Acidian Lantern or Lingering Potion Bottle in a Crafting Table too.$(br)$(li)The Dragon's Breath can be only obtained by scooping up the Ender Dragon's breath attack or the purple effect clouds caused by they fireballs in an empty Glass Bottle."
+        }
+             ]
+}

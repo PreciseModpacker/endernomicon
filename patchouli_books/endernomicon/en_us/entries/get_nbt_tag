@@ -1,0 +1,6 @@
+/data get entity @s SelectedItem
+
+    "icon": "minecraft:potion{Potion:'alexmobs:clinging'}",
+
+/give Atonidas environmental:healer_pouch{HealerPouchUses:250}
+

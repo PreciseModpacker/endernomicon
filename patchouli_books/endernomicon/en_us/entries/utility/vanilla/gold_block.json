@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Gold)",
+    "icon": "minecraft:gold_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gold_block",
+            "text": "$(li)Gold Block is a new decorative block.$(br)$(li)It can be used to save Gold Ingots in a more efficient way.$(br)$(li)This block is affected by a Magnet.",  
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Hoe (End Crystal)",
+    "icon": "endrem:end_crystal_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:end_crystal_hoe",
+            "text": "$(li)The End Crystal Hoe is the best Hoe that exist in every dimension of this world.$(br)$(li)It even has more durability than a Netherite Hoe.$(br)$(li)It can be made placing a Diamond Hoe and a End Crystal Ingot in a Smithing Table." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use it to create Farmland."
+        }
+             ]
+}

@@ -1,0 +1,27 @@
+{    
+    "name": "Notice Board",
+    "icon": "supplementaries:notice_board",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:notice_board",
+            "text": "$(li)The Notice Board allows you to insert a Book and Quill in it.$(br)$(li)After that, this block will display the contents of the first page of the book.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can insert a Map into the Notice Board. This one will show it like an Item Frame.$(br)$(li)You can insert a Pattern into the Notice Board. This one will show the design of the Pattern inserted.$(br)$(li)You can interact with it using Hoppers, so you can make interesting contraptions that display a specific text or map dynamically."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/notice_board.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,16 @@
+{    
+    "name": "Gob",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:gob",
+            "scale": 1,
+            "offset": 0.1,
+            "text": "Gobs are the smallest and weakest Goblins. On death the may drop Iron Nuggets or Stone Swords."
+        }
+             ]
+}

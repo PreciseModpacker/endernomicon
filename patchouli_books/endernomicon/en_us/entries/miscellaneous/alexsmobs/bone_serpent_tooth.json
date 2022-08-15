@@ -1,0 +1,15 @@
+{    
+    "name": "Bone Serpent Tooth",
+    "icon": "alexsmobs:bone_serpent_tooth",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:bone_serpent_tooth",
+            "text": "$(li)The Bone Serpent Tooth is a item that can be used to brew a Potion of Lava Vision in a Brewing Table.$(br)$(li)It can only be dropped by a Bone Serpent.",
+            "link_recipe": "true"
+        }
+             ]
+}

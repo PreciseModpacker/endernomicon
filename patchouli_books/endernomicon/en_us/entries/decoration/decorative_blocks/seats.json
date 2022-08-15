@@ -1,0 +1,69 @@
+{    
+    "name": "Seats",
+    "icon": "decorative_blocks:oak_seat",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "decorative_blocks:oak_seat",
+            "text": "$(li)Seats are new wood decorative block, with a interesting feature.$(br)$(li)You can right click on them while you are not holding any item on your hand to sit in them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Seats"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:oak_seat",
+            "recipe2": "decorative_blocks:birch_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:jungle_seat",
+            "recipe2": "decorative_blocks:crimson_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:warped_seat",
+            "recipe2": "decorative_blocks:dark_oak_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:acacia_seat",
+            "recipe2": "decorative_blocks:spruce_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:yucca_seat",
+            "recipe2": "decorative_blocks_abnormals:brown_mushroom_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:cypress_seat",
+            "recipe2": "decorative_blocks_abnormals:willow_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:driftwood_seat",
+            "recipe2": "decorative_blocks_abnormals:rosewood_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:maple_seat",
+            "recipe2": "decorative_blocks_abnormals:red_mushroom_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:poise_seat",
+            "recipe2": "decorative_blocks_abnormals:cherry_seat"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks_abnormals:morado_seat",
+            "recipe2": "decorative_blocks_abnormals:river_seat"
+        }
+          
+             ]
+}

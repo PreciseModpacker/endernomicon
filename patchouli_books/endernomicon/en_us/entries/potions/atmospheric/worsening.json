@@ -1,0 +1,118 @@
+{    
+    "name": "Worsening",
+    "icon": "minecraft:potion{Potion:'atmospheric:worsening'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'atmospheric:worsening'}",
+            "text": "$(li)Worsening potions will increase the incoming damage to you if the incoming damage is greater than or equal to the level.$(br)$(li)They can be brewed using a Fermented Spider Eye and $(l:patchouli:potions/atmospheric/relief)Relief Potions$(/l) as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Worsening",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:potion{Potion:'atmospheric:worsening'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:potion{Potion:'atmospheric:worsening_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:potion{Potion:'atmospheric:worsening_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:worsening_long'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'atmospheric:worsening_strong'}",
+            "output": "minecraft:splash_potion{Potion:'atmospheric:worsening_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'atmospheric:relief'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:worsening_long'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'atmospheric:worsening'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Worsening Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'atmospheric:worsening_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'atmospheric:worsening_strong'}"
+        }
+             ]
+}

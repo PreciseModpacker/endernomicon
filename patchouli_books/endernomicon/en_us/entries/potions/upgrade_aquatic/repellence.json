@@ -1,0 +1,118 @@
+{    
+    "name": "Repellence",
+    "icon": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+            "text": "$(li)Repellence potions can be used to inflict the poison effect to other creatures.$(br)$(li)If any of them are close to you, they will be poisoned.$(br)$(li)They can be brewed using a Raw Lionfish and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Repellence",
+            "input": "upgrade_aquatic:lionfish",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:repellence_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:repellence_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Splash",
+            "input": "upgrade_aquatic:lionfish",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence_long'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence_strong'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Lingering",
+            "input": "upgrade_aquatic:lionfish",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "R. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_long'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Repellence Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence_strong'}"
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Glowstone Canyon",
+    "icon": "minecraft:glowstone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Glowstone is biome composed of mostly by Shimmer and Glowstone.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Brown Mushrooms and Luminous Fungus here."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some creatures like Blindsights and Glowsquitos can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Glowstone Canyon$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)infernalexp:glowstone_canyon"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/glowstone_canyon.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

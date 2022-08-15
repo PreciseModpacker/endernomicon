@@ -1,0 +1,29 @@
+{    
+    "name": "River",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The River is a common biome that can serve as borders between various other biomes, and usually lead to Oceans.$(br)$(li)It can be found in the Overworld.$(br)$(li)This place is composed mostly by Clay, Sand, and rarely Driftwood logs."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Here you can find some water vegetation like Seagrass or Tall Purle Pickerelweed.$(br)$(li)Some aquatic animals like Salmons, Cods, Pikes, Lobsters, Squids, Crocodiles and rarely Platypus can be found here too.$(br)$(li)You can search this biome introducing the word $(l)River$() in the search box of the Nature's Compass."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/river.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:river"
+#        }
+             ]
+}

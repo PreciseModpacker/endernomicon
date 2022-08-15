@@ -1,0 +1,19 @@
+{    
+    "name": "Turkey",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Turkeys are large birds that can be found in Maple Forest.$(br2)You can bred them using Foul Berries.$(br2)On death, they may drop Feathers and Raw Turkey.$(br2)You can place the Raw turkey on the ground like a Pie. You can cook it into Cooked Turkey and place on the ground as well."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "autumnity:turkey",
+            "scale": 0.7,
+            "text": "You can use it to craft Raw Turkey Piece, and you can cook that pieces too."
+        }
+             ]
+}

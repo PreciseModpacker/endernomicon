@@ -1,0 +1,28 @@
+{    
+    "name": "Kangaroo",
+    "icon": "minecraft:sand",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Kangaroos are neutral creatures that can be found in the Savannas and Badlands.$(br2)You can breed them giving them Dead Bush or Grass and they can be tameable with Carrots.$(br2)Tameable Kangaroos can be ordered to Sit, Wander and Follow. You can equip them a Sword, a Helmet and even a Chestplate."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:kangaroo",
+            "scale": 0.9,
+            "offset": 0.2,
+            "text": "You can heal hurted Kangaroos give them vegetable base food, like Bread."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "On death they may drop Kangaroo Meat, that can be ate or cooked to make Cooked Kangaroo Meat.$(br2)They may drop Kangaroo Hide too that can be used to craft common Leather, an special Banner Pattern or even an $(l:patchouli:armors/outback_leggings)Outback Leggins$(/l) too."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "alexsmobs:cooked_kangaroo_meat"
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Warm Ocean",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Warm Ocean is a variant of the Ocean biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed by Sand.$(br)$(li)You can find some water vegetation, like Corals Reefs and Sea Pickles."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some aquatic animals like Dolphins, Squids, Cods, Pufferfishes, Lionfishes, Tropical Fishes, Hammerhead Sharks can be found here.$(br)$(li)You can find Coral Squids swimming around of the Coral Reefs too.$(br)$(li)You can search this biome introducing the word $(l)Warm Ocean$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:warm_ocean"
+#        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/warm_ocean.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

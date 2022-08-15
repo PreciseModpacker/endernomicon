@@ -1,0 +1,20 @@
+{    
+    "name": "Spring Launcher",
+    "icon": "supplementaries:spring_launcher",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:spring_launcher",
+            "text": "$(li)The Spring Launcher is a member of the Piston family.$(br)$(li)When it is activated and an item, creature, any entity or you are on the top of it, it will push up it several blocks away.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/spring_launcher.png",
+            "text": "$(li)If a creature or you fall into an Spring Launcher that is receiving Redstone Signal, it will be thrown up away too."
+        }
+             ]
+}

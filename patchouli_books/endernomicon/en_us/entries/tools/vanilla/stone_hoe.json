@@ -1,0 +1,15 @@
+{    
+    "name": "Hoe (Stone)",
+    "icon": "minecraft:stone_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/tools/stone_hoe",
+            "text": "$(li)The Stone Hoe is the upgrade of the Wood Hoe.$(br)$(li)It has a greater durability than the Wood Hoe. $(br)$(li)You can use it to create Farmland." ,
+            "link_recipe": "true"
+        }
+             ]
+}

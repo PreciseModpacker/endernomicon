@@ -1,0 +1,84 @@
+{    
+    "name": "Beehive",
+    "icon": "minecraft:beehive",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:beehive",
+            "text": "$(li)Beehives are the crafted version of Bee Nest.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Beekeeper.",  
+            "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:beehives/spruce_beehive",
+            "recipe2": "buzzier_bees:beehives/birch_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:beehives/jungle_beehive",
+            "recipe2": "buzzier_bees:beehives/acacia_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:beehives/dark_oak_beehive",
+            "recipe2": "atmospheric:yucca_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_beehive",
+            "recipe2": "atmospheric:morado_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:aspen_beehive",
+            "recipe2": "autumnity:maple_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/willow/willow_beehive",
+            "recipe2": "environmental:building/wood/cherry/cherry_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/wisteria/wisteria_beehive",
+            "recipe2": "bayou_blues:crafting/cypress_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bamboo_blocks:bamboo_beehive"
+        },
+
+# MUSHROOM
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_beehive",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_beehive"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_beehive"
+        },
+
+# WATER
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_beehive",
+            "recipe2": "upgrade_aquatic:river_beehive"
+        },
+# NETHER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:beehives/crimson_beehive",
+            "recipe2": "buzzier_bees:beehives/warped_beehive"
+        },
+# END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_beehive"
+        }
+             ]
+}

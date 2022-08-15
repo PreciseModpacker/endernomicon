@@ -1,0 +1,38 @@
+{    
+    "name": "Wood Lanterns",
+    "icon": "crumbs:oak_lantern",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Wood Lanterns are a good alternative of the common Redstone Lantern.$(br)$(li)Unlike the last one, the Wood Lanterns are not be affected by nearby redstone signals.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/wood_lanterns.png",
+            "text": "$(li)You can turn on or off the Wood Lanterns right clicking while you are pointing on them."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:oak_lantern",
+            "recipe2": "crumbs:spruce_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:birch_lantern",
+            "recipe2": "crumbs:jungle_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:acacia_lantern",
+            "recipe2": "crumbs:dark_oak_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:crimson_lantern",
+            "recipe2": "crumbs:warped_lantern"
+        }
+             ]
+}

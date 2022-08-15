@@ -1,0 +1,20 @@
+{    
+    "name": "Chute",
+    "icon": "quark:chute",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/chute",
+            "text": "$(li)The Chute drops under it any item inserted via automation, for example, by a Hopper or a Dropper.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/chute.png",
+            "text": "$(li)It will stop dropping items if it's receiving a redstone signal or a block is placed under it."
+        }
+             ]
+}

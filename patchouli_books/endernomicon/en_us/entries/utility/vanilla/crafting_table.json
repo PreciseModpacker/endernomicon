@@ -1,0 +1,49 @@
+{    
+    "name": "Crafting Table",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crafting_table",
+            "text": "$(li)The Crafting Table is a basic workplace that will allow you to access to all crafting recipes.$(br)$(li)Just place the block and right click on them to open the Crafting Table GUI. ",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)It exists nine different versions of the Crafting Table, because of decoration purpose.$(br)$(li)If you have the Oak Crafting Table in your inventory, you can access to the Crafting Table GUI directly, without need to place it first.$(br)$(li)Sadly this fuction doesn't work with the other versions of the Crafting Tables."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crafting_table.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:spruce_crafting_table",
+            "recipe2": "crumbs:birch_crafting_table",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:jungle_crafting_table",
+            "recipe2": "crumbs:acacia_crafting_table",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:dark_oak_crafting_table",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:crimson_crafting_table",
+            "recipe2": "crumbs:warped_crafting_table",
+            "link_recipe": "true"
+        }
+             ]
+}

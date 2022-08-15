@@ -1,0 +1,20 @@
+{    
+    "name": "Booflo Vest",
+    "icon": "endergetic:booflo_vest",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 34,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "name": "Booflo Vest",
+            "recipe": "endergetic:booflo_vest",
+            "text": "$(li)The Booble Vest is a Chestplate that allows you to double jump pressing the Space key.$(br)$(li)Be careful, because this one has a coldown after using it a couple of times in a row.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"endergetic:booflo_vest\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

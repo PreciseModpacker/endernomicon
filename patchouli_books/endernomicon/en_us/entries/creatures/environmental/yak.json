@@ -1,0 +1,35 @@
+{    
+    "name": "Yak",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Yaks is a creature similar to Cows that can be found in Mountain Biomes.$(br2)Like Cows they can be Milked with a Bucket to get Bucket Milk.$(br2)You can use Shears to get Yak Hair, but be careful, because the Yak will attack you immediately after doing it."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:yak",
+            "scale": 0.7,
+            "text": "On death, like cows they may drop Raw Beef but may drop Yak Hair too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can use this new item to make new blocks like Yak Hair Block, Yak Hair Rug and Brown Wool too.$(br2)You can use it to craft $(l:patchouli:tools/buzzier_bees/candle)Candles$(/l).$(br2)You can craft Rope Coil or even a $(l:patchouli:armors/yak_pants)Yak Pants$(/l) too."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/yak/yak_hair_block",
+            "recipe2": "environmental:misc/yak/yak_hair_rug"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/yak/brown_wool",
+            "recipe2": "environmental:misc/yak/thick_rope"
+        }
+
+
+             ]
+}

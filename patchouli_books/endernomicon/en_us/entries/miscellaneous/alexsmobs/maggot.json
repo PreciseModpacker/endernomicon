@@ -1,0 +1,19 @@
+{    
+    "name": "Maggot",
+    "icon": "alexsmobs:maggot",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:maggot",
+            "text": "$(li)Maggots can be used to breed Roadrunners.$(br)$(li)They can be used to craft a Crimson Mosquito Larva too.$(br)$(li)They can be obtained slaying Flies or be dugging up by a Platypus that's been fed redstone too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Swamp",
+    "icon": "environmental:mud",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Swamp is a flooded Biome that is composed mainly by Mud, Grass, Clay and Water.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find a lot of vegetation here like Red Mushrooms, Brown Mushrooms, Sugar Cane, Lilypads, Duckweed, Tall Cattails and Pickerelweed."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Fireflies, Frogs, Perchs, Pikes, Squids and Crocodiles can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Swamp$() in the search box of the Nature's Compass."
+        },
+#       {
+#           "type": "patchouli:text",
+#           "text": "$(li)minecraft:swamp,minecraft:swamp_hills."
+#       }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/swamp.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

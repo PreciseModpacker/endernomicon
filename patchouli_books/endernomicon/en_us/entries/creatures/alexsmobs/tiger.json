@@ -1,0 +1,19 @@
+{    
+    "name": "Tiger",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tiger are big felines that can be found in the Bamboo Jungles. They are naturally wary of outsiders and will attack if approached.$(br2)By feeding them chicken or porkchops, or other meats, one can obtain the Tiger's Blessing, and effect that will allow one to approach a Tiger without being mauled, but this effect only lasts a few minutes or if the Tiger is attacked."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:tiger",
+            "scale": 0.65,
+            "text": "They can be bred with Acacia Blossoms."
+        }
+             ]
+}

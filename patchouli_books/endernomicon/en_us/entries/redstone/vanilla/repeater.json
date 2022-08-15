@@ -1,0 +1,19 @@
+{
+    "name": "Redstone Repeater",
+    "icon": "minecraft:repeater",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:repeater",
+            "text": "$(li)The Repeater is a block that can be used to extend the redstone signals back to full strenght in a redstone circuit.$(br)$(li)Redstone Repeaters have a little delay when transmit the redstone signal."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_repeater.png",
+            "text": "$(li)You can right click it to extend until three times the delay of the redstone signal transmited by the Redstone Repeater."
+        }
+             ]
+}    

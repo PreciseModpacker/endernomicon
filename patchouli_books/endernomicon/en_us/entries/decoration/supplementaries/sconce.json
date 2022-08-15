@@ -1,0 +1,42 @@
+{    
+    "name": "Sconce",
+    "icon": "supplementaries:sconce",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:sconce",
+            "text": "$(li)The Sconce is a new kind of light source.$(br)$(li)Unlike the torches, this one which can't be washed away by water.$(br)$(li)The Sconce can be turned off with water and splash water bottles.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce",
+            "text": "$(li)The Sconce can lit up with Fire Charges, Flaming Arrows and Flint and Steel.$(br)$(li)It exists a redstone lever variant called $(l:patchouli:redstone/supplementaries/sconce_lever)Sconce Lever$(/l)"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce_soul",
+            "text": "$(li)The Soul Sconce is just a new variant of the normal Sconces.$(br)$(li)The flames of the Soul Sconce have the blue color."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce_glow",
+            "text": "$(li)The Glow Sconce is just a new variant of the normal Sconces.$(br)$(li)The flames of the Soul Sconce have the yellow color."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce_ender",
+            "text": "$(li)The Ender Sconce is just a new variant of the normal Sconces.$(br)$(li)The flames of the Soul Sconce have the purple color."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Sconce"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce"
+        }
+             ]
+}

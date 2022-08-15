@@ -1,0 +1,35 @@
+{    
+    "name": "Stonecutter",
+    "icon": "minecraft:stonecutter",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stonecutter",
+            "text": "$(li)The Stonecutter is a new block that adds more efficient recipes for crafing Stone items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Mason.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/stonecutter_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/stonecutter_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Pressure Plate (Iron)",
+    "icon": "minecraft:heavy_weighted_pressure_plate",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:heavy_weighted_pressure_plate",
+            "text": "$(li)Heavy Weighted Pressure Plates are similar to the Light Weighted Pressure Plate, but the level of the redstone signal emitted depends of the number of items, creatures, or playes that are placed on them.",
+            "link_recipe": "true"
+        }
+             ]
+}

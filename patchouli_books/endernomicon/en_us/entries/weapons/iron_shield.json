@@ -1,0 +1,22 @@
+{    
+    "name": "Shield (Iron)",
+    "icon": "bettershields:iron_shield",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 15,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bettershields:iron_shield",
+            "text": "$(li)The Iron Shield is a quiet better of the $(l:patchouli:weapons/gold_shield)Gold Shield $(/l)because this one has more durability than the last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Iron Shield",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"bettershields:iron_shield\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "To equip it, just open your inventory and place the Shield into your left hand slot"
+        }
+             ]
+}

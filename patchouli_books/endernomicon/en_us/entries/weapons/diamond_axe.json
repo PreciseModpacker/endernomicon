@@ -1,0 +1,21 @@
+{    
+    "name": "Axe (Diamond)",
+    "icon": "minecraft:diamond_axe",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:diamond_axe",
+            "text": "$(li)The Diamond Axe is the direct upgrade of the Iron Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the Iron Axe." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Axe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:diamond_axe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

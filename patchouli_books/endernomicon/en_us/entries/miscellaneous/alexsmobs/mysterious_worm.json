@@ -1,0 +1,15 @@
+{    
+    "name": "Mysterious Worm ",
+    "icon": "alexsmobs:mysterious_worm",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:mysterious_worm",
+            "text": "$(li)The rumours were true! The Crimson Mosquito Larva would become into that... thing!$(br)$(li)What sould you do with it? Maybe you should throw it into the abyssal void of the End.$(br)$(li)Be careful, we don't know what consequences such an act could have...",
+            "link_recipe": "true"
+        }
+             ]
+}

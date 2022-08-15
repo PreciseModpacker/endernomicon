@@ -1,0 +1,29 @@
+{    
+    "name": "Mushroom Fields",
+    "icon": "minecraft:mycelium",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Mushroom Fields is a rarely to find biome composed of mostly of Mycelium and Mushrooms.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find Red Mushrooms, Brown Mushrooms, Mycelium and Sugar Cane."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some creatures like Mooshrooms, Warpbeetles and Mungus can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Mushroom Field$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:mushroom_fields,minecraft:mushroom_fields_shore"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/mushroom_fields.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

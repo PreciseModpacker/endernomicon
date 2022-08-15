@@ -1,0 +1,118 @@
+{    
+    "name": "Luck",
+    "icon": "minecraft:potion{Potion:'minecraft:luck'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:luck'}",
+            "text": "$(li)Luck potions increase your probability of finding good loot in the naturally generated chests.$(br)$(li)They can be brewed using a Four Leaf Clover and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Luck",
+            "input": "buzzier_bees:four_leaf_clover",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:long_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:potion{Potion:'buzzier_bees:strong_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:long_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:long_luck'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:strong_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'buzzier_bees:strong_luck'}",
+            "output": "minecraft:splash_potion{Potion:'buzzier_bees:strong_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering",
+            "input": "buzzier_bees:four_leaf_clover",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:long_luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:long_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:long_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'buzzier_bees:strong_luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_luck'}"
+        },
+        {
+            "type": "potion",
+            "title": "Luck Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:luck'}",
+            "output": "minecraft:lingering_potion{Potion:'buzzier_bees:strong_luck'}"
+        }
+             ]
+}

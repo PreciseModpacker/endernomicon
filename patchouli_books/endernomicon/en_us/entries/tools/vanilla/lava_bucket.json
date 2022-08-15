@@ -1,0 +1,32 @@
+{    
+    "name": "Bucket (Lava)",
+    "icon": "minecraft:lava_bucket",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:lava_bucket",
+            "text": "$(li)The Lava Bucket contains Lava in its interior.$(br)$(li)You can use it to craft a Molten Armor in a Crafting Table.$(br)$(li)Right click while you are pointing to a Lava block and you are holding a Bucket on your hand to obtain it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can release the interior of the Lava Bucket, just right click pointing in the specific block where do you want to release it while you are holding the Lava Bucket on your hand.$(br)$(li)The Lava flows very slow in the Overworld, but very fast in the Nether.$(br)$(li)You can use this item as a fuel in a Furnace that allows you to smelt up to 100 items."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Armorers will change your Lava Buckets by Emeralds too.$(br)$(li)Some creatures can be saved inside of a Lava bucket.$(br)$(li)To do this you need hold the Lava Bucket on your hand and right click the creature to save it in its interior.$(br)$(li)Then you can release it following the same process."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Lava Creatures",
+            "text": "$(li)Bucketed Voline$(li)Magma Cube$(li)Strider"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Most of creatures that fall into the Lava will start to burn and receive a lot of damage due to it.$(br)$(li)If any item, falls into the Lava, it will be totally burned, except Netherite items.$(br)$(li)This item works as a Trash Can too! First open your inventory.$(br)$(li)Now drag any item to destroy into the Lava Bucket."
+        }
+             ]
+}

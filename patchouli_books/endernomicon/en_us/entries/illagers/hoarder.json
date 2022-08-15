@@ -1,0 +1,18 @@
+{    
+    "name": "Hoarder",
+    "icon": "supplementaries:sack",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Hoarder's Greed has not limits.$(br)$(li)It will take everything that is dropèd near of it.$(br)$(li)On death they will drop all the items that it took while it was alive."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:hoarder",
+            "scale": 1
+        }
+             ]
+}

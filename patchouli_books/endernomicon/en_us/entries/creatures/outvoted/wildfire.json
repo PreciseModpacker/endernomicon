@@ -1,0 +1,19 @@
+{    
+    "name": "Wildfire",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Wildfires are a new variant of Blazes. They can be found in the Nether Fortresses and randomly over the Nether. They have more health, more armor and deals more damage too.$(br2)They can put up shields to become invulnerable for a short period of time.$(br2)On death they may drop a $(l:patchouli:armors/outvoted/wildfire_helmet)Wildfire Helmet$(/l) or a Shattered Blaze Piece."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "outvoted:wildfire",
+            "scale": 1,
+            "text": "You can use this last one to craft a Wildfire Shield Part, then, you can use this to make a WIldfire Shield in an Anvil."
+        }
+             ]
+}

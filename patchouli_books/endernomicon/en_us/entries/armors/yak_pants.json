@@ -1,0 +1,20 @@
+{    
+    "name": "Yak Pants",
+    "icon": "environmental:yak_pants",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 6,
+    "pages": [
+       {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/yak/yak_pants",
+            "text": "$(li)The Yak Pants is a quiet better than the $(l:patchouli:armors/cactus_armor)Cactus Leggings$(/l), $(l:patchouli:armors/melon_armor)Melon Leggings$(/l) and $(l:patchouli:armors/pumpkin_armor)Pumpkin Leggings$(/l).$(br)$(li)The Yak Pants doesn't give to you any special effect.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Yak Pants",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"environmental:yak_pants\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
+             ]
+}

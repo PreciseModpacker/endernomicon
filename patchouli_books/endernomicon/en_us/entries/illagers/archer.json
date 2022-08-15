@@ -1,0 +1,19 @@
+{    
+    "name": "Archer",
+    "icon": "minecraft:bow",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Archers are very good attacking you at long distance with their Bows.$(br)$(li)Don't let them to be too far of you!$(br)$(li)On death they may drop Arrows and Bows.$(br)$(li)It can be found in the Illager Archer Tower."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:archer{HandItems:[{Count:1,id:bow}]}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

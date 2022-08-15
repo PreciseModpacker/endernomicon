@@ -1,0 +1,19 @@
+{    
+    "name": "Pumpkin",
+    "icon": "minecraft:pumpkin",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:pumpkin",
+            "text": "$(li)Pumpkin is a fruit block that appears over the Overworld.$(br)$(li)You can use Pumpkins to craft Pumpkin Bread, Large Pumpkin Slice, Pumpkin Seeds, Pumpkin Pie, Azuki Curry and a Pumpkin Armor in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This block can be grows up from a Pumpkin Seeds.$(br)$(li)You can create Carved Pumpkins right clicking while you are holding a Shears on your hand and your are pointing to a Pumpkin."
+        }
+             ]
+}

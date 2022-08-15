@@ -1,0 +1,22 @@
+{    
+    "name": "Gauntlet of Guard",
+    "icon": "cataclysm:gauntlet_of_guard",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:gauntlet_of_guard",
+            "text": "$(li)The Gauntlet of Guard is the second strongest melee weapon, after the $(l:patchouli:weapons/infernal_forge)Infernal Forge$(/l).$(br)$(li)Right clicking while you have this weapon in your hand you can attract nearby creatures to you.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Gauntlet Of Guard",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:gauntlet_of_guard\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "The Gauntlet of Guard can only be obtained defeating the $(l:patchouli:weapons/blood_sprayer)Ender Guardian$(/l)."
+        }
+             ]
+}

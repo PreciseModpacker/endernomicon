@@ -1,0 +1,18 @@
+{    
+    "name": "Knockback",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:knockback',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:knockback',lvl:1}]}",
+            "text": "$(li)The Knockback enchantment can be applied in any kind of Item.$(br)$(li)This enchantment increases the knockback strenght of the hits made with the enchanted item with this enchantment, pushing them further.",
+            "title": "Knockback"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an Ancient Tome (Knockback)."
+        }
+             ]
+}

@@ -1,0 +1,822 @@
+{    
+    "name": "Stairs",
+    "icon": "minecraft:cobblestone_stairs",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cobblestone_stairs",
+            "text": "$(li)Stairs are a decorative block that allows you or other creatures to change elevation without jumping.",
+            "link_recipe": "true",
+            "title": "Stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:mossy_cobblestone_stairs",
+            "recipe2":"upgrade_aquatic:kelpy_cobblestone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/cobblestone_bricks_stairs",
+            "recipe2":"quark:building/crafting/stairs/mossy_cobblestone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_stone_brick_stairs",
+            "recipe2": "lepton:crafting/smooth_stone_stairs"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stone_stairs",
+            "recipe2": "minecraft:mossy_stone_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stone_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_granite_stairs",
+            "recipe2": "quark:world/crafting/stairs/granite_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_granite_stairs",
+            "recipe2": "minecraft:granite_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_andesite_stairs",
+            "recipe2": "quark:world/crafting/stairs/andesite_bricks_stairs"
+        },
+        {    
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_andesite_stairs",
+            "recipe2": "minecraft:andesite_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_diorite_stairs",
+            "recipe2": "quark:world/crafting/stairs/diorite_bricks_stairs"
+        },
+        {    
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:cobbled_diorite_stairs",
+            "recipe2": "minecraft:diorite_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brick_stairs",
+            "recipe2": "quark:world/crafting/stairs/limestone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/limestone_bricks_stairs",
+            "recipe2": "quark:world/crafting/stairs/polished_limestone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/marble_stairs",
+            "recipe2": "quark:world/crafting/stairs/marble_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/polished_marble_stairs",
+            "recipe2": "quark:world/crafting/stairs/jasper_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/jasper_bricks_stairs",
+            "recipe2":"quark:world/crafting/stairs/polished_jasper_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/slate_stairs",
+            "recipe2": "quark:world/crafting/stairs/slate_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/polished_slate_stairs",
+            "recipe2": "quark:backport/crafting/cobbled_deepslate_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/deepslate_bricks_stairs",
+            "recipe2": "quark:backport/crafting/polished_deepslate_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/deepslate_tiles_stairs",
+            "recipe2": "quark:building/crafting/stairs/midori_block_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/brimstone_stairs",
+            "recipe2": "quark:world/crafting/stairs/brimstone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "goblinsanddungeons:scoria_stairs",
+            "recipe2": "goblinsanddungeons:scoria_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "goblinsanddungeons:polished_scoria_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:sandstone_stairs",
+            "recipe2": "lepton:crafting/cracked_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cut_sandstone_stairs",
+            "recipe2": "minecraft:smooth_sandstone_stairs"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:sandstone_tile_stairs",
+            "recipe2": "quark:building/crafting/stairs/sandstone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_sandstone_stairs",
+            "recipe2": "lepton:crafting/cracked_red_sandstone_stairs"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cut_red_sandstone_stairs",
+            "recipe2": "minecraft:smooth_red_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crumbs:red_sandstone_tile_stairs",
+            "recipe2": "quark:building/crafting/stairs/red_sandstone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_arid_sandstone_stairs",
+            "recipe2": "lepton:crafting/cut_arid_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:smooth_arid_sandstone_stairs",
+            "recipe2": "atmospheric:arid_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:arid_sandstone_brick_stairs",
+            "recipe2": "atmospheric:smooth_red_arid_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_red_arid_sandstone_stairs",
+            "recipe2": "atmospheric:red_arid_sandstone_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:smooth_red_arid_sandstone_stairs",
+            "recipe2": "lepton:crafting/cut_red_arid_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:red_arid_sandstone_stairs",
+            "recipe2": "lepton:crafting/cut_red_arid_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/sandy_bricks_stairs",
+            "recipe2": "quark:building/crafting/stairs/turf_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/dirt_bricks_stairs",
+            "recipe2": "environmental:building/bricks/mud/mud_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:beachgrass_thatch_stairs",
+            "recipe2": "quark:building/crafting/stairs/thatch_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/thatch/grass/grass_thatch_stairs",
+            "recipe2": "environmental:building/thatch/cattail/cattail_thatch_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/thatch/duckweed/duckweed_thatch_stairs",
+            "recipe2": "bamboo_blocks:bamboo_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bamboo_blocks:reed_thatch_stairs",
+            "recipe2": "bayou_blues:crafting/cypress_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bayou_blues:crafting/algae_thatch_stairs",
+            "recipe2": "better_badlands:kindling_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:acacia_stairs",
+            "recipe2": "minecraft:birch_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_stairs",
+            "recipe2": "minecraft:oak_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:jungle_stairs",
+            "recipe2": "minecraft:spruce_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:acacia_stairs",
+            "recipe2": "minecraft:birch_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_stairs",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_stairs",
+            "recipe2": "environmental:building/wood/willow/willow_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_stairs",
+            "recipe2": "environmental:building/wood/wisteria/wisteria_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_stairs",
+            "recipe2": "upgrade_aquatic:river_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_stairs",
+            "recipe2": "atmospheric:morado_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_stairs",
+            "recipe2": "atmospheric:aspen_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/acacia_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_acacia_wood_stairs"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/birch_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_birch_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/dark_oak_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_dark_oak_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/oak_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_oak_wood_stairs"
+        },         
+        { 
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/jungle_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_jungle_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/spruce_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_spruce_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/morado_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_morado_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/yucca_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_yucca_wood_stairs"
+        }, 
+        {           
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/kousa_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_kousa_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/aspen_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_aspen_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/maple_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_maple_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/river_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_river_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/wisteria_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_wisteria_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/cherry_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_cherry_wood_stairs"
+        },         
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/willow_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_willow_wood_stairs"
+        },         
+        {
+            "type": "patchouli:crafting",   
+            "recipe": "lepton:crafting/wood_stairs/cypress_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_cypress_wood_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/rosewood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_rosewood_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/driftwood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_driftwood_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/grimwood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_grimwood_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/glowshroom_hyphae_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_glowshroom_hyphae_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/red_mushroom_hyphae_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_red_mushroom_hyphae_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/brown_mushroom_hyphae_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_brown_mushroom_hyphae_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/white_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/orange_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/magenta_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/light_blue_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/yellow_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/lime_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/pink_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/gray_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/light_gray_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/cyan_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/purple_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/blue_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/brown_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/green_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/red_stained_planks_stairs",
+            "recipe2": "quark:building/crafting/stairs/black_stained_planks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/cobbedstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:prismarine_stairs",
+            "recipe2": "minecraft:prismarine_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_prismarine_stairs",
+            "recipe2": "quark:world/crafting/stairs/elder_prismarine_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/dark_elder_prismarine_stairs",
+            "recipe2": "quark:world/crafting/stairs/elder_prismarine_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:luminous_prismarine_stairs",
+            "recipe2": "upgrade_aquatic:luminous_elder_prismarine_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/terracotta/terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/white/white_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/orange/orange_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/magenta/magenta_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/light_blue/light_blue_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/yellow/yellow_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/lime/lime_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/lime/lime_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/pink/pink_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/gray/gray_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/light_gray/light_gray_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/light_gray/light_gray_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/cyan/cyan_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/cyan/cyan_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/purple/purple_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/blue/blue_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/brown/brown_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/green/green_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/bricks/terracotta/red/red_terracotta_brick_stairs",
+            "recipe2": "environmental:building/bricks/terracotta/black/black_terracotta_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/white_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/orange_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/magenta_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/light_blue_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/yellow_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/lime_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/pink_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/gray_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/light_gray_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/cyan_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/purple_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/blue_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/brown_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/green_shingles_stairs",
+            "recipe2": "quark:building/crafting/stairs/red_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/black_shingles_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:scute_shingle_stairs",
+            "recipe2": "upgrade_aquatic:scute_pavement_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:snail_shell_brick_stairs",
+            "recipe2": "autumnity:snail_shell_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:honeycomb/bricks/honeycomb_brick_stairs",
+            "recipe2": "buzzier_bees:honeycomb/tiles/honeycomb_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:chocolate/tiles/chocolate_tile_stairs",
+            "recipe2": "neapolitan:chocolate/bricks/chocolate_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:banana/frond_thatch/frond_thatch_stairs",
+            "recipe2": "cookielicious:crafting/cookie_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cookielicious:crafting/chocolate_cookie_tile_stairs",
+            "recipe2": "cookielicious:crafting/cookie_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cookielicious:crafting/strawberry_cookie_tile_stairs",
+            "recipe2": "cookielicious:crafting/vanilla_cookie_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cookielicious:crafting/banana_cookie_tile_stairs",
+            "recipe2": "cookielicious:crafting/mint_cookie_tile_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cookielicious:crafting/adzuki_cookie_tile_stairs"
+        },
+
+      ### Get Iron ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/iron_plate_stairs",
+            "recipe2": "quark:building/crafting/stairs/rusty_iron_plate_stairs"
+        },
+
+       ### ICE BIOME ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/snow_bricks_stairs",
+            "recipe2": "environmental:building/bricks/ice/ice_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/permafrost_stairs",
+            "recipe2": "quark:world/crafting/stairs/permafrost_bricks_stairs"
+        },
+
+        ### Get Obsidian ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:obsidian_brick_stairs",
+            "recipe2": "charm:refined_obsidian/refined_obsidian_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extcaves:lavastone_stairs",
+            "recipe2": "extcaves:polished_lavastone_stairs"
+        },
+
+
+       ### Kill Thraser ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:tooth_stairs",
+            "recipe2": "upgrade_aquatic:tooth_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:coralstone_stairs",
+            "recipe2": "upgrade_aquatic:kelpy_stone_brick_stairs"
+        },
+
+        ### Savage & Ravage ###
+        {
+            "type": "patchouli:crafting",
+            "recipe": "savageandravage:blast_proof_stairs",
+            "recipe2": "savageandravage:gloomy_tile_stairs"
+        },
+ 
+        ### The Nether BIOME ###
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:warped_stairs",
+            "recipe2": "minecraft:crimson_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/warped_hyphae_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_warped_hyphae_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/crimson_hyphae_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_crimson_hyphae_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:quartz_stairs",
+            "recipe2": "minecraft:smooth_quartz_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/quartz_brick_stairs",
+            "recipe2": "minecraft:nether_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_nether_brick_stairs",
+            "recipe2": "lepton:crafting/cracked_nether_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/charred_nether_bricks_stairs",
+            "recipe2": "quark:building/crafting/stairs/blue_nether_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/netherrack_bricks_stairs",
+            "recipe2": "crumbs:blue_nether_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blackstone_stairs",
+            "recipe2": "minecraft:polished_blackstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_blackstone_brick_stairs",
+            "recipe2": "lepton:crafting/cracked_polished_blackstone_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_polished_blackstone_brick_stairs",
+            "recipe2": "lepton:crafting/gilded_blackstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/twisted_blackstone_bricks_stairs",
+            "recipe2": "quark:building/crafting/stairs/weeping_blackstone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/blackstone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/smooth_glowstone_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glowstone_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/dimstone_brick_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/smooth_dimstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/dullstone_brick_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/smooth_dullstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/glowdust_stone_brick_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glowdust_stone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/cracked_glowdust_sandstone_stairs"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/basalt_brick_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/basalt_stairs"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "quark:backport/crafting/smooth_basalt_stairs",
+            "recipe2": "quark:building/crafting/stairs/vanilla_basalt_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_stone_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/soul_stone_bricks_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_slate_bricks_stairs",
+            "recipe2": "lepton:crafting/cracked_soul_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/soul_sandstone_bricks_stairs",
+            "recipe2": "quark:building/crafting/stairs/soul_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_sand_stairs",
+            "recipe2": "infernalexp:crafting/crafting_shaped/soul_soil_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/soul_slate_stairs",
+            "recipe2": "lepton:crafting/cut_soul_sandstone_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/smooth_soul_sandstone_stairs",
+            "recipe2": "quark:building/crafting/stairs/magma_bricks_stairs"
+        },
+
+
+       ### END BIOME ###
+
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/wood_stairs/poise_wood_stairs",
+            "recipe2": "lepton:crafting/wood_stairs/stripped_poise_wood_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_stairs",
+            "recipe2": "endergetic:eumus_brick_stairs"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:purpur_stairs",
+            "recipe2": "quark:world/crafting/stairs/biotite_block_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/biotite_brick_stairs",
+            "recipe2": "quark:world/crafting/stairs/smooth_biotite_stairs"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/basalt_stairs",
+            "recipe2": "quark:world/crafting/stairs/basalt_bricks_stairs"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/polished_basalt_stairs",
+            "recipe2": "quark:world/crafting/stairs/myalite_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/stairs/myalite_bricks_stairs",
+            "recipe2": "quark:world/crafting/stairs/polished_myalite_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/stairs/duskbound_block_stairs",
+            "recipe2": "endergetic:eumus_brick_stairs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:chorus_stairs",
+            "recipe2": "endergetic:eumus_brick_stairs"
+        }
+
+             ]
+}

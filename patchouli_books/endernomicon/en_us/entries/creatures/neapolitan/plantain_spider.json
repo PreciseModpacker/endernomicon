@@ -1,0 +1,15 @@
+{    
+    "name": "Plantain Spider",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "neapolitan:plantain_spider",
+            "scale": 0.9,
+            "text": "Plantain Spiders can be found in the Jungle Biomes. They can appears too when you break a Banana Bundle."
+        }
+             ]
+}

@@ -1,0 +1,23 @@
+{    
+    "name": "Crow",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Crows are nosy birds found in forest and plains.$(br2)These creatures are considered pests since they can ofter be found circling fields and damaging crop growth.$(br2)You can place a Carved Pumpkin to scare them away."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:crow",
+            "scale": 1,
+            "text": "Crows can be tamed by throwing them some Pumpkin Seeds."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "These tamed birds have multiple uses like made to sit, wander, follow or gather items.$(br2)You can heal your pet make it sit on a Hay Block.$(br2)When a crow gather items, it will place it in the nearest cointainer, like a chest or furnace with an item frame on it matching the held item."
+        }  
+             ]
+}

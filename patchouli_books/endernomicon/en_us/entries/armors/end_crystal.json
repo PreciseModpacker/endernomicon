@@ -1,0 +1,33 @@
+{    
+    "name": "End Crystal Armor",
+    "icon": "endrem:end_crystal_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 32,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The End Crystal Armor is the best armor that you can create.$(br)$(li)The durability of this armor is even more than the Netherite Armor.$(br)$(li)When you are wearing any piece of this set and you make a critical attack, you obtain the Regeneration II effect, regenerating your life."
+        },
+        {
+            "type": "patchouli:text",
+            "name": "End Crystal Armor",
+            "text": "$(li)This armor has Armour Toughness too, giving you an extra protection from strong attacks. It has Knockback Resistance too, helping you to resist that other enemies push you far away.$(br)$(li)If you are wearing any piece of this suite, the Pigmans will not be aggressive towards you."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"endrem:end_crystal_boots\",Count:1},{id:\"endrem:end_crystal_leggings\",Count:1},{id:\"endrem:end_crystal_chestplate\",Count:1},{id:\"endrem:end_crystal_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "The End Crystal Armor can be made in a Smithing table, with the specific Diamond Armor piece and a End Crystal Ingot"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endrem:end_crystal_helmet_smithing",
+            "recipe2":"endrem:end_crystal_chestplate_smithing"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endrem:end_crystal_leggings_smithing",
+            "recipe2":"endrem:end_crystal_boots_smithing"
+        }
+             ]
+}

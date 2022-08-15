@@ -1,0 +1,19 @@
+{    
+    "name": "Librarian",
+    "icon": "minecraft:book",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Librarian is a great erudite.$(br)$(li)It will trade you Bookshelfs, Lanterns, Glass, Nametags and even Enchanted Books for Emerals and vice versa.$(br)$(li)A Villager can get the Librarian profession if is near of a Lectern."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:librarian',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

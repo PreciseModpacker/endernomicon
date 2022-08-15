@@ -1,0 +1,29 @@
+{    
+    "name": "Snowy Tundra",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Snowy Tundra is a cold biome composed of mostly by Dirt covered with a layer of Snow and Water lakes turned into Ice lakes.$(br)$(li)It can be found in the Overworld.$(br)$(li)Not too many vegetation can survive in these hard conditions, just the Spruce trees and Poppies."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Mooses can be found walking around this biome too.$(br)$(li)You can search this biome introducing the words $(l)Snowy Tundra$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:snowy_tundra, mirabilis:lush_snowy_tundra"
+#        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/snowy_tundra.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

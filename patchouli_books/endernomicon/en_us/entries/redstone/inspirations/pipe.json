@@ -1,0 +1,23 @@
+{    
+    "name": "Pipe",
+    "icon": "inspirations:pipe",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "inspirations:pipe",
+            "text": "Pipes can transport items but cannot extract items from inventories. They can move items upwards, so they can be an easy solution insteat of using Droppers or Dispensers.$(br2)They have to be directed connected with the output tube of a Hopper and other container, like a chest.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Pipe connected with a Hopper and a Chest"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/pipe"
+        }
+             ]
+}

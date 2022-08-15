@@ -1,0 +1,18 @@
+{    
+    "name": "Alligator Snapping Turtle",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Alligator Snapping Turtle is a semi-aquatic create. It can be found in the depths of the swamp. This creature will take a defensive position, it will attack anything that steps near it.$(br2)Sometimes, they drop a piece of Spiked Scute, you can use them to improve your Turtle Shell and make a $(l:patchouli:armors/spiked_turtle_shell)Spiked Turtle Shell$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:alligator_snapping_turtle",
+            "scale": 0.7
+        }
+             ]
+}

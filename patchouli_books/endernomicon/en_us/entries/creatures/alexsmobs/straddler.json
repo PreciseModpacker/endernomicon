@@ -1,0 +1,23 @@
+{    
+    "name": "Straddler",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Straddler is a hostile mob that likes to live in the Basalt Delta biome. It will use $(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l) as projectiles.$(br2)It will do anything to stay far away from the player, you will notice that it is a fast mob.$(br2)On death, Straddler may drop Basalt and sometimes Straddlite."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:straddler",
+            "scale": 1,
+            "text": "Straddlite can be crafted to make Straddleboards, allow you to surf on lava."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:straddleboard"
+        }  
+             ]
+}

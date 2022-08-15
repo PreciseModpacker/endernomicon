@@ -1,0 +1,19 @@
+{    
+    "name": "Spore Bomb",
+    "icon": "savageandravage:spore_bomb",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "savageandravage:spore_bomb",
+            "text": "$(li)The Spore Bomb is new variant of the common TNT.$(br)$(li)It doesn't break blocks when explodes, but it spawns an area of green spores.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/spore_bomb.png",
+            "text": "$(li)In a few seconds, a horde of 8 $(l:patchouli:mobs/savage_and_ravage/creepie)Creepies$(/l) will appears in that area."
+        }
+             ]
+}

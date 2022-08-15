@@ -1,0 +1,29 @@
+{    
+    "name": "Flower Forest",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Flower Forest is a pretty biome with a good variety of flowers and trees.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can see Wisteria, Oak, Birch and Maple Trees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Flowers like Tall Purple Pickerelweed, Tulips, Oxeye Daisies, Delphiniums, Cornflowers, Cartwheels, Lilly of the Valley, Poppies, Rose Bushs and Dandelions can be found here too.$(br)$(li)Hummingbird likes this place because they have a lot of flowers to polinice.$(br)$(li)You can search this biome introducing the words $(l)Flower Forest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:flower_forest"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/flower_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

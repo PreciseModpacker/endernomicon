@@ -1,0 +1,19 @@
+{    
+    "name": "Leatherworker",
+    "icon": "minecraft:leather",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Leatherworker is a master processing the leathers of different creatures.$(br)$(li)It will trade you Leather Costumes, Bedrolls, Leather Horse Armor and even Saddles for Emerals and vice versa.$(br)$(li)A Villager can get the Leatherworker profession if is near of a Cauldron."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:leatherworker',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

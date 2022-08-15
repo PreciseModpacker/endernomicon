@@ -1,0 +1,15 @@
+{    
+    "name": "Gazelle Horn",
+    "icon": "alexsmobs:gazelle_horn",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:gazelle_horn",
+            "text": "$(li)Gazelle Horn can be used to upgrade a Potion of Swiftness II into Swiftness III in a Brewing Stand.$(br)$(li)It can only be obtained slaying Gazelles.",
+            "link_recipe": "true"
+        }
+             ]
+}

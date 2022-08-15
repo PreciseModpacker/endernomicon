@@ -1,0 +1,34 @@
+{    
+    "name": "Shulker Box",
+    "icon": "minecraft:shulker_box",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:shulker_box",
+            "text": "$(li)The Shulker Box is the better version of the Sack.$(br)$(li)This one doesn't add the slow effect when you are carrying with a few of them.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To access to its inventory, just place the Shulker Box and open it right clicking, like a Chest.$(br)$(li)Then you can break it with your mere hand or other tools to return it to your inventory.$(br)$(li)Shulker Box can be enchanted with Siphon and Refill enchantings.$(br)$(li)Shulkerbox can be tinted with Dyes in a Crafting Table. "
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/shulker_box_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/shulker_box_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

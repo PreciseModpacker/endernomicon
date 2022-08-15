@@ -1,0 +1,103 @@
+{    
+    "name": "Signs",
+    "icon": "minecraft:oak_sign",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Signs",
+            "item": "minecraft:oak_sign",
+            "text": "$(li)The Sign is a decorative item that comes in all wood types.$(br)$(li)It can be placed under or on the side of a block, fence or wall.$(br)$(li)You can write text on them by right-cliking the sign with an empty hand."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of Signs"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_sign",
+            "recipe2": "minecraft:spruce_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:birch_sign",
+            "recipe2": "minecraft:jungle_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:acacia_sign",
+            "recipe2": "minecraft:dark_oak_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/willow/willow_sign",
+            "recipe2": "environmental:building/wood/cherry/cherry_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/wisteria/wisteria_sign",
+            "recipe2": "bayou_blues:crafting/cypress_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_sign",
+            "recipe2": "atmospheric:morado_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_sign",
+            "recipe2": "atmospheric:aspen_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_sign",
+            "recipe2": "bamboo_blocks:bamboo_sign",
+            "link_recipe": "true"
+        },
+# MUSHROOMS
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_sign",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_sign",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_sign",
+            "recipe2": "enhanced_mushrooms:crafting/glowshroom/glowshroom_sign_wood",
+            "link_recipe": "true"
+        },
+# WATER
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_sign",
+            "recipe2": "upgrade_aquatic:river_sign",
+            "link_recipe": "true"
+        },
+
+# NETHER
+
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crimson_sign",
+            "recipe2": "minecraft:warped_sign",
+            "link_recipe": "true"
+        },
+
+# END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_sign",
+            "link_recipe": "true"
+        }
+             ]
+}

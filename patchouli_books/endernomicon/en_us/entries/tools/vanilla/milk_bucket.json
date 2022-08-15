@@ -1,0 +1,24 @@
+{    
+    "name": "Bucket (Milk)",
+    "icon": "minecraft:milk_bucket",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:milk/milk_bottles_from_bucket",
+            "text": "$(li)The Milk Bucket is a drink, when consumed, it will immediately removes all you status effects.$(br)$(li)It can be crafted with Milk Bottles and an Empty Bucket too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can obtain Milk Bucket without crafting too.$(br)$(li)You have to right click while you are holding an Empty Bucket on your hand and you are pointing a Cow, Yaks or Mooshroom.$(br)$(li)This is a valious ingredient to multiple food recipes in a Crafting Table."
+        },
+        {   
+            "type": "patchouli:text",
+            "title": "Food Recipies",
+            "text": "$(li)Milkshake$(li)ice Cream$(li)Chocolate Bar$(li)Pancake$(li)Vanilla Fudge$(li)Cake$(li)Scrambled Eggs$(li)Milk Bottle$(li)Adzuki Bun$(li)Truffle Mash$(li)Aether-Glazed Cupcake"
+        }
+             ]
+}

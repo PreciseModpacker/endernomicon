@@ -1,0 +1,26 @@
+{    
+    "name": "Cage",
+    "icon": "supplementaries:cage",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:cage",
+            "text": "$(li)The Cage is a block that allows you to trap small creatures inside.$(br)$(li)To capture a new creature you have to right click a creature while you are holding an empty Cage in your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can place the cage like other common block shift right clicking while you are holding the Cage in the desired place to show your trapped creature.$(br)$(li)To release it, just right click while you are holding the cage with the trapped creature inside and you are pointing to the block where it will be released."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

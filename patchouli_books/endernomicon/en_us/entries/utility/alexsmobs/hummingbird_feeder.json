@@ -1,0 +1,27 @@
+{    
+    "name": "Hummingbird Feeder",
+    "icon": "alexsmobs:hummingbird_feeder",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:hummingbird_feeder",
+            "text": "$(li)The Hummingbird Feeder is a block that can be filled with Water Bottles and Sugar to keep nearby $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) in a small area and boost the effect of their pollination.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": true
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/hummingbird_feeder.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

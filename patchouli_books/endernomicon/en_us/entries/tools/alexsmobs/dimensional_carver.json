@@ -1,0 +1,27 @@
+{    
+    "name": "Dimensional Carver",
+    "icon": "alexsmobs:dimensional_carver",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:dimensional_carver",
+            "text": "$(li)The Dimensional Carver allows you to create a temporary portal.$(br)$(li)It connects your currect position to the your Spawn.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This portal can teleport items, minecarts, boats, any kind of entity."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/dimensional_carver.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

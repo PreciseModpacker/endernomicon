@@ -1,0 +1,30 @@
+{    
+    "name": "Paper",
+    "icon": "minecraft:paper",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:paper",
+            "text": "$(li)Paper is a thin and maleable sheet material.$(br)$(li)It can be crafted with Sugar Cane, Banana Frond, Small Banana Frond, Large Banana Frond, Red Mushrooms, or Brown Murshtooms.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:banana/paper_from_small_banana_frond",
+            "recipe2": "neapolitan:banana/paper_from_banana_frond"
+        },
+        {
+            "type": "patchouli:crafting",           
+            "recipe": "neapolitan:banana/paper_from_large_banana_frond",
+            "text": "$(li)Cartographers will exchange you this item by Emeralds.$(br)$(li)Paper can be used to craft multiple items too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Crimson Lanterns$(li)Paper Lanterns$(li)Patterns$(li)Pet Bandages$(li)Empty Maps$(li)Notice Boards$(li)Paper Walls$(li)Ancient Shelfs$(li)Camdies$(li)Trapped Books$(li)Presents$(li)Cartography Tables.",
+            "link_recipe": "true"
+        }
+             ]
+}

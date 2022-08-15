@@ -1,0 +1,23 @@
+{    
+    "name": "Elephant",
+    "icon": "minecraft:sand",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Elephants are neutral creatures that spawns in herds.$(br2)Elephants can be tamed with Acacia Blossoms, but only non-tusker adults can be tamed. However, baby Tusker Elephants can be tamed.$(br2)Elephants can be attracted with Acacia Blossom.$(br2)Elephants are scared of Bees."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:elephant",
+            "scale": 0.8,
+            "text": "Tamed Elephants will defend their owner but they will not follow them."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "They can be equipped with Carpets.$(br2)They can be equipped with chests for a large, 9x6 storage space.$(br2)Elephants can be ridden, like other mounts, by right-clicking on them."
+        }  
+             ]
+}

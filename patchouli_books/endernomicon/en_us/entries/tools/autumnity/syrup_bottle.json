@@ -1,0 +1,15 @@
+{    
+    "name": "Bottle (Syrup)",
+    "icon": "autumnity:syrup_bottle",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "autumnity:syrup_bottle",
+            "text": "$(li)Syrup Bottles is a new kind of food that can be make Smelting a Sap Bottle in a Furnace, Smoker, or Campfire.$(br)$(li)You can use this item to craft a Pattern, Pancake, or Pumpkin Bread.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Ice Spikes",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ice Spikes is a cold biome which is composed mainly by Snow and Ice.$(br)$(li)Itcan be found in the Overworld.$(br)$(li)This is a good place to recolect Packet Ice and Snow for your constructions, but you will not find any creature or vegetation here."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the word $(l)Ice Spikes$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:ice_spikes"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/ice_spikes.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

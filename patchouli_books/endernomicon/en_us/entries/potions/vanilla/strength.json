@@ -1,0 +1,118 @@
+{    
+    "name": "Strength",
+    "icon": "minecraft:potion{Potion:'minecraft:strength'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:strength'}",
+            "text": "With Strength potions you will do extra damage to the creatures you attack.$(br2)They can be brewed using a Blaze Powder and Awkward Potions as ingredients."
+        },
+        {
+            "type": "potion",
+            "title": "Strength",
+            "input": "minecraft:blaze_powder",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash",
+            "input": "minecraft:blaze_powder",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash Ext...",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_strength'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_strength'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering",
+            "input": "minecraft:blaze_powder",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_strength'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:strength'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_strength'}"
+        },
+        {
+            "type": "potion",
+            "title": "Strength Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_strength'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_strength'}"
+        }
+             ]
+}

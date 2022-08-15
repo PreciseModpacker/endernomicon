@@ -1,0 +1,24 @@
+{    
+    "name": "Rope (Supplementaries)",
+    "icon": "supplementaries:rope",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:rope",
+            "text": "$(li)The Ropes can only be attached from the bottom of a block or the side for another rope but only if they are at least 6 blocks from the closest supported rope.",
+            "link_recipe": "true",
+            "title": "Rope (Supplementaries)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can also be attached and supported by fences and they will visually connect too.$(br)$(li)You can fall straight trough ropes at maximum falling speed, unlike other ropes and ladders but you still wont take fall damage.$(br)$(li)Ropes have no hitbox for living entities unless one were to stand on horizontal placed ones, they you'll be able to walk on them but you'll walk slower."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can pull up a rope by clicking with another one or pull it down by clicking with an empty hand. If they pull up or down a cauldron they will actually fill it up.$(br)$(li)Ropes can be instantly broken by hand, fire or by an arrow.$(br)$(li)Finally, like chains, they can connect to bells and offer the same functionality that chains do."
+        }
+             ]
+}

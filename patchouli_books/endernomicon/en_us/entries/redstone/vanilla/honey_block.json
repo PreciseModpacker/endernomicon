@@ -1,0 +1,22 @@
+{
+    "name": "Honey Block",
+    "icon": "minecraft:honey_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:honey_block",
+            "text": "$(li)The Honey Block is a block that has works very well with pistons.$(br)$(li)When a Honey Block is moved by a piston, it attempts to move all adjacent blocks in the same directions."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A honey block can move any block a sticky piston can pull, except Glazed Terracota and Slime Blocks.$(br)$(li)The blocks that are move may, in turn, push other blocks, as if they were being pushed by a piston.$(br)$(li)When the adjacent block that is moved is also a Honey Block, that block also attempts to move all its adjacent blocks."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Honey Blocks are not pulled by a non-sticky piston, nor are they moved if an adjacent (non-honey) block is moved by a piston.$(br)$(li)The maximum of 12 blocks moved by a piston still applies.$(br)$(li)Honey Blocks moved by pistons do not move entities that are touching the side or bottom of the block."
+        }
+             ]
+}

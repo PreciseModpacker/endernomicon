@@ -1,0 +1,29 @@
+{    
+    "name": "Beach",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Beach is a small biome composed of mostly of Sand a Water.$(br)$(li)In this place you can find some aquatic vegetation, like Seagrass and animals like Seagulls, Lobsters, Crabs, or Squids too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the word $(l)Beach$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "minecraft:beach"
+#        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/beach.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

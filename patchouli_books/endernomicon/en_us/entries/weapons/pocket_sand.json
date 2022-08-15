@@ -1,0 +1,15 @@
+{    
+    "name": "Pocket of Sand",
+    "icon": "alexsmobs:pocket_sand",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/nether_eye",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:pocket_sand",
+            "text": "$(li)The Pocket of Sand fling sand at enemies, consuming sand in your inventory as ammo.$(br)$(li)It makes 2.5 hearts of damage and inflicts Blindness during 4 seconds.",
+            "link_recipe": "true"
+        }
+             ]
+}

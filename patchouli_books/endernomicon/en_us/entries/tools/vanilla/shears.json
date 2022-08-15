@@ -1,0 +1,22 @@
+{    
+    "name": "Shears",
+    "icon": "minecraft:shears",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:shears",
+            "text": "$(li)Shears are a sharpness item that can be used to multiple things.$(br)$(li)You can right click a Sheep while you are holding Shears in your hand to obtain its Wool."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can right click a Mooshroom while you are holding Shears in your hand to transform it into a Cow.$(br)$(li)You can right click a Pumpkin while you are holding Shears in your hand to turns it into a Carved Pumpkin.$(br)$(li)You can right click the Pumpkin head of a Snow Golem while you are holding Shears to reveal its true face."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can right click a Beehive or Bee Nest full of honey to obtain Honeycombs.$(br)$(li)Finally, you can use Shears to harvest tree leaves."
+        }
+             ]
+}

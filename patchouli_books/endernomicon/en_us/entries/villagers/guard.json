@@ -1,0 +1,19 @@
+{    
+    "name": "Guard",
+    "icon": "minecraft:shield",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Guard will defend its village with is life.$(br)$(li)Unlike other Villagers, they don't have anything to trade with you.$(br)$(li)A Villager can get the Guard profession if you right click of them while you are holding any kind of Sword or Crossbow on your hand."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "guardvillagers:guard",
+            "scale": 1,
+            "title": "Guards"
+        }
+             ]
+}

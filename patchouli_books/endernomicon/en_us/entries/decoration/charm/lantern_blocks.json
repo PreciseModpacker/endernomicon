@@ -1,0 +1,46 @@
+{    
+    "name": "Lantern Blocks",
+    "icon": "minecraft:sea_lantern",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:sea_lantern",
+            "text": "$(li)The Lantern Blocks are a new kind of source light blocks.$(br)$(li)With them you will have more variety to iluminate your home.",
+            "link_recipe": "false"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:world/crafting/elder_sea_lantern",
+            "recipe2":"charm:coral_sea_lanterns/tube_sea_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:coral_sea_lanterns/brain_sea_lantern",
+            "recipe2":"charm:coral_sea_lanterns/bubble_sea_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:coral_sea_lanterns/fire_sea_lantern",
+            "recipe2":"charm:coral_sea_lanterns/horn_sea_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/blaze_lantern"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "infernalexp:smelting/smooth_glowstone",
+            "recipe2": "charm:smooth_glowstone/smooth_glowstone"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/duskbound_lantern"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Lanterns"
+        }
+             ]
+}

@@ -1,0 +1,20 @@
+{    
+    "name": "Large Redstone Jack Lantern",
+    "icon": "autumnity:large_redstone_jack_o_lantern_slice",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:large_redstone_jack_o_lantern_slice",
+            "text": "$(li)A Large Jack o'Lantern Slice is the $(l:patchouli:decoration/autumnity/large_jack_o_lanterns_slice)Large Jack'o Lantern Slice$(/l) Redstone Lamp version.$(br)$(li)Like the Redstone Lamp, this one can only be turned on with a redstone signal.",
+            "link_recipe": "true",
+            "title": "L. Redstone Jack L..."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/large_redstone_jack_lantern.png",
+            "text": "$(li)You can place four Large Redstone Jack Lanterns to create this big pumpkin with a smile face"
+        }
+             ]
+}

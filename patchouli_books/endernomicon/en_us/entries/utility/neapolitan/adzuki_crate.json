@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Adzuki)",
+    "icon": "neapolitan:adzuki_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:adzuki/adzuki_crate",
+            "text": "$(li)The Adzuki Crate is a new decorative block.$(br)$(li)It can be used to save Adzukis in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

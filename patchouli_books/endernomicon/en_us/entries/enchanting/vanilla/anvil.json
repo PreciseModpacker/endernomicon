@@ -1,0 +1,33 @@
+{    
+    "name": "Anvil",
+    "icon": "minecraft:anvil",
+    "category": "patchouli:enchanting",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:anvil",
+            "text": "$(li)The Anvil is a very useful block that allows you to repair items, rename them and combine enchantments.$(br)$(li)Just place it like other blocks and right click on them to open the Anvil GUI.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)Anvils will change their apparence depending of their current durability.$(br)$(li)As the Sand or Gravel, Anvils have gravity.$(br)$(li)If some creature is hitted by an falling Anvil, it will receive some damage."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Rename Items",
+            "text": "$(br)$(li)You can place any item and change its name spending 1 Level of Experience.$(br)$(li)This can be especially used in Nametags and Locks."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Repair Items",
+            "text": "$(br)$(li)You can place any tool and the material which was used for its crafted in an Anvil to repair it.$(br)$(li)Depending of the reparation, it will cost more or less Levels of Experience.$(br)$(li)For example, you can place an Iron Pickaxe and an Iron Ingot to repair it."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Enchanting",
+            "text": "$(br)$(li)You can place any tool and an Enchanted Book to enchant it.$(br)$(li)You can combine multiple Enchanted Books to create a new one.$(br)$(li)Depending of the level of enchanting it will cost more or less Levels of experience."
+        }
+             ]
+}

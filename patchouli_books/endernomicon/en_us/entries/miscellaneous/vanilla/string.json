@@ -1,0 +1,36 @@
+{    
+    "name": "String",
+    "icon": "minecraft:string",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:string",
+            "text": "$(li)The String are long and flexible material that may be dropped by Cats, Cave Spiders, Maraca Spiders, Plantain Spiders, Spiders, or Striders and Crafted with Cattail Seeds or Flax.$(br)$(li)They can be used in a Crafting Table to craft multiples items.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Armors & Weapons",
+            "text": "$(br)$(l)        Armors$()$(br)$(li)Antler Headdress$(br2)$(l)        Weapons$()$(br)$(li)Crossbow$(li)Bow"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tools & Redstone",
+            "text": "$(br)$(l)        Tools$()$(br)$(li)Backpack$(li)Bolloom Balloon$(li)Fishing Rod$(li)Lead$(li)Seed Pouch$(li)Slingshot$(br2)$(l)        Redstone$()$(br)$(li)Collector$(li)Dispenser"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Utility & Miscellaneous",
+            "text": "$(br)$(l)        Utility$()$(br)$(li)Rope$(li)Sack$(li)Scaffolding$(li)Loom$(br2)$(l)      Miscellaneous$()$(br)$(li)Bandage$(li)Passage's Toll$(li)Rope Oil"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Decoration",
+            "text": "$(li)Candles$(li)Quilted Wool$(li)Wool"
+        }
+
+             ]
+}

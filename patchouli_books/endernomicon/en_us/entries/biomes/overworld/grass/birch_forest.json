@@ -1,0 +1,29 @@
+{    
+    "name": "Birch Forest",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Birch Forest is a temperate forested biome composed mainly by Birch trees that can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Birch Trees, Peonies, Pink Clovers, Oyexe Daisies, Poppies, Dandelions, Lilacs and Rose Bushes."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Grizzly Bears and Deers can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:birch_forest,minecraft:birch_forest_hills,minecraft:tall_birch_forest,minecraft:tall_birch_hills"
+#        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/birch_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

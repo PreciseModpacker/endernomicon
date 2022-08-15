@@ -1,0 +1,26 @@
+{    
+    "name": "Cockroach",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Cockroaches are tiny brown passive insects.$(br2)If near light or they are near players, they will free.$(br2)Cockroach may drop their Cockroach Wing Framgent on death, use nine of them to craft a full Cockroach Wing, that it's used as brewing ingredient of $(l:patchouli:potions/bug_pheromones)Potion of Bug Pheromones$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:cockroach",
+            "scale": 0.8
+        },
+        {
+            "type": "patchouli:text",
+            "text": "They can eat any food item dropped on the ground.$(br2)Cockroaches can be attracted with Sugar$(br2)Do you want to teach your tiny cute Cuckroach to dance? Then give it a $(l:patchouli:tools/alexsmobs/maraca)Maraca!$(/l)$(br2)You will need 3 wood, 1 stick and 1 Rattlesnake Rattle."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:cockroach_wing"
+        } 
+             ]
+}

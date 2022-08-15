@@ -1,0 +1,25 @@
+{    
+    "name": "Lock and Key",
+    "icon": "inspirations:lock",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/lock",
+            "text": "$(li)The Lock is an item which can be used to lock Chests.$(br)$(li)To use, you only have to rename it in an Anvil, then you have to right click the Chest while you are holding the Lock on your hand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/key",
+            "text": "$(li)A locked Chest can only be opened using an item which has the same name as the lock.$(br)$(li)For example, a lock named Password requires a key named Password.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A lock can be removed by shift right clicking on the Chest with a Key that has the same name as the lock."
+        }
+             ]
+}

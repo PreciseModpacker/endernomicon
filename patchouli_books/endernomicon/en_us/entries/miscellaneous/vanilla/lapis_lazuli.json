@@ -1,0 +1,19 @@
+{    
+    "name": "Lapis Lazuli",
+    "icon": "minecraft:lapis_lazuli",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:lapis_lazuli",
+            "text": "$(li)The Lapis Lazuli is rock with magic propierties that can be found and mined in the Caves.$(br)$(li)It can be found in Loot Chests too.$(br)$(li)The Lapis Lazuli is a needed material to do Enchanting.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use Lapis Lazuli to craft a Blue Dye, Lapis Lazuli Armor or a Lapis Lazuli Block in a Crafting Table."
+        }
+             ]
+}

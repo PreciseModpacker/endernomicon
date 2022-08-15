@@ -1,0 +1,48 @@
+{    
+    "name": "Extension",
+    "icon": "minecraft:potion{Potion:'autumnity:extension'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'autumnity:extension'}",
+            "text": "$(li)Extension potions will give you 30 additional seconds of duration to the effects of the potions you take while the extension effect is still active.$(br)$(li)They can be brewed using a Snail Slime and Awkward potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Extension",
+            "input": "autumnity:snail_slime",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'autumnity:extension'}"
+        },
+        {
+            "type": "potion",
+            "title": "Extension Splash",
+            "input": "autumnity:snail_slime",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'autumnity:extension'}"
+        },
+        {
+            "type": "potion",
+            "title": "Extension Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:splash_potion{Potion:'autumnity:extension'}",
+            "output": "minecraft:splash_potion{Potion:'autumnity:extension'}"
+        },
+        {
+            "type": "potion",
+            "title": "Extension Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'autumnity:extension'}",
+            "output": "minecraft:lingering_potion{Potion:'autumnity:extension'}"
+        },
+        {
+            "type": "potion",
+            "title": "Extension Lingering",
+            "input": "autumnity:snail_slime",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'autumnity:extension'}"
+        }
+             ]
+}

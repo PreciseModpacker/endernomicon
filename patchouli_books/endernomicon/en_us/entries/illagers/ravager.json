@@ -1,0 +1,19 @@
+{    
+    "name": "Ravager",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ravager are large bovine-like creatures.$(br)$(li)Illagers can ride those creatures.$(br)$(li)They can be found in a Illager Fort or in a Raid."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:ravager",
+            "scale": 0.6,
+            "text": ""
+        }
+             ]
+}

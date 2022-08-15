@@ -1,0 +1,21 @@
+{    
+    "name": "Hemolymph Blaster",
+    "icon": "alexsmobs:hemolymph_blaster",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:hemolymph_blaster",
+            "text": "$(li)The Hemolymph Blaster is a very powerful mid-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these makes 4 and half hearts of damage.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Hemolymph Blaster",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:hemolymph_blaster\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+             ]
+}

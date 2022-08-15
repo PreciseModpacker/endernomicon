@@ -1,0 +1,88 @@
+{    
+    "name": "Runes",
+    "icon": "quark:blank_rune",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:blank_rune",
+            "text": "$(li)Runes can be applied to enchanted items in an Anvil$(br)$(li)This Rune will change the color of the enchantment glint depending of the color of the Rune used.$(br)$(li)Blank Runes can be turned into any other color placing the Blank Rune and a Dye.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A Blank Rune can online be found in Dungeon, Nether Fortress, Desert Temple and Jungle Temple naturally generated Chests.$(br)$(li)You can craft a Rainbow Rune placing 8 Runes or 8 blocks of Corundum and any kind of Stone in a Crafting table."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/white_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/white_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/orange_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/orange_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/magenta_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/magenta_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/light_blue_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/light_blue_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/yellow_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/yellow_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/lime_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/lime_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"quark:tools/crafting/runes/gray_rune",
+            "recipe2":"quark:tools/crafting/runes/pink_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"quark:tools/crafting/runes/light_gray_rune",
+            "recipe2":"quark:tools/crafting/runes/cyan_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/blue_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/blue_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"quark:tools/crafting/runes/brown_rune",
+            "recipe2":"quark:tools/crafting/runes/green_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/red_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/red_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/runes/black_rune_from_crystal",
+            "recipe2":"quark:tools/crafting/runes/black_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"quark:tools/crafting/runes/purple_rune",
+            "recipe2": "quark:tools/crafting/runes/rainbow_rune"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"quark:tools/crafting/runes/rainbow_rune2"
+        }
+             ]
+}

@@ -1,0 +1,60 @@
+{    
+    "name": "Pressure Plate (Stone)",
+    "icon": "minecraft:stone_pressure_plate",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:stone_pressure_plate",
+            "text": "$(li)Stone can detect creature and players but not items that are placed on them.$(br)$(li)When this happens, it emits a redstone signal of level 15 to near blocks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_slate_pressure_plate",
+            "recipe2": "lepton:crafting/polished_jasper_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_limestone_pressure_plate",
+            "recipe2": "lepton:crafting/polished_marble_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_granite_pressure_plate",
+            "recipe2": "lepton:crafting/polished_diorite_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_andesite_pressure_plate",
+            "recipe2": "environmental:building/wood/willow/willow_pressure_plate",
+            "link_recipe": "true"
+        },
+#NETHER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:polished_blackstone_pressure_plate",
+            "recipe2": "infernalexp:crafting/crafting_shaped/smooth_glowstone_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/polished_basalt_pressure_plate",
+            "recipe2": "infernalexp:crafting/crafting_shaped/soul_slate_pressure_plate",
+            "link_recipe": "true"
+        },
+#END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "lepton:crafting/polished_myalite_pressure_plate",
+            "recipe2": "lepton:crafting/polished_voidstone_pressure_plate",
+            "link_recipe": "true"
+        }
+
+             ]
+}

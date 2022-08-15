@@ -1,0 +1,19 @@
+{    
+    "name": "Toolsmith",
+    "icon": "minecraft:iron_pickaxe",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Toolsmith is very skillful creating tools.$(br)$(li)It will trade you Bells, Shovels, Pickaxes or Axes for Emeralds and vice versa.$(br)$(li)A Villager can get the Toolsmith profession if is near of a Smithing Table."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:toolsmith',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

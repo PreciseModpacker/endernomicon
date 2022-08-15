@@ -1,0 +1,19 @@
+{
+    "name": "Photometer",
+    "icon": "inspirations:photometer",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/photometer",
+            "text": "$(li)The Photometer show the light level at your location, or at the block being targeted if held in your hand by charging the color of the liquid in its interior.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Yellow light means that's a safe light level, no monsters can spawn here.$(br)$(li)Red light means that's dangerous light level, so dangerous creatures can spawn there."
+        }
+             ]
+}

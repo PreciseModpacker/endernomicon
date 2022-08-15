@@ -1,0 +1,15 @@
+{    
+    "name": "Cured Jerky",
+    "icon": "infernalexp:cured_jerky",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:cured_jerky",
+            "text": "$(li)Cured Jerky is a new kind of food that will give you Swiftness II for 7 seconds when you eat it.$(br)$(li)It can only be crafted with Soul Salt Clump and Rotten Flesh.",
+            "link_recipe": "true"
+        }
+             ]
+}

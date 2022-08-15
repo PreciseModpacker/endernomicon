@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Beetroot)",
+    "icon": "quark:beetroot_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/compressed/beetroot_crate",
+            "text": "$(li)The Beetroot Crate is a new decorative block.$(br)$(li)It can be used to save Beetroots in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

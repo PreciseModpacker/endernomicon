@@ -1,0 +1,26 @@
+{    
+    "name": "Bow (Glowsilk)",
+    "icon": "infernalexp:glowsilk_bow",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:glowsilk_bow",
+            "text": "$(li)The Glowsilk Bow is a directly upgrade of the Bow.$(br)$(li)When you fire an Arrow with the Glowsilk Bow and this one falls on the ground, the arrow will light up the surroundings.$(br)$(li)If the arrow hits an enemy, it will light up by the Luminance effect.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Glowsilk Bow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"infernalexp:glowsilk_bow\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "If the arrow hits an enemy, it will light up by the Luminance effect."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If the creature that is hit with the Arrow is a Zombie or Skeleton, the light of Luminance effect will burn it."
+        }
+             ]
+}

@@ -1,0 +1,71 @@
+{    
+    "name": "Bolloom Balloon",
+    "icon": "endergetic:bolloom_balloon",
+    "category": "patchouli:tools",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endergetic:bolloom_balloon",
+            "text": "$(li)Bolloom Balloons can be placed in any creature or even in you, just right click while you have the item on your hand. $(br)$(li)If you use 4 or more, it will float until arrives the sky.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Once it arrives the maximun height, the Bollooms Balloons will be break and it falls!$(br)$(li)Bolloom Ballons can be tinted with Dyes in a Crafting Table too."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/tools/bolloom_balloon.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:orange_bolloom_balloon",
+            "recipe2":"endergetic:lime_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:red_bolloom_balloon",
+            "recipe2":"endergetic:yellow_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:brown_bolloom_balloon",
+            "recipe2":"endergetic:light_gray_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:black_bolloom_balloon",
+            "recipe2":"endergetic:cyan_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:gray_bolloom_balloon",
+            "recipe2":"endergetic:green_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:white_bolloom_balloon",
+            "recipe2":"endergetic:pink_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:purple_bolloom_balloon",
+            "recipe2":"endergetic:blue_bolloom_balloon"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:magenta_bolloom_balloon",
+            "recipe2":"endergetic:light_blue_bolloom_balloon"
+        }
+             ]
+}

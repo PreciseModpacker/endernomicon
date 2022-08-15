@@ -1,0 +1,22 @@
+{    
+    "name": "Sword (Iron)",
+    "icon": "minecraft:iron_sword",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_sword",
+            "text": "$(li)The Iron Sword is the direct upgrade of the Stone Sword.$(br)$(li)This one inflicts more damage and has more durability than the Stone Sword." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Iron Sword",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:iron_sword,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+
+             ]
+}

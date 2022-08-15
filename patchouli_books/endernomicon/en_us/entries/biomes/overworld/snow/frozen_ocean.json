@@ -1,0 +1,29 @@
+{    
+    "name": "Frozen Ocean",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Frozen Ocean is a variant of the Ocean biome in which aits surface is composed by ice insteat water.$(br)$(li)It can be found in the Overworld.$(br)$(li)In the surface of this place common dangerous creatures can appears normally."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Inside of the water, you'll see that the terrain is composed mainly by Gravel.$(br)$(li)No vegetation grows in the hard conditions of this sea.$(br)$(li)Squids and Salmons can deal with these frozen waters.$(br)$(li)You can search this biome introducing the words $(l)Frozen Ocean$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:frozen_ocean"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/frozen_ocean.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

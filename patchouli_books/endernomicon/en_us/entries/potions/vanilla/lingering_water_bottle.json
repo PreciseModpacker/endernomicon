@@ -1,0 +1,22 @@
+{    
+    "name": "Water Potion (Lingering)",
+    "icon": "minecraft:lingering_potion{Potion:'minecraft:water'}",
+    "category": "patchouli:potions",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:lingering_potion{Potion:'minecraft:water'}",
+            "text": "$(li)Lingering Water Bottles contains water in their interior.$(br)$(li)They can be used to brew a Lingering Awkard Potion and Splash Potion of Weakness in a Brewing Stand and to craft Arrow of Splashing in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "potion",
+            "title": "Lingering W. Bottle",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:water'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:water'}"
+        }
+             ]
+}

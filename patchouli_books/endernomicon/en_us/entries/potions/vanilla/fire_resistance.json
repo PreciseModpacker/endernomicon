@@ -1,0 +1,84 @@
+{    
+    "name": "Fire Resistance",
+    "icon": "minecraft:potion{Potion:'minecraft:fire_resistance'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:fire_resistance'}",
+            "title": "Fire Resistance",
+            "text": "$(li)Fire Resistance potions gives immunity to all fire and lava damage. The Potion of Fire Resistance gives you 3 minutes of immunity and the extended one 8 minutes.$(br)$(li)They can be brewed using a Magma Cream and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Fire Resistance",
+            "input": "minecraft:magma_cream",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:fire_resistance'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire Resistance Splash",
+            "input": "minecraft:magma_cream",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire Resistance Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:fire_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_fire_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:fire_resistance'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Lingering",
+            "input": "minecraft:magma_cream",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:fire_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Lingering Ext...",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:fire_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_fire_resistance'}"
+        },
+        {
+            "type": "potion",
+            "title": "Fire R. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_fire_resistance'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_fire_resistance'}"
+        }
+             ]
+}

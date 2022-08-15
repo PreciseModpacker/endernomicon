@@ -1,0 +1,16 @@
+{    
+    "name": "Goblo",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:goblo",
+            "scale": 0.9,
+            "offset": 0.1,
+            "text": "Goblos will get everything trown on the ground and it will eat it. On death they may drop Leather."
+        }
+             ]
+}

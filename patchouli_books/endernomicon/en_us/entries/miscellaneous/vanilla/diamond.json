@@ -1,0 +1,30 @@
+{    
+    "name": "Diamond",
+    "icon": "minecraft:diamond",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:diamond",
+            "text": "$(li)Diamonds are hard gemstones that can be rarely found and mined in the Caves or found in Loot Chests too.$(br)$(li)Diamonds can be used to craft multiple items in the Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "text",
+            "title": "Armors & Weapons",
+            "text": "$(br)$(l)        Armors$()$(br)$(li)Diamond Shield$(li)Diamond Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Cocktail Cutlass$(li)Diamond Axe$(li)Diamond Sword"
+        },
+        {
+            "type": "text",
+            "title": "Tools & Utility",
+            "text": "$(br)$(l)        Tools$()$(br)$(li)Diamond Chisel$(li)Diamond Hoe$(li)Diamond Shovel$(li)Pickarang$(br2)$(l)        Utility$()$(br)$(li)Block of Diamond$(li)Diamond Chest$(li)Enchanting Table$(li)Jukebox"
+        },
+        {
+            "type": "text",
+            "title": "Miscellaneous",
+            "text": "$(li)Devil's Ante$(li)G. to Diamond Chest Upgrade"
+        }
+             ]
+}

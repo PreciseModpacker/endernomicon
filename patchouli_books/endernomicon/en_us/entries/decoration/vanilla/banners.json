@@ -1,0 +1,65 @@
+{    
+    "name": "Banners",
+    "icon": "minecraft:white_banner",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "title": "Banners",
+            "recipe": "minecraft:white_banner",
+            "text": "$(li)Banners are tall decorative blocks that works like the Flags.$(br)$(li)They can be customizated with Dyes and Patterns in the Loom."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of the Banners"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:orange_banner",
+            "recipe2": "minecraft:magenta_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_blue_banner",
+            "recipe2": "minecraft:yellow_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_banner",
+            "recipe2": "minecraft:pink_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gray_banner",
+            "recipe2": "minecraft:light_gray_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cyan_banner",
+            "recipe2": "minecraft:purple_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blue_banner",
+            "recipe2": "minecraft:brown_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_banner",
+            "recipe2": "minecraft:red_banner",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:black_banner",
+            "link_recipe": "true"
+        }
+             ]
+}

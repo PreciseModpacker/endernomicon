@@ -1,0 +1,55 @@
+{    
+    "name": "Lava Vision",
+    "icon": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
+            "text": "$(li)Lava Vision potions allows you to see under lava as if it were water.$(br)$(li)They can be brewed using a Bone Serpent Tooth and a Lava Bottle as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Lava Vision",
+            "input": "alexsmobs:bone_serpent_tooth",
+            "input2": "alexsmobs:lava_bottle",
+            "output": "minecraft:potion{Potion:'alexsmobs:lava_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Lava Vision Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
+            "output": "minecraft:potion{Potion:'alexsmobs:long_lava_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Lava Vision Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:lava_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Lava V. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'alexsmobs:long_lava_vision'}",
+            "output": "minecraft:splash_potion{Potion:'alexsmobs:long_lava_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Lava Vision Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:lava_vision'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:lava_vision'}"
+        },
+        {
+            "type": "potion",
+            "title": "Lava V. Lingering Ext...",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_lava_vision'}",
+            "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_lava_vision'}"
+        }
+             ]
+}

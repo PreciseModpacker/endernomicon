@@ -1,0 +1,19 @@
+{    
+    "name": "Executioner",
+    "icon": "savageandravage:cleaver_of_beheading",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Executioner is a very strong bloodthristy Illager who will not hesitate to decapitate the heads of the Villagers with its great sword.$(br)$(li)It only can be found in a Raid.$(br)$(li)Oh Death, rarely it drops its great weapon, Cleaver of Beheading."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "savageandravage:executioner",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

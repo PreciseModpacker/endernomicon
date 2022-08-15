@@ -1,0 +1,23 @@
+{    
+    "name": "Hunger",
+    "icon": "minecraft:sand",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Hunger is a little creature that can be found in Deserts, Red Sand Dederts or Swamp Biomes.$(br2)They will use their bodies as a camouflage to bury itself in the ground or sand in order not to be detected.$(br2)When they detect the presence of something above them, they will nimbly close their jaws in order to catch their prey."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "outvoted:hunger",
+            "scale": 0.65,
+            "text": "On death the may drop Bottles o' Enchanting or Void Hearts."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If this creature makes you any damage, it will randomly remove 1 level of your enchant armor.$(br2)This creature really love to eat everything like you drop on their heads.$(br2)You can give this creature an enchanted item, like an Iron Sword with Looting 2 enchantment and then, give it a Diamond Sword without any enchantment, then it will drop the Diamond Sword with looting 2 enchantment."
+        }  
+             ]
+}

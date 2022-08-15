@@ -1,0 +1,24 @@
+{    
+    "name": "Cachalot Whale",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The cachalot Whale is a neutral, massive mammal mod found in lukewarm, cold and deep oceans. They detect their preys, Squids sending  out a moaning noise to echolocate them.$(br2)During thunderstoms, Cachalot Whales may spawn washed up on beaches. If you pushed back into the water without hurt them, they may reward youwith an Ambergris."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:cachalot_whale",
+            "scale": 0.6,
+            "text": "You can use it to craft an Echolocator and upgrade it to an Endolocator"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:echolocator",
+            "recipe2": "alexsmobs:endolocator"
+        }
+             ]
+}

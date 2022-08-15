@@ -1,0 +1,19 @@
+{    
+    "name": "Spectre",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Spectres are creatures like Phantoms but they are ethereal and peaceful too. They can phase throught blocks and only take magic damage.$(br2)Players can attach a Lead to a Spectre to travel with it. They are fast than $(l:patchouli:creatures/alexsmobs/endergrade)Endergrades$(/l) but the player cannot control where the Spectre travels to. Sneaking or interacting with the Lead will detach the player."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:spectre",
+            "scale": 0.6,
+            "text": "Spectres may be attracted holding a $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Heart$(/l)."
+        }
+             ]
+}

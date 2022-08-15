@@ -1,0 +1,119 @@
+{    
+    "name": "Ladders",
+    "icon": "minecraft:ladder",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:ladder",
+            "text": "$(li)Ladders are solid blocks that can be used to climbing walls.$(br)$(li)They can be placed only on the sides of other blocks.",
+            "link_recipe": "true",
+            "title": "Ladders"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/oak_ladder",
+            "recipe2":"charm:variant_ladders/oak_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/dark_oak_ladder",
+            "recipe2":"charm:variant_ladders/dark_oak_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/spruce_ladder",
+            "recipe2":"charm:variant_ladders/spruce_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/spruce_ladder",
+            "recipe2":"charm:variant_ladders/spruce_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/birch_ladder",
+            "recipe2":"charm:variant_ladders/birch_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/jungle_ladder",
+            "recipe2":"charm:variant_ladders/jungle_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/acacia_ladder",
+            "recipe2":"charm:variant_ladders/acacia_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/spruce_ladder",
+            "recipe2":"charm:variant_ladders/spruce_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/spruce_ladder",
+            "recipe2":"charm:variant_ladders/spruce_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/willow/willow_ladder",
+            "recipe2":"environmental:building/wood/cherry/cherry_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/wisteria/wisteria_ladder",
+            "recipe2":"enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_ladder",
+            "recipe2":"enhanced_mushrooms:crafting/glowshroom/glowshroom_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bamboo_blocks:bamboo_ladder",
+            "recipe2":"bayou_blues:crafting/cypress_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_ladder",
+            "recipe2":"upgrade_aquatic:river_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_ladder",
+            "recipe2":"atmospheric:morado_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_ladder",
+            "recipe2":"atmospheric:aspen_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/iron_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/warped_ladder",
+            "recipe2":"charm:variant_ladders/warped_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/crimson_ladder",
+            "recipe2":"charm:variant_ladders/crimson_ladder"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_ladder"
+        }
+
+
+             ]
+}

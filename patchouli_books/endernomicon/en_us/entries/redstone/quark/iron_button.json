@@ -1,0 +1,15 @@
+{    
+    "name": "Button (Iron)",
+    "icon": "quark:iron_button",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/iron_button",
+            "text": "$(li)Iron Buttons are placeable blocks that emites a long pulse of redstone of 5 seconds.",
+            "link_recipe": "true"
+        }
+             ]
+}

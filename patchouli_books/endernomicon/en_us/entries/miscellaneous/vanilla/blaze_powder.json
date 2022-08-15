@@ -1,0 +1,19 @@
+{    
+    "name": "Blaze Powder",
+    "icon": "minecraft:blaze_powder",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blaze_powder",
+            "text": "$(li)The Blaze Powder is an item used as fuel in the Brewing Stand.$(br)$(li)It can be used to brew a Potion of Strength in a Brewing Stand.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Finally, the Blaze Powder can be used to craft a Fire Charge, Blaze Lantern, Magma Cream, Copper Lanterns, or even a Eye of Ender in a Crafting Table."
+        }
+             ]
+}

@@ -1,0 +1,19 @@
+{    
+    "name": "Chorus Fruit",
+    "icon": "minecraft:chorus_fruit",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:chorus_fruit",
+            "text": "$(li)The Chorus Fruit is a food that can be obtained when you cut a Chorus Plant.$(br)$(li)If you eat it, you will be teleported up to 8 blocks in any direction.$(br)$(li)You can obtain a Popped Chorus Fruit Smelting a Chorus Fruit in a Furnace.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use it to craft Chorus Planks, a Chorus Fruit on a Stick, a Magnet, or a Chorus Fruit Batch in a Crafting Table too."
+        }
+             ]
+}

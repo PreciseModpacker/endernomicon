@@ -1,0 +1,20 @@
+{    
+    "name": "Trapped Book",
+    "icon": "inspirations:redstone_book",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:utility/redstone_book",
+            "text": "$(li)The Trapped Book is a new variant of the $(l:patchouli:decoration/inspirations/books)Books$(/l).$(br)$(li)This one placed in a Shelf will cause it to emit a redstone signal.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/trapped_book.png",
+            "text": "$(li)The strength of the signal is based on the slot of the book, from a strength of 2 at slot 1 to strength of 15 at slot 14."
+        }
+             ]
+}

@@ -1,0 +1,21 @@
+{    
+    "name": "Cleaver of Beheading",
+    "icon": "savageandravage:cleaver_of_beheading",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "savageandravage:cleaver_of_beheading",
+            "text": "$(li)The Cleaver of Beheading is a very sharp, big and heavy broadsword.$(br)$(li)It can only be dropped by a Executioner.$(br)$(li)This weapon can be repaired with Iron Ingots in an Anvil.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Cleaver of Beheading",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"savageandravage:cleaver_of_beheading\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.5
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Blobfish",
+    "icon": "alexsmobs:blobfish",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:blobfish",
+            "text": "$(li)The Blobfish can be used to craft Fish Oil in a Crafting Table.$(br)$(li)Blobfishes may drop this item on death.$(br)$(li)Don't try to eat it! It can be poisonous.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Giant Taiga",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Giant Taiga is a variant of the Taiga biome with a surface composed of mostly by Podzol and Coarse dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Grizzly Bears, Bald Eagles, Crows and Racoons can be found here.$(br)$(li)You can search this biome introducing the word $(l)Giant$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:giant_spruce_taiga,minecraft:giant_spruce_taiga_hills,minecraft:giant_tree_taiga,minecraft:giant_tree_taiga_hills"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/giant_taiga.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

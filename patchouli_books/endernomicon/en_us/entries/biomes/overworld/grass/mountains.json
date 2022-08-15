@@ -1,0 +1,30 @@
+{    
+    "name": "Mountains",
+    "icon": "minecraft:stone",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Mountains are biomes located at high altitudes and they are composed mostly of Stone, Dirt and, sometimes Snow, covering the whole area.$(br)$(li)It can be found in the Overwold.$(br)$(li)You can find some vegetation like Spruce and Oak trees and animals like Crows, Yaks or Bald Eagles here too."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:mountains, minecraft:wooded_mountains"
+#        }
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the word $(l)Mountains$() in the search box of the Nature's Compass."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/mountains.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+
+             ]
+}

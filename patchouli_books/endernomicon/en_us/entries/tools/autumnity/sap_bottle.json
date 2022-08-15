@@ -1,0 +1,19 @@
+{    
+    "name": "Bottle (Sap)",
+    "icon": "autumnity:sap_bottle",
+    "category": "patchouli:tools",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "autumnity:sap_bottle",
+            "text": "$(li)Sap Bottles is a item that can be used to craft Sugar and Sappy Maple Log in a Crafting Table.$(br)$(li)You can make Syrup Bottle Smelting a Sap Bottle in a Furnace, Smoking, or Campfire.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To obtain a Sap Bottle, first you need to right click multiple Maple Log while you are holding any kind of Axe on your hand. You have a little probability that a Sappy Mapple Log appears.$(br)$(li)Finally right click the Sappy Mapple Log while you are holding a Glass Bottle on your hand to obtain a Sap Bottle."
+        }
+             ]
+}

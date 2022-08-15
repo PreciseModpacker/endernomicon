@@ -1,0 +1,15 @@
+{    
+    "name": "Void Heart",
+    "icon": "outvoted:void_heart",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "outvoted:void_heart",
+            "text": "$(li)The Void Heart can be placed with a Tool or Armor in a Anvil to prevent Too Expensive! message.$(br)$(li)It can only be dropped for a Hungers.",
+            "link_recipe": "true"
+        }
+             ]
+}

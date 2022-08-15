@@ -1,0 +1,29 @@
+{    
+    "name": "Sunflower Plains",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Sunflower Plains are a variant of the Plains biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find flowers like Sunflowers, Buttercups and Cornflowers.$(br)$(li)Hummingbirds can be found flying around here pollinating the flowers of this biome."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can search this biome introducing the words $(l)Sunflower Plains$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:sunflower_plains"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/sunflower_plains.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

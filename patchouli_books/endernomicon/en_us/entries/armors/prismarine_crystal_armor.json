@@ -1,0 +1,28 @@
+{    
+    "name": "Prismarine Crystal Armor",
+    "icon": "extraarmor:prismarine_crystal_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 22,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Prismarine Crystal Armor has less protection than the $(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l) and $(l:patchouli:armors/molten_armor)Molten Armor$(/l) but it has more durability.$(br)$(li)If you wear the complete set, you will get the Dolphin's Grace II effect allowing you to swim faster underwater."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Prismarine Crystal Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:prismarine_crystal_boots\",Count:1},{id:\"extraarmor:prismarine_crystal_leggings\",Count:1},{id:\"extraarmor:prismarine_crystal_chestplate\",Count:1},{id:\"extraarmor:prismarine_crystal_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:prismarine_crystal_helmet",
+            "recipe2":"extraarmor:prismarine_crystal_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:prismarine_crystal_leggings",
+            "recipe2":"extraarmor:prismarine_crystal_boots"
+        }
+             ]
+}

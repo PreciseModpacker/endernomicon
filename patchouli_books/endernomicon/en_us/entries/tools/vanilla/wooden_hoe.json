@@ -1,0 +1,19 @@
+{    
+    "name": "Hoe (Wood)",
+    "icon": "minecraft:wooden_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:wooden_hoe",
+            "text": "$(li)The Wooden Hoe is the most basic Hoe and it can be used to create Farmland.$(br)$(li)You should craft a better Hoe, like the Stone Hoe." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use it to create Farmland."
+        }
+             ]
+}

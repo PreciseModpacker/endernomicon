@@ -1,0 +1,23 @@
+{    
+    "name": "Tarantula Hawk",
+    "icon": "minecraft:sand",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Tarantula Hawk is neither a spider nor a hawk. They are giant wasps that are often found buzzing above desert biomes searching their favourites preys, Spiders.$(br2)Once they find some Spider, they will attack it with their sting, inflict the Debilitating String effect, which paralyzes arthropods. Then it will bury it underground, where it will die after a few minutes."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:tarantula_hawk",
+            "scale": 0.5,
+            "text": "Tarantula Hawks can be tamed by feeding them 15-25 Spider Eyes. They are formidable defense against many monsters."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "They can be fred by feeding them Fermented Spider Eyes. Once bred, the wasps will seek out spiders to paralyze - only this time, a baby Tarantula Hawk Grub will emerge from where the spider is buried, after some time it will mature. Tame Tarantula Hawks can be healed with flowers.$(br2)On death, Tarantula Hawk may drop a Tattered Tarantula Hawk Wing, with 9 of those you can create a Tarantula Hawk Wing, with 2 of them you can create a $(l:patchouli:armors/alexsmobs/tarantula_hawk_elytra)Tarantula Hawk Elytra$(/l)."
+        }
+             ]
+}

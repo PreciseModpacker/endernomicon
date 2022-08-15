@@ -1,0 +1,15 @@
+{    
+    "name": "Glistering Melon Slice",
+    "icon": "minecraft:glistering_melon_slice",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:glistering_melon_slice",
+            "text": "$(li)The Glistering Melon Slice is a shiny item that can be used to brew a Potion of Healing in a Brewing Stand.",
+            "link_recipe": "true"
+        }
+             ]
+}

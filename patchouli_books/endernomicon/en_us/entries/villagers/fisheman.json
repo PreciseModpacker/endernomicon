@@ -1,0 +1,19 @@
+{    
+    "name": "Fisherman",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Fisherman masters the art of fishing.$(br)$(li)It will trade you Coal, Fishs or even Ambergris for Emeralds and vice versa.$(br)$(li)A Villager can get the Fisherman profession if is near of a Barrel."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:fisherman',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

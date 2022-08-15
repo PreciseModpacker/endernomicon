@@ -1,0 +1,18 @@
+{    
+    "name": "Scaffolding",
+    "icon": "minecraft:scaffolding",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:scaffolding",
+            "text": "$(li)The Scaffolding will help you reach higher places, or to descend safely.$(br)$(li)When pressing use on the side of a Scaffolding, it is added on top of the highest scaffolding in that location.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you break the bottom block of Scaffolding, all Scaffolding blocks above it break automatically."
+        }
+             ]
+}

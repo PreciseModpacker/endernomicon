@@ -1,0 +1,13 @@
+{    
+    "name": "Illager Centre",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illager Centre is a big castle where Illagers save their big treasure, Holy Water.$(br)$(li)Pillagers, Furanturs, Witches and a Black Iron Golem guard this place."
+        }
+             ]
+}

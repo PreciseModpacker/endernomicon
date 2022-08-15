@@ -1,0 +1,15 @@
+{    
+    "name": "Rabbit's Foot",
+    "icon": "minecraft:rabbit_foot",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:rabbit_foot",
+            "text": "$(li)The Rabbit Foot is an item that can be used to brew a Potion of Jump Boost in a Brewing Stand.$(br)$(li)Clerics will exchange your Rabbit's Foot by Emeralds.$(br)$(li)Rabbits may drops them on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

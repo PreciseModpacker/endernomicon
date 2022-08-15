@@ -1,0 +1,29 @@
+{    
+    "name": "Crimson Forest",
+    "icon": "minecraft:crimson_stem",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Crimson Forest is red-like biome.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Crimson trees, Shroomlights, Crimson Roots and Crimson Fungus here."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some creatures like Shroomloins, Hoglins, Crimson Mosquitos and Warped Toads can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Crimson Forest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:crimson_forest"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/crimson_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

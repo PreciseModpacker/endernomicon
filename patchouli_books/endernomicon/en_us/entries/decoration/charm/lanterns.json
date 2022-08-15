@@ -1,0 +1,319 @@
+{    
+    "name": "Lanterns",
+    "icon": "minecraft:lantern",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:lantern",
+            "text": "$(li)Lanterns are a new kind of source light block.$(br)$(li)They can  be hanged on walls or placed on the ground.$(br)$(li)It exists a $(l:patchouli:redstone/charm/redstone_lantern)Redstone Lamp$(/l) variant too.",
+            "link_recipe": "false",
+            "title": "Lanterns"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lantern",
+            "recipe2":"minecraft:soul_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:gold_lanterns/gold_lantern",
+            "recipe2": "charm:gold_lanterns/gold_soul_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/glow_lantern",
+            "recipe2": "upgrade_aquatic:tooth_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:ender_lantern",
+            "recipe2": "endergetic:acidian_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:crimson_lantern",
+            "recipe2": "environmental:building/ice_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/paper_lantern",
+            "recipe2": "quark:building/crafting/sakura_paper_lantern"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:copper_lantern",
+            "recipe2":"supplementaries:copper_lantern_2"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:pufferfish_lantern_block",
+            "recipe2": "skinnedlanterns:pufferfish_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:zombie_lantern_block",
+            "recipe2": "skinnedlanterns:zombie_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:creeper_lantern_block",
+            "recipe2": "skinnedlanterns:creeper_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:skeleton_lantern_block",
+            "recipe2": "skinnedlanterns:skeleton_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:wither_skeleton_lantern_block",
+            "recipe2": "skinnedlanterns:wither_skeleton_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:bee_lantern_block",
+            "recipe2": "skinnedlanterns:bee_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:jack_o_lantern_lantern_block",
+            "recipe2": "skinnedlanterns:jack_o_lantern_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:snowman_lantern_block",
+            "recipe2": "skinnedlanterns:snowman_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:slime_lantern_block",
+            "recipe2": "skinnedlanterns:slime_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:honey_lantern_block",
+            "recipe2": "skinnedlanterns:honey_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:guardian_lantern_block",
+            "recipe2": "skinnedlanterns:guardian_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ghost_lantern_block",
+            "recipe2": "skinnedlanterns:ghost_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:blinky_lantern_block",
+            "recipe2": "skinnedlanterns:blinky_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:pinky_lantern_block",
+            "recipe2": "skinnedlanterns:pinky_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:inky_lantern_block",
+            "recipe2": "skinnedlanterns:inky_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:clyde_lantern_block",
+            "recipe2": "skinnedlanterns:clyde_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:pacman_lantern_block",
+            "recipe2": "skinnedlanterns:pacman_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_white_lantern_block",
+            "recipe2": "skinnedlanterns:paper_white_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_yellow_lantern_block",
+            "recipe2": "skinnedlanterns:paper_yellow_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_orange_lantern_block",
+            "recipe2": "skinnedlanterns:paper_orange_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_blue_lantern_block",
+            "recipe2": "skinnedlanterns:paper_blue_soul_lantern_block"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_light_blue_lantern_block",
+            "recipe2": "skinnedlanterns:paper_light_blue_soul_lantern_block"
+        },
+        {   
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_lime_lantern_block",
+            "recipe2": "skinnedlanterns:paper_lime_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_green_lantern_block",
+            "recipe2": "skinnedlanterns:paper_green_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_lantern_block",
+            "recipe2": "skinnedlanterns:paper_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_pink_lantern_block",
+            "recipe2": "skinnedlanterns:paper_pink_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_brown_lantern_block",
+            "recipe2": "skinnedlanterns:paper_brown_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_black_lantern_block",
+            "recipe2": "skinnedlanterns:paper_black_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_gray_lantern_block",
+            "recipe2": "skinnedlanterns:paper_gray_soul_lantern_block"
+        },
+        { 
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_light_gray_lantern_block",
+            "recipe2": "skinnedlanterns:paper_light_gray_soul_lantern_block"
+        },
+        {  
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_magenta_lantern_block",
+            "recipe2": "skinnedlanterns:paper_magenta_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_purple_lantern_block",
+            "recipe2": "skinnedlanterns:paper_purple_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:paper_cyan_lantern_block",
+            "recipe2": "skinnedlanterns:paper_cyan_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_red_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_red_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_blue_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_blue_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_purple_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_purple_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_lime_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_lime_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_magenta_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_magenta_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_yellow_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_yellow_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_green_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_green_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_light_blue_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_light_blue_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_cyan_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_cyan_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_pink_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_pink_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_orange_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_orange_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_brown_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_brown_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_black_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_black_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_white_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_white_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_gray_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_gray_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:ornament_light_gray_lantern_block",
+            "recipe2": "skinnedlanterns:ornament_light_gray_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:present_green_lantern_block",
+            "recipe2": "skinnedlanterns:present_green_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:present_red_lantern_block",
+            "recipe2": "skinnedlanterns:present_red_soul_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:zombie_ender_lantern_block",
+            "recipe2": "skinnedlanterns:creeper_ender_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:skeleton_ender_lantern_block",
+            "recipe2": "skinnedlanterns:wither_skeleton_ender_lantern_block"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "skinnedlanterns:jack_o_lantern_ender_lantern_block"
+        }
+             ]
+}

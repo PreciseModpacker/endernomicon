@@ -1,0 +1,18 @@
+{    
+    "name": "Blackstone Tile",
+    "icon": "supplementaries:blackstone_tile",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:blackstone_tile",
+            "text": "$(li)The Blackstone Tile is a new decoration block.$(br)$(li)This block is a variant of the common Polished Blackstone Bricks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Blackstone Tiles"
+        }
+             ]
+}

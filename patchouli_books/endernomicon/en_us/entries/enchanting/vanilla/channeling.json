@@ -1,0 +1,14 @@
+{    
+    "name": "Channeling",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
+            "text": "$(li)The Channeling enchantment can be applied in a Trident.$(br)$(li)This enchantment allows the Trident to summon Lightning Bolts during Thunderstorms.",
+            "title": "Channeling"
+        }
+             ]
+}

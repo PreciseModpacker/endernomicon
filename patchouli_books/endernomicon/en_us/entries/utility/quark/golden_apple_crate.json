@@ -1,0 +1,14 @@
+{    
+    "name": "Block (Golden Apple)",
+    "icon": "quark:golden_apple_crate",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/compressed/golden_apple_crate",
+            "text": "$(li)The Golden Apple Crate is a new decorative block.$(br)$(li)It can be used to save Golden Apples in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

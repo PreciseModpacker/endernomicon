@@ -1,0 +1,28 @@
+{    
+    "name": "Glowstone Armor",
+    "icon": "extraarmor:glowstone_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 16,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Glowstone Armor has a quiet more durability than the $(l:patchouli:armors/molten_armor)Molten Armor$(/l).$(br)$(li)If you wear the complete set, you will get the Night Vision II effect allowing you to see everything crealy in the darkness or underwater."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Glowstone Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:glowstone_boots\",Count:1},{id:\"extraarmor:glowstone_leggings\",Count:1},{id:\"extraarmor:glowstone_chestplate\",Count:1},{id:\"extraarmor:glowstone_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:glowstone_helmet",
+            "recipe2":"extraarmor:glowstone_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:glowstone_leggings",
+            "recipe2":"extraarmor:glowstone_boots"
+        }
+             ]
+}

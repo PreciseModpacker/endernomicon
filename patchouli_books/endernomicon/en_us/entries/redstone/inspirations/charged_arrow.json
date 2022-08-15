@@ -1,0 +1,20 @@
+{    
+    "name": "Charged Arrow",
+    "icon": "inspirations:charged_arrow",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:tools/charged_arrow",
+            "text": "$(li)The Charged Arrow is a variant of the common Arrows.$(br)$(li)It works as ammunition for Bows and Crossbows.$(br)$(li)It can be fired by Dispensers too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/charged_arrow.png",
+            "text": "$(li)If a fired Charged Arrow hits a block, it will produce a redstone pulse lasting about 1 second."
+        }
+             ]
+}

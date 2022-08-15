@@ -1,0 +1,16 @@
+{    
+    "name": "Mimic",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:mimic",
+            "scale": 0.7,
+            "offset": 0.2,
+            "text": "Careful! There is a goblin in that Chest! On death the may drop a Chest, Emerald, Iron or Gold Ingots or a Ring of Steal."
+        }
+             ]
+}

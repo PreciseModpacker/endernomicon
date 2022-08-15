@@ -1,0 +1,38 @@
+{    
+    "name": "Kiln",
+    "icon": "charm:kiln",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:kilns/kiln",
+            "text": "$(li)The Kiln is a faster version of the common Furnaces.$(br)$(li)They can smelt multiple items than a common Furnace can't.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Kiln Recipes",
+            "text": "$(li)Nether Bricks$(li)Terracota$(li)Obsidian$(li)Sand$(li)Red Sand$(li)Sandstone$(li)Red Sandstone$(li)Clay Ball & Clay$(li)Cobblestone$(li)Stone$(li)Stone Bricks$(li)Netherrack$(li)Nether Brick$(li)Glowstone"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Kiln Recipes",
+            "text": "$(li)Polished Blackstone Bricks$(li)Block of Quartz"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:crafting/kiln",
+            "text": "$(li)It exist a different version of the Kiln, that is able to Smelt more items than a common Kiln."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/kiln.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

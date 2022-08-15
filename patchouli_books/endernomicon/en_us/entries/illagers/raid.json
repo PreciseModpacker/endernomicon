@@ -1,0 +1,19 @@
+{    
+    "name": "Vex",
+    "icon": "minecraft:fishing_rod",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Vex are little creatures that can be summoned by Evokers.$(br)$(li)They are able to fly using their wings and make a lot of damage with the tiny Iron Sword that they have equipped.$(br)$(li)Don't let that the Evoker summon a lot of them, or you will be in a big trouble."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:vex{HandItems:[{Count:1,id:iron_sword}]}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

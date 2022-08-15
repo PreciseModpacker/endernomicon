@@ -1,0 +1,29 @@
+{    
+    "name": "Ice Armor",
+    "icon": "extraarmor:ice_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ice Armor is quiet better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l), and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear the complete set, you will get Frost Walker effect, then you walk near of the water, this will be turned into Frosted Ice."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Ice Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:ice_boots\",Count:1},{id:\"extraarmor:ice_leggings\",Count:1},{id:\"extraarmor:ice_chestplate\",Count:1},{id:\"extraarmor:ice_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "You will be inmune to damage of Magma Blocks and Campfires when you are stepped on of them too."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ice_helmet",
+            "recipe2":"extraarmor:ice_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ice_leggings",
+            "recipe2":"extraarmor:ice_boots"
+        }
+             ]
+}

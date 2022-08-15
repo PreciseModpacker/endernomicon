@@ -1,0 +1,22 @@
+{    
+    "name": "Axe (Netherite)",
+    "icon": "minecraft:netherite_axe",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_axe",
+            "text": "$(li)The Netherite Axe is the direct upgrade of the Diamond Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the Diamond Axe." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Netherite Axe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:netherite_axe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "This item can't be burned."
+        }
+             ]
+}

@@ -1,0 +1,29 @@
+{    
+    "name": "Desert",
+    "icon": "minecraft:sand",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Desert is a dry biome mainly composed by Sand.$(br)$(li)It can be found in the Overworld.$(br)$(li)Even being a desert place without much life, you can find some vegetation, like Cactus, Poppies, Dandelions, Grass, Dead Bushes and, sometimes, Yucca trees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals can withstand these harsh conditions, like Roadrunners, Rattlesnake, Tarantula Hawks.$(br)$(li)On the nights Hushes will be around the Deserts too.$(br)$(li)You can search this biome introducing the word $(l)Desert$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:desert,minecraft:desert_hills,minecraft:desert_lakes"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/desert.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

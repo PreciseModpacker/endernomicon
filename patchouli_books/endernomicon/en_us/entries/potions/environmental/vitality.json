@@ -1,0 +1,83 @@
+{    
+    "name": "Vitality",
+    "icon": "minecraft:potion{Potion:'environmental:vitality'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'environmental:vitality'}",
+            "text": "$(li)Vitality potions gives you extra life while the effect of this potion is still active.$(br)$(li)They can be brewed using a Truffle and Awkward Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Vitality",
+            "input": "environmental:truffle",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'environmental:vitality'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'environmental:vitality'}",
+            "output": "minecraft:potion{Potion:'environmental:vitality_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Splash",
+            "input": "environmental:truffle",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'environmental:vitality'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'environmental:vitality'}",
+            "output": "minecraft:splash_potion{Potion:'environmental:vitality'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'environmental:vitality'}",
+            "output": "minecraft:splash_potion{Potion:'environmental:vitality_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'environmental:vitality_strong'}",
+            "output": "minecraft:splash_potion{Potion:'environmental:vitality_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Lingering",
+            "input": "environmental:truffle",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'environmental:vitality'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'environmental:vitality'}",
+            "output": "minecraft:lingering_potion{Potion:'environmental:vitality'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vitality Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'environmental:vitality'}",
+            "output": "minecraft:lingering_potion{Potion:'environmental:vitality_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "V. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'environmental:vitality_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'environmental:vitality_strong'}"
+        }
+             ]
+}

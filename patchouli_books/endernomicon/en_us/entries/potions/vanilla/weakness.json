@@ -1,0 +1,88 @@
+{    
+    "name": "Weakness",
+    "icon": "minecraft:potion{Potion:'minecraft:weakness'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:weakness'}",
+            "text": "$(li)Weakness potions reduces the damage inflicted of the creature that drinks it.$(br)$(li)Level I reduces the damage by 4 hearths during 1 minute and half.$(br)$(li)The Weakness Level II reduces the same quantity of damage during 4 minutes."
+        },
+        {
+            "type": "patchouli:text",
+            "item": "minecraft:potion{Potion:'minecraft:healing'}",
+            "text": "$(li)They can be brewed using a Fermented Spider Eye and an Awkward Potion as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Weakness",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'minecraft:weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Weakness Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'minecraft:weakness'}",
+            "output": "minecraft:potion{Potion:'minecraft:long_weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Weakness Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Weakness Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:weakness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:weakness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:long_weakness'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:long_weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Weakness Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "Weakness Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:weakness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:weakness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_weakness'}"
+        },
+        {
+            "type": "potion",
+            "title": "W. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_weakness'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:long_weakness'}"
+        }
+             ]
+}

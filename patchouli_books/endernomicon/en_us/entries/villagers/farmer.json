@@ -1,0 +1,19 @@
+{    
+    "name": "Farmer",
+    "icon": "minecraft:wheat",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Farmer is a expert of the agriculture.$(br)$(li)It will trade you Pumpkin Pie, Gooseberry Jam Cookies, Bananas, Passionfruit, Banana Cakes, Suspicious Stew or even Golden Carrots and Glistering Melon Slice for Emeralds.$(br)$(li)A Villager can get the Farmer profession if is near of a Composter."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:farmer',level:2}}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

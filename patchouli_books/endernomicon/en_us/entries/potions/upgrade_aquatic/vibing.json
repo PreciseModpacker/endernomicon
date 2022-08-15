@@ -1,0 +1,111 @@
+{    
+    "name": "Vibing",
+    "icon": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
+            "text": "$(li)Vibing potions can be used to heal creatures.$(br)$(li)If they are close to you, they will obtain the regeneration effect.$(br)$(li)They can be brewed using a Fermented Spider Eye and a $(l:patchouli:potions/upgrade_aquatic/repellence)Repellence Potion$(/l) as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Vibing",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:vibing_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'upgrade_aquatic:vibing_strong'}",
+            "output": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:repellence'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing'}"
+        },
+        {
+            "type": "potion",
+            "title": "V. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "V. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_long'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing_long'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        },
+        {
+            "type": "potion",
+            "title": "Vibing Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_strong'}",
+            "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        }
+             ]
+}

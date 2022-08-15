@@ -1,0 +1,18 @@
+{    
+    "name": "Unbreaking",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:unbreaking',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:unbreaking',lvl:1}]}",
+            "text": "$(li)The Unbreaking enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, Shields, Pickaxe, Axe, Sword, Hoe, Shovel, Shears, Bow, Crossbow, Trident, Fishing Rod, Pickarang, Flamarang, Elytras or any kind of item that have an specific durability.",
+            "title": "Unbreaking"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This enchantment reduces the lose of durability of the enchanted armor or tool.$(br)$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an Ancient Tome (Unbreaking)."
+        }
+             ]
+}

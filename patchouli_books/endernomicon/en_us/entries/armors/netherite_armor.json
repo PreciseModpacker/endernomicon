@@ -1,0 +1,28 @@
+{    
+    "name": "Netherite Armor",
+    "icon": "minecraft:netherite_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 27,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Netherite Armor is the seconth best armor that you can make.$(br)$(li)It can be crafted placing a Netherite with a Diamond piece of Armor in a Smithing Table.$(br)$(li)This armor can't be burned."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Netherite Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:netherite_boots,Count:1},{id:netherite_leggings,Count:1},{id:netherite_chestplate,Count:1},{id:netherite_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_helmet",
+            "recipe2":"minecraft:netherite_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:netherite_leggings",
+            "recipe2":"minecraft:netherite_boots"
+        }
+             ]
+}

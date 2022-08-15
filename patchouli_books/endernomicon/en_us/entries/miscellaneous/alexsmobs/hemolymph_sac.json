@@ -1,0 +1,15 @@
+{    
+    "name": "Hemolymph Sac",
+    "icon": "alexsmobs:hemolymph_sac",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:hemolymph_sac",
+            "text": "$(li)The Hemolymph Sac is a drop of the Warped Mosco.$(br)$(li)It can be used to craft a powerfull weapon called Hemolymph Blaster.",
+            "link_recipe": "true"
+        }
+             ]
+}

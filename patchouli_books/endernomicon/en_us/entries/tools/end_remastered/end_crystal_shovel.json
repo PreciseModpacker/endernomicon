@@ -1,0 +1,15 @@
+{    
+    "name": "Shovel (End Crystal)",
+    "icon": "endrem:end_crystal_shovel",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:end_crystal_shovel",
+            "text": "$(li)The End Crystal Shovel is the best Shovel that exist in every dimension of this world.$(br)$(li)It has even a better durability than a Netherite Shovel$(br)$(li)It can be made placing a Diamond Shovel and a End Crystal Ingot in a Smithing Table." ,
+            "link_recipe": "true"
+        }
+             ]
+}

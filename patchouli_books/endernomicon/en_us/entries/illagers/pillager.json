@@ -1,0 +1,19 @@
+{    
+    "name": "Pillager",
+    "icon": "minecraft:crossbow",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Pillagers are the lowest ranking soldiers of the Illagers.$(br)$(li)They are armed with Crossbows.$(br)$(li)They can be found in the Illager Tower, Illager Fort, Illager Mine, Mansion, in a Raid and in a Patrol around the Overworld too."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:pillager{HandItems:[{Count:1,id:crossbow}]}",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

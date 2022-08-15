@@ -1,0 +1,16 @@
+{    
+    "name": "Mosquito Proboscis",
+    "icon": "alexsmobs:mosquito_proboscis",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:mosquito_proboscis",
+            "text": "$(li)The Crimson Mosquito Proboscis can be used to craft a Blood Sprayer, a Hemelymph Blaster, or a Crimson Mosquito Larva.$(br)$(li)It can be rarely dropped by Crimson Mosquitos.",
+            "link_recipe": "true",
+            "title": "Mosquito Proboscis"
+        }
+             ]
+}

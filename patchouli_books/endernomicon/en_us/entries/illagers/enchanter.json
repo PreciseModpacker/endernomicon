@@ -1,0 +1,19 @@
+{    
+    "name": "Enchanter",
+    "icon": "instrumentalmobs:drum",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Enchanter will give you or near Villagers the Slowness effect, reducing the movement speed.$(br)$(li)It will give the Strenght effect to nearby Illagers too, making them inflict more damage.$(br)$(li)On death they may drop Leather, Gold Nuggets, Emeralds, or Diamonds."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:enchanter",
+            "scale": 1,
+            "text": "$(br)The Enchanters are unable to attack you or other creatures."
+        }
+             ]
+}

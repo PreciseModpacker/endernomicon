@@ -1,0 +1,19 @@
+{
+    "name": "Note Block",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:note_block",
+            "text": "$(li)The Note Block is a musical block."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/note_block.png",
+            "text": "$(li)It is capable of emit sounds when you right click on it or receives a redstone signal."
+        }
+             ]
+}

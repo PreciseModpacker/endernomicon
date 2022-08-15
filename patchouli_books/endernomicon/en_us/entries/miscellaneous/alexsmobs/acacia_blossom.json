@@ -1,0 +1,15 @@
+{    
+    "name": "Acacia Blossom",
+    "icon": "alexsmobs:acacia_blossom",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:acacia_blossom",
+            "text": "$(li)The Acacia Blossom are a beautiful flower that can be obtained from Acacia Leaves.$(br)$(li)It can be used to tame Elephants and breed Tigers.",
+            "link_recipe": "true"
+        }
+             ]
+}

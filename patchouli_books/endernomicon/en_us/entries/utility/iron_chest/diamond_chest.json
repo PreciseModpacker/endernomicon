@@ -1,0 +1,36 @@
+{    
+    "name": "Chest (Diamond)",
+    "icon": "ironchest:diamond_chest",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ironchest:chests/gold_diamond_chest",
+            "text": "$(li)The Diamond Chest is a upgrade of the $(l:patchouli:utility/iron_chest/gold_chest)Gold Chest$(/l).$(br)$(li)Unlike Gold Chests which have 81 slots of capacity, the Diamond Chest has a capacity of 108 slots.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"ironchest:upgrades/gold_to_diamond_chest_upgrade",
+            "text": "$(li)A Gold Chest can be upgraded to a Diamond Chest.$(br)$(li)Just right click it while you have one Gold to Diamond Chest Upgrade on your hand.",
+            "title": "Diamond Chest Upgrade"
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/diamond_chest_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/diamond_chest_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

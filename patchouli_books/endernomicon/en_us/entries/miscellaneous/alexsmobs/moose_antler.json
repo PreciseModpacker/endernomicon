@@ -1,0 +1,19 @@
+{    
+    "name": "Moose Antler",
+    "icon": "alexsmobs:moose_antler",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:moose_antler",
+            "text": "$(li)Moose Antler can be used to craft an Antler Headdress.$(br)$(li)They can be only be dropped by Mooses after 3-5 Minecraft days.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maraca and Cockroach dancing"
+        }
+             ]
+}

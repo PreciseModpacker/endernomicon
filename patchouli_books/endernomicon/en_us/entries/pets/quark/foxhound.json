@@ -1,0 +1,19 @@
+{    
+    "name": "Foxhound",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Foxhounds can be found in the Nether. They will attack you and set you on fire.$(br2)You can tame this creatures, drinking a Fire Resistance Potion, and then, feed it with Coal to tame it.$(br2)Tamed Foxhounds are like regular wolfs, but with some extra features: $(li)They'll sleep on hot blocks, like magma."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:foxhound",
+            "scale": 0.6,
+            "text": "$(li)If put on top of a Furnace, they'll make the furnace faster."
+        }
+             ]
+}

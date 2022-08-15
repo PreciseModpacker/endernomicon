@@ -1,0 +1,23 @@
+{    
+    "name": "Glowballs",
+    "icon": "charm:glowball",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "charm:glowball",
+            "text": "Globalls can be threw like a Snowball and it will leave a little glowing blob where it impacts.$(br2)It can be crafted with a Snowball and a Glowstone Dust.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Glowball"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:glowballs/glowball"
+        }
+             ]
+}

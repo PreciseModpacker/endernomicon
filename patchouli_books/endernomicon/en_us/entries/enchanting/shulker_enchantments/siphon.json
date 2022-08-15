@@ -1,0 +1,14 @@
+{
+    "name": "Siphon",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
+            "text": "$(li)The Siphon enchantment can be applied in a Shulker.$(br)If you pick an item that the Shulker Box has at least one of the same type, it will place this item in the Shulker Box insteat of your main inventory.$(br)$(li)This enchantment can be found Fishing or Trading with Villagers.",
+            "title": "Siphon"
+        }
+             ]
+}

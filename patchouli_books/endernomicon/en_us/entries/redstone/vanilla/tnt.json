@@ -1,0 +1,19 @@
+{
+    "name": "TNT",
+    "icon": "minecraft:tnt",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:tnt",
+            "text": "$(li)The TNT is an explosive block.$(br)$(li)You can use a Flint & Steel, Fire Arrows, or any kind of redstone powder source to activate it."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When it explotes inflicts explosive damage to any near creature and damage the environment.$(br)$(li)This block can be used to craft a Minecart with TNT or a Bomb in a Crafting Table."
+        }
+
+             ]
+}

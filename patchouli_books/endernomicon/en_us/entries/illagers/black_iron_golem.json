@@ -1,0 +1,19 @@
+{    
+    "name": "Black Iron Golem",
+    "icon": "minecraft:iron_block",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Black Irom Golems are strong weapons made to destroy their enemies and can only be found rarely in Raids or in the Illager Centre.$(br)$(li)They can shoot fireballs, throw entities in the air, and make you a lot of damage.$(br)$(li)On death they may drop Redstone Blocks, Fire Charges and Iron Ingots."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:black_iron_golem",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

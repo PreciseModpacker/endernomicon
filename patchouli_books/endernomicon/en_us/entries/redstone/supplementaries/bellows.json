@@ -1,0 +1,28 @@
+{    
+    "name": "Bellows",
+    "icon": "supplementaries:bellows",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:bellows",
+            "text": "$(li)Bellows can be powered with a redstone signal.$(br)$(li)If you place Bellows powered with redstone next to a Furnace, the Smelting process will be accelerated.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/bellows_1.png",
+            "text": "$(li)They are able to push air moving items and creatures that are in front of them."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/bellows_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

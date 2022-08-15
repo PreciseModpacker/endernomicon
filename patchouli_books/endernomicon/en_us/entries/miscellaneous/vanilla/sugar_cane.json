@@ -1,0 +1,19 @@
+{    
+    "name": "Sugar Cane",
+    "icon": "minecraft:sugar_cane",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:sugar_cane",
+            "text": "$(li)Sugar Cane are a kind of tall grass that can be found near of water in the Overworld.$(br)$(li)You can use Sugar Canes to craft Seed Pouch, Paper, Sugar, Reed Thatch, or Sugar Cane Bundle in a Crafting Table.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can plant it in a block of Sand or Dirt while there is a water block near it.$(br)$(li)There is no difference in groth rate using one of those blocks."
+        }
+             ]
+}

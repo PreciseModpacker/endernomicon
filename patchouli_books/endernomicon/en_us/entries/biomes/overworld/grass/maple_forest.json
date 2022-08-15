@@ -1,0 +1,29 @@
+{    
+    "name": "Maple Forest",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Maple Forest is a biome composed mainly of Autumn Trees.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation, like differet kind of Maple Trees, Giant Brown Mushrooms and Giant Red Mushrooms."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some animals like Crows, Turkeys and Snails can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Maple Forest$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)autumnity:maple_forest, autumnity:maple_forest_hills"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/maple_forest.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

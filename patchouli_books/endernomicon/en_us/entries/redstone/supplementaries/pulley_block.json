@@ -1,0 +1,27 @@
+{    
+    "name": "Pulley Block",
+    "icon": "supplementaries:pulley_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:pulley",
+            "text": "$(li)The Pulley Block has a single inventory slot which allows any kind of Chain and $(l:patchouli:tools/supplementaries/rope)Ropes (Supplementaries)$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When a $(l:patchouli:redstone/supplementaries/turn_table)Turn Table$(/l) rotates a Pulley Block, it will deploy or retract the items it's holding in its inventory depending if it's getting rotated clock-wise or counter clock-rise.$(br)$(li)If a Rope below it is retracted manually by shift clicking, the resulting Rope item will get redirected in the pulley inventory."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When rotated it will also rotate all the pulleys adjacent to it that are facing the same axis.$(br)$(li)Just like ropes, pulling up or down chains and ropes with a pulley will also bring up and down the last block attached to the chain."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/pulley_block.png"
+        }
+             ]
+}

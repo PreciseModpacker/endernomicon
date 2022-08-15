@@ -1,0 +1,29 @@
+{    
+    "name": "Deep Ocean",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Deep Ocean is a variant of the Ocean biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The terrain of this place is composed of mostly by Gravel.$(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some aquatic animals like Cods, Salmons, Dolphins, Squids, Cachalot Whales and Frilled Sharks can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Deep Ocean$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:deep_ocean"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/deep_ocean.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

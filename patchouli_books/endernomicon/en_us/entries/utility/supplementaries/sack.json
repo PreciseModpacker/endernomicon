@@ -1,0 +1,27 @@
+{    
+    "name": "Sack",
+    "icon": "supplementaries:sack",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sack",
+            "text": "$(li)The Sack can save items, like a Shulker Box or a Backpack.$(br)$(li)It has nine slots of capacity.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can carry a maximum two, because if you carry three  or more you will receive the Slowness effect.$(br)$(li)As you increase the number of Sacks, you will receive a stronger Slowness effect, making it harder and harder fo you to move."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/sack.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

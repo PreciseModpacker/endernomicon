@@ -1,0 +1,171 @@
+{    
+    "name": "Harming",
+    "icon": "minecraft:potion{Potion:'minecraft:harming'}",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:harming'}",
+            "text": "$(li)Harming potions inflicts instant damage.$(br)$(li)The Potion of Harming inflicts 3 hearts of damage.$(br)$(li)The Potion of Harming II inflicts 6 hearts of damage."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be brewed using a Fermented Spider Eye and Poison Potions as ingredients in a Brewing Stand.$(br)$(li)They can be brewed too using a Fermented Spider Eye and Healing Potions as ingredients in a Brewing Stand."
+        },
+        {
+            "type": "potion",
+            "title": "Harming",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:long_poison'}",
+            "output": "minecraft:potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:healing'}",
+            "output": "minecraft:potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:potion{Potion:'minecraft:harming'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_poison'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_healing'}",
+            "output": "minecraft:potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:healing'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:long_poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:harming'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:strong_harming'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:harming'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_poison'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Splash",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_healing'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:long_poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:healing'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:harming'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:strong_poison'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering",
+            "input": "minecraft:fermented_spider_eye",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:strong_healing'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:harming'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_harming'}"
+        },
+        {
+            "type": "potion",
+            "title": "Harming Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:strong_harming'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:strong_harming'}"
+        }
+             ]
+}

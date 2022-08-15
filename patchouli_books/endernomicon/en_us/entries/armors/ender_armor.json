@@ -1,0 +1,28 @@
+{    
+    "name": "Ender Armor",
+    "icon": "extraarmor:ender_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 8,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Ender Armor is a quiet better than the $(l:patchouli:armors/slime_armor)Slime Armor$(/l).$(br)$(li)If you wear the complete set, you will obtain the Speed II effect, increasing your movement speed considerably."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Ender Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:ender_boots\",Count:1},{id:\"extraarmor:ender_leggings\",Count:1},{id:\"extraarmor:ender_chestplate\",Count:1},{id:\"extraarmor:ender_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ender_helmet",
+            "recipe2":"extraarmor:ender_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:ender_leggings",
+            "recipe2":"extraarmor:ender_boots"
+        }
+             ]
+}

@@ -1,0 +1,31 @@
+{    
+    "name": "Chains",
+    "icon": "minecraft:chain",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:chain",
+            "text": "$(li)The Chains are a new kind of decoration block.$(br)$(li)They can be used in the $(l:patchouli:redstone/supplementaries/pulley_block)Pulley Block$(/l).",
+            "link_recipe": "true",
+            "title": "Chains"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:chain"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "charm:gold_chains/gold_chain"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/ice_chain"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of different Chains"
+        }
+             ]
+}

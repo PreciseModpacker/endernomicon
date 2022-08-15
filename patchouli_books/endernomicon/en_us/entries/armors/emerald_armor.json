@@ -1,0 +1,28 @@
+{    
+    "name": "Emerald Armor",
+    "icon": "extraarmor:emerald_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 13,
+    "pages": [
+       {
+            "type": "patchouli:text",
+            "text": "$(li)The Emerald Armor is a quiet better than the $(l:patchouli:armors/bone_armor)Bone Armor$(/l).$(br)$(li)If you wear the complete set, you will get the Luck II effect, increasing considerably the probability of better loot in the next loot chests that generates naturally."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Emerald Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:emerald_boots\",Count:1},{id:\"extraarmor:emerald_leggings\",Count:1},{id:\"extraarmor:emerald_chestplate\",Count:1},{id:\"extraarmor:emerald_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:emerald_helmet",
+            "recipe2":"extraarmor:emerald_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:emerald_leggings",
+            "recipe2":"extraarmor:emerald_boots"
+        }
+             ]
+}

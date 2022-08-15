@@ -1,0 +1,28 @@
+{    
+    "name": "Iron Armor",
+    "icon": "minecraft:iron_helmet",
+    "category": "patchouli:armors",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Iron Armor is quiet better than the Phantom Armor.$(br)$(li)This armor will not give to you any special effect."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Iron Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:iron_boots,Count:1},{id:iron_leggings,Count:1},{id:iron_chestplate,Count:1},{id:iron_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_helmet",
+            "recipe2":"minecraft:iron_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:iron_leggings",
+            "recipe2":"minecraft:iron_boots"
+        }
+             ]
+}

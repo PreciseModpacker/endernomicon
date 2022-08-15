@@ -1,0 +1,45 @@
+{    
+    "name": "Booflo",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Booflos are passive creatures that can be found in the Poise Forests of the End. They use their mouths to be able to fly over all the End.$(br2)Booflos can be tameable, first you need to feed one of this creatures with Bolloom Fruits, now you will have to stay away from it or it will attack you.$(br2)You will have to repeat this process a few times."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "endergetic:booflo",
+            "scale": 0.4,
+            "text": "Like Wolfs collars, you can dye them applying Dyes right clicking of them while you are holding a Dye."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "A tamed Booflo can be rided. Just right clic on it. Like a Horse, they can be move with AWSD keys, but in this case you will have to keep pushed the specific key, because they don't walk, they move by jumping..$(br2)You can fly with them using the Space key, you will have to keep pressing this key for a few seconds and then stop pressing it to fly.$(br2)Be careful with their stamina or they will get tired."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Here I will insert a picture of a rided Booflo."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Tamed Booflos can be breed giving them Poise Cluster.$(br2)On death these interesting creatures may drop Booflo Hide.$(br2)Booflo Hide can be used to craft a new block called Boof Block or a new armor called $(l:patchouli:armors/booflo_vest)Booflo Vest$(/l) too.$(br2)Booflos have 3 stages in their life: Baby Booflo, Adolescent Booflo and finally Adult Booflo."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:boof_block"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "endergetic:booflo_baby",
+            "scale": 1
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "endergetic:booflo_adolescent",
+            "scale": 0.6
+        }
+             ]
+}

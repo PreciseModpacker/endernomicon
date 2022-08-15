@@ -1,0 +1,15 @@
+{    
+    "name": "Soul Heart",
+    "icon": "alexsmobs:soul_heart",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:soul_heart",
+            "text": "$(li)The Soul Heart of a Soul Vulture can be used to attract Spectres to you.$(br)$(li)It can be used to brew a Potion of Soulsteal too.",
+            "link_recipe": "true"
+        }
+             ]
+}

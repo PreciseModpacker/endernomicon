@@ -1,0 +1,19 @@
+{    
+    "name": "Wandering Trader PDT DOCUMENTAR",
+    "icon": "minecraft:bee_nest",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Apiarist take care of the Bees, collects and processes the Honey.$(br)$(li)It will trade you Shears, Glass Bottles, Candles, Four Leaf Cloves, Flowers, Honey Wand and even Bottle of Bees for Emeralds and vice versa.$(br)$(li)A Villager can get the Apiarist profession if is near of a Honey Pot."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wandering_trader",
+            "scale": 1,
+            "text": ""
+        }
+             ]
+}

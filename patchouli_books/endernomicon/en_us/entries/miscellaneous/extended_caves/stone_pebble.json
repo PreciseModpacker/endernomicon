@@ -1,0 +1,15 @@
+{    
+    "name": "Stone Pebble",
+    "icon": "extcaves:pebble_stone",
+    "category": "patchouli:miscellaneous",
+    "sorrnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extcaves:pebble_stone",
+            "text": "$(li)The Stone Pebble is an item that can be used to craft Stone, a Stone Picker, or a Hard Stew in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

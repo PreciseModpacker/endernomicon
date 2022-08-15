@@ -1,0 +1,29 @@
+{    
+    "name": "Ocean",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:biomes",
+#    "advancement": "endrem:main/lost_eye",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ocean is a biome composed of vast expanses of water.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this biome is mainly composed by Gravel.$(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some aquatic animals like Cods, Salmons, Cachalot Whales, Dolphins, and Squids can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Ocean$() in the search box of the Nature's Compass."
+        },
+#        {
+#            "type": "patchouli:text",
+#            "text": "$(li)minecraft:ocean"
+#        }
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/biomes/ocean.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

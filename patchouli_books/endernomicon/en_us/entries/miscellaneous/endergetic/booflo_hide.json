@@ -1,0 +1,15 @@
+{    
+    "name": "Booflo Hide",
+    "icon": "endergetic:booflo_hide",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endergetic:booflo_hide",
+            "text": "$(li)Booflo Hide can be used to craft Boof Blocks and the Booflo Vest.$(br)$(li)It only can be dropped by a Booflo.",
+            "link_recipe": "true"
+        }
+             ]
+}

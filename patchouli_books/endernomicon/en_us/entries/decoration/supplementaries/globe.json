@@ -1,0 +1,22 @@
+{    
+    "name": "Globe",
+    "icon": "supplementaries:globe",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:globe",
+            "text": "$(li)The Globe is a decoration block with a unique randomly generated to every world seed.$(br)$(li)If you click on a Globe or give it a redstone pulse, it will spin and display your current coordinates.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br)$(li)It can only obtained buying it from a Wandering Trader or be found in Shipwrecks.$(br)$(li)It can also interact with Comparators.$(br)$(li)Those receive a redstone signal that depends on it's current face and a full strength one while it's spinning."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Globe"
+        }
+             ]
+}

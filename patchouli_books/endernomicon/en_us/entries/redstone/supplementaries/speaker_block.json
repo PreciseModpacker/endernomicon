@@ -1,0 +1,30 @@
+{    
+    "name": "Speaker Block",
+    "icon": "supplementaries:speaker_block",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:speaker_block",
+            "text": "$(li)The Speaker Block can send messages in chat or to the narrator to near players when it receives a redstone signal.$(br)$(li)You can right click a Speaker Block to open the configuration GUI.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/speaker_block_1.png",
+            "text": "$(li)In this GUI you can configure the message to show, the mode and the radius in which the players will receive this message."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/speaker_block_2.png",
+            "text": "$(li)You can change the Speaker Name, changing the name of the block in an Anvil."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/speaker_block_3.png",
+            "text": "$(li)Finally, when the Speaker Block receives a redstone signal, it will show the message in chat or in narrator mode."
+        }
+             ]
+}

@@ -1,0 +1,18 @@
+{    
+    "name": "Frost Walker",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
+            "text": "$(li)The Frost Walker enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment freezes water under you into frosted ice, allowing you to walk on the water.",
+            "title": "Frost Walker"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an Ancient Tome (Frost Walker)."
+        }
+             ]
+}

@@ -1,0 +1,27 @@
+{    
+    "name": "Safe",
+    "icon": "supplementaries:safe",
+    "category": "patchouli:utility",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:safe",
+            "text": "Safes can save items in a safe way, because they are inmune to fire and they have two modes:$(br) $(li)Simple mode: By default, Safes will be bound to the first person that places it / opens and unbound one. Other's persons won't be able to open a safe and they will not be able to break it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Key mode: You can craft a $(l:patchouli:tools/supplementaries/key)Key$(/l) and change it's name in an Anvil.$(br2)Then, if you click on a Safe with this key, the safe will be bound to this key name and will only be able to be oppened when you have a key with the same name in the inventory."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Safe and other with the Key saved in the bubble inventory"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe":"supplementaries:safe"
+        }
+             ]
+}

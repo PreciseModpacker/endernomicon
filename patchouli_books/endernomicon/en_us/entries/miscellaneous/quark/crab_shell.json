@@ -1,0 +1,15 @@
+{    
+    "name": "Crab Shell",
+    "icon": "quark:crab_shell",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:crab_shell",
+            "text": "$(li)The Crab Shell can only be used to brew a Potion of Stability in the Brewing Stand.$(br)$(li)It can only be dropped by a Crab.",
+            "link_recipe": "true"
+        }
+             ]
+}

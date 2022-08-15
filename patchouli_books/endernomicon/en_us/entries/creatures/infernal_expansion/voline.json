@@ -1,0 +1,31 @@
+{    
+    "name": "Voline",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Voline are hostile creatures that can be found in Nether Waste Biomes in the Nether.$(br2)Holding a Magma Cream in your hand in front of them, will make them stop from attacking you by a moment.$(br2)If you drop a Magma Cream on the ground near of this creature, it will start to eat it."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "infernalexp:voline",
+            "text": "For every one that it eats, it will become more and more slow and fat."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When it eats a good quantity of them, they will emit smoke.$(br2)In this state, you can drop Golden items to the ground, it will eat them too, and then, it will drop Golden Nuggets or Molten Gold Clusters.$(br2)You can use this Molten Gold Clusters to craft Gold Ingots or a Blindsight Tongue Whip.$(br2)On death it may drops Golden Nuggets."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shapeless/gold_ingot_from_molten_cluster_1",
+            "recipe2": "infernalexp:crafting/crafting_shapeless/gold_ingot_from_molten_cluster_2"
+        },
+        {               "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/gold_ingots_from_molten_gold_cluster",
+            "recipe2": "infernalexp:crafting/crafting_shaped/blindsight_tongue_whip"
+        }
+             ]
+}

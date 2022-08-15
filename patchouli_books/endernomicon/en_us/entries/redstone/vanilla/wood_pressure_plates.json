@@ -1,0 +1,95 @@
+{    
+    "name": "Pressure Plate (Wood)",
+    "icon": "minecraft:oak_pressure_plate",
+    "category": "patchouli:redstone",
+    "sortnum": 3,
+    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_pressure_plate",
+            "text": "$(li)Wood can detect any creature, player, or item that is placed on them.$(br)$(li)When this happens, it emits a redstone signal of level 15 to near blocks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:spruce_pressure_plate",
+            "recipe2": "minecraft:birch_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:jungle_pressure_plate",
+            "recipe2": "minecraft:acacia_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:dark_oak_pressure_plate",
+            "recipe2": "bamboo_blocks:bamboo_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bayou_blues:crafting/cypress_pressure_plate",
+            "recipe2": "environmental:building/wood/willow/willow_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_pressure_plate",
+            "recipe2": "environmental:building/wood/wisteria/wisteria_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_pressure_plate",
+            "recipe2": "atmospheric:morado_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_pressure_plate",
+            "recipe2": "atmospheric:aspen_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_pressure_plate",
+            "link_recipe": "true"
+        },
+#Mushrooms
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_pressure_plate",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_pressure_plate",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_pressure_plate",
+            "link_recipe": "true"
+        },
+#WATER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_pressure_plate",
+            "recipe2": "upgrade_aquatic:river_pressure_plate",
+            "link_recipe": "true"
+        },
+#NETHER
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:crimson_pressure_plate",
+            "recipe2": "minecraft:warped_pressure_plate",
+            "link_recipe": "true"
+        },
+#END
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:poise_pressure_plate",
+            "link_recipe": "true"
+        }
+
+             ]
+}

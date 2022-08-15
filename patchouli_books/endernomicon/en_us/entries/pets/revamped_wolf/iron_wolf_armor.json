@@ -1,0 +1,15 @@
+{    
+    "name": "Wolf Armor (Iron)",
+    "icon": "revampedwolf:iron_wolf_armor",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "revampedwolf:iron_wolf_armor",
+            "text": "$(li)The Iron Wolf Armor is the upgrade of the Leather Wolf Armor that you can equip to your tamed Fox or Foxhound.$(br)$(li)You can craft it placing Iron Ingots and Iron Boots in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

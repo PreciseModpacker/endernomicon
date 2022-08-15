@@ -1,0 +1,22 @@
+{    
+    "name": "Shield (Netherite)",
+    "icon": "bettershields:netherite_shield",
+    "category": "patchouli:weapons",
+    "advancement": "endrem:main/lost_eye",
+    "sortnum": 18,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bettershields:netherite_shield",
+            "text": "$(li)The Netherite Shield is a quiet better of the $(l:patchouli:weapons/diamond_shield)Diamond Shield $(/l)because this one has more durability than the last one.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Netherite Shield",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"bettershields:netherite_shield\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "To equip it, just open your inventory and place the Shield into your left hand slot"
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Wolf Armor (Netherite)",
+    "icon": "revampedwolf:netherite_wolf_armor",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "revampedwolf:netherite_wolf_armor",
+            "text": "$(li)The Netherite Wolf Armor is the upgrade of the Diamond Wolf Armor that you can equip to your tamed Fox or Foxhound.$(br)$(li)You can craft it placing a Diamond Wolf Armor and a Netherite Ingot in a Smithing Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

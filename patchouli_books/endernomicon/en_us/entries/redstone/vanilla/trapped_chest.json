@@ -1,0 +1,14 @@
+{
+    "name": "Trapped Chest",
+    "icon": "quark:oak_trapped_chest",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/chests/oak_trapped_chest",
+            "text": "$(li)The Trapped Chest is a variant of the Chest.$(br)$(li)You can save items as a normal Chest, but it produces redstone power when opened."
+        }
+             ]
+}    

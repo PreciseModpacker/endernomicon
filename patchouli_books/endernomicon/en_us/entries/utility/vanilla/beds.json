@@ -1,0 +1,191 @@
+{    
+    "name": "Beds",
+    "icon": "minecraft:white_bed",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:white_bed",
+            "text": "$(li)Beds are blocks that allows you to sleep on night, passing time faster than normal until the sun rises again.$(br)$(li)You only have to right click on the bed during the night to activate this event.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)By default, when you die, you respawn in the place where you adventure begins.$(br)$(li)If you right click on a bed, the spawnpoint will change to that bed.$(br)$(li)If that bed is destroyed you will lose the spawnpoint.$(br)$(li)As other blocks, Beds can be dyed too.$(br)$(li)Shepherds will exchange your Emeralds by Beds."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/utility/beds.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/orange",
+            "recipe2": "minecraft:orange_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:orange_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/magenta",
+            "recipe2": "minecraft:magenta_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:magenta_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/light_blue",
+            "recipe2": "minecraft:light_blue_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_blue_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/yellow",
+            "recipe2": "minecraft:yellow_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:yellow_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/lime",
+            "recipe2": "minecraft:lime_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lime_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/pink",
+            "recipe2": "minecraft:pink_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:pink_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/gray",
+            "recipe2": "minecraft:gray_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:gray_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/light_gray",
+            "recipe2": "minecraft:light_gray_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:light_gray_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/cyan",
+            "recipe2": "minecraft:cyan_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cyan_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/purple",
+            "recipe2": "minecraft:purple_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:purple_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/blue",
+            "recipe2": "minecraft:blue_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:blue_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/brown",
+            "recipe2": "minecraft:brown_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brown_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/green",
+            "recipe2": "minecraft:green_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:green_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/red",
+            "recipe2": "minecraft:red_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:red_bed_from_white_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:cauldron/bottle/beds/black",
+            "recipe2": "minecraft:black_bed",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:black_bed_from_white_bed",
+            "link_recipe": "true"
+        }
+             ]
+}

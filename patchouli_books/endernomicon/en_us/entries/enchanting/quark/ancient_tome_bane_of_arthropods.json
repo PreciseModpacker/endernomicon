@@ -1,0 +1,18 @@
+{    
+    "name": "A.T. Bane of Arthropods VI",
+    "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:3s}]}",
+    "category": "patchouli:enchanting",
+    "advancement": "endrem:main/magical_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:3s}]}",
+            "text": "$(li)The Ancient Tome Bane of Arthropods can be used to upgrade an enchanted item with Bane of Arthropods V enchantment to level VI.$(br)$(li)To apply this enchant, you need to place the desired item and the ancient tome in an Anvil while you have at least 30 levels.",
+            "title": "A.T. B. of Arthropods VI"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The Ancient tomes can only be obtained rarely in Loot Chests. Insert a picture of a Straddleboard and Fire Resistance effect"
+        }
+             ]
+}

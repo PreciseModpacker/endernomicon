@@ -1,0 +1,15 @@
+{    
+    "name": "Thrasher Tooth",
+    "icon": "upgrade_aquatic:thrasher_tooth",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "upgrade_aquatic:thrasher_tooth",
+            "text": "$(li)Thrasher Tooths can be used to make Trapdoors, Doors, decoration blocks, a beautiful lantern, Bone Meanl and even a Trident.$(br)$(li)They only can be obtained slaying a Thraser.",
+            "link_recipe": "true"
+        }
+             ]
+}

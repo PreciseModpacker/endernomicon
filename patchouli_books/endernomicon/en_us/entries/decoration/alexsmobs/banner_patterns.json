@@ -1,0 +1,150 @@
+{    
+    "name": "Patterns",
+    "icon": "alexsmobs:banner_pattern_bear",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:flower_banner_pattern",
+            "text": "$(li)Patterns can be used to customize your Banners, Flags and Elytras.$(br)$(li)To apply a Pattern in one of those items, you will need a Pattern, a Dye and a Loom.$(br)$(li)A Loom is used to apply Patterns on Banners, Flags and Elytras.",
+            "link_recipe": "false",
+            "title": "Patterns"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:loom",
+            "text": "$(li)First, right click the Loom to open a new GUI.$(br)$(li)Now, insert the Pattern, Dye and the item to customize.$(br)$(li)Finally take the item generated in the output slot."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:flower_banner_pattern",
+            "text": "$(li)A Pattern of a Daisy which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Daisy.",
+            "link_recipe": "true",
+            "title": "Pattern Flower Charge"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:creeper_banner_pattern",
+            "text": "$(li)A Pattern of a Creeper which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Creeper Head.",
+            "link_recipe": "true",
+            "title": "Pattern Creeper Ch..."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:skull_banner_pattern",
+            "text": "$(li)A Pattern of a Wither Skull and crossbones which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Wither Skull.",
+            "link_recipe": "true",
+            "title": "Pattern Skull"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:mojang_banner_pattern",
+            "text": "$(li)A Pattern of the Mojang Studios logo which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Enchanted Golden Apple.",
+            "link_recipe": "true",
+            "title": "Pattern Mojang"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:globe_banner_pattern",
+            "text": "$(li)A Pattern of a Cube Shaped Earth which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be traded with a Cartographer.",
+            "link_recipe": "true",
+            "title": "Pattern Globe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:piglin_banner_pattern",
+            "text": "$(li)A Pattern of Piglin Snout which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be found in generated Chests in the Bastion Remmants.",
+            "link_recipe": "true",
+            "title": "Pattern Snout"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:banner_pattern_bear",
+            "text": "$(li)A Pattern of a Bear which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Hair of Bear.",
+            "link_recipe": "true",
+            "title": "Pattern Bear"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of the Banner / Flag"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:banner_pattern_australia_0",
+            "text": "$(li)A Pattern of a Star Cross which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with a Paper and a Kangaroo Hide.",
+            "link_recipe": "true",
+            "title": "Pattern Star Cross"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Star Cross"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:banner_pattern_australia_1",
+            "text": "$(li)A Pattern of Union Jack Ensign which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Emu Feather.",
+            "link_recipe": "true",
+            "title": "Pattern U. Jack Ensign"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Star Cross"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:banner_pattern_new_mexico",
+            "text": "$(li)A Pattern of Sun Symbol which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Tattered Tarantula Hawk Wing.",
+            "link_recipe": "true",
+            "title": "Pattern Sun Symbol"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Star Cross"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buzzier_bees:honeycomb/honeycomb_banner_pattern",
+            "text": "$(li)A Pattern of a Honeycomb which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Honeycomb.",
+            "link_recipe": "true",
+            "title": "Pattern Honeycomb"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Honeycomb"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "neapolitan:banana/chimpanzee_banner_pattern",
+            "text": "$(li)A Pattern of a Chimpanzee which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Banana Bundle.",
+            "link_recipe": "true",
+            "title": "Pattern Chimpanzee"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Chimpanzee Banner"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_leaf_banner_pattern",
+            "text": "$(li)A Pattern of a Maple Leaf which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Syrup Bottle.",
+            "link_recipe": "true",
+            "title": "Pattern Maple Leaf"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Maple Leaf"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:swirl_banner_pattern",
+            "text": "$(li)A Pattern of a Swirl which can be used to customize your Elytras, Banners and Flags.$(br)$(li)It can be crafted with Paper and Snail Shell Piece.",
+            "link_recipe": "true",
+            "title": "Pattern Swirl"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Insert a picture of a Swirl"
+        }
+             ]
+}
