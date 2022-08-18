@@ -10,6 +10,10 @@
             "recipe": "quark:automation/crafting/iron_button",
             "text": "$(li)Iron Buttons are placeable blocks that emites a long pulse of redstone of 5 seconds.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/iron_button.png"
         }
              ]
 }

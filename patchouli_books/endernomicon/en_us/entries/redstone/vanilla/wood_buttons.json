@@ -8,8 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:oak_button",
-            "text": "$(li)Wood Buttons are placeable blocks that emites a restone pulse of 1.5 seconds.$(br)$(li)There are many variants of them.",
+            "text": "$(li)Wood Buttons are placeable blocks that emites a restone pulse of 1.5 seconds.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/wood_button.png",
+            "text": "$(li)There are many variants of the wood buttons."
         },
         {
             "type": "patchouli:crafting",

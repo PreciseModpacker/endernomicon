@@ -8,11 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:tnt",
-            "text": "$(li)The TNT is an explosive block.$(br)$(li)You can use a Flint & Steel, Fire Arrows, or any kind of redstone powder source to activate it."
+            "text": "$(li)The TNT is a block that can be used to craft a Minecart with TNT or a Bomb in a Crafting Table.$(br)$(li)It can be activated with a Flint & Steel, Fire Arrow, or any kind of redstone signal."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)When it explotes inflicts explosive damage to any near creature and damage the environment.$(br)$(li)This block can be used to craft a Minecart with TNT or a Bomb in a Crafting Table."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/tnt.png",
+            "text": "$(li)When it explotes inflicts explosive damage to any near creature and damage the environment."
         }
 
              ]

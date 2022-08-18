@@ -8,12 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/lit_lamp",
-            "text": "$(li)The Lit Redstone Lamp is like the common Redstone Lamp, but the light of this one is turned on by default.",
+            "text": "$(li)The Lit Redstone Lamp is an alternative of the common Redstone Lamp.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/lit_redstone_lamp.png"
+            "picture": "endermonicon:textures/book/entries/redstone/lit_redstone_lamp.png",
+            "text": "$(li)The Lit Redstone Lamp is active by default an is unaffected by redstone signals."
         }
              ]
 }

@@ -8,7 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:furnace_minecart",
-            "text": "$(li)Minecart with Furnace are a new variant of the common Minecart.$(br)$(li)The Furnace contained in the Minecart works as the common Furnaces."
+            "text": "$(li)The Minecart with Furnace is a new variant of the common Minecart."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/furnace_minecart.png",
+            "text": "$(li)The Chest contained in the Minecart works as a common Furnace."
         }
              ]
 }

@@ -6,18 +6,56 @@
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "quark:pipe",
-            "text": "The Item Pipes transport items from a input to an output following the next rules.$(br2)$(li)Items will move down if possible. $(li)Items will move forward if possible. $(li)At an intersection, items will randomly flow left or right $(li)Items will not go upwards unless that's the only possibility $(li)Items attempting to enter a full cointainer will bounce back, then, they will avoid that direction if possible. $(li)Items will not flow into disabled pipes $(li)Items will fall out of pipes with momentum and enter pipes with open ends $(li)Comparators can read how many items are in a pipe $(li)A pipe with 15 or more items inside at once will break",
+            "type": "patchouli:crafting",
+            "recipe": "quark:oddities/crafting/pipe",
+            "text": "$(li)Item Pipes can transport items from a input to an output following specific rules.$(br)$(li)You can insert items to the Item Pipes using a Hopper or throwing them in the input of an Item Pipe.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a pictures of Item Pipe rules"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_1.png",
+            "text": "$(li)Items will move down if possible."
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "quark:oddities/crafting/pipe"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_2.png",
+            "text": "$(li)Items will move forward if possible."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_3.png",
+            "text": "$(li)At an intersection, items will randomly flow left or right."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_4.png",
+            "text": "$(li)Items will not go upwards unless that's the only possibility."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_5.png",
+            "text": "$(li)Items attempting to enter a full cointainer will bounce back, then, they will avoid that direction if possible."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_6.png",
+            "text": "$(li)Items will fall out of pipes with momentum and enter pipes with open ends."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_7.png",
+            "text": "$(li)A pipe with 15 or more items inside at once will break and all the items will be dropped on the ground."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_8.png",
+            "text": "$(li)Comparators can read how many items are in a pipe."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/item_pipe_9.png",
+            "text": "$(li)Items will not flow into disabled pipes."
         }
              ]
 }
+

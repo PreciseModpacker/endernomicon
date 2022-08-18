@@ -1,5 +1,5 @@
 {    
-    "name": "Guardian Spine",
+    "name": "Spine (Guardian)",
     "icon": "upgrade_aquatic:guardian_spine",
     "category": "patchouli:redstone",
     "sortnum": 0,
@@ -12,8 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)This item only can be dropped by Guardians.$(br2)Insertar imagen Guardian Spine"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/guardian_spine.png",
+            "text": "$(li)This item only can be dropped by Guardians."
         }
              ]
 }

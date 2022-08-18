@@ -11,7 +11,8 @@
             "text": "$(li)Detector Rails are a variant of the common Rail.$(br)$(li)This kind of Rail works as Pressure Plates, but only for Minecarts."
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/detector_rail.png",
             "text": "$(li)When a Minecart is located on a Detector Rail, this one will emit a redstone signal to near blocks."
         }
              ]

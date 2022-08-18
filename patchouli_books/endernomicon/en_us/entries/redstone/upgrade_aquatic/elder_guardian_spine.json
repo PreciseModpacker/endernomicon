@@ -1,5 +1,5 @@
 {    
-    "name": "Elder Guardian Spine",
+    "name": "Spine (Elder Guardian)",
     "icon": "upgrade_aquatic:elder_guardian_spine",
     "category": "patchouli:redstone",
     "sortnum": 0,
@@ -8,12 +8,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:elder_guardian_spine",
-            "text": "$(li)The Guardian Spine only turns on when receives a nearby redstone signal.$(br)$(li)When a nearby creature or even you step on the Elder Guardian Spine, its walking speed will be considerably reduced and it will receive a damage of 2 heart per second and gives the Mining Fatigue effect, which reduces the mining and attack speed.",
+            "text": "$(li)The Guardian Spine only turns on when receives a nearby redstone signal.$(br)$(li)When a nearby creature steps on the Elder Guardian Spine, its walking, attack and mining speed will be considerably reduced and it will receive a damage of 2 heart per second.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)This item only can be dropped by the Elder Guardian.$(br2)Insertar imagen Elder Guardian Spine"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/elder_guardian_spine.png",
+            "text": "$(li)This item only can be dropped by the Elder Guardian."
         }
              ]
 }

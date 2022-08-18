@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They are exists three additionally different Rails:$(br)$(li)Activator Rail$(li)Detector Rail$(li)Powered Rail."
+            "text": "$(li)There are exists three different variants of the Rails:$(br)$(li)Activator Rail$(li)Detector Rail$(li)Powered Rail."
         }
              ]
 }

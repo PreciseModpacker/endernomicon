@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:powered_rail",
-            "text": "$(li)Powered Rails are a variant of the common Rail.$(br)$(li)This kind of Rail is used to increase or decrease the movement speed of Minecarts.."
+            "text": "$(li)Powered Rails are a variant of the common Rail.$(br)$(li)This kind of Rail is used to increase or decrease the movement speed of Minecarts."
         },
         {
             "type": "patchouli:text",

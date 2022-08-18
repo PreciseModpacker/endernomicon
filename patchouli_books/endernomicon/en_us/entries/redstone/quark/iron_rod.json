@@ -6,18 +6,15 @@
     "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "quark:iron_rod",
-            "text": "Iron Rods are a new decoration block that which has a utility.$(br2)If this block is placed in a piston, and we active it, the block near of it will be destroyed and the item will be drop on the ground.",
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/iron_rod",
+            "text": "$(li)The Iron Rod is a new metalic decoration block.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "quark:automation/crafting/iron_rod"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insertar imagen iron rod piston rompiendo bloque"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/iron_rod.png",
+            "text": "$(li)If this block is placed in a Piston, and you turns it on, the block near of it will be destroyed and the item will be drop on the ground."
         }
              ]
 }

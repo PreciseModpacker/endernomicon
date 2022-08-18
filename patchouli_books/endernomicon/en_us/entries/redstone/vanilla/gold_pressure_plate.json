@@ -8,8 +8,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:light_weighted_pressure_plate",
-            "text": "$(li)Light Weighted Pressure Plates can detect any creature, player, or item that is placed on them.$(br)$(li)When this happens, it emits a very weak redstone signal to near blocks.",
+            "title": "Light W. Pressure Plate",
+            "text": "$(li)Light Weighted Pressure Plates can detect any creature, player, or item that is placed on them.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/gold_pressure_plate.png",
+            "text": "$(li)When this happens, it emits a very weak redstone signal to near blocks."
         }
              ]
 }

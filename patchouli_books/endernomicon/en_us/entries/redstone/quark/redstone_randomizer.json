@@ -6,18 +6,14 @@
     "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "quark:redstone_randomizer",
-            "text": "$(li)Redstone Randomizer redirects randomly the input redstone signal from the back to the left or right output.",
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/redstone_randomizer",
+            "text": "$(li)The Redstone Randomizer redirects randomly the input redstone signal from the back to the left or right output.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of redstone randomizer dropping items"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:automation/crafting/redstone_randomizer"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_randomizer.png"
         }
              ]
 }

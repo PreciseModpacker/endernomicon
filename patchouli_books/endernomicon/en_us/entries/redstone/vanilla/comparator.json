@@ -8,7 +8,42 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:comparator",
-            "text": "$(li)The Redstone Comparator that is used to maintain, compare, subtract signal strength, or to measure certain block states. [When we insert pictures use the Wiki Redstone comparator as a reference to explain the different functions]"
+            "text": "$(li)The Redstone Comparator that is used to maintain, compare, subtract signal strength, or to measure certain block states."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_1.png",
+            "text": "$(li)A Redstone Comparator with no powered sides outputs the same signal strength as its rear input."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_2.png",
+            "text": "$(li)A Redstone Comparator in comparison mode (front torch unpowered) compares its rear input to its two side inputs."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_3.png",
+            "text": "$(li)If either side input is greater than the rear input, the comparator output turns off."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_4.png",
+            "text": "$(li)If neither side input is greater than the rear input, the comparator outputs the same signal strength as its rear input."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_5.png",
+            "text": "$(li)A Redstone Comparator in subtraction mode subtracts the signal strength of the higher side input from the signal strength of the rear input."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_6.png",
+            "text": "$(li)A Redstone Comparator treats certain blocks behind it as power sources and outputs a signal strength proportional to the block's state."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_comparator_7.png",
+            "text": "$(li)A redstone comparator can output a signal indicating how full a container is. The strenght varies from 0 to 15 depending on how full it is."
         }
              ]
 }

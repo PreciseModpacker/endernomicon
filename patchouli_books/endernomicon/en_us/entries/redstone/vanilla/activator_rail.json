@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They can active an specific kind of Minecarts, like the Minecart with TNT."
+            "text": "$(li)They can active an specific kind of Minecarts, like the Minecart with TNT.$(br)$(li)Any Minecart that is on top of an Activator Rail will start shaking, kicking you out of the Minecart if you're mount in it."
         }
              ]
 }

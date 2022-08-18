@@ -12,7 +12,15 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Now just right click on them while you are holding String on your hand.$(br)$(li)This item can be used to craft a Trapped Chest in a Crafting Table.$(br)$(li)Fletcher will exchange your Tripwire Hooks by Emeralds.$(br2)Insert a picture of Tripwire Hook"
+            "text": "$(li)Now just right click on them while you are holding String on your hand.$(br)$(li)Now if any creature touch the almost invisible string, the Tripwire Hook will emit a redstone signal pulse.$(br)$(li)This item can be used to craft a Trapped Chest in a Crafting Table.$(br)$(li)Fletchers will exchange a Tripwire Hook by Emeralds."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/tripwire_hook.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
         }
              ]
 }

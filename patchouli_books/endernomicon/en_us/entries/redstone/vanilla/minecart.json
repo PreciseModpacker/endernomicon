@@ -12,7 +12,15 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They are exists four additionally different Minecarts:$(br)$(li)Minecart with Chest$(li)Minecart with Furnace$(li)Minecart with TNT$(li)Minecart with Hopper."
+            "text": "$(li)There are exists four variants of Minecarts:$(br)$(li)Minecart with Chest$(li)Minecart with Furnace$(li)Minecart with TNT$(li)Minecart with Hopper."
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/minecart.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
         }
              ]
 }

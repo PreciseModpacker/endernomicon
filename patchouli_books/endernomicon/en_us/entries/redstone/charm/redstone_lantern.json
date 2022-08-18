@@ -8,11 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "charm:redstone_lanterns/redstone_lantern",
-            "text": "$(li)The Redstone Lantern is an alternative of the $(l:patchouli:decoration/charm/lanterns)Lanters$(/l).$(br)$(li)As a common Redstone Lamp, it only will turned on if receives a redstone signal from neighbouring blocks."
+            "text": "$(li)The Redstone Lantern is an alternative of the $(l:patchouli:decoration/charm/lanterns)Lanters$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/redstone_lantern.png"
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_lantern.png",
+            "text": "$(li)As a common Redstone Lamp, it only will turned on if receives a redstone signal from neighbouring blocks."
         }
              ]
 }

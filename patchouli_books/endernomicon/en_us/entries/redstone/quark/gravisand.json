@@ -8,8 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/gravisand",
-            "text": "$(li)The Gravisand is a special kind of Grava / Sand block which is not affected by gravity by default.$(br)$(li)A simple tick of redstone will reactive the gravity of the Gravisand block.",
+            "text": "$(li)The Gravisand is a special kind of Grava / Sand block which is not affected by gravity by default.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/gravisand.png",
+            "text": "$(li)A simple tick of redstone will reactive the gravity of the Gravisand block."
         }
              ]
 }

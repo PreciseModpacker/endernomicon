@@ -8,7 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:chest_minecart",
-            "text": "$(li)Minecart with Chest are a new variant of the common Minecart.$(br)$(li)The Chest contained in the Minecart works as the common Chests."
+            "text": "$(li)The Minecart with Chest is a new variant of the common Minecart."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/chest_minecart.png",
+            "text": "$(li)The Chest contained in the Minecart works as a common Chest."
         }
              ]
 }

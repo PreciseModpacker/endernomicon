@@ -11,13 +11,29 @@
             "text": "$(li)The Slime Block is a sticky block that has special propierties.$(br)$(li)When any creature falls onto the top of a Slime Block bounces to height proportional to the falling velocity."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)When being pushed by a Piston, entities that are ahead are launched into the direction the block is pushed into.$(br)$(li)When a Slime Block is pushed or pulled by a Piston, it attemps to move all adjacent blocks in the same as those that can be pulled by a Sticky Piston.$(br)$(li)Blocks that cannot be pulled by a sticky piston stay in place.$(br)$(li)There are exist multiple versions of the Slime Block."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/slime_block_1.png",
+            "text": "$(li)When being pushed by a Piston, entities that are ahead are launched into the direction the block is pushed into."
+        },
+        {   
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/slime_block_2.png",
+            "text": "$(li)When a Slime Block is pushed or pulled by a Piston, it attemps to move all adjacent blocks."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/slime_block_3.png",
+            "text": "$(li)Blocks that cannot be pulled by a Sticky Piston stay in place."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/magenta_slime_block",
-            "text": "$(li)The blocks that are moved may in turn push other blocks.$(br)$(li)Slime Blocks can be tinted with some dyes."
+            "text": "$(li)Slime Blocks can be tinted with some dyes."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/slime_block_4.png",
+            "text": "$(li)There are five variants of this block."
         },
         {
             "type": "patchouli:crafting",

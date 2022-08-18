@@ -8,11 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:hopper_minecart",
-            "text": "$(li)Minecart with Hopper are a new variant of the common Minecart.$(br)$(li)The Hopper contained in the Minecart will catch any item that falls on it."
+            "text": "$(li)The Minecart with Hopper is a new variant of the common Minecart.$(br)$(li)The Hopper contained in the Minecart will catch any item that falls on it."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)It will pull items from cointers situated above it too."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/hopper_minecart.png",
+            "text": "$(li)It will pull items from cointers situated above it too much faster than normal Hoppers."
         }
              ]
 }

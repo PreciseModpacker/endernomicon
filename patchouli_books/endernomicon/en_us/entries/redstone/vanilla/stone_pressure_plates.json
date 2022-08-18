@@ -8,8 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:stone_pressure_plate",
-            "text": "$(li)Stone can detect creature and players but not items that are placed on them.$(br)$(li)When this happens, it emits a redstone signal of level 15 to near blocks.",
+            "text": "$(li)Stone can detect creature and players but not items that are placed on them.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/redstone/stone_pressure_plate.png",
+            "text": "$(li)When this happens, it emits a redstone signal of level 15 to near blocks."
         },
         {
             "type": "patchouli:crafting",

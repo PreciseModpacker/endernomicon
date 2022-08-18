@@ -8,11 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:redstone_lamp",
-            "text": "$(li)The Redstone Lamp is a block that produces light when receives a redstone signal.$(br)$(li)It can be used to craft a Lit Redstone Lamp or Wood Lanterns in a Crafting Table."
+            "text": "$(li)The Redstone Lamp is a block that produces light when receives a redstone signal."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/redstone_lamp.png"
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_lamp.png",
+            "text": "$(li)It can be used to craft a Lit Redstone Lamp or Wood Lanterns in a Crafting Table."
         }
              ]
 }

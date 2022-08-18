@@ -8,12 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/ender_watcher",
-            "text": "$(li)The Ender Watcher is a new redstone input block.$(br)$(li)It will emit a redstone signal if you or other person is looking directly at it.",
+            "text": "$(li)The Ender Watcher is a new redstone input block.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/ender_watcher.png"
+            "picture": "endermonicon:textures/book/entries/redstone/ender_watcher.png",
+            "text": "$(li)It will emit a redstone signal if you or other person is looking directly at it."
         }
              ]
 }
