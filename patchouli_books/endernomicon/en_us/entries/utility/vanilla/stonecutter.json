@@ -8,28 +8,18 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:stonecutter",
-            "text": "$(li)The Stonecutter is a new block that adds more efficient recipes for crafing Stone items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Mason.",
+            "text": "$(li)The Stonecutter is a new block that adds more efficient recipes for crafing Stone items.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": true
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/stonecutter_1.png",
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Mason."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/stonecutter_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/stonecutter_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/stonecutter_2.png",
+            "text": "$(li)Just insert the Stone block that you want to transform, select the block that do you want and save it in your inventory."
         }
              ]
 }

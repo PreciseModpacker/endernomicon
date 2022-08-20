@@ -12,16 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/planter.png",
             "text": "$(li)Plants and flowers can also be placed on them for decoration purposes."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/planter.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         }
              ]
 }

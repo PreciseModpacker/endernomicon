@@ -7,8 +7,18 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:smithing_table",
-            "text": "$(li)The Smithing Table is an advanced workplace that will allow you to unlock new crafting recipes.$(br)$(li)Just place the block and right click on it to open the Smithing Table GUI.",  
+            "text": "$(li)The Smithing Table is an advanced workplace that will allow you to unlock new crafting recipes.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smithing_table_1.png",
+            "text": "$(li)Just place the block and right click on it to open the Smithing Table GUI."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/smithing_table_2.png",
+            "text": "$(li)Now just insert the needed items to create a new item in the Smithing Table."
         },
         {
             "type": "patchouli:text",
@@ -19,26 +29,6 @@
             "type": "patchouli:text",
             "title": "Smithing Table Recipes",
             "text": "$(li)End Crystal Shovel$(li)End Crystal Hoe$(li)End Crystal Pickaxe$(li)End Crystal Sword$(li)End Crystal Axe$(li)End Crystal Armor$(li)Monstrous Helm"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": true
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/smithing_table_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/smithing_table_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         }
              ]
 }

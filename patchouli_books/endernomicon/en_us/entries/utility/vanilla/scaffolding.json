@@ -11,7 +11,8 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/scaffolding.png",
             "text": "$(li)If you break the bottom block of Scaffolding, all Scaffolding blocks above it break automatically."
         }
              ]

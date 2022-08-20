@@ -12,24 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crate.png",
             "text": "$(li)A full stack of an item will take up 64, but 64 different items will also take up the same amount."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/crate_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/crate_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         },
         {
             "type": "patchouli:crafting",

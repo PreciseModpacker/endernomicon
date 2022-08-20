@@ -7,12 +7,28 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:campfire",
-            "text": "$(li)The Campfires are a block that it can be used to cook food.$(br)$(li)They can be used to pacify angry Bees too.",  
+            "text": "$(li)The Campfire is a block that it can be used to cook food.$(br)$(li)To use it, first you have to place the Campfire.",  
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)To use it, first you have to place the Campfire.$(br)$(li)Now, to fire it on, right click on the Campfire while you are holding a Flint and Steel on your hand.$(br)$(li)Finally just place your cookable food right clicking on the Campfire while you are holding it.$(br)$(li)In a few seconds, the food will be cook and drop like an item into the ground."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_1.png",
+            "text": "$(li)Now, to fire it on, right click on the Campfire while you are holding a Flint and Steel on your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_2.png",
+            "text": "$(li)Finally just place your cookable food right clicking on the Campfire while you are holding it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_3.png",
+            "text": "$(li)In a few seconds, the food will be cook and drop like an item into the ground."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_4.png",
+            "text": "$(li)You can place a Campfire down a Bee Nest or Beehive to calm down angry Bees."
         },
         {
             "type": "patchouli:text",

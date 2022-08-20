@@ -7,28 +7,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:present",
-            "text": "$(li)Presents can hold one item stack.$(br)$(li)You can right clicking in a Present to open a GUI where you can choose the person to which it will be addressed and write a small description too.",
+            "text": "$(li)The Present is a block that can hold a stack of any item.$(br)$(li)Presents can be dyed placing the Present and the specific Dye in a Crafting table.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)Once packet only you and the recipient will be able to open it.$(br)$(li)Presents can be dyed placing the Present and the specific Dye in a Crafting table."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/present_1.png",
+            "text": "$(li)This block can be used to gift items to other person."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/present_1.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/present_2.png",
+            "text": "$(li)You can right clicking in a Present to open a GUI where you can choose the person to which it will be addressed and write a small description too."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/present_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/present_3.png",
+            "text": "$(li)Once packet only you and the recipient will be able to open it."
         }
              ]
 }

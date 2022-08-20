@@ -8,38 +8,34 @@
         {
             "type": "patchouli:crafting",
             "recipe": "charm:woodcutters/woodcutter",
-            "text": "$(li)The Woodcutter is a new block that adds more efficient recipes for crafing Wood items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Lumberjack.",
+            "text": "$(li)The Woodcutter is a new block that adds more efficient recipes for crafing Wood items.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_1.png",
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Lumberjack."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_2.png",
+            "text": "$(li)Just insert the Wood Planks or Wood Log that you want to transform, select the block that do you want and save it in your inventory."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "environmental:crafting/sawmill",
-            "text": "$(li)The Sawmill is a other good block that adds more efficient recipes for crafing Wood items.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Carpenter.",
+            "text": "$(li)The Sawmill is a other good block that adds more efficient recipes for crafing Wood items.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/woodcutter_1.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_3.png",
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Carpenter."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/woodcutter_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/woodcutter_3.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/woodcutter_4.png",
+            "text": "$(li)Just insert the Wood Planks or Wood Log that you want to transform, select the block that do you want and save it in your inventory."
         }
              ]
 }

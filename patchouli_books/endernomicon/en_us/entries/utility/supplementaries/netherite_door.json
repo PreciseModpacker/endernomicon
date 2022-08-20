@@ -2,7 +2,7 @@
     "name": "Netherite Door & Trapdoor",
     "icon": "supplementaries:netherite_door",
     "category": "patchouli:utility",
-    "sortnum": 3,
+    "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:crafting",

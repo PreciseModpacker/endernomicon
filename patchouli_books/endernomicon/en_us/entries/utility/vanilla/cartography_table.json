@@ -18,7 +18,11 @@
        {
             "type": "patchouli:text",
             "title": "Clone Maps",
-            "text": "$(li)In ther Carography Table you can clone maps.$(br)$(li)To do this, you have to insert an used Map and a Empty Map into the Cartography Table.$(br)$(li)Finally, extract the copy of the Map of the output slot and save it into your inventory."
+            "text": "$(li)In ther Carography Table you can clone maps.$(br)$(li)To do this, you have to insert an used Map and an Empty Map into the Cartography Table.$(br)$(li)Finally, extract the copy of the Map of the output slot and save it into your inventory."
+       },
+       {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/cartography_table_1.png"
        },
        {
             "type": "patchouli:text",
@@ -26,37 +30,17 @@
             "text": "$(li)In the Cartography Table you can upgrade the size of the map too.$(br)$(li)To do this you have to insert an used Map and a Piece of paper into the Cartography Table.$(br)$(li)Finally, extract the upgraded map of the output slot and save it into your inventory."
        },
        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/cartography_table_2.png"
+       },
+       {
             "type": "patchouli:text",
             "title": "Lock Maps",
             "text": "$(li)In the Cartography Table you can lock maps preventing to them being modified.$(br)$(li)To do this you have to insert an used Map and a Glass Pane into the Cartography Table.$(br)$(li)Finally, extract the locked map of the output slot and save it into your inventory."
        },
        {
-            "type": "patchouli:empty",
-            "draw_filler": true
-       },
-       {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/cartography_table_1.png"
-       },
-       {
-            "type": "patchouli:empty",
-            "draw_filler": false
-       },
-       {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/cartography_table_2.png"
-       },
-       {
-            "type": "patchouli:empty",
-            "draw_filler": false
-       },
-       {
-            "type": "patchouli:pictures",
+            "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/cartography_table_3.png"
-       },
-       {
-            "type": "patchouli:empty",
-            "draw_filler": false
        }
              ]
 }

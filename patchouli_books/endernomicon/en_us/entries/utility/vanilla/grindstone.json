@@ -8,36 +8,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:grindstone",
-            "text": "$(li)The Grindstone is a block that can be used to repairs items and tools.$(br)$(li)To use it, you have to right click on it and place two similar Tools into the Grindstone Slots.",
+            "text": "$(li)The Grindstone is a block that can be used to repairs items and tools.",
             "link_recipe": "true"
-       },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)You can place Enchanted Books or other Tools to disenchant them and obtain Experience in the process.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Weaponsmith."
-       },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/grindstone_1.png"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/grindstone_1.png",
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Weaponsmith."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/grindstone_2.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/grindstone_2.png",
+            "text": "$(li)To use it, you have to right click on it and place two similar Tools into the Grindstone Slots."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/grindstone_3.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/grindstone_3.png",
+            "text": "$(li)You can place Enchanted Books or other enchanted Tools to disenchant them and obtain Experience in the process."
         }
              ]
 }

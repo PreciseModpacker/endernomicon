@@ -8,20 +8,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:sack",
-            "text": "$(li)The Sack can save items, like a Shulker Box or a Backpack.$(br)$(li)It has nine slots of capacity.",
+            "text": "$(li)The Sack can save items, like a Shulker Box or a Backpack.$(br)$(li)You can carry a maximum two, because if you carry three or more you will receive the Slowness effect.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can carry a maximum two, because if you carry three  or more you will receive the Slowness effect.$(br)$(li)As you increase the number of Sacks, you will receive a stronger Slowness effect, making it harder and harder fo you to move."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/sack_1.png",
+            "text": "$(li)As you increase the number of Sacks, you will receive a stronger Slowness effect, making it harder and harder for you to move."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/sack.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/sack_2.png",
+            "text": "$(li)The Sack has 9 slots of capacity."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/sack_3.png",
+            "text": "$(li)You can save items to a Sack from the inventory, dragging them into it and right clicking on it."
         }
              ]
 }

@@ -7,8 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "ironchest:chests/gold_diamond_chest",
-            "text": "$(li)The Diamond Chest is a upgrade of the $(l:patchouli:utility/iron_chest/gold_chest)Gold Chest$(/l).$(br)$(li)Unlike Gold Chests which have 81 slots of capacity, the Diamond Chest has a capacity of 108 slots.",
+            "text": "$(li)The Diamond Chest is the direct upgrade of the $(l:patchouli:utility/iron_chest/gold_chest)Gold Chest$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/diamond_chest.png",
+            "text": "$(li)Unlike the Gold Chests which has 81 slots of capacity, the Diamond Chest has a capacity of 108 slots."
         },
         {
             "type": "patchouli:crafting",
@@ -17,20 +22,13 @@
             "title": "Diamond Chest Upgrade"
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/diamond_chest_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/diamond_chest_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:entity",
+            "name": "Diamond Chest Upgrade",
+            "entity": "minecraft:armor_stand{Invisible:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Small:1b,ArmorItems:[{},{},{},{}],HandItems:[{id:\"ironchest:gold_to_diamond_chest_upgrade\",Count:1}],HandDropChances:[0f],Pose:{RightArm:[0f,90f,90f]}}",
+            "scale": 3,
+            "offset": 0.35,
+            "rotate": false,
+            "default_rotation": 90
         }
              ]
 }

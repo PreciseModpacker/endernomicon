@@ -8,8 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:lodestone",
-            "text": "$(li)The Lodestone is a block that allows to you to bind a Compass to it.$(br)$(li)This will make that Compass to point the Lodestone insteat the Spawn Point.",
+            "text": "$(li)The Lodestone is a block that allows to you to bind a Compass to it.",
             "link_recipe": "true"
-       }
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/lodestone.png",
+            "text": "$(li)This will make that Compass to point the Lodestone insteat the Spawn Point."
+        }
              ]
 }

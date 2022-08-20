@@ -7,8 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "ironchest:chests/diamond_crystal_chest",
-            "text": "$(li)The Crystal Chest is a upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l).$(br)$(li)They have the same capacity of the Diamond Chests, 108 slots, but Crystal Chests allows the visualization of stored items.",
+            "text": "$(li)The Crystal Chest is the direct upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/crystal_chest.png",
+            "text": "$(li)It has the same capacity of the Diamond Chests, 108 slots, but this one allows the visualization of stored items."
         },
         {
             "type": "patchouli:crafting",
@@ -17,20 +22,13 @@
             "title": "Crystal Chest Upgrade"
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/crystal_chest_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/crystal_chest_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:entity",
+            "name": "Crystal Chest Upgrade",
+            "entity": "minecraft:armor_stand{Invisible:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Small:1b,ArmorItems:[{},{},{},{}],HandItems:[{id:\"ironchest:diamond_to_crystal_chest_upgrade\",Count:1}],HandDropChances:[0f],Pose:{RightArm:[0f,90f,90f]}}",
+            "scale": 3,
+            "offset": 0.35,
+            "rotate": false,
+            "default_rotation": 90
         }
              ]
 }

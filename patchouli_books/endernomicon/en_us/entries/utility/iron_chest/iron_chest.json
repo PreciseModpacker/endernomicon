@@ -7,30 +7,28 @@
         {
             "type": "patchouli:crafting",
             "recipe": "ironchest:chests/vanilla_iron_chest",
-            "text": "$(li)The Iron Chest is a upgrade of the common Chest.$(br)$(li)Unlike Chests which have 27 slots of capacity, the Iron Chest has a capacity of 54 slots.",
+            "text": "$(li)The Iron Chest is the direct upgrade of the common Chest.",
             "link_recipe": "true"
+        },
+        {   
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/iron_chest.png",
+            "text": "$(li)Unlike Chests which have 27 slots of capacity, the Iron Chest has a capacity of 54 slots."
         },
         {
             "type": "patchouli:crafting",
             "recipe":"ironchest:upgrades/wood_to_iron_chest_upgrade",
-            "text": "$(li)A common Chest can be upgraded to a Iron Chest.$(br)$(li)Just right click it while you have one Wood to Iron Chest Upgrade on your hand.",
+            "text": "$(li)A common Chest can be upgraded to an Iron Chest.$(br)$(li)Just right click it while you have one Wood to Iron Chest Upgrade on your hand.",
             "title": "Iron Chest Upgrade"
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/iron_chest_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/iron_chest_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:entity",
+            "name": "Iron Chest Upgrade",
+            "entity": "minecraft:armor_stand{Invisible:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Small:1b,ArmorItems:[{},{},{},{}],HandItems:[{id:\"ironchest:gold_to_diamond_chest_upgrade\",Count:1}],HandDropChances:[0f],Pose:{RightArm:[0f,90f,90f]}}",
+            "scale": 3,
+            "offset": 0.35,
+            "rotate": false,
+            "default_rotation": 90
         }
              ]
 }

@@ -7,7 +7,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:beehive",
-            "text": "$(li)Beehives are the crafted version of Bee Nest.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Beekeeper.",  
+            "text": "$(li)The Beehives is the artificial version of the Bee Nest.$(br)$(li)If this block is placed near of a Villager without a job, it will be turned into a Beekeeper.",  
             "link_recipe": "true"
         },
         {   

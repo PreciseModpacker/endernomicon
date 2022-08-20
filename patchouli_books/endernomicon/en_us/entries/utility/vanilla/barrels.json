@@ -7,28 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "crumbs:oak_barrel",
-            "text": "$(li)Barrels are an alternative from the common Chests.$(br)$(li)Just place the block and right click on them to open their inventory.",  
+            "text": "$(li)The Barrel is a good alternative from the common Chest.$(br)$(li)It has the same capacity but it can be opened even if a block is on top of it.",  
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)As the common Chests, Barrels have 27 slots of capacity.$(br)$(li)There are exist ten different versions of the Barrels."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/barrels_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/barrels_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/barrels.png",
+            "text": "$(li)Just place the block and right click on them to open their inventory."
         },
         {
             "type": "patchouli:crafting",

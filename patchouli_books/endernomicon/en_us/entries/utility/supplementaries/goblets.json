@@ -11,16 +11,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/goblet.png",
             "text": "$(li)If the liquid stored in the Goblet is drinkable, you will be able to drink it directly from the Goblet"
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/goblet.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         }
              ]
 }

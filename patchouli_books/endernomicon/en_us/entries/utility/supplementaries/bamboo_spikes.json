@@ -6,22 +6,24 @@
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:bamboo_spikes",
-            "text": "The Bamboo Spikes is a useful block that it will damage creatures that are standing and will deal more damage if it's pointing upwards and a creature it falling throught it.$(br2)Creatures will also be slowed by it. If the block is pointing upwards you can negate its damage by shifting.",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:bamboo_spikes",
+            "text": "$(li)The Bamboo Spikes is a useful block that it will damage creatures that are standing.$(br)$(li)It will deal more damage if it's pointing upwards and a creature it falling throught it.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "You can combine it with any Lingering Potion either via Crafting or by right clicking with said item and it will convert into a tipped bamboo spikes.$(br2)Tipped bamboo spikes will always have 15 poison charges to begin which will get consumed once and entity walks on top of the block, receiving the poison status effect for 6 seconds. You can charge them back with dispensers and can be easily automated since they will only make observers pulse once they get fully depleted."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/bamboo_spikes_1.png",
+            "text": "$(li)Creatures will also be slowed by it. If the block is pointing upwards you can negate its damage by shifting."
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Cage"
+            "text": "$(li)You can combine the Bamboo Spikes with any Lingering Potion either via Crafting or by right clicking with said item and it will convert into a tipped bamboo spikes.$(br)$(li)Tipped bamboo spikes will always have 15 poison charges to begin which will get consumed once and entity walks on top of the block, receiving the poison status effect for 6 seconds."
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:bamboo_spikes"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/bamboo_spikes_2.png",
+            "text": "$(li)You can charge them back with dispensers and can be easily automated since they will only make observers pulse once they get fully depleted."
         }
              ]
 }

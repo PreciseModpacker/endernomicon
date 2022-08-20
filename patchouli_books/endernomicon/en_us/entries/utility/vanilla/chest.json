@@ -5,30 +5,19 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/chests/chest_revert",
+            "type": "patchouli:spotlight",
+            "item": "minecraft:chest",
             "text": "$(li)The Chest is a block that has an inventory with 27 slots of capacity.$(br)$(li)To obtain more inventory slots, the Chest can be upgraded to an Iron Chest ",  
             "link_recipe": "true"
         },
         {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/chest.png",
+            "text": "$(li)To save items into the chest, just right click in one of them and place the items inside."
+        },
+        {
             "type": "patchouli:text",
-            "text": "$(li)To save items into the chest, just right click in one of them and save the items inside.$(br)$(li)Hoppers can insert items to the chest or extract them too.$(br)$(li)It exists multiple variants of the Chests, because of decoration purposes.$(br)$(li)A common chest can be used to craft multiple items in a Crafting Table."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/chest_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/chest_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "text": "$(li)Hoppers can insert items in a Chest or extract them too.$(br)$(li)It exists multiple variants of the Chests, because of decoration purposes.$(br)$(li)A common chest can be used to craft multiple items in a Crafting Table."
         },
         {
             "type": "patchouli:crafting",

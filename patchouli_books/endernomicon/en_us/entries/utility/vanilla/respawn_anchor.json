@@ -7,8 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:respawn_anchor",
-            "text": "$(li)The Respawn Anchor is a block that allows you to set the Spawn Point in The Nether, as the Beds in the Overworld.$(br)$(li)First you have to place the Respawn Anchor and then, right click on it.",  
+            "text": "$(li)The Respawn Anchor is a block that allows you to set the Spawn Point in The Nether.$(br)$(li)First you have to place the Respawn Anchor and then, insert 4 Glowstone Blocks right clicking on it to turn it on.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/respawn_anchor.png",
+            "text": "$(li)Finally right click again to Set your new Respawn Point."
         }
              ]
 }

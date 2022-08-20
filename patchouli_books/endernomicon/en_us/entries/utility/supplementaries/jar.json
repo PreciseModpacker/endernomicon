@@ -12,34 +12,71 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)Jars can also store Cookies and Candies.$(br)$(li)They can be used to capture small mobs, like fishes or fireflies."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_1.png",
+            "text": "$(li)You can save Experience in a Jar right clicking it while you are holding a Bottle of Experience in your hand."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/jars_1.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_2.png",
+            "text": "$(li)You can save Water in a Jar right clicking it while you are holding a Water Bottle in your hand."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_3.png",
+            "text": "$(li)You can save Lava in a Jar right clicking it while you are holding a Lava Bottle in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_4.png",
+            "text": "$(li)You can save Milk in a Jar right clicking it while you are holding a Milk Bottle in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_5.png",
+            "text": "$(li)You can save Mushroom and Rabbit Stews in a Jar right clicking it while you are holding a in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_6.png",
+            "text": "$(li)You can save Dragon Breath in a Jar right clicking it while you are holding a Dragon's Breath bottle in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_7.png",
+            "text": "$(li)You can capture small aquatic creatures in a Jar like fishes in a Jar while you are holding a Jar in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_8.png",
+            "text": "$(li)You can save capture Fireflies in a Jar right clicking them while you are holding a Jar in your hand."
+        },
+
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_9.png",
+            "text": "$(li)Jars can also store Cookies and Candies too."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:jar_tinted",
-            "text": "$(li)A Tinted Jar works like the normal Jars.$(br)$(li)They can capture more mobs including hostile ones, like Vexes, Slimes and Endermites.",
+            "text": "$(li)A Tinted Jar works like the normal Jars.$(br)$(li)They can capture specific small dangerous creatures.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": true
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_10.png",
+            "text": "$(li)You can capture Slimes in Jars, right clicking on one of them while you are holding a Jar in your hand."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/jars_2.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_11.png",
+            "text": "$(li)You can capture Vexes in Jars, right clicking on one of them while you are holding a Jar in your hand."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/jar_12.png",
+            "text": "$(li)You can capture Endermites in Jars, right clicking on one of them while you are holding a Jar in your hand."
         }
              ]
 }

@@ -11,24 +11,13 @@
             "link_recipe": "true"
         },
         {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/shulker_box.png",
+            "text": "$(li)To access to its inventory, just place the Shulker Box and open it right clicking, like a Chest."
+        },
+        {
             "type": "patchouli:text",
-            "text": "$(li)To access to its inventory, just place the Shulker Box and open it right clicking, like a Chest.$(br)$(li)Then you can break it with your mere hand or other tools to return it to your inventory.$(br)$(li)Shulker Box can be enchanted with Siphon and Refill enchantings.$(br)$(li)Shulkerbox can be tinted with Dyes in a Crafting Table. "
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/shulker_box_1.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/shulker_box_2.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "text": "$(li)Then you can break it with your mere hand or other tools to return it to your inventory.$(br)$(li)Shulker Box can be enchanted with Siphon and Refill enchantings.$(br)$(li)Shulkerbox can be tinted with Dyes in a Crafting Table. "
         }
              ]
 }

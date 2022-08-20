@@ -7,12 +7,8 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:feather_block",
-            "text": "$(li)The Feather Block is a new block which reduce all the fall damage received if you fall in this block.$(br)$(li)It can be crafted with Feathers.",
+            "text": "$(li)The Feather Block is a new block which reduce all the fall damage received if you fall in this block.",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Feather Block"
         }
              ]
 }

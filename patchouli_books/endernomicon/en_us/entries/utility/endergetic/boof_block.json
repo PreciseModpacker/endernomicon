@@ -8,13 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "endergetic:boof_block",
-            "text": "$(li)Boof Block can be used as other kind of decoration block, but, if you or any other creature or even an item fall into one of these utility, it will bounce on them.",
-            "link_recipe": "true"
-       },
-        {
-            "type": "patchouli:crafting",
-            "item": "endergetic:boof_block",
-            "text": "$(li)It can be used to craft a Booflo Vest.$(br)$(li)It only can be crafted with Booflo Hide. Insert a Picture of the Boof Block",
+            "text": "$(li)The Boof Block can be used to craft a Booflo Vest in a Crafting Table.$(br)$(li)If any creature or even an item fall on the Booflo Block, it will bounce on it.",
             "link_recipe": "true"
        }
              ]
