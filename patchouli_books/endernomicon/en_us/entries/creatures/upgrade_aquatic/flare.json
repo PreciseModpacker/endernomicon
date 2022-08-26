@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Flare is a creature that doesn't summon normally.$(br2)You have to hit a Phantom with a Splash $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l) or with a Arrow of Insomnia to transform it to a Flare.$(br2)This creature will attack Phantoms, so you can use them to defend your base of those annoying creatures."
+            "text": "$(li)Flares are flying creatures that doesn't summon normally.$(br)$(li)You have to hit a Phantom with a Splash $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l) or with a Arrow of Insomnia to transform it into a Flare.$(br)$(li)These creatures will attack Phantoms, so you can use them to defend your base of those annoying creatures."
         },
         {
             "type": "patchouli:entity",

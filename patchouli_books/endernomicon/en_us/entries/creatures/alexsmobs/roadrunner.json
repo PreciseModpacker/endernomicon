@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Roadrunner is a small brown and yellow bird, with blue feathers on their tail, wings and head.$(br2)Roadrunners run around the desert at high speed searching they preis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br2)On death, Roadrunners may drop Feathers and Roadrunner Feathers, you can use the last one to craft a $(l:patchouli:creatures/alexsmobs/bald_eagle)Falcony Hood$(/l)."
+            "text": "$(li)The Roadrunner is a small brown and yellow bird with blue feathers on their tail, wings and head.$(br)$(li)They run around the Desert at high speed searching theirpreis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br)$(li)Roadrunners may drop Feathers and Roadrunner Feathers on death."
         },
         {
             "type": "patchouli:entity",

@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Kraken it's a terrifying creature that can be found in the depths of any Ocean except in the Frozen Oceans.$(br2)Be careful if you are in a boat, because this creature has the hability to destroy them and make player drown faster than normal.$(br2)On death, they may drops Kraken Tooth."
+            "text": "$(li)The Kraken it's a terrifying creature that can be found in the depths of any Ocean except in the Frozen Oceans.$(br)$(li)Be careful if you are on a Boat, because this creature has the hability to destroy them and make you drown faster than normal.$(br)$(li)They may drops Kraken Tooth on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "outvoted:kraken",
-            "scale": 0.20,
-            "text": "You can use those Kraken Tooths to craft a Trident."
+            "scale": 0.20
         }
              ]
 }

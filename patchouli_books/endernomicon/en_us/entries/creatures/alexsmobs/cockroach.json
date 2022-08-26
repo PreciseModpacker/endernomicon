@@ -7,20 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Cockroaches are tiny brown passive insects.$(br2)If near light or they are near players, they will free.$(br2)Cockroach may drop their Cockroach Wing Framgent on death, use nine of them to craft a full Cockroach Wing, that it's used as brewing ingredient of $(l:patchouli:potions/bug_pheromones)Potion of Bug Pheromones$(/l)."
+            "text": "$(li)Cockroaches are tiny brown passive insects.$(br)$(li)If near light or they are near players, they will free.$(br)$(li)Cockroach may drop their Cockroach Wing Framgent on death.$(br)$(li)They can eat any food item dropped on the ground."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:cockroach",
-            "scale": 0.8
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cockroach_1.png",
+            "text": "$(li)Cockroaches can be attracted with Sugar."
         },
         {
-            "type": "patchouli:text",
-            "text": "They can eat any food item dropped on the ground.$(br2)Cockroaches can be attracted with Sugar$(br2)Do you want to teach your tiny cute Cuckroach to dance? Then give it a $(l:patchouli:tools/alexsmobs/maraca)Maraca!$(/l)$(br2)You will need 3 wood, 1 stick and 1 Rattlesnake Rattle."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:cockroach_wing"
-        } 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cockroach_2.png",
+            "text": "$(li)Do you want to teach your tiny cute Cuckroach to dance?$(br)$(li)Then give it a $(l:patchouli:tools/alexsmobs/maraca)Maraca!$(/l)"
+        }
              ]
 }

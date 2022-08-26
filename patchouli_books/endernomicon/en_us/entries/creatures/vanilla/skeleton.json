@@ -1,0 +1,29 @@
+{    
+    "name": "Skeleton",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Skeletons are common undead hostile creatures that can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They will fire Arrows using their Bows.$(br)$(li)They may drop Bones and Arrows on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:skeleton{HandItems:[{Count:1,id:bow}]}",
+            "scale": 1,
+            "text": "They will start to burn in contact with the sunlight."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Tiny Skeletons are a cute variant of the common Skeletons and they can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They are faster than Skeletons.$(br)$(li)They will fire Arrows using their Bows.$(br)$(li)They may drop Bones and Arrows on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "tinyskeletons:baby_skeleton{HandItems:[{Count:1,id:bow}]}",
+            "scale": 1,
+            "text": "They will start to burn in contact with the sunlight."
+        }
+             ]
+}

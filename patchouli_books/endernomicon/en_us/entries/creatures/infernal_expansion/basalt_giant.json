@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Basalt Giants are neutral big creatures that can be found in Basalt Deltas of the Nether.$(br)$(li)They may drop Magma Blocks on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "infernalexp:basalt_giant",
-            "scale": 0.9,
-            "text": "Basalt Giants are neutral big creatures that can be found in Basalt Deltas. On death they may drop Magma Blocks."
+            "scale": 0.9
         }
              ]
 }

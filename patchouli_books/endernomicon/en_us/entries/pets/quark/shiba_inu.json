@@ -1,0 +1,27 @@
+{    
+    "name": "Shiba Inu",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Shiba is a new friendly dog that can be found in the Mountains of the Overworld.$(br)$(li)They can be tamed with Bones and interacted in the same way that regular Wolves."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:shiba",
+            "scale": 0.7,
+            "text": "They will also lay down if you're having them sit on a bed!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Wolves also fetch any Arrows or Tridents after they land and bring them back to you."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you are holding a Torch, Shibas will also look for dark spots and get mad at them."
+        }
+             ]
+}

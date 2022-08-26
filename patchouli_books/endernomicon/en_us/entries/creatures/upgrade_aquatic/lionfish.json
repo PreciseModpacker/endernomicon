@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Lionfish is a hostile mob that can be found near coral in warm and unfrozen oceans.$(br2)If you are near of them, they will inflict Nausea and Poison effects to you.$(br2)On death they drop Raw Lionfish. They can be cooked to get Cooked Lionfish, can be used to brew a $(l:patchouli:potions/repellence)Potion of Repellence$(/l). They may drop Bone Meal too."
+            "text": "$(li)Lionfish are hostile aquatic creatures that can be found near corals in warm and unfrozen oceans.$(br)$(li)If you are near of them, they will inflict Nausea and Poison effects to you.$(br)$(li)They may drop Raw Lionfish or Bone Meal on death."
         },
         {
             "type": "patchouli:entity",
@@ -15,10 +15,6 @@
             "scale": 0.6,
             "offset": -0.5,
             "text": "They can be captured in a Bucket, which can be used as a trap in a Dispenser."
-        },
-        {
-            "type": "patchouli:smelting",
-            "recipe": "upgrade_aquatic:cooked_lionfish"
-        }  
+        }
              ]
 }

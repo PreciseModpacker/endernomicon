@@ -1,0 +1,18 @@
+{    
+    "name": "Spider",
+    "icon": "minecraft:cobweb",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Spiders are small hostile creatures with the hability to climb walls that can be found over the Overworld at night or in places with low lighting.$(br)$(li)They may drop String and Spider Eye on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:spider",
+            "scale": 0.7
+        }
+             ]
+}

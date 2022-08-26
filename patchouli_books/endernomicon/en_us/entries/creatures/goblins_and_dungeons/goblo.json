@@ -6,11 +6,14 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Goblos will get everything trown on the ground and it will eat it.$(br)$(li)They may drop Leather on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:goblo",
             "scale": 0.9,
-            "offset": 0.1,
-            "text": "Goblos will get everything trown on the ground and it will eat it. On death they may drop Leather."
+            "offset": 0.1
         }
              ]
 }

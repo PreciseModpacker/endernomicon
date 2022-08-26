@@ -7,13 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Orcas are large, aquatic, neutral mammals with black and white blubbery skin that can be found in Cold Oceans.$(br2)They love their preys, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l), they will jump out of the water to attack their prey and even break ice to get to them.$(br2)When near Orcas, players can get a rare change of gaining the Orca's Might effect which increases attack speed."
+            "text": "$(li)Orcas are large, aquatic and neutral mammals with black and white blubbery skin that can be found in Cold Oceans of the Overworld.$(br)$(li)They love hunt their preys, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l), they will jump out of the water to attack their prey and even break ice to get to them."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:orca",
-            "scale": 0.7,
-            "text": "Don't try to attack an Orca! Or all nearby Orcas will attack you!"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/orca.png",
+            "text": "$(li)Don't try to attack an Orca! Or all nearby Orcas will attack you!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When you are near of a Orca, you can obtain the rare Orca's Might effect which increases your attack speed."
         }
              ]
 }

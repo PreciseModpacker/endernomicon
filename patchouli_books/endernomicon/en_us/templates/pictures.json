@@ -2,13 +2,44 @@
   "components": [
     {
       "type": "image",
-      "image": "#picture",
-      "x": 0,
+      "image": "endermonicon:textures/book/templates/pictures/frame.png",
+      "x": 1,
       "y": -6,
-      "width": 242,
-      "height": 154,
-      "texture_width": 242,
-      "texture_height": 154
+      "width": 240,
+      "height": 152,
+      "texture_width": 240,
+      "texture_height": 152
+    },
+    {
+      "type": "image",
+      "image": "#picture",
+      "x": 4,
+      "y": -3,
+      "width": 234,
+      "height": 146,
+      "texture_width": 234,
+      "texture_height": 146
+    },
+    { 
+      "type": "image",
+      "image": "endermonicon:textures/book/templates/pictures/tirita.png",
+      "x": 1,
+      "y": -6, 
+      "width": 24,
+      "height": 24,
+      "texture_width": 24,
+      "texture_height": 24
+    },
+    {
+      "type": "image",
+      "image": "endermonicon:textures/book/templates/pictures/center_40.png",
+      "x": 57,
+      "y": -9,
+      "width": 240,
+      "height": 231,
+      "texture_width": 240,
+      "texture_height": 231
     }
+
   ]
 }

@@ -7,12 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Snow Leopars are big cats that can be found in snowy and mountainous biomes. For lucky, they are not aggresive towards humans.$(br2)They will hunt other animals like Sheeps or Horsers.$(br2)You can't tame them but you still bred them with Raw Moose Ribs, this meat is dropped by $(l:patchouli:creatures/alexsmobs/moose)Mooses$(/l)."
+            "text": "$(li)Snow Leopars are big felines that can be found in Snowy and Mountainous biomes.$(br)$(li)They are not aggresive towards humans.$(br)$(li)They will hunt other animals like Sheeps or Horsers.$(br)$(li)You can't tame them but you still bred them with Raw Moose Ribs."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:snow_leopard",
-            "scale": 0.6
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/snow_leopard.png"
         }
              ]
 }

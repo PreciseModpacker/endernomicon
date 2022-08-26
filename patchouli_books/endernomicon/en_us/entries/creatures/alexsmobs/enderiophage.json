@@ -7,17 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Enderiophage are virus-like creatures that can be found in the End Midlands. They travel by floating around the End searching Endergrade.$(br2)When this creature finds an Endergrade, it with Ender Flu, if you attack them, they will infect you as well. This effect make the victim to lose 19 HP after 10 minutes. This effect can be healed eating a Chorus Fruit."
+            "text": "$(li)The Enderiophage is virus-like creature that can be found in the End Midlands.$(br)$(li)They travel by floating around the End searching Endergrade.$(br)$(li)They may drop a Capsid on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:enderiophage",
-            "scale": 1,
-            "text": "On death, they may drop a Capsid... this item may be used to create $(l:patchouli:tools/alexsmobs/enderiophage_rocket)Enderiophage Rockets$(/l)."
+            "scale": 1
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:enderiophage_rocket"
+            "type": "patchouli:text",
+            "text": "$(li)When this creature finds an Endergrade, it with infect it with Ender Flu.$(br)$(li)If you attack them, they will infect you as well.$(br)$(li)This effect make the victim to receive a lot of instant damage after 10 minutes.$(br)$(li)This effect can be healed eating a Chorus Fruit."
         }
              ]
 }

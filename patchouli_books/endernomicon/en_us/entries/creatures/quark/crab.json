@@ -7,17 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Crabs can be found in Beaches. On death may drop Crab Legs or Crab Shells.$(br2)Crab Legs can be eaten, and you can cooked them to obtain Cooked Crab Legs.$(br2)Crab Shells can be brewed into a $(l:patchouli:potions/quark/knockback_resistance)Potion of Knockback Resistance$(/l).$(br2)Crabs can be bred with Wheat, Chicken or any kind of Fish. "
+            "text": "$(li)Crabs can be found in Beaches of the Overworld.$(br)$(li)They may drop Crab Legs or Crab Shells on death.$(br)$(li)Crabs can be bred with Wheat, Chicken or any kind of Fish. "
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:crab",
-            "scale": 0.7,
-            "text": "If a near Jukebox it's playing a music disc near of a Crab, it will start dancing to the rhythm of the music."
+            "scale": 0.7
         },
         {
-            "type": "patchouli:smelting",
-            "recipe": "quark:world/smelting/cooked_crab_leg"
-        }  
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/crab.png",
+            "text": "$(li)If a near Jukebox it's playing a music disc near of a Crab, it will start dancing to the rhythm of the music."
+        }
              ]
 }

@@ -1,0 +1,15 @@
+{    
+    "name": "Molten Gold Cluster",
+    "icon": "infernalexp:molten_gold_cluster",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "infernalexp:molten_gold_cluster",
+            "text": "$(li)The Molten Glod Cluster can only be obtained from a Voline.$(br)$(li)You can use these Molten Gold Clusters to craft Gold Ingots or the Blindsight Tongue Whip in a Crafting Table.",
+            "link_recipe": "true"
+        }
+             ]
+}

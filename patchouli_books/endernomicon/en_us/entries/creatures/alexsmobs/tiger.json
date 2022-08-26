@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Tiger are big felines that can be found in the Bamboo Jungles. They are naturally wary of outsiders and will attack if approached.$(br2)By feeding them chicken or porkchops, or other meats, one can obtain the Tiger's Blessing, and effect that will allow one to approach a Tiger without being mauled, but this effect only lasts a few minutes or if the Tiger is attacked."
+            "text": "$(li)The Tiger is a big feline that can be found in the Bamboo Jungles. It naturally wary of outsiders and will attack if approached.$(br)$(li)By feeding them meat, you can obtain the Tiger's Blessing.$(br)$(li)This effect allows to you approach a Tiger without being mauled for a few minutes."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:tiger",
             "scale": 0.65,
-            "text": "They can be bred with Acacia Blossoms."
+            "text": "It can be bred with Acacia Blossoms."
         }
              ]
 }

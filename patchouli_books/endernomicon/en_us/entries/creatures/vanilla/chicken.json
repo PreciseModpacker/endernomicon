@@ -1,0 +1,18 @@
+{    
+    "name": "Chicken",
+    "icon": "minecraft:chicken",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Chicken are small common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Feathers and Raw Chicken on death.$(br)$(li)They can't be tamed, but they can be breed giving them Seeds.$(br)$(li)Randomly, they may drop an Egg."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:chicken",
+            "scale": 1
+        }
+             ]
+}

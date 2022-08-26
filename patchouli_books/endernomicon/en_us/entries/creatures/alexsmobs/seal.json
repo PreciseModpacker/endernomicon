@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Seals are passive mostly aquatic mammals that can be foud on the Beaches and Icebergs biomes.$(br2)If one Seal is attacked, the entire bob will try and flee into the water.$(br2)You can drop fish near of them, with 3 fish, the Seal will give you something to you in exchange."
+            "text": "$(li)Seals are passive mostly aquatic mammals that can be foud on the Beaches and Icebergs.$(br)$(li)If one Seal is attacked, the entire bob will flee into the water.$(br)$(li)You can drop fish near of them, with 3 fish, the Seal will give you something to you in exchange."
         },
         {
             "type": "patchouli:entity",

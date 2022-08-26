@@ -1,0 +1,19 @@
+{    
+    "name": "Cow",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Cow are large common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Leather and Raw Beef on death.$(br)$(li)They can't be tamed, but they can be breed giving them Wheat."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:cow",
+            "scale": 0.8,
+            "text": "You can right click on a Cow while you are holding a Bucket to obtain a Milk Bucket."
+        }
+             ]
+}

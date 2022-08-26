@@ -7,17 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Crimson Mosquito is a very big fliying hostile creature that likes to suck the blood of their preys.$(br2)If a Crimson Mosquito sucks the blood of a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l), and the Mungus has been covered competely in Warped Fungus, the Crimson Mosquito will transform into a $(l:patchouli:creatures/alexsmobs/warped_mosco)Warped Mosco$(/l)."
+            "text": "$(li)The Crimson Mosquito is a very big flying hostile creature that likes to suck the blood of their preys.$(br)$(li)Crimson Mosquito may be drop a Blood Sac or Crimson Mosquito Proboscis on death.$(br)$(li)Don't try to burn them, they're fire resistant!"
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:crimson_mosquito",
-            "scale": 0.5,
-            "text": "Don't try to burn them, they're fire resistant!"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Crimson Mosquito may be drop a Blood Sac or Crimson Mosquito Proboscis on death.$(br2)Those items may be used to craft a powerfull range weapon $(l:patchouli:weapons/blood_sprayer)Blood Sprayer$(/l)."
+            "scale": 0.5
         }
              ]
 }

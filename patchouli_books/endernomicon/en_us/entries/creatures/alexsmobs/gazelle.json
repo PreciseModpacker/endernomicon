@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Gazelles are passive creatures and can be found in the Savanna.$(br2)If just one Gazelle is attacked, the whole herd flees. Gazelles are very fast, so you will not be able to catch it easily.$(br2)On death, Gazelles may drop a Gazelle Horn. This can be used to upgrade a potion of $(l:patchouli:potions/vanilla/swiftness)$(/l)Swiftness II to Swiftness III$(/l)."
+            "text": "$(li)Gazelles are passive creatures that can be found in the Savanna.$(br)$(li)If just one Gazelle is attacked, the whole herd flees.$(br)$(li)Gazelles are very fast, so you will not be able to catch it easily.$(br)$(li)Gazelles may drop Gazelle Horn on death."
         },
         {
             "type": "patchouli:entity",

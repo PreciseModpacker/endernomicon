@@ -7,18 +7,25 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The cachalot Whale is a neutral, massive mammal mod found in lukewarm, cold and deep oceans. They detect their preys, Squids sending  out a moaning noise to echolocate them.$(br2)During thunderstoms, Cachalot Whales may spawn washed up on beaches. If you pushed back into the water without hurt them, they may reward youwith an Ambergris."
+            "text": "$(li)Cachalot Whales are neutral, massive mammals creatures found in the Lukewarm, Cold and Deep oceans.$(br)$(li)They detect their preys, Squids sending out a moaning noise to echolocate them."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:cachalot_whale",
-            "scale": 0.6,
-            "text": "You can use it to craft an Echolocator and upgrade it to an Endolocator"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_1.png"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:echolocator",
-            "recipe2": "alexsmobs:endolocator"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_2.png",
+            "text": "$(li)During thunderstoms, Cachalot Whales may spawn washed up on beaches."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_2.png",
+            "text": "$(li)If you pushed back into the water without hurt them, they may reward you with an Ambergris."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)During thunderstoms, Cachalot Whales may spawn washed up on beaches.$(br)$(li)If you pushed back into the water without hurt them, they may reward you with an Ambergris."
         }
              ]
 }

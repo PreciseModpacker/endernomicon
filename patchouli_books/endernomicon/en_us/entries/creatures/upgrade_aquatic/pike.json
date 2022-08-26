@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Pike is a neutral mob that can be found in Swamps and Rivers.$(br2)Exits different versions of Pikes: $(li)Amur Pike $(li)Redfin Pickerel $(li)Brown Nothren Pike $(li)Mahogany Northern Pike $(li)Jade Northen Pike $(li)Olive Northen Pike $(li)Spectral Pike $(li)Supercharged Pike."
+            "text": "The Pike is a neutral mob that can be found in Swamps and Rivers.$(br2)There are exit different versions of Pikes: $(li)Amur Pike $(li)Redfin Pickerel $(li)Brown Nothren Pike $(li)Mahogany Northern Pike $(li)Jade Northen Pike $(li)Olive Northen Pike $(li)Spectral Pike $(li)Supercharged Pike."
         },
         {
             "type": "patchouli:entity",
@@ -17,11 +17,12 @@
         },
         {
             "type": "patchouli:text",
-            "text": "They will try to hunt other fishs, except Pufferfish or Lionfish.$(br2)When they catch one, they will carry it on their mouths.$(br2)On death if they were holding an item, they will drop it.$(br2)Also they drop Raw Pike, that can be cooked to get Cooked Pike and they may drop Bone Meal too."
+            "text": "$(li)They will try to hunt other fishs, except Pufferfish or Lionfish.$(br)$(li)On death, if they were holding an item, they will drop it.$(br)$(li)Also they drop Raw Pike, that can be cooked to get Cooked Pike and they may drop Bone Meal too."
         },
         {
-            "type": "patchouli:smelting",
-            "recipe": "upgrade_aquatic:cooked_pike"
-        }  
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/pike.png",
+            "text": "$(li)When a Pike catch one Fish, it will carry it on its mouth."
+        }
              ]
 }

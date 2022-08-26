@@ -1,0 +1,18 @@
+{    
+    "name": "Endermite",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Endermites are small hostile creatures that rarely can appears when you throws an Ender Pearl.$(br)$(li)Endermen are hostile toward these creatures.$(br)$(li)They don't drop anything on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:endermite",
+            "scale": 1
+        }
+             ]
+}

@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Garch are speedy goblins that will attack you with their Bows.$(br)$(li)They may drop Iron Nuggets and Arrows on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:garch",
-            "scale": 1,
-            "text": "Garch are speedy creatures that will attack you with their bows. On death the may drop Iron Nuggets and Arrows."
+            "scale": 1
         }
              ]
 }

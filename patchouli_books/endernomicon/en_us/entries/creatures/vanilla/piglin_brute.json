@@ -1,0 +1,18 @@
+{    
+    "name": "Piglin Brute",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Piglins Brutes are a hostile and stronger variant of Piglins that can be found in the Bastion Remmants in the Nether.$(br)$(li)They can't be distracted with Gold.$(br)$(li)They will attack you even if you are wearing a piece of Golden Armor."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:piglin_brute",
+            "scale": 1
+        }
+             ]
+}

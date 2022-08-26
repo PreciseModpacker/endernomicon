@@ -1,0 +1,28 @@
+{    
+    "name": "Wither Skeleton",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Wither Skeletons are a variant of the common Skeletons that can be found in the Nether Fortresses of the Nether.$(br)$(li)When they hit you, they will inflict you the Wither effect, reducing your life every two seconds as the Poison, but this one can kill you."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:wither_skeleton{HandItems:[{Count:1,id:stone_sword}]}",
+            "scale": 1,
+            "text": "They may drop Bones, Coal, rarely Emeralds and very rarely a Wither Skeletons Skull on death."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Tiny Wither Skeletons are a cute variant of the Wither Skeletons and they can be found very rarely in the Nether Fortresses.$(br)$(li)When you are close of one of them, it will run quickly for you.$(br)$(li)They may drop Bones, Coal and always one Wither Skeleton Skull on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "tinyskeletons:baby_wither_skeleton{HandItems:[{Count:1,id:wither_skeleton_skull}]}",
+            "scale": 1
+        }
+             ]
+}

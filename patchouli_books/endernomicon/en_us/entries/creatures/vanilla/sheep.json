@@ -1,0 +1,19 @@
+{    
+    "name": "Sheep",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Sheep are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Wool and Raw Mutton on death.$(br)$(li)They can be breed giving them Wheat.$(br)$(li)You can right click on a Sheep while you are holding Shears to obtain Wool."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:sheep",
+            "scale": 0.8,
+            "text": "The Sheep will regenerate its Wool in a few minutes eating Grass on the ground."
+        }
+             ]
+}

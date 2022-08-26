@@ -1,0 +1,19 @@
+{    
+    "name": "Ghast",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Ghast are large white floating host-like hostile creatures that can be found in the Nether.$(br)$(li)They shoot explosive fireballs to you.$(br)$(li)They may drop Gunpowder and Ghast Tears on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:ghast",
+            "scale": 0.5,
+            "offset": -1.5
+        }
+             ]
+}

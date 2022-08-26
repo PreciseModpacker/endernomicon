@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Hunger is a little creature that can be found in Deserts, Red Sand Dederts or Swamp Biomes.$(br2)They will use their bodies as a camouflage to bury itself in the ground or sand in order not to be detected.$(br2)When they detect the presence of something above them, they will nimbly close their jaws in order to catch their prey."
+            "text": "$(li)Hungers are creatures that can be found in the Deserts, Red Sand Dederts, or Swamp.$(br)$(li)They will bury itself in the ground or sand in order not to be detected.$(br)$(li)When they detect the presence of something above them, they will nimbly close their jaws in order to catch their prey."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,16 @@
         },
         {
             "type": "patchouli:text",
-            "text": "If this creature makes you any damage, it will randomly remove 1 level of your enchant armor.$(br2)This creature really love to eat everything like you drop on their heads.$(br2)You can give this creature an enchanted item, like an Iron Sword with Looting 2 enchantment and then, give it a Diamond Sword without any enchantment, then it will drop the Diamond Sword with looting 2 enchantment."
-        }  
+            "text": "$(li)If this creature makes you any damage, it will randomly remove 1 level of your enchant armor.$(br)$(li)This creature really love to eat everything like you drop on their heads.$(br)$(li)They works as a kind of Trash Can."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/hunger.png",
+            "text": "$(li)You can join enchanted items with not enchanted items. Just throw them to this creature to combine it and obtain a new enchanted item."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)For example, you can throw a Sword with an Looting 1 enchant applied and other Sword without any kind of Enchant applied.$(br)$(li)Then, this creature will expel from its mouth the new enchanted item.$(br)$(li)This can be used to apply enchants to items using enchanted books and the specific item to enchant."
+        }
              ]
 }

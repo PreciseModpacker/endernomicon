@@ -7,12 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Bone Serpents are big, large and dangerous skeletal creatures that inhabit the lava lakes of The Nether.$(br2)After death they will drop a Bone Serpent Tooth, which can be brewed with Bottles in a Potion Stand to get the $(l:patchouli:potions/lava_vision)Lava Vision potion$(/l)."
+            "text": "$(li)Bone Serpents are big, large and dangerous skeletal creatures that can be found in the lava lakes of The Nether.$(br)$(li)They may drop a Bone Serpent Tooth on death."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:bone_serpent",
-            "scale": 0.5
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/bone_serpent.png"
         }
              ]
 }

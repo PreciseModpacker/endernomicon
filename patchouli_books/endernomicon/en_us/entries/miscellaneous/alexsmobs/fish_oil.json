@@ -8,8 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:fish_oil",
-            "text": "$(li)You can consume Fish Oil to make you float while you are contact with Water for a minute, that includes Rain too.$(br)$(li)You can use it to craft Copper Lanterns too.",
+            "text": "$(li)You can consume Fish Oil to make you float while you are contact with Water for a minute, that includes Rain too.$(br)$(li)You can use it to craft Copper Lanterns.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can give Fish Oil to a Bald Eagle to tame it."
         }
              ]
 }

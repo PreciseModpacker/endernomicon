@@ -7,22 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Emus are neutral birds that can be found in the Badlands and Savannas.$(br2)Emus can be attracted and breed with Wheat.$(br2)They can lay Large Blue Eggs, can be used like common eggs and can be used to cook a Boiled Emu Egg too.$(br2)On death they may drop common Feathers or Emu Feathers too."
+            "text": "$(li)Emus are neutral birds that can be found in the Badlands and Savannas.$(br)$(li)They can be attracted and breed with Wheat.$(br)$(li)Emus can lay Emu Eggs.$(br)$(li)They may drop common Feathers or Emu Feathers on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:emu",
             "scale": 1,
-            "offset": 0.2,
-            "text": "The last ones can be used to get an special Pattern and $(l:patchouli:armors/outback_leggings)Outback Leggins$(/l) too."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:banner_pattern_australia_1"
-        },
-        {
-            "type": "patchouli:smelting",
-            "recipe": "alexsmobs:boiled_emu_egg"
+            "offset": 0.2
         }
              ]
 }

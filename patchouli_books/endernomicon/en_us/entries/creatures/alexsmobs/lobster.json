@@ -7,17 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Lobsters are small, neutral aquatic crustaceans that can be found in beach and river biomes.$(br2)If attacked, lobsters pinch any mob nearby aggressively.$(br2)On death, Lobsters may drop Lobster Tails, which can be cooked and eaten."
+            "text": "$(li)Lobsters are small, neutral aquatic crustaceans that can be found in Beaches and Rivers.$(br)$(li)If attacked, lobsters pinch any mob nearby aggressively.$(br)$(li)Lobsters may drop Lobster Tails on death.$(br)$(li)You can capture Lobsters in Water Buckets."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:lobster",
-            "scale": 0.7,
-            "text": "You can capture Lobsters in Water Buckets."
-        },
-        {
-            "type": "patchouli:smelting",
-            "recipe": "alexsmobs:cooked_lobster_tail"
-        }  
+            "scale": 0.7
+        }
              ]
 }

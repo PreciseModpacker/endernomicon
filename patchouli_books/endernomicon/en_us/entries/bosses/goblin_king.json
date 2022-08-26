@@ -1,0 +1,23 @@
+{    
+    "name": "Goblin King",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This is about nether knowledge"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "goblinsanddungeons:goblin_king",
+            "scale": 0.8,
+            "offset": 0.2
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is about nether knowledge 3"
+        }  
+             ]
+}

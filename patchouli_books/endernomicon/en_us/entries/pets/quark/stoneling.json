@@ -1,0 +1,23 @@
+{    
+    "name": "Stoneling",
+    "icon": "minecraft:stone",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Stonelings are passive creatures that can be found in caves of the Overworld.$(br)$(li)They will spawn in carrying an item, and will get startled if you get too close to them without sneaking and holding a Diamond to tempt them.$(br)$(li)If startled, they will run away from you and finally poof out of existence."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "quark:stoneling",
+            "scale": 1,
+            "text": "On death, they will drop the item its carrying as well a Heart of Diamond."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can use a Heart of Diamond to create tamed Stonelings.$(br)$(li)First you have to right click a Stone block while you are holding a Heart of Diamond in your hand to create your own tamed Stoneling!$(br)$(li)Tamed Stonelings can hold items you give them, eat Stone (they love it!), and follow you if you hold a Diamond."
+        }  
+             ]
+}

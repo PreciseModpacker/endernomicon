@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The crocodile it's a long green body covered in scales with a sharp teeth mouth creature that it likes to live in the Swamps and Rivers.$(br2)They are hostile, but you can bred them with Rotten Flesh. After breeding, Crocodiles will come ashore to lay their eggs.$(br2)When a baby crocodile becomes an adult or on the death of an Adult Crocodile, they may drop"
+            "text": "$(li)Crocodiles are hostile long green body covered in scales with sharp teeth mouths creatures that can be found in the Swamps and Rivers of the Overworld.$(br)$(li)You can bred them with Rotten Flesh.$(br)$(li)After breeding, Crocodiles will come ashore to lay their eggs."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:crocodile",
-            "scale": 0.6,
-            "text": "$(br)Crocodile Scutes. Those can be used to create a $(l:patchouli:armors/crocodile_chestplate)Crocodile Chestplate$(/l)."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/crocodile.png",
+            "text": "$(li)When a baby crocodile becomes an adult or on the death of an Adult Crocodile, they may drop Crocodile Scutes."
         }
              ]
 }

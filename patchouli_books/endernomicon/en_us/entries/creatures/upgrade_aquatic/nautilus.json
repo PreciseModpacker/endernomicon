@@ -7,18 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Nautilus are passive creatures that can be found underwater caves and ravines, except in cold or frozen oceans.$(br2)When a Drowned, Squid or you are near of one of this creatures or if they are hit they will perform a few dashes to escape.$(br2)They are immune to buble columns and are unaffected by their pull."
+            "text": "$(li)Nautilus are passive creatures that can be found underwater caves and ravines, except in cold or frozen oceans.$(br)$(li)When a Drowned, Squid or you are near of one of these creatures or if they are hit, they will perform a few dashes to escape."
         },
         {
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:nautilus",
             "scale": 1,
-            "text": "On death they may drop a Nautilus Shell, you can use it to craft blocks like Coralstone or Conduits.$(br2)You can capture these creatures with Buckets, if you release one from this Bucket, it will not despawn."
+            "text": "Nautilis may drop a Nautilus Shell on death."
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:coralstone",
-            "recipe2": "minecraft:conduit"
-        }  
+            "type": "patchouli:text",
+            "text": "$(li)They are immune to buble columns and are unaffected by their pull.$(br)$(li)You can capture these creatures with Buckets, if you release one from this Bucket, it will not despawn."
+        }
              ]
 }

@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Plantain Spiders are a variant of the common Spiders.$(br)$(li)They can be found in the Jungles and Bamboo Jungles of the Overworld.$(br)$(li)They can appers when you break a Banana Bundle too."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "neapolitan:plantain_spider",
-            "scale": 0.9,
-            "text": "Plantain Spiders can be found in the Jungle Biomes. They can appears too when you break a Banana Bundle."
+            "scale": 0.9
         }
              ]
 }

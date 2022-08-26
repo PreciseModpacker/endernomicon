@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Guster are hostile creatures that can be found in the Desserts.$(br2)They uses Sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br2)On death the may drop Sand or a Gunter Eye. You can use this last one to craft a $(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l) or a $(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l."
+            "text": "$(li)Guster are hostiles creatures that can be found in the Deserts.$(br)$(li)They uses Sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br)$(li)They may drop Sand or a Gunter Eye on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:guster",
             "scale": 1,
-            "text": "Guster take damage when in contact with water."
+            "text": "Gusters take damage when in contact with water."
         }
              ]
 }

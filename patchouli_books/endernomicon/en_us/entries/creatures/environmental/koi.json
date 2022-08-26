@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Kois are a new kind of fish that can be found only in the Blossom Woods Forests.$(br2)If you are near of them, they will give you the Serenity effect preventing creatures from spawning around the player.$(br2)On death they may drop Koi, you can eat them, but they are not very satiating."
+            "text": "$(li)Kois are a new kind of fish that can be found only in the Blossom Woods Forests.$(br)$(li)If you are near of them, they will give you the Serenity effect preventing creatures from appears around you.$(br)$(li)They may drop Koi on death, you can eat them, but they are not very satiating."
         },
         {
             "type": "patchouli:entity",

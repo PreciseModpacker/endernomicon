@@ -6,11 +6,12 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
-            "type": "patchouli:entity",
-            "entity": "infernalexp:glowsilk_moth",
-            "scale": 0.5,
-            "text": "Glowsilk Moth are passive creatures that can be found over The Nether. On death the drop Moth Dust."
-#"Moth dust can be used to craft Lingering Potion of Luminance"
+            "type": "patchouli:text",
+            "text": "$(li)Glowsilk Moths are passive creatures that can be found over The Nether.$(br)$(li)They may drop Moth Dust on death."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/glowsilk_moth.png"
         }
              ]
 }

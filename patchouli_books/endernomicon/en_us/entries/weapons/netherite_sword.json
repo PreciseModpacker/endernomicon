@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:entity",
-            "name": "Diamond Sword",
+            "name": "Netherite Sword",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:netherite_sword,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
             "text": "This item can't be burned."

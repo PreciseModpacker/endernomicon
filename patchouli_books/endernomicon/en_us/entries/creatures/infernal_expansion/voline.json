@@ -7,25 +7,31 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Voline are hostile creatures that can be found in Nether Waste Biomes in the Nether.$(br2)Holding a Magma Cream in your hand in front of them, will make them stop from attacking you by a moment.$(br2)If you drop a Magma Cream on the ground near of this creature, it will start to eat it."
+            "text": "$(li)The Voline is a hostile creature that can be found in Nether Waste Biomes of the Nether.$(br)$(li)Holding a Magma Cream in your hand in front of it, will make it stop from attacking you by a moment.$(br)$(li)This creature may drops Golden Nuggets on death."
         },
         {
             "type": "patchouli:entity",
-            "entity": "infernalexp:voline",
-            "text": "For every one that it eats, it will become more and more slow and fat."
+            "entity": "infernalexp:voline"
         },
         {
-            "type": "patchouli:text",
-            "text": "When it eats a good quantity of them, they will emit smoke.$(br2)In this state, you can drop Golden items to the ground, it will eat them too, and then, it will drop Golden Nuggets or Molten Gold Clusters.$(br2)You can use this Molten Gold Clusters to craft Gold Ingots or a Blindsight Tongue Whip.$(br2)On death it may drops Golden Nuggets."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/voline_1.png",
+            "text": "$(li)If you drop a Magma Cream on the ground near of a Voline, it will start to eat it."
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "infernalexp:crafting/crafting_shapeless/gold_ingot_from_molten_cluster_1",
-            "recipe2": "infernalexp:crafting/crafting_shapeless/gold_ingot_from_molten_cluster_2"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/voline_2.png",
+            "text": "$(li)For every one that it eats, it will become more and more slow and fat."
         },
-        {               "type": "patchouli:crafting",
-            "recipe": "infernalexp:crafting/crafting_shaped/gold_ingots_from_molten_gold_cluster",
-            "recipe2": "infernalexp:crafting/crafting_shaped/blindsight_tongue_whip"
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/voline_3.png",
+            "text": "$(li)When it eats a good quantity of them, it will emit smoke."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/voline_4.png",
+            "text": "$(li)Now you can drop Golden items to the ground that it will eat them too. Later, it will drop Golden Nuggets or Molten Gold Clusters."
         }
              ]
 }

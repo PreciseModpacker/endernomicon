@@ -7,32 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Thrasher is a dangerous hostile creature that can be found in the Frozen Oceans.$(br2)They detect their preys using echolocation. When they detect one prey, they quick attack it.$(br2)On death they may drop Thrasher Tooths that can be use to craft new blocks like Tooth Block, Tooth Tiles, Tooth Bricks, Tooth Trapdoor, Tooth Doors and a Tooth Lantern."
+            "text": "$(li)Thrashers are hostile creatures that can be found in the Frozen Oceans.$(br)$(li)They detect their preys using echolocation. When they detects one, they quicks attack it.$(br)$(li)They may drop Thraser Tooths on death."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "upgrade_aquatic:thrasher",
-            "scale": 0.4,
-            "text": "You can use it to craft Bone Meal and even a Trident too."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/thrasher.png"
         },
         {
-            "type": "patchouli:entity",
-            "entity": "upgrade_aquatic:great_thrasher",
-            "scale": 0.6,
-            "text": "It exists a even dangerous of this creature known as Great Thrasher, it's hard to find."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:tooth_block",
-            "recipe2": "upgrade_aquatic:tooth_tiles"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:tooth_bricks"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:tooth_door"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/great_thrasher.png",
+            "text": "$(li)It exists an even dangerous and rarely version of this creature known as the Great Thrasher."
         }
              ]
 }

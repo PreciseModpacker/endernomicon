@@ -1,0 +1,18 @@
+{    
+    "name": "Husk",
+    "icon": "minecraft:sand",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Hushes are the Desert variant of the common Zombies that can be found on Deserts and Dunes when the night arrives or in places with low lighting.$(br)$(li)They may drop Rotten Flesh on death.$(br)$(li)They are not affected by the sunlight."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:husk",
+            "scale": 1
+        }
+             ]
+}

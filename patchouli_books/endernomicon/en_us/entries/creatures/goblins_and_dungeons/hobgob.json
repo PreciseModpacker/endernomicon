@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Hobgobs will attack passive or neutral creatures like animals or you.$(br)$(li)These creatures may drop Iron Nuggets or Leather on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:hobgob",
-            "scale": 1,
-            "text": "Hobgobs will attack passive creatures like animals and you too. On death the may drop Iron Nuggets and Leather."
+            "scale": 1
         }
              ]
 }

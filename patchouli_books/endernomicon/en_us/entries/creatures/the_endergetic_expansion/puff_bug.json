@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Puff Bugs are tiny neutral creatures that can be found in the Poise Forests of the End.$(br2)They will be around until they find an unpollinated Bolloom Bud, then, they will polizate them and obtain the Levitation Effect for a few minutes.$(br2)After that, if you give a Balloom Fruit to them, they will drop a Baloom Bud."
+            "text": "$(li)Puff Bugs are tiny neutral creatures that can be found in the Poise Forests of the End.$(br)$(li)When they find an unpollinated Bolloom Bud, they will polizate it and obtain the Levitation Effect for a few minutes.$(br)$(li)After that, if you give a Balloom Fruit to a Puff Bug, it will drop a Baloom Bud."
         },
         {
             "type": "patchouli:entity",
             "entity": "endergetic:puff_bug",
             "scale": 1,
-            "text": "Puff Bugs can be breed, you only have to give them Tall Poise Bush."
+            "text": "Puff Bugs can be breed, you only have to give them Tall Poise Bushes."
         }
              ]
 }

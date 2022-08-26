@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Soul Vultures are a bird undead creatures that it can be found in The Nether fossils.$(br2)They are hostile to playters, they steal the health of the player.$(br2)If a Soul Vulture sapping the player health 3 times, on death it was a 50% change of dropping a Soul Heart."
+            "text": "$(li)Soul Vultures are a bird undead creatures that can be found near of Fossils Skeletons in The Nether.$(br)$(li)They are hostile to you, stealing your halth when they attack you.$(br)$(li)If a Soul Vulture sapping you health 3 times, it has a 50% change of dropping a Soul Heart on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:soul_vulture",
-            "scale": 0.6,
-            "text": "This can be used to brew a $(l:patchouli:potions/alexsmobs/soulsteal)Potion of SoulSteal$(/l), as well used to attract $(l:patchouli:creatures/alexsmobs/spectre)Spectres$(/l)."
+            "scale": 0.6
         }
              ]
 }

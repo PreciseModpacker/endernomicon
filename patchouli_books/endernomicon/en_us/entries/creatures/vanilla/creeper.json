@@ -1,0 +1,30 @@
+{    
+    "name": "Creeper",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Creepers are common hostile creatures that can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They silently approaches you and finally, explotes, damaging you and near blocks.$(br)$(li)They may drop Gunpowder and Creeper Spores on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:creeper",
+            "scale": 1,
+            "text": "Creepiers eventually will be turn into Creepers."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If a Creeper is strucked by a lightning, it will turns into Charged Creeper.$(br)$(li)This creature inflicts more damage when explotes.",
+            "title": "Charged Creeper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:creeper{powered:1}",
+            "scale": 1,
+            "name": "Charged Creeper"
+        }
+             ]
+}

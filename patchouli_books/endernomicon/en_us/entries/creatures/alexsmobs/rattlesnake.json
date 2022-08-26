@@ -7,21 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Rattlesnakes don't usually do much, but sometimes they may hunt other tinyanimals. If a player gets too close to a Rattlesnake, it is going to make make a rattle warning sound. If one gets close enought to a Rattlesnake while it is rattling, It will be hostile and it will attack the player with it poison."
+            "text": "$(li)Rattlesnakes don't usually do much, but sometimes they may hunt other tiny animals.$(br)$(li)If you get too close to a Rattlesnake, it is going to make a rattle warning sound.$(br)$(li)If one gets close enought to a Rattlesnake while it is rattling, it will attack you with its poison."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:rattlesnake",
-            "scale": 0.6,
-            "text": "Rattlesnakes are prey for Roadrunners. Rattlesnakes can be bred with any type of Meat."
+            "scale": 0.6
         },
         {
             "type": "patchouli:text",
-            "text": "On death, Rattlesnake may drop a Rattlesnake Rattle.$(br2)These can be brewed with Komodo Dragon Spit Bottles to create Poisonous Essence, this one with a Cave Centipede Leg can result in the Potion of Poison Resistance.$(br2)You can use them to craft Maracas too."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:maraca"
-        }  
+            "text": "$(li)Rattlesnakes can be bred with any type of Meat.$(br)$(li)Rattlesnakes are the favourite prey of the Roadrunners.$(br)$(li)Rattlesnakes may drop a Rattlesnake Rattle on death."
+        }
              ]
 }

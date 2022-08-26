@@ -1,0 +1,18 @@
+{    
+    "name": "Zombified Piglin",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Zombified Piglins are neutral creatures that can be found over the Nether.$(br)$(li)These creatures will become hostile to you when it or another nearby Zomibified Piglin is attacked.$(br)$(li)They may drop Rotten Flesh, Gold Nuggets, or Gold Ingots."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:zombified_piglin",
+            "scale": 1
+        }
+             ]
+}

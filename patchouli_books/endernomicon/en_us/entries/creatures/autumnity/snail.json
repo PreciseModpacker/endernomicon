@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "This passive creatures can be found in the Maple Forest. You can attract them using Red or Brown Mushrooms.$(br2)If you give a Red or Brown Mushroom to a Snail, it will place on the ground a Sail Slime. If you broke it you will get a Snail Slime.$(br2)This can be used to make Snail Slime Block or to create a $(l:patchouli:potions/extension)Potion of Extension$(/l)."
+            "text": "$(li)These passive creatures can be found in the Maple Forest of the Overworld.$(br)$(li)You can attract them using Red or Brown Mushrooms.$(br)$(li)If you give a Red or Brown Mushroom to a Snail, it will place on the ground Snail Slime. If you broke this block, you will obtain Snail Slime."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "We can bred Snails give them Mushroom Stews. $(br2)When they grows to Adults Snailts, they drop Snail Shell Piece.$(br2)We can use them to craft new blocks like Snail Shell Tiles, Snail Shell Blocks or Snail Shell Bricks.$(br2)We can craft a Snail Banner Pattern with them.$(br2)Finally we can make a $(l:patchouli:armors/snail_chestplate)Snail Shell Chestplate$$(/l)."
+            "text": "$(li)You can bred Snails give them Mushroom Stews.$(br)$(li)When they grows to Adults Snails, they drop a Snail Shell Piece."
         }  
              ]
 }

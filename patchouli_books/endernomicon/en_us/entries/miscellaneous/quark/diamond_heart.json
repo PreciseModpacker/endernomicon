@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "quark:diamond_heart",
-            "text": "$(li)The Heart of Diamond can be used to craft a Pickarang.$(br)$(li)It can only be obtained slaying Stonelings.",
+            "text": "$(li)The Heart of Diamond can be used to craft a Pickarang.$(br)$(li)It can be used to create tamed Stonelings too.$(br)$(li)It can only be obtained slaying Stonelings.",
             "link_recipe": "true"
         }
              ]

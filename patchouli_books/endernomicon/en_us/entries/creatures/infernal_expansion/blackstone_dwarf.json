@@ -6,9 +6,12 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Blackstone Dwarfs are hostile creatures that can be found in Glowstone Canyons of the Nether.$(br)$(li)They may drop Golden Apples on death."
+        },
+        {
             "type": "patchouli:entity",
-            "entity": "infernalexp:blackstone_dwarf",
-            "text": "Blackstone Dwarf are hostile creatures that can be found in Glowstone Canyons. On death they may drop Golden Apples."
+            "entity": "infernalexp:blackstone_dwarf"
         }
              ]
 }

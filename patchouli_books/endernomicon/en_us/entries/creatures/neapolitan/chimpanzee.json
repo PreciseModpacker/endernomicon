@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Chimpazees are curious creatures that can be found in the Jungle of the Overworld.$(br)$(li)They can be attracted and breed them too with Banana Bunchs."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "neapolitan:chimpanzee",
-            "scale": 1,
-            "text": "Chimpazees can be found in Jungle Biomes. They can be attracted and breed them too with Banana Bunchs."
+            "scale": 1
         }
              ]
 }

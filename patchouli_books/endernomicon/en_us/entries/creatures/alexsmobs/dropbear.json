@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Dropbear is a hostile creature that can be found in Nether Wastes.$(br2)On death they may drop a Dropbear Claw.$(br2)You can use it to craft Flint and Steel or to brew a $(l:patchouli:potions/alexsmobs/clinging)Potion of Clinging$(/l)."
+            "text": "$(li)Dropbear is a hostile creature that can be found in the Nether Wastes of the Nether.$(br)$(li)They may drop a Dropbear Claw on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:dropbear",
-            "scale": 0.8
+            "scale": 0.7
         }
              ]
 }

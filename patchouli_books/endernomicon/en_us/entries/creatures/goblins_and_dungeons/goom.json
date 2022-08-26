@@ -6,11 +6,14 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Gooms will explode the smoke bomb from their heads in order to blind you.$(br)$(li)They may drop Gunpowder on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:goom",
             "scale": 1,
-            "offset": 0.1,
-            "text": "Gooms will explode the smoke bomb from their heads in order to blind you. On death they may drop Gunpowder."
+            "offset": 0.1
         }
              ]
 }

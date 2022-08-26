@@ -6,10 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Gobbers are very strong and tank variant of Goblings.$(br)$(li)They will attack you with their Swords or Crosswbows."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:gobber",
-            "scale": 1,
-            "text": "Slow but very strong and tank Goblings that will attack you with their word or Crosswbow."
+            "scale": 1
         }
              ]
 }

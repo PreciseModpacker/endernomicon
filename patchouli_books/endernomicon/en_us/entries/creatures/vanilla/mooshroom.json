@@ -1,0 +1,20 @@
+{    
+    "name": "Mooshroom",
+    "icon": "minecraft:mycelium",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Mooshrooms are an special variant of the common Cows that can be found in the Mushroom Fields Shore of the Overworld.$(br)$(li)They may drop Leather and Raw Beef on death.$(br)$(li)They can't be tamed, but they can be breed and Milked in the same way as Cows."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:mooshroom",
+            "scale": 0.8,
+            "offset": 0.2,
+            "text": "You can right click on a Mooshroom while you are holding Shears in you hand to transform it into a normal Cow."
+        }
+             ]
+}

@@ -6,11 +6,14 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
+            "type": "patchouli:text",
+            "text": "$(li)Careful! Don't be fooled by that chest. There is a goblin inside!$(br)$(li)Mimics may drop a Chest, Emerald, Iron Ingot, Gold Ingot or a Ring of Steal on death."
+        },
+        {
             "type": "patchouli:entity",
             "entity": "goblinsanddungeons:mimic",
             "scale": 0.7,
-            "offset": 0.2,
-            "text": "Careful! There is a goblin in that Chest! On death the may drop a Chest, Emerald, Iron or Gold Ingots or a Ring of Steal."
+            "offset": 0.2
         }
              ]
 }

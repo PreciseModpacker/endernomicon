@@ -2,13 +2,23 @@
   "components": [
     {
       "type": "image",
-      "image": "#picture",
+      "image": "endermonicon:textures/book/templates/pictures/small_frame.png",
       "x": 2,
+      "y": -6,
+      "width": 112,
+      "height": 109,
+      "texture_width": 112,
+      "texture_height": 109
+    },
+    {
+      "type": "image",
+      "image": "#picture",
+      "x": 4,
       "y": -4,
-      "width": 110,
-      "height": 107,
-      "texture_width": 110,
-      "texture_height": 107
+      "width": 108,
+      "height": 105,
+      "texture_width": 108,
+      "texture_height": 105
     },
     {
       "type": "text",

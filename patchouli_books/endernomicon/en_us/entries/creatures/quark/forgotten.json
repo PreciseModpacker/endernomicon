@@ -7,12 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Forgotten are new variation of skeleton that can be found in deep underground.$(br2)Their bows are tipped with Blindness arrows, and when you're blinded, they'll charge at you with their sword, switching back to the bow once the effect ends.$(br2)On death they may drop an $(l:patchouli:armors/forgotten_hat)Forgotten Hat$(/l)."
+            "text": "$(li)The Forgotten is a new variation of the skeleton that can be found in deep underground of the Overworld.$(br)$(li)Their bows are tipped with Blindness arrows making you hard to see.$(br)$(li)When you're blinded, they'll charge at you with their sword, switching back to the bow once the effect ends."
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:forgotten",
-            "scale": 1
+            "scale": 1,
+            "text": "$(li)They may drop an $(l:patchouli:armors/forgotten_hat)Forgotten Hat$(/l) on death."
         }
              ]
 }

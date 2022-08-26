@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "These small, windged insects with big multiple large eyes called Flies are around the Overworld.$(br2)They are attracted to dead dying things, for example, Zomibes. Flies can be bred with Rotten Flesh.$(br2)On death, they may drop Maggots, this can be used to breed $(l:patchouli:creatures/alexsmobs/roadrunner)Roadruners$(/l) and $(l:patchouli:creatures/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l)."
+            "text": "$(li)These small windged insects with called Flies are around over the Overworld.$(br)$(li)They are attracted to dead dying things, for example, Zombies.$(br)$(li)Flies can be bred with Rotten Flesh.$(br)$(li)They may drop Maggots on death."
         },
         {
             "type": "patchouli:entity",

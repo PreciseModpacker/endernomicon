@@ -1,0 +1,15 @@
+{    
+    "name": "Raw Lionfish",
+    "icon": "upgrade_aquatic:lionfish",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "upgrade_aquatic:lionfish",
+            "text": "$(li)Raw Lionfish can be cooked to get Cooked Lionfish.$(br)$(li)They can be used to brew a $(l:patchouli:potions/repellence)Potion of Repellence$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

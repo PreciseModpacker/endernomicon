@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Mimicubes are creatures similar to the Slimes of the Overworld and the Magma Cubes of the nether.$(br2)They can be found guarding End Cities.$(br2)When attacked, they will mimic the weapons and armor of their attacker. That means they will can learn to use a shield, sword, bow, crossbow, trident, food and more."
+            "text": "$(li)Mimicubes are creatures similar to slime that can be found guarding End Cities of the End.$(br)$(li)When attacked, they will mimic the weapons and armor of their attacker.$(br)$(li)That means they will can learn to use a shield, sword, bow, crossbow, trident, food and more."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:mimicube",
             "scale": 0.7,
-            "text":"On death, Mimicubes may drop Mimicream. This it's a needed item used to make a powerfull weapon, Hemolymph Blaster"
+            "text":"Mimicubes may drop Mimicreams on death."
         }
              ]
 }
