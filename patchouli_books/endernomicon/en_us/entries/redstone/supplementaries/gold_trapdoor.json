@@ -3,11 +3,12 @@
     "icon": "supplementaries:gold_trapdoor",
     "category": "patchouli:redstone",
     "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:gold_trapdoor",
-            "text": "$(li)The Gold Trapdoor by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any player.",
+            "text": "$(li)The Gold Trapdoor by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any person.",
             "link_recipe": "true"
         },
         {

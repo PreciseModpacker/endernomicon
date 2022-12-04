@@ -7,9 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:oak_fence_gate",
-            "text": "$(li)Fences Gates are blocks that can be placed near to Fences to allow you or other creatures go though them more easily.",
+            "text": "$(li)Fences Gates are blocks that can be placed near to $(l:patchouli:decoration/others/fences)Fences$(/l) to allow you or other creatures go though them more easily.",
             "link_recipe": "true",
             "title": "Fence Gates"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/fence_gate.png"
         },
         {
             "type": "patchouli:crafting",

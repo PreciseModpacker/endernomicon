@@ -1,0 +1,19 @@
+{    
+    "name": "Ruined Keep",
+    "icon": "goblinsanddungeons:goblin_crown",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Rarely does a Goblin more intelligent than the rest who manages to bend the rest and become the $(l:patchouli:bosses/goblin_king)Goblin King$(/l) appears.$(br)$(li)This one orders to build a fortress where other goblins serve and safeguard them and their treasures from outsiders.$(br)$(li)This structure can be found over the Overworld."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ruined_keep.png",
+            "text": "$(li)Be prepared, all their minions and their faithful and most powerful servant, the $(l:patchouli:bosses/ogre)Ogre$(/l) will be waiting for you."
+
+        }
+             ]
+}

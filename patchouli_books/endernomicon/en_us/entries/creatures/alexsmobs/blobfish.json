@@ -1,13 +1,13 @@
 {    
     "name": "Blobfish",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Blobfish are fishes that are located in the Deep Oceans.$(br)$(li)They becomes pink if they're under less than 10 blocks of water pressure.$(br)$(li)They may drop a Blobfish (Item) on death.$(br)$(li)Blobfishes can be trapped inside of a Water Bucket."
+            "text": "$(li)Blobfish are fishes that are located in the $(l:patchouli:biomes/overworld/water/deep_ocean)$(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l)$(/l).$(br)$(li)They becomes pink if they are under less than 10 blocks of water pressure.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/alexsmobs/blobfish)Blobfish (Item)$(/l) on death.$(br)$(li)Blobfishes can be trapped inside of a $(l:patchouli:tools/vanilla/water_bucket)Water Bucket$(/l)."
         },
         {
             "type": "patchouli:entity",

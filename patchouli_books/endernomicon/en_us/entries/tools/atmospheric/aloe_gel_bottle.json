@@ -2,8 +2,8 @@
     "name": "Bottle (Aloe Gel)",
     "icon": "atmospheric:aloe_gel_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:aloe_leaves",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -14,7 +14,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "atmospheric:aloe_gel_bottle_from_block",
-            "text": "$(li)It can be used to craft a Tucca Gateau and a Aloe Gel Block in a Crafting Table."
+            "text": "$(li)It can be used to craft a Yucca Gateau and a $(l:patchouli:utility/atmospheric/aloe_gel_block)Aloe Gel Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l)."
         }
              ]
 }

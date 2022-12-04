@@ -2,13 +2,13 @@
     "name": "Slimeball",
     "icon": "minecraft:slime_ball",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:slimeball",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:slime_ball",
-            "text": "$(li)The Slimeball is a sticky material that can be used to craft Green Slime Blocks, Magma Creams, Slingshots, Pistons, Leads and even a complete Slime Armor.$(br)$(li)They can be crafted with Slime Blocks or Komodo Dragon Spit. They may be dropped by slayed Slimes too.",
+            "text": "$(li)The Slimeball is a sticky material that can be used to craft $(l:patchouli:redstone/vanilla/slime_block)Green Slime Blocks$(/l), $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Creams$(/l), $(l:patchouli:tools/supplementaries/slingshot)Slingshots$(/l), $(l:patchouli:redstone/vanilla/sticky_piston)Sticky Pistons$(/l), $(l:patchouli:pets/vanilla/lead)Leads$(/l), and the $(l:patchouli:armors/slime_armor)Slime Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/slime)Slimes$(/l) may drop this item on death.",
             "link_recipe": "true"
         },
         {

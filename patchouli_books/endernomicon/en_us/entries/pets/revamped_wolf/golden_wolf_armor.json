@@ -3,13 +3,18 @@
     "icon": "revampedwolf:golden_wolf_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "revampedwolf:golden_wolf_armor",
-            "text": "$(li)The Golden Wolf Armor is the upgrade of the Iron Wolf Armor that you can equip to your tamed Fox or Foxhound.$(br)$(li)You can craft it placing Golden Ingots and Golden Boots in a Crafting Table.",
+            "text": "$(li)The Golden Wolf Armor is the upgrade of the $(l:patchouli:pets/revamped_wolf/iron_wolf_armor)Iron Wolf Armor$(/l) that you can equip to your tamed $(l:patchouli:pets/revamped_wolf/wolf)Wolf$(/l) or $(l:patchouli:pets/quark/foxhound)Foxhound$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/golden_wolf_armor.png",
+            "text": "$(li)To equip it, shift right click on your tamed Wolf or Foxhound while you are holding this item in your hand and place it in the Armor Slot."
         }
              ]
 }

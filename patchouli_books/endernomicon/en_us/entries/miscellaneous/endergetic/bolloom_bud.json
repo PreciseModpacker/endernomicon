@@ -3,12 +3,12 @@
     "icon": "endergetic:bolloom_bud",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:bolloom_bud",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "endergetic:bolloom_bud",
-            "text": "$(li)Bolloom Buds can be found in the Poise Forest.$(br)$(li)After being pollinated by a Puff Bug, they bloom producing Bolloom Fruits.",
+            "text": "$(li)Bolloom Buds can be found in the $(l:patchouli:biomes/end/poise_forest)Poise Forests$(/l).$(br)$(li)After being pollinated by a $(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bug$(/l), they bloom producing $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruits$(/l).",
             "link_recipe": "true"
         },
         {

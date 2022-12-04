@@ -7,17 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Wither Skeletons are a variant of the common Skeletons that can be found in the Nether Fortresses of the Nether.$(br)$(li)When they hit you, they will inflict you the Wither effect, reducing your life every two seconds as the Poison, but this one can kill you."
+            "text": "$(li)Wither Skeletons are a variant of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l) that can be found in the $(l:patchouli:structures/fortress)Nether Fortresses$(/l) of the Nether.$(br)$(li)When they hit you, they will inflict you the Wither effect, reducing your life every two seconds as the $(l:patchouli:potions/vanilla/poison)Poison$(/l), but unlike this last one, this one will not stop damaging you while you have half heart of life."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:wither_skeleton{HandItems:[{Count:1,id:stone_sword}]}",
             "scale": 1,
-            "text": "They may drop Bones, Coal, rarely Emeralds and very rarely a Wither Skeletons Skull on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), rarely $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), and very rarely a $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) on death."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tiny Wither Skeletons are a cute variant of the Wither Skeletons and they can be found very rarely in the Nether Fortresses.$(br)$(li)When you are close of one of them, it will run quickly for you.$(br)$(li)They may drop Bones, Coal and always one Wither Skeleton Skull on death."
+            "text": "$(li)Tiny Wither Skeletons are a cute variant of the Wither Skeletons and they can be found very rarely in the $(l:patchouli:structures/fortress)Nether Fortresses$(/l).$(br)$(li)When you are close of one of them, it will run quickly for you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), and always will drop the $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) that they are carrying in their hands on death."
         },
         {
             "type": "patchouli:entity",

@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Hummingbirds are tiny passive bird creatures that can be found in flower forests, sunflower plains and jungles.$(br2)Hummingbirds really love flowers and often pollinate them.$(br2)The player can craft a $(l:patchouli:tools/alexsmobs/hummingbird_feeder)Hummingbird Feeder$(/l), which will keep them from straying. It will also boost their pollination rate."
+            "text": "$(li)Hummingbirds are tiny passive birds that can be found in the $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forests$(/l), $(l:patchouli:biomes/overworld/grass/sunflower_plains)Sunflower Plains$(/l), and the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)They really love flowers and often pollinate them.$(br)$(li)You can craft a $(l:patchouli:pets/alexsmobs/hummingbird_feeder)Hummingbird Feeder$(/l), which will keep them from straying. It will also boost their pollination rate."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:hummingbird",
             "scale": 1,
-            "text": "The player can breed them with flowers."
+            "text": "You can breed these birds giving them flowers."
         }
              ]
 }

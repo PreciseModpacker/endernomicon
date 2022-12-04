@@ -2,12 +2,12 @@
     "name": "Restfulness",
     "icon": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:cocoa_beans",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'upgrade_aquatic:restfulness'}",
-            "text": "$(li)Restfulness potions can be used to transform a $(l:patchouli:mobs/upgrade_aquatic/flare)Flare$(/l) in a Phantom.$(br)$(li)They can be used to kill Phantoms too.$(br)$(li)They can be brewed using Cocoa Beans and an Awkward Potion as ingredients in a Brewing Stand."
+            "text": "$(li)Restfulness potions can be used to transform a $(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l) in a $(l:patchouli:creatures/vanilla/phantom)Phantom$(/l).$(br)$(li)They can be used to kill $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) too.$(br)$(li)They can be brewed using $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa Beans$(/l) and an $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

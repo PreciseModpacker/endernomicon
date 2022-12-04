@@ -7,9 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:cobblestone_stairs",
-            "text": "$(li)Stairs are a decorative block that allows you or other creatures to change elevation without jumping.",
+            "text": "$(li)Stairs are decorative blocks that allows you or other creatures to change elevation without jumping.",
             "link_recipe": "true",
             "title": "Stairs"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/stairs.png"
         },
         {
             "type": "patchouli:crafting",
@@ -611,12 +615,6 @@
             "recipe": "cataclysm:obsidian_brick_stairs",
             "recipe2": "charm:refined_obsidian/refined_obsidian_stairs"
         },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "extcaves:lavastone_stairs",
-            "recipe2": "extcaves:polished_lavastone_stairs"
-        },
-
 
        ### Kill Thraser ###
         {

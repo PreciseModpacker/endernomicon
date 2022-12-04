@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Swamp is a flooded Biome that is composed mainly by Mud, Grass, Clay and Water.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find a lot of vegetation here like Red Mushrooms, Brown Mushrooms, Sugar Cane, Lilypads, Duckweed, Tall Cattails and Pickerelweed."
+            "text": "$(li)The Swamp is a flooded Biome that is composed mainly by $(l:patchouli:miscellaneous/environmental/mud_ball)Mud$(/l), Grass, $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay$(/l) and Water.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find a lot of vegetation here like Red Mushrooms, Brown Mushrooms, $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l), Lilypads, Duckweed, Tall Cattails and Pickerelweed."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like Fireflies, Frogs, Perchs, Pikes, Squids and Crocodiles can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Swamp$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/supplementaries/firefly)Fireflies$(/l), $(l:patchouli:creatures/quark/frog)Frogs$(/l), Perchs, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), and $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Swamp$() in the search box of the Nature's Compass."
         },
 #       {
 #           "type": "patchouli:text",

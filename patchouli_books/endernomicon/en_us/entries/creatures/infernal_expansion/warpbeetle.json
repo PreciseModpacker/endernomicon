@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Warpbeetles are little creatures that can be found in the Warped Forests of the Nether or in the Mushroom Field Shore of the Overworld.$(br)$(li)They will not attack you, even if you are close of them.$(br)$(li)Attacking them will force them to teleport away in panic, but they will still not attack you."
+            "text": "$(li)Warpbeetles are little creatures that can be found in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) of the Nether or in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l) of the Overworld.$(br)$(li)They will not attack you, even if you are close of them.$(br)$(li)Attacking them will force them to teleport away in panic, but they will still not attack you."
         },
         {
             "type": "patchouli:entity",
             "entity": "infernalexp:warpbeetle",
             "scale": 0.5,
-            "text": "They may drop Warped Fungus on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l) on death."
         }
              ]
 }

@@ -3,12 +3,12 @@
     "icon": "endergetic:booflo_hide",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:booflo_hide",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "endergetic:booflo_hide",
-            "text": "$(li)Booflo Hide can be used to craft Boof Blocks and the Booflo Vest.$(br)$(li)It only can be dropped by a Booflo.",
+            "text": "$(li)The Booflo Hide is an item that can be used to craft $(l:patchouli:utility/endergetic/boof_block)Boof Blocks$(/l) and the $(l:patchouli:armors/booflo_vest)Booflo Vest$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

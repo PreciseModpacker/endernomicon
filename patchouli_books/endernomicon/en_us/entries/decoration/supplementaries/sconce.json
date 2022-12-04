@@ -5,15 +5,19 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:sconce",
-            "text": "$(li)The Sconce is a new kind of light source.$(br)$(li)Unlike the torches, this one which can't be washed away by water.$(br)$(li)The Sconce can be turned off with water and splash water bottles.",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:sconce",
+            "text": "$(li)The Sconce is a new kind of light source.$(br)$(li)Unlike the $(l:patchouli:decoration/others/torchs)Torches$(/l), this one which can not be washed away by water.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:sconce",
-            "text": "$(li)The Sconce can lit up with Fire Charges, Flaming Arrows and Flint and Steel.$(br)$(li)It exists a redstone lever variant called $(l:patchouli:redstone/supplementaries/sconce_lever)Sconce Lever$(/l)"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/sconce.png",
+            "text": "$(li)It exists a redstone lever variant called $(l:patchouli:redstone/supplementaries/sconce_lever)Sconce Lever$(/l)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This source light block can be turned off with water and splash water bottles.$(br)$(li)It can be lit up with Fire Charges, Flaming Arrows and Flint and Steel."
         },
         {
             "type": "patchouli:crafting",
@@ -29,14 +33,6 @@
             "type": "patchouli:crafting",
             "recipe": "supplementaries:sconce_ender",
             "text": "$(li)The Ender Sconce is just a new variant of the normal Sconces.$(br)$(li)The flames of the Soul Sconce have the purple color."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Sconce"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:sconce"
         }
              ]
 }

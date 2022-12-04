@@ -1,0 +1,19 @@
+{    
+    "name": "Packed Ice",
+    "icon": "minecraft:packed_ice",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:packed_ice",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:packed_ice",
+            "text": "$(li)The Packed Ice is a translucent solid block that can be found in the $(l:patchouli:biomes/overworld/snow/ice_spikes)Ice Spikes$(/l).$(br)$(li)You will walk slower and slide on this block, but if you jump you will go faster on it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Unlike $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l), it will not be destroyed if a light source, such as a $(l:patchouli:decoration/others/torchs)Torch$(/l), is near it."
+        }
+             ]
+}

@@ -1,0 +1,15 @@
+{    
+    "name": "Block (Lapis Lazuli)",
+    "icon": "minecraft:lapis_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:lapis_lazuli",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:lapis_block",
+            "text": "$(li)The Lapis Lazuli Block is a new decoration block which can be used to save $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l) in a more efficient way.",  
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -7,18 +7,18 @@
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:building/path/rock_crafting",
-            "text": "$(li)Paths are a decorative blocks similat to Carpets.$(br)$(li)They can be placed on most solid surfaces and provide and small hitbox.",
+            "text": "$(li)Paths are a decorative blocks similar to carpets.$(br)$(li)They can be placed on most solid surfaces and provide an small hitbox.",
             "link_recipe": "false",
             "title": "Paths"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/path.png"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:building/path/tile_crafting",
             "recipe2": "inspirations:building/path/brick_crafting"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Paths."
         }
              ]
 }

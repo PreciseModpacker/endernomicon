@@ -2,8 +2,8 @@
     "name": "Cactus Armor",
     "icon": "extraarmor:cactus_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 2,
+    "advancement": "endernomicon:cactus",
     "pages": [
         {
             "type": "patchouli:text",

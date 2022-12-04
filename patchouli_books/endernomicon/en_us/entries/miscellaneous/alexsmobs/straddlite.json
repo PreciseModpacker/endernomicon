@@ -3,12 +3,12 @@
     "icon": "alexsmobs:straddlite",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:straddlite",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:straddlite",
-            "text": "$(li)The Straddlite can be combined with Netherite Ingots in a Crafting Table in a Crafting Table to make a Straddleboard.$(br)$(li)It can only obtained slaying Straddles.",
+            "text": "$(li)The Straddlite is an item that can be combined with $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingots$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create a $(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

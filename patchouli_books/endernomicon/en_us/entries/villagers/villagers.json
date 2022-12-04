@@ -1,0 +1,17 @@
+{    
+    "name": "Village",
+    "icon": "endermonicon:textures/book/categories/villagers.png",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Villagers lives in villages that can be found over the Overworld.$(br)$(li)Do not hesitate to talk to them, they are quite friendly and will make exchanges with you.$(br)$(li)Its main currency is the $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/villagers/villages.png"
+        }
+             ]
+}

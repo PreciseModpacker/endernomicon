@@ -3,6 +3,7 @@
     "icon": "minecraft:jukebox",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",

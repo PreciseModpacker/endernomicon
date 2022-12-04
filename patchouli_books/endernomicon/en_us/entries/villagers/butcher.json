@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Butcher is a skilled chef.$(br)$(li)It will trade you Meat cooked or uncooked it by Emeralds and vice versa.$(br)$(li)A Villager can get the Butcher profession if is near of a Smoker."
+            "text": "$(li)The Butcher is a skilled chef.$(br)$(li)It will trade you cooked or uncooked meat by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Butcher profession if is near of a $(l:patchouli:utility/vanilla/smoker)Smoker$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:butcher',level:2}}",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

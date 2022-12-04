@@ -3,12 +3,12 @@
     "icon": "alexsmobs:komodo_spit_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:komodo_spit",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:komodo_spit_bottle",
-            "text": "$(li)Komodo Dragon Spit Bottle can be used to brew a Potion of Poison Resistance of 3 minutes in a Brewing Stand.",
+            "text": "$(li)Komodo Dragon Spit Bottles can be used to brew a $(l:patchouli:potions/alexsmobs/poison_resistance)Potion of Poison Resistance$(/l) of 3 minutes in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).",
             "link_recipe": "true",
             "title": "Komodo D. Spit Bottle"
         }

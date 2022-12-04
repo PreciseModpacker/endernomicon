@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'buzzier_bees:unluck'}",
-            "text": "$(li)Bad Luck potions decrease your probability of finding good loot in the naturally generated chests.$(br)$(li)They can be brewed using a Fermented Spider Eye and a $(l:patchouli:potions/buzzier_bees/luck)Luck Potion$(/l) as ingredients in a Brewing Stand."
+            "text": "$(li)Bad Luck potions decrease your probability of finding good loot in the naturally generated $(l:patchouli:utility/vanilla/chest)Chests$(/l).$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l) and a $(l:patchouli:potions/buzzier_bees/luck)Luck Potion$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
 	    "type": "potion",

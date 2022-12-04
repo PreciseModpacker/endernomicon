@@ -2,7 +2,7 @@
     "name": "Slow Falling",
     "icon": "minecraft:potion{Potion:'minecraft:slow_falling'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:phantom_membrane",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Potion of Slow Falling Extended gives you this effect during 8 minutes.$(br)$(li)They can be brewed using a Phantom Membrane and an Awkward Potion as ingredients in a Brewing Stand."
+            "text": "$(li)The Potion of Slow Falling Extended gives you this effect during 8 minutes.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membrane$(/l) and an $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

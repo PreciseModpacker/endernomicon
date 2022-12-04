@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:mending',lvl:1}]}",
-            "text": "$(li)The Mending enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, Shields, Pickaxe, Axe, Sword, Hoe, Shovel, Shears, Bow, Crossbow, Trident, Fishing Rod, Pickarang, Flamarang, Elytras or any kind of item that have an specific durability.",
+            "text": "$(li)The Mending enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, $(l:patchouli:weapons/shield)Shields$(/l), $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l), $(l:patchouli:tools/vanilla/shears)Shears$(/l), $(l:patchouli:weapons/bow)Bow$(/l), $(l:patchouli:weapons/crossbow)Crossbow$(/l), $(l:patchouli:weapons/trident)Trident$(/l), $(l:patchouli:tools/vanilla/fishing_rod)Fishing Rod$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l), $(l:patchouli:tools/quark/flamarang)Flamarang$(/l), $(l:patchouli:armors/elytra)$(l:patchouli:weapon/crossbow)$(l:patchouli:weapons/crossbow)Crossbow$(/l)$(/l)$(/l)s or any kind of item that have an specific durability.",
             "title": "Mending"
         },
         {

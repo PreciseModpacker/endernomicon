@@ -1,0 +1,20 @@
+{    
+    "name": "Spectre's Eye",
+    "icon": "meetyourfight:spectres_eye",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:phantoplasm",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:spectres_eye",
+            "text": "$(li)The Spectre's Eye allows you to see nearby creatures, even if they are hide in walls or in the floor.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/spectres_eye.png",
+            "text": "$(li)It has to be equipped in the Charm Curious API slot."
+        }
+             ]
+}

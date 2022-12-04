@@ -8,12 +8,11 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:target",
-            "text": "$(li)The Target is a placeable block."
+            "text": "$(li)The Target is a placeable block that it emits a temporary redstone signal to nearby blocks when is hit by an $(l:patchouli:weapons/arrows)Arrow$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/target.png",
-            "text": "$(li)It emits a temporary redstone signal to nearby blocks when is hit by an Arrow."
+            "picture": "endermonicon:textures/book/entries/redstone/target.png"
         }
              ]
 }

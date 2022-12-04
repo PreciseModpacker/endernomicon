@@ -3,12 +3,12 @@
     "icon": "alexsmobs:centipede_leg",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:cave_centipede_leg",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:centipede_leg",
-            "text": "$(li)The Cave Centipede Leg can be used to craft a Cave Centipede Leggins.$(br)$(li)It can be used to brew a Potion of Poison Resistance in a Brewing Table too.$(br)$(li)It can only be dropped by a Cave Centipede.",
+            "text": "$(li)The Cave Centipede Leg can be used to craft the $(l:patchouli:armors/cave_centipede_leggings)Cave Centipede Leggings$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to brew a $(l:patchouli:potions/alexsmobs/poison_resistance)Potion of Poison Resistance$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.$(br)$(li)This item can only be dropped by a $(l:patchouli:creatures/alexsmobs/cave_centipede)Cave Centipede$(/l).",
             "link_recipe": "true"
         }
              ]

@@ -3,12 +3,12 @@
     "icon": "inspirations:redstone_book",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:utility/redstone_book",
-            "text": "$(li)The Trapped Book is a new variant of the $(l:patchouli:decoration/inspirations/books)Books$(/l).$(br)$(li)This one placed in a Shelf will cause it to emit a redstone signal.",
+            "text": "$(li)The Trapped Book is a new variant of the $(l:patchouli:decoration/inspirations/books)Books$(/l).$(br)$(li)This one placed in a $(l:patchouli:decoration/inspirations/shelfs)Shelf$(/l) will cause it to emit a redstone signal.",
             "link_recipe": "true"
         },
         {

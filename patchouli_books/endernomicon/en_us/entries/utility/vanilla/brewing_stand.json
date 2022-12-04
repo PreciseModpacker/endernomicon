@@ -1,0 +1,27 @@
+{    
+    "name": "Brewing Stand",
+    "icon": "minecraft:brewing_stand",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_blaze_rod",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:brewing_stand",
+            "text": "$(li)The Brewing Stand is a block that allows you to brew potions.$(br)$(li)These will give you different effects depending of the potion used.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/brewing_stand_1.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To use it, first you have to place this block and right click on it to access to its interface.$(br)$(li)Now, you have to place the $(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l) in the fuel slot.$(br)$(li)Then, you have to place the needed ingredients for your potion.$(br)$(li)Once the brew is finished, the resulting potions can be collected at the bottom of this interface."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/brewing_stand_2.png"
+        }
+             ]
+}

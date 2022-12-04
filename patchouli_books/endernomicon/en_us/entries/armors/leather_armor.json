@@ -2,12 +2,12 @@
     "name": "Leather Armor",
     "icon": "minecraft:leather_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 1,
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Leather Armor is an armor with low protection but with a bit more durability than the Wood Armor and Snow Armor."
+            "text": "$(li)The Leather Armor is an armor with low protection.$(br)$(li)This one has a bit more durability than the Wood Armor and Snow Armor."
         },
         {
             "type": "patchouli:entity",

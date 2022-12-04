@@ -7,9 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:oak_fence",
-            "text": "$(li)Fences are barrier blocks that can't be jumped over. Unlike Walls, you can see through the openings of the Fences but other creatures can't.",
+            "text": "$(li)Fences are barrier blocks that can't be jumped over.$(br)$(li)Unlike $(l:patchouli:decoration/others/walls)Walls$(/l), you can see through the openings of the fences but other creatures can't.",
             "link_recipe": "true",
             "title": "Fences"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/fence.png"
         },
         {
             "type": "patchouli:crafting",

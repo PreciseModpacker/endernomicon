@@ -2,18 +2,18 @@
     "name": "Magma Cream",
     "icon": "minecraft:magma_cream",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:magma_cream",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:magma_cream",
-            "text": "$(li)The Magma Cream is an item that can be used to brew a Potion of Fire Resistance in a Brewing Stand.$(br)$(li)This item can be crafted placing a Blaze Powder and a Slimeball in a Crafting Table.",
+            "text": "$(li)The Magma Cream is an item that can be used to brew a $(l:patchouli:potions/vanilla/fire_resistance)Potion of Fire Resistance$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)This item can be crafted placing a Blaze Powder and a Slimeball in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to craft a Magma Block, Magma Cream Block, or even a Redstone Inductor.$(br)$(li)It can be rarely found in Loot Chests in the Bastion Fortress too.$(br)$(li)The easiest way to obtain this item is slaying Magma Cubes, they may drop Magma Creams on death."
+            "text": "$(li)It can be used to craft a $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Block$(/l), $(l:patchouli:redstone/supplementaries/magma_cream_block)Magma Cream Block$(/l), or a $(l:patchouli:redstone/quark/redstone_inductor)Redstone Inductor$(/l).$(br)$(li)It can be rarely found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/bastion_remnant)Bastion Remnant$(/l) too.$(br)$(li)$(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) may drop this item on death."
         }
              ]
 }

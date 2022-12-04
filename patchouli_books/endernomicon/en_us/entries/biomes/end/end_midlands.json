@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The End Midlands is a biome composed of the outer islands of the End, forming the gradual slope from the hilltops of each island down to the cliffs around the edge.$(br)$(li)In this Biome you can find Endermans and Spectres."
+            "text": "$(li)The End Midlands is a biome composed of the outer islands of the End, forming the gradual slope from the hilltops of each island down to the cliffs around the edge.$(br)$(li)In this Biome you can find $(l:patchouli:creatures/vanilla/enderman)Endermans$(/l) and $(l:patchouli:creatures/alexsmobs/spectre)Spectres$(/l)."
         },
         {
             "type": "patchouli:text",

@@ -1,0 +1,19 @@
+{    
+    "name": "Duckweed",
+    "icon": "environmental:duckweed",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:duckweed",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmental:duckweed",
+            "text": "$(li)The Duckweed is a block that can be found over the water of the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l) and $(l:patchouli:biomes/overworld/water/marsh)Marsh$(/l) of the Overworld.$(br)$(li)This item can be used to attrack $(l:patchouli:creatures/environmental/duck)Ducks$(/l) and breed them too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can only be obtained breaking it while you are holding a pair of $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand."
+        }
+             ]
+}

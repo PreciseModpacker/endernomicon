@@ -1,0 +1,19 @@
+{    
+    "name": "Enchanted Golden Apple",
+    "icon": "minecraft:enchanted_golden_apple",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:enchanted_golden_apple",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:enchanted_golden_apple",
+            "text": "$(li)The Enchanted Golden Apple is an eatable item when eaten gives you five seconds of $(l:patchouli:potions/vanilla/regeneration)Renegeration$(/l) II effect, healing your health while this effect is active.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It gives the $(l)Absorption$() effect, adding to you for two minutes two extra hearts of life or when they are broken by receiving damage.$(br)$(li)It gives five minutes of $(l)Resistance$(), making you receive less damage for any kind of damage and other five minutes of $(l:patchouli:potions/vanilla/fire_resistance)Fire Resistance$(/l) making your inmune to fire damage or burn in lava."
+        }
+             ]
+}

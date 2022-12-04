@@ -3,17 +3,23 @@
     "icon": "endrem:end_crystal_hoe",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "endrem:end_crystal_hoe",
-            "text": "$(li)The End Crystal Hoe is the best Hoe that exist in every dimension of this world.$(br)$(li)It even has more durability than a Netherite Hoe.$(br)$(li)It can be made placing a Diamond Hoe and a End Crystal Ingot in a Smithing Table." ,
+            "type": "smithing_table",
+            "title": "End Crystal Hoe",
+            "input": "minecraft:diamond_hoe",
+            "input2": "endrem:end_crystal_ingot",
+            "output": "endrem:end_crystal_hoe",
+            "text": "$(li)The End Crystal Hoe is the best Hoe that exist in every dimension of this world.$(br)$(li)It even has more durability than a Netherite Hoe." ,
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can use it to create Farmland."
+            "type": "patchouli:entity",
+            "name": "End Crystal Hoe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"endrem:end_crystal_hoe\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "You can right click in a Grass or Dirt block while you are holding it in your hand to create Farmland."
         }
              ]
 }

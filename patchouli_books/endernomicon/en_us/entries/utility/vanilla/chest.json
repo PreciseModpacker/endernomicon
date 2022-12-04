@@ -7,7 +7,8 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:chest",
-            "text": "$(li)The Chest is a block that has an inventory with 27 slots of capacity.$(br)$(li)To obtain more inventory slots, the Chest can be upgraded to an Iron Chest ",  
+            "text": "$(li)The Chest is a block that has an inventory with 27 slots of capacity.$(br)$(li)To obtain more inventory slots, the Chest can be upgraded to an $(l:patchouli:utility/iron_chest/iron_chest)Iron Chest$(/l).",  
+            "title": "Chest",
             "link_recipe": "true"
         },
         {
@@ -17,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Hoppers can insert items in a Chest or extract them too.$(br)$(li)It exists multiple variants of the Chests, because of decoration purposes.$(br)$(li)A common chest can be used to craft multiple items in a Crafting Table."
+            "text": "$(li)$(l:patchouli:redstone/vanilla/hopper)$(l:patchouli:redstone/vanilla/hopper)Hopper$(/l)s$(/l) can insert items in a Chest or extract them too.$(br)$(li)It exists multiple variants of the Chests, because of decoration purposes.$(br)$(li)A common chest can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l)."
         },
         {
             "type": "patchouli:crafting",

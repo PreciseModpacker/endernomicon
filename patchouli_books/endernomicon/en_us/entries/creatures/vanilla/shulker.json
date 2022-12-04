@@ -1,0 +1,19 @@
+{    
+    "name": "Shulker",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Shulkers are box-shapped hostile creatures that can be found in the $(l:patchouli:structures/end_city)End Cities$(/l).$(br)$(li)Shulkers occasionally shoots you with projectiles that follow you until hit you.$(br)$(li)With this, you will receive the $(l)Levitate$() effect, making you to float until the effect dissapears."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:shulker",
+            "scale": 0.6,
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/shulker_shell)Shulker Shells$(/l) on death."
+        }
+             ]
+}

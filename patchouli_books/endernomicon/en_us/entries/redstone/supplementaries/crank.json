@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:crank",
-            "text": "$(li)The Crank is an analog lever.$(br)$(li)This block can be placed on the floor and walls.",
+            "text": "$(li)The Crank is an analog $(l:patchouli:redstone/vanilla/lever)Lever$(/l).$(br)$(li)This block can be placed on the floor and walls.",
             "link_recipe": "true"
         },
         {

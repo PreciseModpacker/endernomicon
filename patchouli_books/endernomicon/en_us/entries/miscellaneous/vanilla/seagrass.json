@@ -1,0 +1,15 @@
+{    
+    "name": "Seagrass",
+    "icon": "minecraft:seagrass",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:seagrass",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:seagrass",
+            "text": "$(li)The Seagrass is an underwater plant that generates in the $(l:patchouli:biomes/overworld/water/river)Rivers$(/l), $(l:patchouli:biomes/overworld/snow/frozen_river)Frozen Rivers$(/l), $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l), $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l), $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_lukewarm_ocean)Deep Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_cold_ocean)Deep Cold Oceans$(/l), $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l), and $(l:patchouli:biomes/overworld/water/marsh)Marsh$(/l) of the Overworld.$(br)$(li)This item can be used to breed $(l:patchouli:creatures/vanilla/turtle)Turtles$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

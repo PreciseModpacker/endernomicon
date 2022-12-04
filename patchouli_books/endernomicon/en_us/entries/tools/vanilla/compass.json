@@ -3,16 +3,16 @@
     "icon": "minecraft:compass",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:compass",
-            "text": "$(li)Compass are useful for travelers, they are always pointing to the Spawnpoint.$(br)$(li)You can change the place that is pointing a Compass with a Lodestone."
+            "text": "$(li)Compasses are useful for travelers, they are always pointing to the Spawnpoint.$(br)$(li)You can change the place that is pointing it with a $(l:patchouli:utility/vanilla/lodestone)Lodestone$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Compass can be used to craft a Soul Compass, Nature's Compass, Empty Map, or Empty Antique Atlas.$(br)$(li)Cartographers will exchange your Compass by Emeralds.$(br)$(li)Masters Cartographers will exchange your Emeralds and Compass by a Levitation Stone."
+            "text": "$(li)The Compass can be used to craft a $(l:patchouli:tools/quark/soul_compass)Soul Compass$(/l), $(l:patchouli:perks/natures_compass)Nature's Compass$(/l), or a $(l:patchouli:tools/vanilla/map)Map$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)Cartographers will exchange your Compass by Emeralds.$(br)$(li)$(l:patchouli:villagers/cartographer)Masters Cartographers$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and Compass by a $(l:patchouli:tools/castle_in_the_sky/levitation_stone)Levitation Stone$(/l)."
         }
              ]
 }

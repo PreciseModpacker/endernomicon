@@ -1,0 +1,17 @@
+{    
+    "name": "Igloo",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Igloo is a small house that can be found in the $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l) of the Overworld.$(br)$(li)You should check their interior carefully, not all Igloos are the same, sometimes they hide something inside.$(br)$(li)There are two more variants of the Igloos of stone or grass, which can be found over the Overworld."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/igloo.png"
+        }
+             ]
+}

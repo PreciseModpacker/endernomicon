@@ -12,6 +12,10 @@
             "title": "Ladders"
         },
         {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/ladder.png"
+        },
+        {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/oak_ladder",
             "recipe2":"charm:variant_ladders/oak_ladder"

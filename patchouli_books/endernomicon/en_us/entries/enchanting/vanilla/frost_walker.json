@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
-            "text": "$(li)The Frost Walker enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment freezes water under you into frosted ice, allowing you to walk on the water.",
+            "text": "$(li)The Frost Walker enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment makes you to freeze the water under you, allowing you to walk over the water.",
             "title": "Frost Walker"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an Ancient Tome (Frost Walker)."
+            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_frost_walker)Ancient Tome (Frost Walker)$(/l)."
         }
              ]
 }

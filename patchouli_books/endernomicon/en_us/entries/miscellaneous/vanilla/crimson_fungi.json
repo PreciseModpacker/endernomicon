@@ -1,0 +1,15 @@
+{    
+    "name": "Crimson Fungus",
+    "icon": "minecraft:crimson_fungus",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:crimson_fungus",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:crimson_fungus",
+            "text": "$(li)The Crimson Fungus is a type of fungus that is commonly generated in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) and rarely in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) of the Nether.$(br)$(li)It can be used to breed $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l) and keep them from despawning, but it does not stop it from attacking you.",
+            "link_recipe": "true"
+        }
+             ]
+}

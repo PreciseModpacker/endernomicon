@@ -1,0 +1,37 @@
+{    
+    "name": "Ropes (Inspirations)",
+    "icon": "inspirations:rope",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:string",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "inspirations:rope",
+            "text": "$(li)Ropes can be placed against a ceilling, on a $(l:patchouli:decoration/others/fences)Fence$(/l), $(l:patchouli:decoration/others/wall/wall)Wall$(/l) or next to other ropes.$(br)$(li)Just like $(l:patchouli:utility/vanilla/scaffolding)Scaffolding$(/l) they can only go that far out horizontally from they are no longe supported.$(br)$(li)Vertical ropes have no hitbox and can be climbed.",
+            "link_recipe": "true",
+            "title": "Rope (Inspirations)"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/rope.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Horizontal ropes do have a hitbox and can be walked on, albeit at a slower paste. Your screen will also wobble as you try to balance on them.$(br)$(li)Can be broken by a projectile. Doing so or breaking them will also break connected ropes which are being supported.$(br)$(li)Shearing a rope will make remove its bottom connection."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "inspirations:building/rope",
+            "text": "$(li)Placing a rope against an existing vertical one will result in the rope getting extended downwards, pushing all blocks that are attached to the bottom most rope."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The opposite is also true and can be achieved by shift clicking a rope with an empty hand. This will pull up the last attached block.$(br)$(li)Ropes can be placed and will dynamically wrap themselves against many fence like blocks such as walls, beams and posts.$(br)$(li)Falling down ropes will not slow you down but still prevent fall damange."
+        },
+        {   "type": "patchouli:crafting",
+            "recipe": "inspirations:building/vine",
+            "text": "$(li)Vine Rope has the same features than the ropes."
+        }
+             ]
+}

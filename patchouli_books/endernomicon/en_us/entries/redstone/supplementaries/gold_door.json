@@ -3,6 +3,7 @@
     "icon": "supplementaries:gold_door",
     "category": "patchouli:redstone",
     "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",

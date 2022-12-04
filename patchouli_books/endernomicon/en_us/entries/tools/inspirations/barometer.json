@@ -10,6 +10,10 @@
             "recipe": "inspirations:tools/barometer",
             "text": "$(li)The Barometer is a tool that can be used to determine the altitude of the position you are in the world.$(br)$(li)The glass capsule inside of this item will be more full when higher your altiture.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/barometer.png"
         }
              ]
 }

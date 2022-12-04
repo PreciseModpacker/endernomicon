@@ -11,12 +11,13 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(br)$(li)It can only obtained buying it from a Wandering Trader or be found in Shipwrecks.$(br)$(li)It can also interact with Comparators.$(br)$(li)Those receive a redstone signal that depends on it's current face and a full strength one while it's spinning."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/globe.png",
+            "text": "$(li)It can only obtained buying it from a $(l:patchouli:villagers/wandering_trader)Wandering Trader$(/l) or be found in $(l:patchouli:structures/shipwreck)Shipwreck$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Globe"
+            "text": "$(li)It can also interact with $(l:patchouli:redstone/vanilla/comparator)Comparator$(/l)s.$(br)$(li)Those receive a redstone signal that depends on it's current face and a full strength one while it's spinning."
         }
              ]
 }

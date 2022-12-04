@@ -3,21 +3,22 @@
     "icon": "minecraft:shulker_box",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:shulker_shell",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:shulker_box",
-            "text": "$(li)The Shulker Box is the better version of the Sack.$(br)$(li)This one doesn't add the slow effect when you are carrying with a few of them.",  
+            "text": "$(li)The Shulker Box is an improved version of the $(l:patchouli:utility/supplementaries/sack)Sack$(/l).$(br)$(li)This one does not add the slow effect when you are carrying with a few of them.",  
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/shulker_box.png",
-            "text": "$(li)To access to its inventory, just place the Shulker Box and open it right clicking, like a Chest."
+            "text": "$(li)To access to its inventory, just place the Shulker Box and open it right clicking on it."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Then you can break it with your mere hand or other tools to return it to your inventory.$(br)$(li)Shulker Box can be enchanted with Siphon and Refill enchantings.$(br)$(li)Shulkerbox can be tinted with Dyes in a Crafting Table. "
+            "text": "$(li)Then you can break it with to drop the item and save it in your inventory.$(br)$(li)$(l:patchouli:enchanting/shulker_enchantments/siphon)Siphon$(/l) and $(l:patchouli:enchanting/shulker_enchantments/refill)Refill$(/l) enchantments can be applied to the Shulker Boxes.$(br)$(li)You will need to place one of these enchanted books and the Shulker Box in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Shulkerboxes can be tinted with Dyes in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l). "
         }
              ]
 }

@@ -3,12 +3,12 @@
     "icon": "quark:tallow",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:tallow",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "quark:tallow",
-            "text": "$(li)The Tallow is an item that you can use to craft Candles and Tallow Blocks in a Crafintg Table.$(br)$(li)Pigs may drop this item when they are slayed.",
+            "text": "$(li)The Tallow is an item that you can use to craft $(l:patchouli:decoration/buzzier_bees/candle)Candles$(/l) and $(l)Tallow Blocks$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/pig)Pigs$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

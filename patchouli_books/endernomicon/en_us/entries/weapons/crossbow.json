@@ -2,13 +2,13 @@
     "name": "Crossbow",
     "icon": "minecraft:crossbow",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 3,
+    "advancement": "endernomicon:string",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:crossbow",
-            "text": "$(li)Crossbow, as the Bows, let you fire Arrows that you have in your inventory.$(br)$(li)To use it, you have to load the ammunition right clicking while you are holding the Crossbow on your hand.",
+            "text": "$(li)Crossbow, is a medium range distance.$(br)$(li)To use it, you have to load the ammunition right clicking while you are holding the Crossbow in your hand.",
             "link_recipe": "true"
         },
         {
@@ -16,11 +16,11 @@
             "name": "Crossbow",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:crossbow,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "Crossbows accepts Fireworks and Arrows as ammunition."
+            "text": "Crossbows accepts $(l:patchouli:miscellaneous/vanilla/firework)Fireworks$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) as ammunition."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Once charged, you can just right click again while you are holding the Crossbow to shoot.$(br)$(li)This weapon has less range than Bows but inflicts more damage than this last one."
+            "text": "$(li)Once charged, you can just right click again while you are holding the Crossbow to shoot.$(br)$(li)This weapon has less range than $(l:patchouli:weapons/bow)Bows$(/l) but inflicts more damage than this last one."
         }
              ]
 }

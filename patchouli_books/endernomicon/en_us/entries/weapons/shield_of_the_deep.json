@@ -2,13 +2,13 @@
     "name": "Shield Of The Deep",
     "icon": "alexsmobs:shield_of_the_deep",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
-    "sortnum": 13,
+    "sortnum": 14,
+    "advancement": "endernomicon:heart_of_the_sea",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:shield_of_the_deep",
-            "text": "$(li)The Shield Of The Deep is better than common Shields because its durability.$(br)$(li)When any creature hits The Shield Of The Deep, it is inflicted with Exsanguination effect, inflicting it damage.",
+            "text": "$(li)The Shield Of The Deep is better than common $(l:patchouli:weapons/shield)Shields$(/l) because its durability.$(br)$(li)When any creature hits The Shield Of The Deep, it is inflicted with Exsanguination effect, inflicting it damage.",
             "link_recipe": "true"
         },
         {

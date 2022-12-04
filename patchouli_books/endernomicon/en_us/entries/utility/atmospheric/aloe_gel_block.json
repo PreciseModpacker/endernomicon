@@ -7,7 +7,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "atmospheric:aloe_gel_block",
-            "text": "$(li)The Aloe Gel Block can be used to save Aloe Gel Bottles in a more efficient way.$(br)$(li)If you are on top of it, you will slowly start to falling down and receive the Poison effect too.",
+            "text": "$(li)The Aloe Gel Block can be used to save $(l:patchouli:tools/atmospheric/aloe_gel_bottle)Aloe Gel Bottles$(/l) in a more efficient way.$(br)$(li)If you are on top of it, you will slowly start to falling down and receive the Poison effect too.",
             "link_recipe": "true"
         }
              ]

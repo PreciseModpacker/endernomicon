@@ -2,18 +2,18 @@
     "name": "Seeds (Cattail)",
     "icon": "environmental:cattail_seeds",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:cattail_seeds",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "environmental:cattail_seeds",
-            "text": "$(li)The Cattail Seeds can be plant in Farmland to generate more Cattail Seeds.$(br)$(li)You can use Cattail Seeds to craft String and Cattail Seed Sacks in a Crafting Table too.",
+            "text": "$(li)The Cattail Seeds can be plant in farmland to generate more Cattail Seeds.$(br)$(li)You can use Cattail Seeds to craft $(l:patchouli:miscellaneous/vanilla/string)String$(/l) and $(l:patchouli:utility/environmental/cattail_seed_sack)Cattail Seed Sacks$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Finally you can put Cattail Seeds in a Composter to generate Bone Meal."
+            "text": "$(li)Finally you can put Cattail Seeds in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l)."
         }
              ]
 }

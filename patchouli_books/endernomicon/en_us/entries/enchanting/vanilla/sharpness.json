@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:sharpness',lvl:1}]}",
-            "text": "$(li)The Sharpness enchantment can be applied in any kind of Sword, Axe, Pickarang or Flamarang.$(br)$(li)This enchantment increase the damage inflicted of your enemies.",
+            "text": "$(li)The Sharpness enchantment can be applied in a $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) or $(l:patchouli:tools/quark/flamarang)Flamarang$(/l).$(br)$(li)This enchantment increase the damage inflicted to other creatures with you hit them with your enchanted item.",
             "title": "Sharpness"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an Ancient Tome (Sharpness)."
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_sharpness)Ancient Tome (Sharpness)$(/l)."
         }
              ]
 }

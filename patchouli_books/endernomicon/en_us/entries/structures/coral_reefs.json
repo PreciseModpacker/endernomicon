@@ -1,0 +1,18 @@
+{    
+    "name": "Coral Reefs",
+    "icon": "minecraft:fire_coral",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Coral Reefs are structures that can be found in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l) of the Overworld.$(br)$(li)$(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) and $(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l) can be found in this place.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/coral_reef.png"
+        }
+             ]
+}

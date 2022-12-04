@@ -7,8 +7,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "environmental:building/slabfish_effigy",
-            "text": "$(li)The Slabfish Effigy is a block that can be used for decoration purposes.$(br)$(li)Ceramists will exchange your Emeralds by Slabfish Effigies.",
+            "text": "$(li)The Slabfish Effigy is a block that can be used for decoration purposes.$(br)$(li)$(l:patchouli:villagers/ceramist)Ceramists$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Slabfish Effigies.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/slabfish_effigy.png"
         }
              ]
 }

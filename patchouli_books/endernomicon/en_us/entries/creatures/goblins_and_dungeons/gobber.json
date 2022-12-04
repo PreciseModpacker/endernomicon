@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Gobbers are very strong and tank variant of Goblings.$(br)$(li)They will attack you with their Swords or Crosswbows."
+            "text": "$(li)Gobbers are very strong and tank variant of Goblings.$(br)$(li)They will attack you with their $(l:patchouli:weapons/wooden_sword)Swords$(/l) or $(l:patchouli:weapons/crossbow)Crossbow$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -1,23 +1,23 @@
 {    
     "name": "Nautilus",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Nautilus are passive creatures that can be found underwater caves and ravines, except in cold or frozen oceans.$(br)$(li)When a Drowned, Squid or you are near of one of these creatures or if they are hit, they will perform a few dashes to escape."
+            "text": "$(li)Nautilus are passive creatures that can be found underwater caves and ravines, except in $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) or $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)When a $(l:patchouli:creatures/vanilla/drowned)Drowned$(/l), $(l:patchouli:creatures/vanilla/squid)Squid$(/l) or you are near of one of these creatures or if they are hitted, they will perform a few dashes to escape."
         },
         {
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:nautilus",
             "scale": 1,
-            "text": "Nautilis may drop a Nautilus Shell on death."
+            "text": "Nautilis may drop a $(l:patchouli:miscellaneous/vanilla/nautilus_shell)Nautilus Shell$(/l) on death."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They are immune to buble columns and are unaffected by their pull.$(br)$(li)You can capture these creatures with Buckets, if you release one from this Bucket, it will not despawn."
+            "text": "$(li)They are immune to buble columns and are unaffected by their pull.$(br)$(li)You can capture these creatures with $(l:patchouli:tools/vanilla/water_bucket)Water Buckets$(/l). If you release one from this bucket, it will not despawn."
         }
              ]
 }

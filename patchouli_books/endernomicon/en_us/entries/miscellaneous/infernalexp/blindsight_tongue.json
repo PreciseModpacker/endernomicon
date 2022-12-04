@@ -3,12 +3,12 @@
     "icon": "infernalexp:blindsight_tongue",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:blindsight_tongue",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:blindsight_tongue",
-            "text": "$(li)The Blindsight Tongue is an item that can be used to craft a Fungus & Tongue Stew and a Blindsight Tongue Whip.$(br)$(li)It can only be droppeb by a Blindsight.",
+            "text": "$(li)The Blindsight Tongue is an item that can be used to craft a $(l)Fungus & Tongue Stew$() and the $(l:patchouli:weapons/blindsight_tongue_whip)Blindsight Tongue Whip$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/infernal_expansion/blindsight)Blindsights$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

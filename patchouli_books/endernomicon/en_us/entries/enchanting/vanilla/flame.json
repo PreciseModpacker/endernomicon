@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:flame',lvl:1}]}",
-            "text": "$(li)The Flame enchantment can be applied in any kind of Bow.$(br)$(li)This enchantment inflicts the burn state of every creature that was hit with and Arrow fires by the enchanted Bow.",
+            "text": "$(li)The Flame enchantment can be applied in a $(l:patchouli:weapons/bow)$(l:patchouli:weapons/bow)Bow$(/l)$(/l) or $(l:patchouli:weapons/glowsilk_bow)Glowsilk $(l:patchouli:weapons/bow)Bow$(/l)$(/l).$(br)$(li)This enchantment inflicts the burn state, inflicting an extra damage every few seconds of every creature that was hitted with an $(l:patchouli:weapons/arrows)$(l:patchouli:weapons/arrows)Arrow$(/l)$(/l) fired by this enchanted weapon.",
             "title": "Flame"
         }
              ]

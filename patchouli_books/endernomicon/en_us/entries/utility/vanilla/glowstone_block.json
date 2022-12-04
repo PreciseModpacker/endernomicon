@@ -1,0 +1,15 @@
+{    
+    "name": "Block (Glowstone)",
+    "icon": "minecraft:glowstone",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:glowstone_dust",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:glowstone",
+            "text": "$(li)The Glowstone is a light source block that can be used to illuminate dark places.$(br)$(li)This block can be used to craft a $(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamp$(/l), or $(l:patchouli:utility/vanilla/respawn_anchor)Respawn Anchor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",  
+            "link_recipe": "true"
+        }
+             ]
+}

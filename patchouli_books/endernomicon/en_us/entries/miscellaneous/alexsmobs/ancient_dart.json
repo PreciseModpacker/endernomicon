@@ -1,0 +1,15 @@
+{    
+    "name": "Ancient Dart",
+    "icon": "alexsmobs:ancient_dart",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:ancient_dart",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:ancient_dart",
+            "text": "$(li)The Ancient Dart can be gave to a $(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkey$(/l) to make them inflict piercing damage, making their attacks inflict damage multiple targets at the same time.$(br)$(li)They can be found in the $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the $(l:patchouli:structures/jungle_monument)Jungle Monuments$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

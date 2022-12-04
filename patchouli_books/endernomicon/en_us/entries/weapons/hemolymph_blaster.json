@@ -2,8 +2,8 @@
     "name": "Hemolymph Blaster",
     "icon": "alexsmobs:hemolymph_blaster",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 10,
+    "advancement": "endernomicon:mimicream",
     "pages": [
         {
             "type": "patchouli:crafting",

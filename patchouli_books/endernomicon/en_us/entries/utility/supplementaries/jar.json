@@ -14,69 +14,69 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_1.png",
-            "text": "$(li)You can save Experience in a Jar right clicking it while you are holding a Bottle of Experience in your hand."
+            "text": "$(li)You can save experience in a Jar right clicking it while you are holding a $(l:patchouli:tools/vanilla/experience_bottle)Bottle o' Enchanting$(/l) in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_2.png",
-            "text": "$(li)You can save Water in a Jar right clicking it while you are holding a Water Bottle in your hand."
+            "text": "$(li)You can save Water in a Jar right clicking it while you are holding a $(l:patchouli:tools/vanilla/water_bottle)Water Bottle$(/l) in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_3.png",
-            "text": "$(li)You can save Lava in a Jar right clicking it while you are holding a Lava Bottle in your hand."
+            "text": "$(li)You can save Lava in a Jar right clicking it while you are holding a $(l:patchouli:tools/alexsmobs/lava_bottle)Lava Bottle$(/l) in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_4.png",
-            "text": "$(li)You can save Milk in a Jar right clicking it while you are holding a Milk Bottle in your hand."
+            "text": "$(li)You can save Milk in a Jar right clicking it while you are holding a $(l:patchouli:tools/neapolitan/milk_bottle)Milk Bottle$(/l) in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_5.png",
-            "text": "$(li)You can save Mushroom and Rabbit Stews in a Jar right clicking it while you are holding a in your hand."
+            "text": "$(li)You can save Mushroom and Rabbit Stews in a Jar right clicking it while you are holding a Stew in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_6.png",
-            "text": "$(li)You can save Dragon Breath in a Jar right clicking it while you are holding a Dragon's Breath bottle in your hand."
+            "text": "$(li)You can save Dragon Breath in a Jar right clicking it while you are holding a $(l:patchouli:miscellaneous/vanilla/dragon_breath)Dragon's Breath bottle$(/l) in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_7.png",
-            "text": "$(li)You can capture small aquatic creatures in a Jar like fishes in a Jar while you are holding a Jar in your hand."
+            "text": "$(li)You can capture small aquatic creatures in a Jar like fishes while you are holding a Jar in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_8.png",
-            "text": "$(li)You can save capture Fireflies in a Jar right clicking them while you are holding a Jar in your hand."
+            "text": "$(li)You can save capture $(l:patchouli:creatures/supplementaries/firefly)Fireflies$(/l) in a Jar right clicking them while you are holding a Jar in your hand."
         },
 
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_9.png",
-            "text": "$(li)Jars can also store Cookies and Candies too."
+            "text": "$(li)Jars can also be used to store $(l:patchouli:miscellaneous/vanilla/cookies)Cookies$(/l) and Candies."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:jar_tinted",
-            "text": "$(li)A Tinted Jar works like the normal Jars.$(br)$(li)They can capture specific small dangerous creatures.",
+            "text": "$(li)A Tinted Jar works like a common Jar.$(br)$(li)It can be used to capture specific small dangerous creatures.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_10.png",
-            "text": "$(li)You can capture Slimes in Jars, right clicking on one of them while you are holding a Jar in your hand."
+            "text": "$(li)You can capture $(l:patchouli:creatures/vanilla/slime)Slimes$(/l) in Tinted Jars right clicking on one of them while you are holding it in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_11.png",
-            "text": "$(li)You can capture Vexes in Jars, right clicking on one of them while you are holding a Jar in your hand."
+            "text": "$(li)You can capture $(l:patchouli:illagers/vex)Vexes$(/l) in Tinted Jars right clicking on one of them while you are holding it in your hand."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_12.png",
-            "text": "$(li)You can capture Endermites in Jars, right clicking on one of them while you are holding a Jar in your hand."
+            "text": "$(li)You can capture $(l:patchouli:creatures/vanilla/endermite)Endermites$(/l) in Tinted Jars right clicking on one of them while you are holding it in your hand."
         }
              ]
 }

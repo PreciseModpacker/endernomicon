@@ -5,13 +5,9 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "decorative_blocks:oak_beam",
-            "text": "$(li)Beams are a new wood block of decoration.$(br)$(li)They can be crafted using Stripped Logs of a lot of woods."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Statues holding a Book, a Sword, a Candle and a Tool"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/beams.png",
+            "text": "$(li)Beams are a new wood block for decoration purposes."
         },
         {
             "type": "patchouli:crafting",
@@ -22,11 +18,6 @@
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks:birch_beam",
             "recipe2": "decorative_blocks:jungle_beam"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "decorative_blocks:crimson_beam",
-            "recipe2": "decorative_blocks:warped_beam"
         },
         {
             "type": "patchouli:crafting",
@@ -56,12 +47,20 @@
         {
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks_abnormals:red_mushroom_beam",
-            "recipe2": "decorative_blocks_abnormals:poise_beam"
+            "recipe2": "decorative_blocks_abnormals:morado_beam"
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "decorative_blocks_abnormals:cherry_beam",
-            "recipe2": "decorative_blocks_abnormals:morado_beam"
+            "recipe": "decorative_blocks_abnormals:cherry_beam"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "decorative_blocks:crimson_beam",
+            "recipe2": "decorative_blocks:warped_beam"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe2": "decorative_blocks_abnormals:poise_beam"
         }
              ]
 }

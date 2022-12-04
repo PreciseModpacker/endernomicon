@@ -3,6 +3,7 @@
     "icon": "supplementaries:candelabra",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -11,12 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)This block can be turned off with water and splash water bottles and lit up with fire charges, flaming arrows and flint and steel.$(br2)Insert a picture of a Candelabra"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:candelabra"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/candelabra.png",
+            "text": "$(li)This block can be turned off with water and $(l:patchouli:potions/vanilla/splash_water_bottle)Splash Water Bottles$(/l) and lit up with $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l), flaming $(l:patchouli:weapons/arrows)Arrows$(/l), and $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)."
         }
              ]
 }

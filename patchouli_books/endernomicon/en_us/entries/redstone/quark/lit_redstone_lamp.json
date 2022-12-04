@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/lit_lamp",
-            "text": "$(li)The Lit Redstone Lamp is an alternative of the common Redstone Lamp.",
+            "text": "$(li)The Lit Redstone Lamp is an alternative of the common $(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamp$(/l).",
             "link_recipe": "true"
         },
         {

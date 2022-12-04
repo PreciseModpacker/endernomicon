@@ -1,0 +1,20 @@
+{    
+    "name": "Ender Golem",
+    "icon": "cataclysm:void_core",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "cataclysm:kill_ender_golem",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ender Golem is a big creature made of obsidian which guards the first levels of the $(l:patchouli:structures/ruined_citadel)Ruined Citadel$(/l).$(br)$(li)It will attack you with its physical strength trying to hitting you, making earthquakes or even generating void runes underground that will hurt you if they touch you."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:ender_golem",
+            "scale": 0.9,
+            "offset": 0.1,
+            "text": "It drops the $(l:patchouli:weapons/void_core)Void Core$(/l) on death."
+        }
+             ]
+}

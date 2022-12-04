@@ -1,19 +1,17 @@
 {    
-    "name": "Vex",
-    "icon": "minecraft:fishing_rod",
+    "name": "Patrol",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Vex are little creatures that can be summoned by Evokers.$(br)$(li)They are able to fly using their wings and make a lot of damage with the tiny Iron Sword that they have equipped.$(br)$(li)Don't let that the Evoker summon a lot of them, or you will be in a big trouble."
+            "text": "$(li)The Patrol is a rare, naturally-spawning group of $(l:patchouli:illagers/pillager)Pillagers$(/l) over the Overworld.$(br)$(li)Their leader, who is identified by carrying the Illagers flag, may drop their flag and very rarely a Raid Horn on death.$(br)$(li)You can force a Patrol to spawn using the $(l:patchouli:tools/charm/raid_horn)Raid Horn$(/l) too."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "minecraft:vex{HandItems:[{Count:1,id:iron_sword}]}",
-            "scale": 1,
-            "text": ""
-        }
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/patrol.png"
+        }  
              ]
 }

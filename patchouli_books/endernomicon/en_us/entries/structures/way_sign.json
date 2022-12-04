@@ -1,0 +1,17 @@
+{    
+    "name": "Way Sign",
+    "icon": "supplementaries:sign_post_oak",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can find way signs over the Overworld.$(br)$(li)These will point the way to the nearest $(l:patchouli:villagers/villagers)Villages$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/way_sign.png"
+        }
+             ]
+}

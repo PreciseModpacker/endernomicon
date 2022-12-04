@@ -2,18 +2,18 @@
     "name": "Mud Brick",
     "icon": "environmental:mud_brick",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:mud_ball",
     "pages": [
         {
             "type": "patchouli:smelting",
             "recipe": "environmental:building/mud_brick",
-            "text": "$(li)The Mud Bricks can be used to craft Mud Bricks and a Slabfish Effigy.$(br)$(li)You can throw them to your enemies right clicking while you have a Mud Brick on your hand.",
+            "text": "$(li)The Mud Bricks can be used to craft $(l)Mud Bricks Blocks$() and the $(l:patchouli:decoration/environmental/slabfish_effigy)Slabfish Effigy$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can thrown them to other creatures right clicking while you are holding Mud Bricks in your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They will inflict half of heart of damage and will push your enemies away too.$(br)$(li)You can obtain Bricks smelting Mud in a Furnace, or Kiln.$(br)$(li)Ceramist will trade this item in exchange of Emerals too.$(br)$(li)Their throw range is the largest compared to the Nether Brick (Lowest) and Brick (Middle).",
+            "text": "$(li)They will inflict half of heart of damage and will push them away too.$(br)$(li)You can obtain Mud Bricks smelting $(l:patchouli:miscellaneous/environmental/mud_ball)Mud Balls$(/l) in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)Ceramist will trade this item in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.$(br)$(li)Their throw range is the largest compared to the $(l:patchouli:miscellaneous/vanilla/nether_brick)Nether Brick$(/l) (Lowest) and $(l:patchouli:miscellaneous/vanilla/brick)Brick$(/l) (Middle).",
             "link_recipe": "true"
         }
              ]

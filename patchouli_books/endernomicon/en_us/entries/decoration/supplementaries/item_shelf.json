@@ -5,18 +5,15 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:item_shelf",
-            "text": "The Item Shelf are a new decoration blocks that works like an item frame.$(br2)You can place items just right clicking on there while you have an item in your hand.$(br2)It can be placed on chests to label them.",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:item_shelf",
+            "text": "$(li)The Item Shelf is a decoration block that works like the $(l:patchouli:decoration/quark/item_frame)Item Frames$(/l).$(br)$(li)You can place items just right clicking on there while you have an item in your hand.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Item Shelf"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:item_shelf"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/item_shelf.png",
+            "text": "$(li)The Item Shelf can be placed on $(l:patchouli:utility/vanilla/chest)Chests$(/l) to label them.$(br)This one will not bother you when you open the chest."
         }
              ]
 }

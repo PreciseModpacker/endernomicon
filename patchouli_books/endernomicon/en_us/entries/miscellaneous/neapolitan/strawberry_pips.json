@@ -2,13 +2,18 @@
     "name": "Seeds (Strawberry)",
     "icon": "neapolitan:strawberry_pips",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:strawberry_pips",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "neapolitan:strawberry_pips",
-            "text": "$(li)Strawberry Pips can be plant in Farmland to generate White Strawberries.$(br)$(li)You can use Strawberry Pips to craft a Seed Pouch in a Crafting Table too.$(br)$(li)Finally you can put Strawberry Pips in a Composter to generate Bone Meal.",
+            "text": "$(li)Strawberry Pips can be plant in farmland to generate $(l:patchouli:miscellaneous/neapolitan/strawberries)Strawberries$(/l) or $(l:patchouli:miscellaneous/neapolitan/white_strawberries)White Strawberries$(/l).$(br)$(li)You can use Strawberry Pips to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Finally you can put Strawberry Pips in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).",
             "link_recipe": "true"
         }
              ]

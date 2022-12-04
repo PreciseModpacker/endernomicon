@@ -2,13 +2,16 @@
     "name": "Axe (End Crystal)",
     "icon": "endrem:end_crystal_axe",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "endrem:end_crystal_axe",
-            "text": "$(li)The End Crystal Axe is the direct upgrade of the Netherite Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than a Netherite Axe.",
+            "type": "smithing_table",
+            "title": "End Crystal Axe",
+            "input": "minecraft:diamond_axe",
+            "input2": "endrem:end_crystal_ingot",
+            "output": "endrem:end_crystal_axe",
+            "text": "$(li)The End Crystal Axe is the direct upgrade of the $(l:patchouli:weapons/netherite_axe)Netherite Axe$(/l).$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the last one.",
             "link_recipe": "true"
         },
         {

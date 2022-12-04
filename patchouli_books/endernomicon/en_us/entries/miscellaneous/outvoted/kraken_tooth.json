@@ -3,12 +3,12 @@
     "icon": "outvoted:kraken_tooth",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:kraken_tooth",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "outvoted:kraken_tooth",
-            "text": "$(li)Kraken Tooths can be used to craft a Trident.$(br)$(li)They only may be dropped by the Kraken.",
+            "text": "$(li)The Kraken Tooth can be used to craft a $(l:patchouli:weapons/trident)Trident$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/outvoted/kraken)Krakens$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

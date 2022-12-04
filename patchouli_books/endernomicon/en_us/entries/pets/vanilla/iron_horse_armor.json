@@ -3,16 +3,18 @@
     "icon": "minecraft:iron_horse_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:iron_horse_armor",
-            "text": "$(li)The Iron Horse Armor is the upgrade of the Leather Horse Armor that you can give to your tamed Horse.$(br)$(li)You can craft this armor with a Leather Horse Armor and Iron Ingots in a Crafting Table.",
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_82ywv245mgspesi53u4cg7b9a",
+            "text": "$(li)The Iron Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l) that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)While you have the Iron Horse Armor on your hand, just right click on your tamed Horse, then place the Iron Horse Armor in the Armor slot.$(br)$(li)Insert a picture equipping an armor"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/horse_iron_armor.png",
+            "text": "$(li)While you have the Iron Horse Armor on your hand, just right click on your tamed Horse, then place the Iron Horse Armor in the Armor slot."
         }
              ]
 }

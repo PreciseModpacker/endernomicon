@@ -1,13 +1,13 @@
 {    
     "name": "Ogre",
-    "icon": "minecraft:grass_block",
+    "icon": "goblinsanddungeons:ogre_tusk",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "This is about nether knowledge"
+            "text": "$(li)The Ogre, also know as the $(l)Strongest Goblin$(), is the $(l:patchouli:bosses/goblin_king)Goblin King's$(/l) most faithful servant.$(br)$(li)If it detects you, it will not hesitate to destroy you.$(br)$(li)This creature has a lot of life and not only that, he will inflicts you high physical damage as well."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "This is about nether knowledge 3"
+            "text": "$(li)As long as the Goblin King is alive, it will emit an intimidating screams that will intimate you, inflicting the $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) effect on you.$(br)$(li)This effect reduces your physical damage dramatically.$(br)$(li)It may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and $(l:patchouli:miscellaneous/goblins_and_dungeons/ogre_tusk)Ogre Tusk$(/l) on death."
         }  
              ]
 }

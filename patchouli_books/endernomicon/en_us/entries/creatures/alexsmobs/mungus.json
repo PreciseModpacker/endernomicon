@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mungus is a harmless creature that can be found in the Mushroom Fields.$(br)$(li)Mungus occasionally shed Mungus Spores that can be used to breed them.$(br)$(li)If a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) sucks dry a Mungus covered in Warped Fungus while in the Overworld, it will mutate into a $(l:patchouli:creatures/alexsmobs/warped_mosco)Warped Mosco$(/l)."
+            "text": "$(li)The Mungus is a harmless creature that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l).$(br)$(li)Mungus occasionally shed Mungus Spores that can be used to breed them.$(br)$(li)If a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) sucks dry a Mungus covered in $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l) while in the Overworld, it will mutate into a $(l:patchouli:bosses/rumor_warped_mosco)Warped Mosco$(/l)."
         },
         {
             "type": "patchouli:entity",
@@ -16,11 +16,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If slain with fire mushrooms on their backs as well as transforming the area into mycelium.$(br)$(li)If you fed Mungus with Red or Brown Mushrooms, they will take root on the Mungus.$(br)$(li)If they have mushrooms on their back, the Mungus will fire a beam at nearby mushrooms of the same type to grow more mushrooms of that type."
+            "text": "$(li)If slain with fire mushrooms on their backs as well as transforming the area into mycelium.$(br)$(li)If you fed Mungus with $(l:patchouli:miscellaneous/vanilla/red_mushroom)Red Mushrooms$(/l) or $(l:patchouli:miscellaneous/vanilla/brown_mushroom)Brown Mushrooms$(/l), they will take root on the Mungus.$(br)$(li)If they have mushrooms on their back, the Mungus will fire a beam at nearby mushrooms of the same type to grow more mushrooms of that type."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If the mushroom is on mycellium, it will transform them into giant mushrooms.$(br)$(li)Mungi occasionally shed Mungus Spores that can be used to breed Mungus."
+            "text": "$(li)If the mushroom is on mycellium, it will transform them into giant mushrooms."
         }
              ]
 }

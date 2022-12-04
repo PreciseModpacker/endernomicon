@@ -1,0 +1,17 @@
+{    
+    "name": "Shipwreck (Warped)",
+    "icon": "minecraft:warped_stem",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This variant of the Shipwrecks can appears in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) of the Nether.$(br)$(li)These are inhabited by $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/warped_shipwreck.png"
+        }
+             ]
+}

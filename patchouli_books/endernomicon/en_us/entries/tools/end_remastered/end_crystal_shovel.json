@@ -3,13 +3,23 @@
     "icon": "endrem:end_crystal_shovel",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "endrem:end_crystal_shovel",
-            "text": "$(li)The End Crystal Shovel is the best Shovel that exist in every dimension of this world.$(br)$(li)It has even a better durability than a Netherite Shovel$(br)$(li)It can be made placing a Diamond Shovel and a End Crystal Ingot in a Smithing Table." ,
+            "type": "smithing_table",
+            "title": "End Crystal Shovel",
+            "input": "minecraft:diamond_shovel",
+            "input2": "endrem:end_crystal_ingot",
+            "output": "endrem:end_crystal_shovel",
+            "text": "$(li)The End Crystal Shovel is the best Shovel that exist in every dimension of this world.$(br)$(li)It has even a better durability than the $(l:patchouli:tools/vanilla/netherite_shovel)Netherite Shovel$(/l)." ,
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "End Crystal Shovel",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"endrem:end_crystal_shovel\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "It can be used to create Grass Path right clicking on Dirt and Grass Block and obtain Snow Balls digging Snow Blocks."
         }
              ]
 }

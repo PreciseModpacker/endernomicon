@@ -1,0 +1,20 @@
+{    
+    "name": "Bone Raker",
+    "icon": "meetyourfight:bone_raker",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:mossy_tooth",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:bone_raker",
+            "text": "$(li)The Ace of Iron makes you inflict 2 extra damage when you hit any creature.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/bone_raker.png",
+            "text": "$(li)It has to be equipped in the Hands Curious API slot."
+        }
+             ]
+}

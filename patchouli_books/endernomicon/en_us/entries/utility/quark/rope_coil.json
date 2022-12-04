@@ -1,0 +1,21 @@
+{    
+    "name": "Rope Coil",
+    "icon": "quark:rope",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:yak_hair",
+    "pages": [
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/rope_coil.png",
+            "text": "$(li)The coil is a placeable block in the bottom of other blocks that you can use to escalate blocks.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:misc/yak/thick_rope",
+            "recipe2": "quark:building/crafting/rope",
+            "link_recipe": "true"
+        }
+             ]
+}

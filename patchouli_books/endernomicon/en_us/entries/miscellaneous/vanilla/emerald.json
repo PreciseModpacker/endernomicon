@@ -2,18 +2,18 @@
     "name": "Emerald",
     "icon": "minecraft:emerald",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:emerald",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:emerald",
-            "text": "$(li)Emeralds are green gemstones that can be rarely found and mined in Caves or found in Loot Chests.$(br)$(li)Evokers, Executioners, Hobgobs, Mimics, Ogres, Pillagers, Trickets, or Vindicators may drops Emeralds when they are slayed.",
+            "text": "$(li)Emeralds are green gemstones that can be rarely found and mined in caves over the Overworld.$(br)$(li)They can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "text",
-            "text": "$(li)Villagers will trade you interesting items in exchange of Emeralds and viceversa.$(br)$(li)Emerals can be used to craft an Emerald Armor, a Speaker Block, and an Advancement Frame too."
+            "text": "$(li)$(l:patchouli:illagers/evoker)Evokers$(/l), $(l:patchouli:illagers/executioner)Executioners$(/l), $(l:patchouli:creatures/goblins_and_dungeons/hobgob)Hobgobs$(/l), $(l:patchouli:creatures/goblins_and_dungeons/mimic)Mimics$(/l), $(l:patchouli:bosses/ogre)Ogres$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/trickster)Tricksters$(/l), or $(l:patchouli:illagers/vindicator)Vindicators$(/l) may drop Emeralds on death.$(br)$(li)$(l:patchouli:villagers/villager)Villagers$(/l) will trade you interesting items in exchange of Emeralds and viceversa.$(br)$(li)Emeralds can be used to craft the $(l:patchouli:armors/emerald_armor)Emerald Armor$(/l), a $(l:patchouli:redstone/supplementaries/speaker_block)Speaker Block$(/l), and an $(l:patchouli:decoration/advancement_frames/advancement_frame)Advancement Frame$(/l) too."
         }
              ]
 }

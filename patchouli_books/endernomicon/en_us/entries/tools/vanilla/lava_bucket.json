@@ -3,12 +3,12 @@
     "icon": "minecraft:lava_bucket",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/lava_bucket",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:lava_bucket",
-            "text": "$(li)The Lava Bucket contains Lava in its interior.$(br)$(li)You can use it to craft a Molten Armor in a Crafting Table.$(br)$(li)Right click while you are pointing to a Lava block and you are holding a Bucket on your hand to obtain it.",
+            "text": "$(li)The Lava Bucket contains Lava in its interior.$(br)$(li)You can use it to craft a $(l:patchouli:armors/molten_armor)Molten Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)Right click while you are pointing to a Lava block and you are holding a Bucket on your hand to obtain it.",
             "link_recipe": "true"
         },
         {
@@ -17,16 +17,21 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Armorers will change your Lava Buckets by Emeralds too.$(br)$(li)Some creatures can be saved inside of a Lava bucket.$(br)$(li)To do this you need hold the Lava Bucket on your hand and right click the creature to save it in its interior.$(br)$(li)Then you can release it following the same process."
+            "text": "$(li)$(l:patchouli:villagers/armorer)Armorers$(/l) will change your Lava Buckets by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.$(br)$(li)Some creatures can be saved inside of a Lava bucket.$(br)$(li)To do this you need hold the Lava Bucket on your hand and right click the creature to save it in its interior.$(br)$(li)Then you can release it following the same process."
         },
         {
             "type": "patchouli:text",
             "title": "Lava Creatures",
-            "text": "$(li)Bucketed Voline$(li)Magma Cube$(li)Strider"
+            "text": "$(li)$(l:patchouli:creatures/vanilla/magma_cube)Magma Cube$(/l)$(li)$(l:patchouli:pets/vanilla/strider)Strider$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/voline)Voline$(/l)"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Most of creatures that fall into the Lava will start to burn and receive a lot of damage due to it.$(br)$(li)If any item, falls into the Lava, it will be totally burned, except Netherite items.$(br)$(li)This item works as a Trash Can too! First open your inventory.$(br)$(li)Now drag any item to destroy into the Lava Bucket."
+            "text": "$(li)Most of creatures that fall into the Lava will start to burn and receive a lot of damage due to it.$(br)$(li)If any item, falls into the Lava, it will be totally burned, except Netherite items.$(br)$(li)This item works as a Trash Can too.$(br)$(li)To use it, first open your inventory."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/lava_bucket.png",
+            "text": "$(li)Now drag any item to destroy into the Lava Bucket."
         }
              ]
 }

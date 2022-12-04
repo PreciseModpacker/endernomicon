@@ -1,0 +1,18 @@
+{    
+    "name": "Flying Dutchman",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:in_the_air",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Flying Dutchman is a ghost ship that can be found flying over the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)Be careful, it is inhabited by $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/flying_dutchman.png"
+        }
+             ]
+}

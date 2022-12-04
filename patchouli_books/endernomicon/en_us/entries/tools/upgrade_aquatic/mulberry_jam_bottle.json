@@ -2,7 +2,7 @@
     "name": "Bottle (Mulberry Jam)",
     "icon": "upgrade_aquatic:mulberry_jam_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
@@ -14,7 +14,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "upgrade_aquatic:mulberry_jam_bottle_from_block",
-            "text": "$(li)It can be used to craft a Mulberry Jam Block, or Mulberry Bread in a Crafting Table."
+            "text": "$(li)It can be used to craft a Mulberry Jam Block, or Mulberry Bread in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l)."
         }
              ]
 }

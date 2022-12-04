@@ -1,0 +1,17 @@
+{    
+    "name": "Ocean Ruin",
+    "icon": "minecraft:seagrass",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ocean Ruin is just a small destroyed structure that can be found in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld$(br)$(li)It usually hides a $(l:patchouli:perks/loot_chest)Loot Chest$(/l) inside."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ocean_ruin.png"
+        }
+             ]
+}

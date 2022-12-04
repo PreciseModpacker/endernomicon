@@ -1,13 +1,13 @@
 {    
     "name": "Thrasher",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Thrashers are hostile creatures that can be found in the Frozen Oceans.$(br)$(li)They detect their preys using echolocation. When they detects one, they quicks attack it.$(br)$(li)They may drop Thraser Tooths on death."
+            "text": "$(li)Thrashers are hostile creatures that can be found in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)They detect their preys using echolocation.$(br)$(li)When detects one prey, they quicks attack it.$(br)$(li)They may drop $(l:patchouli:miscellaneous/upgrade_aquatic/thrasher_tooth)Thrasher Tooths$(/l) on death."
         },
         {
             "type": "patchouli:small_pictures",
@@ -16,7 +16,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/great_thrasher.png",
-            "text": "$(li)It exists an even dangerous and rarely version of this creature known as the Great Thrasher."
+            "text": "$(li)It exists an even dangerous and rarely version of this creature known as the $(l)Great Thrasher$()."
         }
              ]
 }

@@ -2,18 +2,18 @@
     "name": "Book",
     "icon": "minecraft:book",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:book",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:book",
-            "text": "$(li)With Leather and Paper can be combined in a Crafting Table to craft a Book.$(br)$(li)A Book can be placed in a Enchanting Table while you have Experience Levels to create an Enchanted Book.",
+            "text": "$(li)A Book can be placed in a $(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l) while you have Experience Levels to create an $(l)Enchanted Book$().$(br)$(li)$(l:patchouli:villagers/librarian)Librarians$(/l) will exchange your Books and $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by $(l)Enchanted Books$().",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Librarians will exchange your Books and Emeralds by Enchanted Books.$(br)$(li)You can use Books to craft multiple items in a Crafting table.$(br)$(li)Bookshelf$(li)Dyed Book$(li)Shelf$(li)Book and Quill$(li)Empty Antique Atlas$(li)Enchanting Table"
+            "text": "$(li)You can use Books to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br2)$(l) Book Recipes$()$(li)$(l:patchouli:decoration/vanilla/bookshelf)Bookshelf$(/l)$(li)$(l:patchouli:decoration/inspirations/books)Dyed Books$(/l)$(li)$(l:patchouli:decoration/inspirations/shelfs)Shelfs$(/l)$(li)$(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l)$(li)$(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l)"
         }
              ]
 }

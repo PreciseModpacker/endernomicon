@@ -2,8 +2,8 @@
     "name": "Paper",
     "icon": "minecraft:paper",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:sugar_cane",
     "pages": [
         {
             "type": "patchouli:crafting",

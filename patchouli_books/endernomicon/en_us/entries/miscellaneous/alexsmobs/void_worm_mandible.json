@@ -3,12 +3,12 @@
     "icon": "alexsmobs:void_worm_mandible",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:void_worm_mandible",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:void_worm_mandible",
-            "text": "$(li)Those hard mandibles once belonged to a mighty creature from the End.$(br)$(li)They can be used to craft a Void Worm Break and the Dimensional Carver in a Crafting Table.",
+            "text": "$(li)Those hard mandibles once belonged to a mighty creature known as the $(l:patchouli:bosses/void_worm)Void Worm$(/l).$(br)$(li)This item can be used to craft the $(l:patchouli:redstone/alexsmobs/void_worm_beak)Void Worm Beak$(/l) or the $(l:patchouli:tools/alexsmobs/dimensional_carver)Dimensional Carver$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         }
              ]

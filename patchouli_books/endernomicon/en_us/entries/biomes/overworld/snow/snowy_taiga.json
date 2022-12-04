@@ -7,16 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snowy Taiga is variant of the Taiga biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)This biome is composed of mostly by Dirt but it is covered on top with a layer of snow."
+            "text": "$(li)The Snowy Taiga is variant of the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l).$(br)$(li)It can be found over the Overworld.$(br)$(li)This biome is composed of mostly by Dirt but it is covered on top with a layer of snow."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets, Taiga trees.$(br)$(li)Some animals like Grizzly Bears can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Snowy Taiga$() in the search box of the Nature's Compass."
+            "text": "$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets, Taiga trees.$(br)$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Snowy Taiga$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:snowy_taiga, minecraft:snowy_taiga_hills"
-#        },
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/snowy_taiga.png"

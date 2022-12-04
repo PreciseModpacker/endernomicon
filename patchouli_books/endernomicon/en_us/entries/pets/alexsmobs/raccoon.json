@@ -7,13 +7,20 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Raccoon are neutral gray small mammals. They are known thief that often steals food out chests and barrel.$(br2)Raccons can be tamed if given a Chicken's Egg near water where them were able to wash the egg. Tamed Raccoons can be made to sit, follow, wander.$(br)They can be given carpets and will gain bandanas dependind of the color of carpet used."
+            "text": "$(li)Raccoon are neutral gray small mammals that they can be found over the Overwold.$(br)$(li)They are known thief that often steals food out $(l:patchouli:utility/vanilla/chest)Chests$(/l) and $(l:patchouli:utility/vanilla/barrels)Barrels$(/l).$(br)$(li)They will pilfer items from $(l:patchouli:villagers/villager)Villagers$(/l) and $(l:patchouli:villagers/wandering_trader)Wandering Traders$(/l). Those items will appear in the Raccoon's mouth."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:raccoon",
-            "scale": 0.5,
-            "text": "They will plifer items from villagers and wandersing traders. Those items will appear in the Raccoon's mouth."
+            "scale": 0.5
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)They can be tamed if given a $(l:patchouli:miscellaneous/vanilla/chicken_egg)Chicken's Egg$(/l) near water where them were able to wash it.$(br)$(li)Tamed Raccoons can be made to sit, follow, wander.$(br)$(li)They can be given carpets and will gain bandanas dependind of the color of carpet used."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/raccoon.png"
         }
              ]
 }

@@ -2,18 +2,18 @@
     "name": "Nugget (Iron)",
     "icon": "minecraft:iron_nugget",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:iron_nugget",
-            "text": "$(li)The Iron Nugget is a hard part of the Iron Ingot that can be crafted placing a Iron Ingot in a Crafting Table.$(br)$(li)You can obtain it Smelting Iron Armors, Weapons and Tools in a Furnace or Blast Furnace.",
+            "text": "$(li)The Iron Nugget is a hard part of the Iron Ingot that can be crafted placing a Iron Ingot in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can obtain it Smelting Iron Armors, Weapons and Tools in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used in multiple crafts in a Crafting Table.$(br)$(li)Chains$(li)Hanging Sign$(li)Lanterns$(li)Iron Ingot$(li)Iron Ladder$(li)Enderiophage Rocket$(li)Redstone Lantern$(li)Goblet$(li)Blank Lock$(li)Blank Key$(li)North Compass$(li)Sconces"
+            "text": "$(li)This item can be used in multiple crafts in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Chains$(li)Hanging Sign$(li)Lanterns$(li)Iron Ingot$(li)Iron Ladder$(li)Enderiophage Rocket$(li)Redstone Lantern$(li)Goblet$(li)Blank Lock$(li)Blank Key$(li)North Compass$(li)Sconces"
         },
         {
             "type": "patchouli:text",

@@ -2,8 +2,8 @@
     "name": "Antler Headdress",
     "icon": "alexsmobs:moose_headgear",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 26,
+    "advancement": "endernomicon:moose_antler",
     "pages": [
        {
             "type": "patchouli:crafting",

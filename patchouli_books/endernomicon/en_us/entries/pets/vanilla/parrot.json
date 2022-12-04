@@ -1,0 +1,27 @@
+{    
+    "name": "Parrot",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Parrots are flying passive animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) on death.$(br)$(li)Parrots can be tamed by feeding them with $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/melon_seeds)Melon Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l), or $(l:patchouli:miscellaneous/vanilla/beetroot_seeds)Beetroot Seeds$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:parrot",
+            "scale": 1,
+            "text": "Like others tamed pets, they can be ordered to sit."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)A tamed Parrot on the ground can be made to perch on your shoulder by moving through the parrot.$(br)$(li)On its own, a tamed Parrot can also fly to and perch on your shoulder too.$(br)$(li)The Parrot will dismount of your should when you starts to sneaking by pressing the Shift key.$(br)$(li)Don't give them $(l:patchouli:miscellaneous/vanilla/cookies)Cookies$(/l), or you will regret about it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/parrot.png"
+        }
+             ]
+}

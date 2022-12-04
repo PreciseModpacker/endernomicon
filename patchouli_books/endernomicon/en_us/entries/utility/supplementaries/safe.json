@@ -3,25 +3,24 @@
     "icon": "supplementaries:safe",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:safe",
-            "text": "Safes can save items in a safe way, because they are inmune to fire and they have two modes:$(br) $(li)Simple mode: By default, Safes will be bound to the first person that places it / opens and unbound one. Other's persons won't be able to open a safe and they will not be able to break it.",
+            "type": "smithing_table",
+            "title": "Safe",
+            "input": "minecraft:shulker_box",
+            "input2": "minecraft:netherite_ingot",
+            "output": "supplementaries:safe",
+            "text": "$(li)Safes can be used to save items in a safe way.$(br)$(li)They are inmune to fire and they have two different modes.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Key mode: You can craft a $(l:patchouli:tools/supplementaries/key)Key$(/l) and change it's name in an Anvil.$(br2)Then, if you click on a Safe with this key, the safe will be bound to this key name and will only be able to be oppened when you have a key with the same name in the inventory."
+            "text": "$(li)Simple mode: By default, Safes will be bound to the first person that places it / opens and unbound one.$(br)$(li)Other persons won't be able to open a safe and they will not be able to break it."
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Safe and other with the Key saved in the bubble inventory"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe":"supplementaries:safe"
+            "text": "$(li)Key mode: You can craft a $(l:patchouli:tools/supplementaries/key)Key$(/l) and change it's name in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Then, if you click on a Safe with this key, the safe will be bound to this key name and will only be able to be oppened when you have a key with the same name in the inventory."
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "quark:clear_shard",
-            "text": "$(li)Glass Shards are a item that can be used to Craft Dirty Glass and Glass depending of the color of the Glass Shards used.$(br)$(li)They can be obtained breaking Glass Blocks.",
+            "text": "$(li)Glass Shards are an item that can be used to craft $(l)Dirty Glass$() and $(l:patchouli:decoration/others/glass)Glass$(/l) depending of the color of the Glass Shards used.$(br)$(li)They can be obtained breaking $(l:patchouli:decoration/others/glass)Glass Blocks$(/l).",
             "link_recipe": "true"
         },
         {   

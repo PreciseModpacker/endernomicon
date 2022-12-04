@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/chute",
-            "text": "$(li)The Chute drops under it any item inserted via automation, for example, by a Hopper or a Dropper.",
+            "text": "$(li)The Chute drops under it any item inserted via automation, for example, by a $(l:patchouli:redstone/vanilla/hopper)$(l:patchouli:redstone/vanilla/hopper)Hopper$(/l)$(/l) or a $(l:patchouli:redstone/vanilla/dropper)Dropper$(/l).",
             "link_recipe": "true"
         },
         {

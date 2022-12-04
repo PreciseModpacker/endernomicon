@@ -1,0 +1,28 @@
+{    
+    "name": "Rumor (The Strongest)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "alexsmobs:alexsmobs/crimson_mosquito",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)As we all know, in nature only the strongest survive.$(br2)$(o)To accomplish this, the Crimson Mosquito has found a way to make itself stronger.$(br2)$(o)When a Crimson Mosquito absorbs the blood of a Mungus that has been infected by Warped Fungus, it shows its true power."
+        },
+        {
+            "type": "patchouli:warped_mosco",
+            "title": "Infect Mungus",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_warped_mosco_1.png"
+        },
+        {
+            "type": "patchouli:warped_mosco",
+            "title": "Mosquito Biting Mungus",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_warped_mosco_2.png"
+        },
+        {
+            "type": "patchouli:warped_mosco",
+            "title": "?????",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_warped_mosco_3.png"
+        }
+             ]
+}

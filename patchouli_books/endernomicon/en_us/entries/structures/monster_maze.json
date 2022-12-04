@@ -1,0 +1,17 @@
+{    
+    "name": "Monster Maze",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:hidden_under_the_root",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Monster Maze is an underground structure that can be found over the Overworld.$(br)$(li)Inside you can find multiple dangerous creatures and $(l:patchouli:perks/loot_chest)Loot Chests$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/monster_maze.png"
+        }
+             ]
+}

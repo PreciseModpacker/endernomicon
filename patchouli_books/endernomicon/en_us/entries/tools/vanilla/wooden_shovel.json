@@ -8,8 +8,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:wooden_shovel",
-            "text": "$(li)The Wooden Shovel is the most basic Hoe and it can be used to create Grass Path and obtain Snow Balls.$(br)$(li)You should craft a better Shovel, like the Stone Shovel." ,
+            "text": "$(li)The Wooden Shovel is the most basic Hoe.$(br)$(li)It can be used to create Grass Path right clicking on Dirt and Grass Block and obtain Snow Balls digging Snow Blocks." ,
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Wooden Shovel",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:wooden_shovel,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
         }
              ]
 }

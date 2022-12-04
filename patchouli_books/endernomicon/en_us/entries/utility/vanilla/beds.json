@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, when you die, you respawn in the place where you adventure begins.$(br)$(li)If you right click on a bed, the spawnpoint will change to that bed.$(br)$(li)If that bed is destroyed you will lose the spawnpoint.$(br)$(li)As other blocks, Beds can be dyed too.$(br)$(li)Shepherds will exchange your Emeralds by Beds."
+            "text": "$(li)By default, when you die, you respawn in the place where you adventure begins.$(br)$(li)If you right click on a bed, the spawnpoint will change to that bed.$(br)$(li)If that bed is destroyed you will lose the spawnpoint.$(br)$(li)As other blocks, Beds can be dyed too.$(br)$(li)$(l:patchouli:villagers/shepherd)Shepherds$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Beds."
         },
         {
             "type": "patchouli:pictures",

@@ -2,7 +2,7 @@
     "name": "Bottle (Glass)",
     "icon": "minecraft:glass_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {

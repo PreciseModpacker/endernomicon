@@ -1,0 +1,17 @@
+{    
+    "name": "Rumor (A Curious Duo)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Goblins lives over the Overworld in camps formed by small groups with what few materials and food they can get, due to their low intelligence.$(br2)$(o)There is a rumor that there is a Goblin Keep ruled by a greedy and cowardly King who was able to manipulate the Strongest Goblin to serve him."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)They will be forced to guard all his treasures and protecting his life from all possible intruders for the rest of their miserable life."
+        }
+             ]
+}

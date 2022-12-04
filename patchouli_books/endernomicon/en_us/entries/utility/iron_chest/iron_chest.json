@@ -3,11 +3,12 @@
     "icon": "ironchest:iron_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "ironchest:chests/vanilla_iron_chest",
-            "text": "$(li)The Iron Chest is the direct upgrade of the common Chest.",
+            "text": "$(li)The Iron Chest is the direct upgrade of the common $(l:patchouli:utility/vanilla/chest)Chest$(/l).",
             "link_recipe": "true"
         },
         {   

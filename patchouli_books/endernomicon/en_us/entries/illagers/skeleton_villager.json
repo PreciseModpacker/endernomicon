@@ -1,13 +1,13 @@
 {    
     "name": "Skeleton Villager",
-    "icon": "minecraft:grass_block",
+    "icon": "minecraft:bone",
     "category": "patchouli:illagers",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Creepies are the smaller version of the common Creepers.$(br2)They only can be summoned exploding a $(l:patchouli:tools/savage_and_ravage/spore_bomb)Spore Bomb$(/l).$(br2)They appears in groups, 8 for every bomb that you explote."
+            "text": "$(li)Skeleton Villagers are the $(l:patchouli:villagers/villager)Villager$(/l) version of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).$(br)$(li)They can appear in $(l:patchouli:illagers/raid)Raids$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) on death."
         },
         {
             "type": "patchouli:entity",

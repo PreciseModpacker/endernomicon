@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Small End Islands is a biome composed of mostly empty expanses between the Larger Islands of the End, populated only by smaller, circle-shaped islands.$(br)$(li)You can find Endermans in this biome."
+            "text": "$(li)The Small End Islands is a biome composed of mostly empty expanses between the Larger Islands of the End, populated only by smaller, circle-shaped islands.$(br)$(li)You can find $(l:patchouli:creatures/vanilla/enderman)Endermans$(/l) in this biome."
         },
         {
             "type": "patchouli:text",

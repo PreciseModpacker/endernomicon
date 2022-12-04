@@ -1,0 +1,15 @@
+{    
+    "name": "Blast-Proof Plating",
+    "icon": "savageandravage:blast_proof_plating",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "savageandravage:adventure/creeper_spores",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "savageandravage:blast_proof_plating",
+            "text": "$(li)The Blast-Proof Plating is a very blast resistant material that can be used to craft $(l)Blast-Proof Plates Blocks$() and the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

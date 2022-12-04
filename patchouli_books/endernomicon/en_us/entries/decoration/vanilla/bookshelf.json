@@ -1,0 +1,20 @@
+{    
+    "name": "Bookshelf",
+    "icon": "minecraft:bookshelf",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "advancement": "endernomicon:book",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bookshelf",
+            "text": "$(li)The Bookshelf is a decorative placeable block.$(br)$(li)This block can be used to upgrade the enchantment levels in the $(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l).$(br)$(li)There are different versions of them depending on which wood you use.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/bookshelf.png",
+            "text": "$(li)$(l:patchouli:villagers/librarian)Librarians$(/l) and $(l:patchouli:villagers/lumberjack)Lumberjacks$(/l) will trade this block by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)."
+        }
+             ]
+}

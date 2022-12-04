@@ -2,23 +2,18 @@
     "name": "Bowl",
     "icon": "minecraft:bowl",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:bowl",
-            "text": "$(li)The Bowl are simple wood liquid containers.$(br)$(li)They can be crafted placing Wood Planks in a Crafting Table.",
+            "text": "$(li)The Bowl is a simple wood liquid container.$(br)$(li)If you right click a $(l:patchouli:creatures/vanilla/mooshroom)Mooshroom$(/l) while you are holding a Bowl, you will obtain a $(l)Mushroom Stew$() or $(l)Suspicious Stew$().",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)if you right click a Mooshroom while you are holding a Bowl, you will obtain a Mushroom Stew or Suspicious Stew.$(br)$(li)They are used to create a lot of different food recipes in a Crafting Table."
-        },
-        {
-            "type": "patchouli:text",
-            "title": "Crafts",
-            "text": "$(li)Ice Cream$(li)Soups$(li)Stews$(li)Scrambled Eggs$(li)Truffle Mash$(li)Pudding$(li)Adzuki Curry"
+            "text": "$(li)They are used to create a lot of different food recipes in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(br2)$(l) Bowl Recipes$() $(li)Ice Cream$(li)Soups$(li)Stews$(li)Scrambled Eggs$(li)Truffle Mash$(li)Pudding$(li)Adzuki Curry"
         }
              ]
 }

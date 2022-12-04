@@ -3,24 +3,28 @@
     "icon": "supplementaries:cage",
     "category": "patchouli:tools",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:cage",
-            "text": "$(li)The Cage is a block that allows you to trap small creatures inside.$(br)$(li)To capture a new creature you have to right click a creature while you are holding an empty Cage in your hand.",
+            "text": "$(li)The Cage is a block that allows you to trap small creatures inside, transport them easily or even place them on the ground as decoration purposes.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can place the cage like other common block shift right clicking while you are holding the Cage in the desired place to show your trapped creature.$(br)$(li)To release it, just right click while you are holding the cage with the trapped creature inside and you are pointing to the block where it will be released."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_1.png",
+            "text": "$(li)To capture a new creature you have to right click a creature while you are holding an empty Cage in your hand."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/cage.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_2.png",
+            "text": "$(li)You can place the cage like other common block shift right clicking while you are holding the Cage in the desired place to show your trapped creature."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_3.png",
+            "text": "$(li)Right click while you are holding the cage with the trapped creature inside and you are pointing to a block to release it."
         }
              ]
 }

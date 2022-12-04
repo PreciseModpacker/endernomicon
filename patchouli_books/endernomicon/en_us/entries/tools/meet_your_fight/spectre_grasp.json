@@ -1,0 +1,20 @@
+{    
+    "name": "Spectre's Grasp",
+    "icon": "meetyourfight:spectres_grasp",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:phantoplasm",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:spectres_grasp",
+            "text": "$(li)The Spectre's Grasp increases your reach distance by 2 blocks.$(br)$(li)For example, this affect to the distance you hit a creature or place a block.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/spectres_grasp.png",
+            "text": "$(li)It has to be equipped in the Hands Curious API slot."
+        }
+             ]
+}

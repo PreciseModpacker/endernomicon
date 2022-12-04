@@ -1,0 +1,19 @@
+{    
+    "name": "Pufferfish",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Pufferfish are passive mobs found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)They defend themselves by dealing damage and inflicting $(l:patchouli:potions/vanilla/poison)Poison$(/l) effect to nearby creatures including you.$(br)$(li)These creatures inflate themselves when approached by you, most creatures and $(l:patchouli:utility/vanilla/armor_stand)Armor Stands$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:pufferfish",
+            "scale": 1,
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), or $(l:patchouli:miscellaneous/vanilla/pufferfish)Pufferfish (Item)$(/l) on death."
+        }
+             ]
+}

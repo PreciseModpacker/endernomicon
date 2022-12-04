@@ -3,17 +3,17 @@
     "icon": "minecraft:sticky_piston",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:slimeball",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:sticky_piston",
-            "text": "$(li)The Sticky Piston is a variant of the Piston.$(br)$(li)It works as the Pistons, but can also pull the block on its face back when it retracts."
+            "text": "$(li)The Sticky Piston is a variant of the $(l:patchouli:redstone/vanilla/piston)Piston$(/l).$(br)$(li)It works as the Pistons, but can also pull the block on its face back when it retracts."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/sticky_piston.png",
-            "text": "$(li)This item can be used to craft a Spring Launcher in a Crafting Table."
+            "text": "$(li)This item can be used to craft a $(l:patchouli:redstone/supplementaries/spring_launcher)Spring Launcher$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

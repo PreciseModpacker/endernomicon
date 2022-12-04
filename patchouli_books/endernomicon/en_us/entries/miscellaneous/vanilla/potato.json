@@ -2,18 +2,19 @@
     "name": "Potato",
     "icon": "minecraft:potato",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:potato",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potato",
-            "text": "$(li)Potatoes can be plant in Farmland to generate more Potatoes.$(br)$(li)You can put Potatoes in a Composter to generate Bone Meal.$(br)$(li)Farmers will exchanges your potatoes by Emeralds.",
+            "text": "$(li)Potatoes can be planted in farmland to generate more Potatoes.$(br)$(li)You can put Potatoes in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchanges your potatoes by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can use Potatoes to craft a Seed Pouch, Potato Crate, or a Beef Stew in a Crafting Table too.$(br)$(li)You can cook Baked Potatoes Smelting potatoes in a Furnace, Smoking or Campfire."
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:baked_potato",
+            "text": "$(li)You can use Potatoes to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:utility/quark/potato_crate)Potato Crate$(/l), or a $(l)Beef Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)Finally, you can cook potatoes in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l) or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l) to obtain $(l)Baked Potatoes$()."
         }
              ]
 }

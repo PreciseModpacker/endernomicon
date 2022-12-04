@@ -7,12 +7,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:flower_pot",
-            "text": "$(li)The Flower is a decorative item that can contain flowers, bamboo, saplings, cactus, mushrooms, fungi, and other plants.$(br)$(li)Ceramist will exchange your Emeralds by a Flower pot.",
+            "text": "$(li)The Flower is a decorative block that can contain flowers, $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), saplings, $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l), $(l:patchouli:miscellaneous/vanilla/red_mushroom)Red Mushrooms$(/l), $(l:patchouli:miscellaneous/vanilla/brown_mushroom)Brown Mushrooms$(/l), and other plants.$(br)$(li)$(l:patchouli:villagers/ceramist)Ceramists$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by a flower pot.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Flower Pot decoration"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/flower_pot.png"
         }
              ]
 }

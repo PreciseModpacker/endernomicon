@@ -3,17 +3,17 @@
     "icon": "minecraft:observer",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:nether_quartz",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:observer",
-            "text": "$(li)The Observer is a block that emits a redstone signal when the block or fluid it faces experiences a change."
+            "text": "$(li)The Observer is a block that emits a redstone signal when the block or fluid it faces experiences a change.$(br)$(li)It can be used to automations like $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l) farms."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/observer.png",
-            "text": "$(li)It can be used to automations like Sugar Cane farms."
+            "text": ""
         }
              ]
 }

@@ -3,12 +3,12 @@
     "icon": "minecraft:detector_rail",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:detector_rail",
-            "text": "$(li)Detector Rails are a variant of the common Rail.$(br)$(li)This kind of Rail works as Pressure Plates, but only for Minecarts."
+            "text": "$(li)Detector Rails are a variant of the $(l:patchouli:redstone/vanilla/rail)Rail$(/l).$(br)$(li)This kind of Rail works as $(l:patchouli:redstone/vanilla/wood_pressure_plates)Pressure Plate$(/l), but only for $(l:patchouli:redstone/vanilla/minecart)Minecarts$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

@@ -7,17 +7,21 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Crows are nosy birds found in forest and plains.$(br2)These creatures are considered pests since they can ofter be found circling fields and damaging crop growth.$(br2)You can place a Carved Pumpkin to scare them away."
+            "text": "$(li)Crows are noisy birds that can be found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l) and $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) of the Overworld.$(br)$(li)These creatures are considered pests since they can ofter be found circling fields and damaging crop growth.$(br)$(li)You can place a $(l:patchouli:miscellaneous/vanilla/pumpkin)Carved Pumpkin$(/l) to scare them away."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:crow",
-            "scale": 1,
-            "text": "Crows can be tamed by throwing them some Pumpkin Seeds."
+            "scale": 1
         },
         {
             "type": "patchouli:text",
-            "text": "These tamed birds have multiple uses like made to sit, wander, follow or gather items.$(br2)You can heal your pet make it sit on a Hay Block.$(br2)When a crow gather items, it will place it in the nearest cointainer, like a chest or furnace with an item frame on it matching the held item."
-        }  
+            "text": "$(li)Crows can be tamed by throwing them some $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l).$(br)$(li)These tamed birds have multiple uses like made to sit, wander, follow or gather items.$(br)$(li)You can heal your tamed crow making it to sit on a $(l:patchouli:utility/vanilla/hay_block)Hay Block$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/crow.png",
+            "text": "$(li)When a crow gather items, it will place it in the nearest cointainer, like a $(l:patchouli:utility/vanilla/chest)Chest$(/l) or a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) with an $(l:patchouli:decoration/quark/item_frame)Item Frame$(/l) on it matching the held item."
+        }
              ]
 }

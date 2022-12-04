@@ -1,0 +1,20 @@
+{    
+    "name": "Stables",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Stables is a structure that can be found over the Overworld.$(br)$(li)A long time ago, this was a stable used by the $(l:patchouli:villagers/villager)Villagers$(/l), unfortunately the $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l) infection affected them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/stables.png",
+            "text": "$(li)$(l:patchouli:pets/vanilla/horse)Horses$(/l) were affected by the infection aswell, turning them into zombified and skeletonized versions of themselves."
+
+        }
+             ]
+}

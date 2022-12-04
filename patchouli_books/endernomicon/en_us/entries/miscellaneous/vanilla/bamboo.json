@@ -1,0 +1,19 @@
+{    
+    "name": "Bamboo",
+    "icon": "minecraft:bamboo",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:bamboo",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:bamboo",
+            "text": "$(li)The Bamboo grows naturally in the $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) and $(l:patchouli:biomes/overworld/grass/blossom)Blossom Wood Forests$(/l) that can be used to craft $(l:patchouli:decoration/charm/lanterns)Lanterns$(/l), $(l:patchouli:decoration/others/torchs)Torches$(/l), $(l:patchouli:pets/supplementaries/flute)Flute$(/l), $(l:patchouli:miscellaneous/vanilla/stick)Sticks$(/l), $(l)Paper Wall$(), $(l:patchouli:utility/vanilla/scaffolding)Scaffolding$(/l), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), and $(l:patchouli:utility/supplementaries/bamboo_spikes)Bamboo Spikes$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to breed $(l:patchouli:creatures/vanilla/panda)Pandas$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This block can be cut with any tool, but if you do it with a $(l:patchouli:weapons/wooden_sword)Sword$(/l) it will be cutted instantly.$(br)$(li)$(l:patchouli:creatures/vanilla/panda)Pandas$(/l) may drop this item on death.$(br)$(li)This block can be planted in Grass, Dirt, Coarse Dirt, Gravel, Mycelium, Podzol, Sand, or Mud."
+        }
+             ]
+}

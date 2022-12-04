@@ -3,15 +3,16 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_tower",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illager Tower is where the Illager King Lives.$(br)$(li)You should investigate every floor, who knows, maybe you can find interesting loot there.$(br)$(li)Be careful, the Archers, Furanturs, Enchanters will be prepared to defend their King from intruders."
+            "text": "$(li)The Illager Tower is where the $(l:patchouli:bosses/rumor_illager_king)$(/l) lives.$(br)$(li)You should investigate every floor, who knows, maybe you can find interesting $(l:patchouli:perks/loot_chest)Loot Chests$(/l) there.$(br)$(li)Be careful, the $(l:patchouli:illagers/archer)Archers$(/l), $(l:patchouli:illagers/furantur)Furanturs$(/l) and $(l:patchouli:illagers/enchanter)Enchanters$(/l) will be prepared to defend their King from intruders."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)The Illager Tower can be found in the Forest, Jungle, Mushroom Forest, Plains, Savanna and Swamp biomes."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/illager_tower.png",
+            "text": "$(li)The Illager Tower can be found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l), and $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l) biomes."
         }
              ]
 }

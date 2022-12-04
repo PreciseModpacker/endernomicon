@@ -1,0 +1,21 @@
+{    
+    "name": "Rumor (Lucky Demon)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:devils_ante",
+            "link_recipe": "true",
+            "title": "Rumor (Lucky Demon)",
+            "text": "$(o)Do you believe in luck? Well, even if you don't, this one exists.$(br2)There is an entity known as the Lucky Demon in an unkown dimension."
+
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)This creature is responsible for bringing good or bad luck to each creature of this world.$(br2)$(o)To summon this creature, first you have to craft a Devil's Ante.$(br2)$(o)Finally you have to right click while you are holding the Devil's Ante on your hand."
+        }
+             ]
+}

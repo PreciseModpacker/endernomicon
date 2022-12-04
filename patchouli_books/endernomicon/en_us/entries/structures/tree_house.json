@@ -1,0 +1,18 @@
+{    
+    "name": "Tree House",
+    "icon": "alexsmobs:banana",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Tree House is a tall structure that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) of the Overworld.$(br)$(li)A friendly $(l:patchouli:villagers/cartographer)Cartographer$(/l) lives here, you can try to talk to them to get interesting trades."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/tree_house.png"
+
+        }
+             ]
+}

@@ -7,17 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Gorillas are big neutral mammals that can be found in Jungles. You will see them in big groups, with a Silverback leading the troop.$(br2)Silveback Gorillas also have more health and deal more damage than regular Gorillas.$(br2)If a player stares at a Silveback Gorilla too long, it will initiate a bluff charge as an intimidation tactic."
+            "text": "$(li)Gorillas are big neutral mammals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)You will see them in big groups, with a Silverback Gorilla leading the troop.$(br)$(li)Silveback Gorillas also have more health and deal more damage than regular Gorillas."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:gorilla",
             "scale": 1,
-            "text": "Gorillas are tamed with Bananas, just drop Bananas on the ground."
+            "text": "If you stares at a Silveback Gorilla too long, it will initiate a bluff charge as an intimidation tactic."
         },
         {
             "type": "patchouli:text",
-            "text": "Tamed Gorillas do not follow the player, however they can be commanded to sit by right-clicking on them and transportable with a lead.$(br2)If attacked, Gorillas with help you with your enemies especially Silverbacks, are efficient at defending you due to their sheer strength."
+            "text": "$(li)Gorillas are tamed with $(l:patchouli:miscellaneous/alexsmobs/banana)Bananas$(/l), just drop them on the ground.$(br)$(li)Tamed Gorillas do not follow you, however they can be commanded to sit by right-clicking on them and transportable with a $(l:patchouli:pets/vanilla/lead)Lead$(/l).$(br)$(li)If attacked, Gorillas with help you with your enemies especially Silverbacks, are efficient at defending you due to their sheer strength."
         }  
              ]
 }

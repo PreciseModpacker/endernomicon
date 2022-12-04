@@ -3,7 +3,7 @@
     "icon": "quark:abacus",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -11,17 +11,14 @@
             "text": "$(li)The Abacus is a item that allows you to count the distance between two blocks.$(br)$(li)First, right click a block while you are holding the Abacus in your hand to bind the Abacus to that block.",
             "link_recipe": "true"
         },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/abacus.png",
+            "text": "$(li)After that, it will count the distance between the targeted and hovered block, measured along right angles."
+        },
         {
             "type": "patchouli:text",
-            "text": "$(li)After that, it will count the distance between the targeted and hovered block, measured along right angles.$(br)$(li)The Abacus will count up to 48 blocks, drawing an outline of the counted blocks.$(br)$(li)The texture of the item will change according to how many blocks are counted. Right click again to unbind."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/abacus.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "text": "$(li)The Abacus will count up to 48 blocks, drawing an outline of the counted blocks.$(br)$(li)The texture of the item will change according to how many blocks are counted.$(br)$(li)Right click again to unbind."
         }
              ]
 }

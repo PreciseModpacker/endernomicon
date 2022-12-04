@@ -1,0 +1,17 @@
+{    
+    "name": "Ruins Land Warm",
+    "icon": "minecraft:mossy_stone_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some ruins of an old temple can be found over the Overworld.$(br)$(li)You should check carefully, who knows what you might find."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ruins_land_warm.png"
+        }
+             ]
+}

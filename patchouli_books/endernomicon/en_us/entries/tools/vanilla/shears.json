@@ -3,20 +3,57 @@
     "icon": "minecraft:shears",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:shears",
-            "text": "$(li)Shears are a sharpness item that can be used to multiple things.$(br)$(li)You can right click a Sheep while you are holding Shears in your hand to obtain its Wool."
+            "text": "$(li)Shears are a sharpness item that can be used to multiple things."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_1.png",
+            "text": "$(li)You can right click in a $(l:patchouli:creatures/vanilla/sheep)Sheep$(/l) while you are holding Shears in your hand to obtain its Wool."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can right click a Mooshroom while you are holding Shears in your hand to transform it into a Cow.$(br)$(li)You can right click a Pumpkin while you are holding Shears in your hand to turns it into a Carved Pumpkin.$(br)$(li)You can right click the Pumpkin head of a Snow Golem while you are holding Shears to reveal its true face."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_2.png",
+            "text": "$(li)You can right click in a $(l:patchouli:creatures/environmental/yak)Yak$(/l) while you are holding Shears in your hand to obtain its Yak Hair. It will attack to you after do this."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can right click a Beehive or Bee Nest full of honey to obtain Honeycombs.$(br)$(li)Finally, you can use Shears to harvest tree leaves."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_3.png",
+            "text": "$(li)You can right click in a $(l:patchouli:creatures/vanilla/mooshroom)Mooshroom$(/l) while you are holding Shears in your hand to transform it into a $(l:patchouli:creatures/vanilla/cow)Cow$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_4.png",
+            "text": "$(li)You can right click in a $(l:patchouli:miscellaneous/vanilla/pumpkin)Pumpkin$(/l) while you are holding Shears in your hand to turns it into a $(l:patchouli:miscellaneous/vanilla/pumpkin)Carved Pumpkin$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_5.png",
+            "text": "$(li)You can right click in a $(l:patchouli:miscellaneous/autumnity/large_pumpkin)Large Pumpkin$(/l) while you are holding Shears in your hand to turns it into a $(l:patchouli:miscellaneous/autumnity/large_pumpkin)Large Carved Pumpkin$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_6.png",
+            "text": "$(li)You can right click the pumpkin head of a $(l:patchouli:creatures/vanilla/snow_golem)Snow Golem$(/l) while you are holding Shears to reveal its true face."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_7.png",
+            "text": "$(li)You can right click a $(l:patchouli:utility/vanilla/bee_nest)Bee Nest$(/l) or $(l:patchouli:utility/vanilla/beehive)Beehive$(/l) full of honey to obtain $(l:patchouli:miscellaneous/vanilla/honeycomb)Honeycombs$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_9.png",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/bee)Bees$(/l) will be aggresive to you after do this."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/shears_8.png",
+            "text": "$(li)You can use Shears to harvest tree leaves too."
         }
              ]
 }

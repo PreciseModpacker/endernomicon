@@ -6,15 +6,13 @@
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:fletching_table",
-            "text": "$(li)The Fletcher will trade you Arrows, Bows, Crossbows and even Bananarrows for Emeralds and vice versa.$(br)$(li)A Villager can get the Fletcher profession if is near of a Fletching Table."
+            "type": "patchouli:text",
+            "text": "$(li)The Fletcher aim is unrivaled.$(br)$(li)It will trade you $(l:patchouli:weapons/arrows)Arrows$(/l), $(l:patchouli:weapons/bow)Bows$(/l), $(l:patchouli:weapons/crossbow)Crossbows$(/l), and Bananarrows for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Fletcher profession if is near of a $(l:patchouli:utility/vanilla/fletching_table)Fletching Table$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:fletcher',level:2}}",
-            "scale": 1,
-            "text": "$(li)The Fletcher aim is unrivaled."
+            "scale": 1
         }
              ]
 }

@@ -3,17 +3,17 @@
     "icon": "minecraft:gunpowder",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gunpowder",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:gunpowder",
-            "text": "$(li)The Gunpowder is a item that can be used to craft Gunpowder Blocks, Gunpowder Sacks, Fire Charges, Splash Potion Bottles, Spring Launcher and TNT.$(br)$(li)They can be used to convert a Potion into a Splash Potion too.",
+            "text": "$(li)The Gunpowder is an item that can be used to craft $(l:patchouli:utility/charm/block_of_gunpowder)Gunpowder Blocks$(/l), $(l:patchouli:utility/quark/gunpowder_sack)Gunpowder Sacks$(/l), $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charges$(/l), $(l:patchouli:redstone/supplementaries/spring_launcher)Spring Launcher$(/l), $(l:patchouli:miscellaneous/vanilla/firework)Firework Rocket$(/l) and $(l:patchouli:redstone/vanilla/tnt)TNT$(/l).$(br)$(li)They can be used to convert a regular Potion into a Splash Potion in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Gunpowder can be obtained as a loot in the Dungeons, Desert Temples, Woodland Mansions and Shipwreck Supply chests.$(br)$(li)They can be dropped by Creppers, Ghasts, Gooms, Griefers and Witchs.",
+            "text": "$(li)The Gunpowder can be obtained in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l)Dungeons$(), $(l:patchouli:structures/desert_temple)Desert Temples$(/l), $(l:patchouli:illagers/mansion)Mansions$(/l) and $(l:patchouli:structures/shipwreck)Shipwrecks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/goblins_and_dungeons/goom)Gooms$(/l), $(l:patchouli:illagers/griefer)Griefers$(/l), and $(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
 

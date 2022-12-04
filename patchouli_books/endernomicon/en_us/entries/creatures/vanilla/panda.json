@@ -1,0 +1,20 @@
+{    
+    "name": "Panda",
+    "icon": "minecraft:bamboo",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Pandas are rare neutral animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)These creatures will attack you only if you hurt them first, but only once.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:panda",
+            "scale": 0.5,
+            "offset": 0.6,
+            "text": "Pandas will follow you while you are carrying $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) in your hand."
+        }
+             ]
+}

@@ -1,0 +1,50 @@
+{    
+    "name": "Campfires",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:coal",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:campfire",
+            "text": "$(li)The Campfire is a block that it can be used to cook food.$(br)$(li)To use it, first you have to place the Campfire.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_1.png",
+            "text": "$(li)Now, to fire it on, right click on the Campfire while you are holding a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l) in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_2.png",
+            "text": "$(li)Finally just place your cookable food right clicking on the Campfire while you are holding it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_3.png",
+            "text": "$(li)In a few seconds, the food will be cook and drop like an item into the ground."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/campfires_4.png",
+            "text": "$(li)You can place a Campfire down a $(l:patchouli:utility/vanilla/bee_nest)Bee Nest$(/l) or $(l:patchouli:utility/vanilla/beehive)Beehive$(/l) to calm down angry $(l:patchouli:creatures/vanilla/bee)Bees$(/l)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Unlike the Furnaces, the Campfire doesn't need any kind of Fuel.$(br)$(li)Be careful, if you are on a Campfire, you will receive damage.$(br)$(li)You can turn off the Campfire, right clicking on them with a Water Bucket.$(br)$(li)There are other three different versions of the Campfire."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:soul_campfire",
+            "recipe2": "infernalexp:crafting/crafting_shaped/glow_campfire",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endergetic:ender_campfire",
+            "link_recipe": "true"
+        }
+             ]
+}

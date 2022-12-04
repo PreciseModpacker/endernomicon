@@ -1,0 +1,19 @@
+{    
+    "name": "Block (Charcoal)",
+    "icon": "quark:charcoal_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:charcoal",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/compressed/charcoal_block",
+            "text": "$(li)The Charcoal Block is a new decorative block that can be used to save $(l:patchouli:miscellaneous/vanilla/charcoal)Charcoal$(/l) in a more efficient way.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used as a fuel to burn up to 80 items with only 1 block of Charcoal in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/environmental/kiln)Kiln$(/l), or a $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l) "
+        }
+             ]
+}

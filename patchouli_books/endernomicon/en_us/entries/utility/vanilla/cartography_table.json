@@ -8,12 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:cartography_table",
-            "text": "$(li)The Cartography table is a block that allows you works with Maps.",
+            "text": "$(li)The Cartography table is a block that allows you works with $(l:patchouli:tools/vanilla/map)Maps$(/l).",
             "link_recipe": "true"
        },
        {
             "type": "patchouli:text",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Cartographer.$(br)$(li)To use it, first, you need to place it.$(br)$(li)Now right click on it to open a new GUI.$(br)$(li)This GUI will allow you to manipulate maps."
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/cartographer)Cartographer$(/l).$(br)$(li)To use it, first, you need to place it.$(br)$(li)Now right click on it to open a new GUI.$(br)$(li)This GUI will allow you to manipulate maps."
        },
        {
             "type": "patchouli:text",
@@ -36,7 +36,7 @@
        {
             "type": "patchouli:text",
             "title": "Lock Maps",
-            "text": "$(li)In the Cartography Table you can lock maps preventing to them being modified.$(br)$(li)To do this you have to insert an used Map and a Glass Pane into the Cartography Table.$(br)$(li)Finally, extract the locked map of the output slot and save it into your inventory."
+            "text": "$(li)In the Cartography Table you can lock maps preventing to them being modified.$(br)$(li)To do this you have to insert an used Map and a $(l:patchouli:decoration/others/glass_panes)Glass Pane$(/l) into the Cartography Table.$(br)$(li)Finally, extract the locked map of the output slot and save it into your inventory."
        },
        {
             "type": "patchouli:small_pictures",

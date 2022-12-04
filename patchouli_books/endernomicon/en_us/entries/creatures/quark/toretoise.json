@@ -7,21 +7,21 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Toretoises are neutral creatures that spawn deep underground on the Overworld.$(br)$(li)Toretoises will sink in water, and are immune to drowning, fall, and fire damage.$(br)$(li)They come with a random type of Ore (Coal, Iron, Lapis, or Redstone)."
+            "text": "$(li)Toretoises are neutral creatures that spawn deep underground on the Overworld.$(br)$(li)Toretoises will sink in water, and are immune to drowning, fall, and fire damage.$(br)$(li)They come with a random type of Ore: $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), or $(l:patchouli:miscellaneous/vanilla/redstone_dust)Redstone$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:toretoise",
             "scale": 0.8,
-            "text": "You may try to mine the Toretoises ore located in the top with a Pickaxe to obtain that ore."
+            "text": "You may try to mine the Toretoises ore located in the top with a $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l) to obtain that ore."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Toretoises do not breed. They do spawn like hostile creatures, so you can go back for more.$(br)$(li)Feeding a Toretoise with Cave Roots will make regenerate its ores, but when it does, it will enter an eating coldown for 1 minute.$(br)$(li)You can automate this feeding process using a Feeding Trough."
+            "text": "$(li)Toretoises do not breed. They do spawn like hostile creatures, so you can go back for more.$(br)$(li)Feeding a Toretoise with $(l:patchouli:miscellaneous/quark/cave_roots)Cave Roots$(/l) will make regenerate its ores, but when it does, it will enter an eating coldown for 1 minute.$(br)$(li)You can automate this feeding process using a $(l:patchouli:pets/quark/feeding_trough)Feeding Trough$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you try to mine a Tortoise without a Pickaxe, or when it has not ore, you will attack it insteant and the Toretoise will emit a shockwave attack.$(br)$(li)This will hit any non-Toretoise entities around, and redirect their aggro to you."
+            "text": "$(li)If you try to mine a Tortoise without a $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), or when it has not ore, you will attack it insteant and the Toretoise will emit a shockwave attack.$(br)$(li)This will hit any non-Toretoise entities around, and redirect their aggro to you."
         } 
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illager General will not attack you or the Villagers directly.$(br)$(li)It will places down Support Columns that can spawn in Pillagers and its able to call for reinforcements while it is inside of the Illager Fort.$(br)$(li)They can be found in a Raid or in the Illager Fort."
+            "text": "$(li)The Illager General will not attack the $(l:patchouli:villagers/villager)Villagers$(/l) or you directly.$(br)$(li)It will places down support columns that allows him to spawn $(l:patchouli:illagers/pillager)Pillagers$(/l) and its able to call for reinforcements while it is inside of the $(l:patchouli:illagers/illager_fort)Illager Fort$(/l).$(br)$(li)They can be found in a $(l:patchouli:illagers/raid)Raid$(/l) or in the $(l:patchouli:illagers/illager_fort)Illager Fort$(/l)."
         },
         {
             "type": "patchouli:entity",

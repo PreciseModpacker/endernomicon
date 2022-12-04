@@ -1,0 +1,15 @@
+{    
+    "name": "Monstrous Horn",
+    "icon": "cataclysm:monstrous_horn",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:monstrous_horn",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:monstrous_horn",
+            "text": "$(li)The Monstrous Horn are the remains of the horn of the $(l:patchouli:bosses/netherite_monstrosity)Netherite Monstrosity$(/l).$(br)$(li)This item can be used to craft the $(l:patchouli:armors/monstrous_helm)Monstrous Helm$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

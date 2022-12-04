@@ -7,12 +7,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:flower_box",
-            "text": "$(li)The Flower Box can hold up to Vegetables, Saplings, Mushrooms and Flowers.$(br)$(li)They can be placed in the middle or to the side off a block in all directions too.",
+            "text": "$(li)The Flower Box can hold up to $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l), $(l:patchouli:miscellaneous/vanilla/potato)Potatoes, $(/l)$(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l), Saplings, $(l:patchouli:miscellaneous/vanilla/red_mushroom)Red Mushrooms$(/l), $(l:patchouli:miscellaneous/vanilla/brown_mushroom)Brown Mushrooms$(/l), and Flowers.$(br)$(li)They can be placed in the middle or to the side off a block in all directions too.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Flower Box"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/flower_box.png"
         }
              ]
 }

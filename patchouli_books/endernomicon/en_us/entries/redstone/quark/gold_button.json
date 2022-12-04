@@ -3,7 +3,7 @@
     "icon": "quark:gold_button",
     "category": "patchouli:redstone",
     "sortnum": 3,
-    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",

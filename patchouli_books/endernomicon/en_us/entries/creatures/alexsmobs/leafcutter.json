@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Leafcutter Ants are neutral creatures that can be found in the Jungle.$(br)$(li)They will harvest Leaf for the near trees for their colonies."
+            "text": "$(li)Leafcutter Ants are neutral creatures that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)They will harvest leaves for the near trees for their colonies."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you break a Leafcutter Anthill a Leafcutter Ant Queen will appears.$(br)$(li)This is a biggest and strongest version of the common worker Ant.$(br)$(li)Ant Queens may drop Leaftcutter Ant Pupa on death."
+            "text": "$(li)If you break a leafcutter anthill the Leafcutter Ant Queen will appears.$(br)$(li)This is a biggest and strongest version of the worker Leafcutter Ant.$(br)$(li)Ant Queens may drop a $(l:patchouli:miscellaneous/alexsmobs/leafcutter_ant_pupa)Leafcutter Ant Pupa$(/l) on death."
         }
              ]
 }

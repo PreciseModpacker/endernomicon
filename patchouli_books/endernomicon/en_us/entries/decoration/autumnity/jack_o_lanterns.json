@@ -7,8 +7,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:jack_o_lantern",
-            "text": "$(li)A Jack o'Lantern is a good choice of a light source block.$(br)$(li)There are different variants of this block and a redstone lantern version too: $(l:patchouli:redstone/autumnity/redstone_jack_o_lantern)Redstone Jack o'Lantern$(/l).",
+            "text": "$(li)A Jack o'Lantern is a good choice of a light source block.$(br)$(li)It exists a redstone version known as the $(l:patchouli:redstone/autumnity/redstone_jack_o_lantern)Redstone Jack o'Lantern$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/jack_on_lantern.png"
         },
         {
             "type": "patchouli:crafting",

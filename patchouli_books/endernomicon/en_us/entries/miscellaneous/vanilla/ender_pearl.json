@@ -2,18 +2,18 @@
     "name": "Ender Pearl",
     "icon": "minecraft:ender_pearl",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:ender_pearl",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:ender_pearl",
-            "text": "$(li)The Ender Pearl is a item with has ancient magic.$(br)$(li)You can right click while you have the Ender Pearl on your hand to throw it and teleport you were this falls.",
+            "text": "$(li)The Ender Pearl is an item with has ancient magic.$(br)$(li)You can right click while you have this item in your hand to throw it and teleport you were this one falls.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ender Pearl can be used to craft Ender Pearl Blocks, Gravisand, Duskbound Lanterns, Eye of Ender, Dimension Compass, Endolocator and even an Ender Armor.$(br)$(li)They may be dropped by slayed Endermans, or Tuba Endermans too.$(br)$(li)Clerics trade this items in exchange of Emerals too.",
+            "text": "$(li)The Ender Pearl can be used to craft $(l:patchouli:utility/charm/ender_pearl_block)Ender Pearl Blocks$(/l), $(l:patchouli:redstone/quark/gravisand)Gravisand$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Duskbound Lanterns$(/l), $(l:patchouli:miscellaneous/vanilla/eye_of_ender)Eye of Ender$(/l), $(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l), $(l:patchouli:tools/alexsmobs/endolocator)Endolocator$(/l) and the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermans$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) trade Ender Pearls in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.",
             "link_recipe": "true"
         }
              ]

@@ -1,13 +1,13 @@
 {    
     "name": "Kraken",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Kraken it's a terrifying creature that can be found in the depths of any Ocean except in the Frozen Oceans.$(br)$(li)Be careful if you are on a Boat, because this creature has the hability to destroy them and make you drown faster than normal.$(br)$(li)They may drops Kraken Tooth on death."
+            "text": "$(li)The Kraken is a terrifying creature that can be found in the depths of any ocean except in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)Be careful if you are on a $(l:patchouli:tools/vanilla/boats)Boat$(/l), because this creature has the hability to destroy them and make you drown faster than normal.$(br)$(li)They may drop $(l:patchouli:miscellaneous/outvoted/kraken_tooth)Kraken Tooths$(/l) on death."
         },
         {
             "type": "patchouli:entity",

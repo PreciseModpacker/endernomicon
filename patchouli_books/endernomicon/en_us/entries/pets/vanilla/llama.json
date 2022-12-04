@@ -1,0 +1,30 @@
+{    
+    "name": "Llama",
+    "icon": "minecraft:sand",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Llamas are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) on death.$(br)$(li)Llamas can be tamed by repetively riding them until hearts are displayed.$(br)$(li)Tamed Llamas can be bred feeding them with $(l:patchouli:utility/vanilla/hay_bale)Hay Bales$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:llama",
+            "scale": 0.8,
+            "offset": 0.4,
+            "text": "Don't hurt a Llama, or it will not stop spitting on you."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/llama_1.png",
+            "text": "$(li)You can equip your tamed Llama with carpets of any colour."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/llama_2.png",
+            "text": "$(li)Just shift right click in your tamed Llama to open its inventory and equip it with the desired carpet."
+        }
+             ]
+}

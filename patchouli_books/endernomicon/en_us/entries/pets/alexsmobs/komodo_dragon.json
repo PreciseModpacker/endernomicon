@@ -1,19 +1,18 @@
 {    
     "name": "Komodo Dragon",
-    "icon": "minecraft:grass_block",
+    "icon": "neapolitan:banana",
     "category": "patchouli:pets",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Komodo dragons are light greenish-brown color creatures and they are hostile creatures with the players.$(br2)They can be tamed with a stack of Rotten Flesh and then can be ridden and will fight for the player.$(br2)When attack a prey, a tamed Komodo Dragon will ignore all commands from the player."
+            "text": "$(li)Komodo dragons are light greenish-brown color creatures and they are hostile creatures with you that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)They can be tamed with a stack of $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l).$(br)$(li)Tamed Komodo Dragons can be ridden without a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) and they will fight for you."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:komodo_dragon",
-            "scale": 0.8,
-            "text": "When attack a prey, a tamed Komodo Dragon will ignore all commands from the player."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/komodo_dragon.png",
+            "text": "$(li)When attack a prey, a tamed Komodo Dragon will ignore all commands from you."
         }
              ]
 }

@@ -1,23 +1,26 @@
 {    
     "name": "Mantis Shrimp",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:pets",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Mantis Shrimp are giant neutral crustaceans found in the reefs of the Warm Oceans.$(br2)These giant shrimp are equipped with two powerful first-like claws.$(br2)They are fast and even can burn their prey."
+            "text": "$(li)Mantis Shrimp are giant neutral crustaceans found in the reefs of the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l) of the Overworld.$(br)$(li)These giant shrimp are equipped with two powerful first-like claws.$(br)$(li)They are fast and even burn their preys when they attack them."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:mantis_shrimp",
-            "scale": 0.6,
-            "text": "Mantis Shrimp can be tamed by feeding them 10 to 30 tropical fish."
+            "scale": 0.6
         },
         {
             "type": "patchouli:text",
-            "text": "Tamed Mantis Shrimp can be made to follow, sit, wander and break blocks.$(br2)When sneak-interacted with while holding a block, one can give this block to the Mantis Shrimp. The shrimp will then seek out and break any blocks matching the one held in its fist, if ordered to do so.$(br2)Mantis Shrimp can be healed with any kind of fish when injured, and can be bred with Lobster Tails."
-        }  
+            "text": "$(li)Mantis Shrimp can be tamed by feeding them 10 to 30 $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fishes$(/l).$(br)$(li)Tamed Mantis Shrimp can be made to follow, sit, wander and break blocks.$(br)$(li)When sneak-interacted with while holding a block, one can give this block to the Mantis Shrimp."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The shrimp will then seek out and break any blocks matching the one held in its fist, if ordered to do so.$(br)$(li)Mantis Shrimp can be healed with any kind of fish when injured, and can be bred with $(l:patchouli:pets/alexsmobs/lobster_tail)Lobster Tail$(/l)."
+        }
              ]
 }

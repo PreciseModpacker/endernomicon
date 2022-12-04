@@ -3,7 +3,7 @@
     "icon": "minecraft:slime_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:slimeball",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -13,27 +13,26 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/slime_block_1.png",
-            "text": "$(li)When being pushed by a Piston, entities that are ahead are launched into the direction the block is pushed into."
+            "text": "$(li)When being pushed by a $(l:patchouli:redstone/vanilla/piston)Piston$(/l), entities that are ahead are launched into the direction the block is pushed into."
         },
         {   
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/slime_block_2.png",
-            "text": "$(li)When a Slime Block is pushed or pulled by a Piston, it attemps to move all adjacent blocks."
+            "text": "$(li)When a Slime Block is pushed or pulled by a $(l:patchouli:redstone/vanilla/piston)Piston$(/l), it attemps to move all adjacent blocks."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/slime_block_3.png",
-            "text": "$(li)Blocks that cannot be pulled by a Sticky Piston stay in place."
+            "text": "$(li)Blocks that cannot be pulled by a $(l:patchouli:redstone/vanilla/sticky_piston)Sticky $(l:patchouli:redstone/vanilla/piston)Piston$(/l)$(/l) stay in place."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/magenta_slime_block",
-            "text": "$(li)Slime Blocks can be tinted with some dyes."
+            "text": "$(li)Slime Blocks can be tinted with some dyes.$(br)$(li)There are five variants of this block."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/slime_block_4.png",
-            "text": "$(li)There are five variants of this block."
+            "picture": "endermonicon:textures/book/entries/redstone/slime_block_4.png"
         },
         {
             "type": "patchouli:crafting",

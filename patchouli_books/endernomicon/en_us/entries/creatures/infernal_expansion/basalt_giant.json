@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Basalt Giants are neutral big creatures that can be found in Basalt Deltas of the Nether.$(br)$(li)They may drop Magma Blocks on death."
+            "text": "$(li)Basalt Giants are neutral big creatures that can be found in $(l:patchouli:biomes/nether/basalt_deltas)$(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l)$(/l) of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Blocks$(/l) on death."
         },
         {
             "type": "patchouli:entity",

@@ -1,27 +1,33 @@
 {    
     "name": "Mimic Octopus",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:pets",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Mimic Octopus can be bound in warm oceans and coral reefs. They are neutral creatures.$(br2)They have the hability to camouflage into their surrounding, changing their skin colour.$(br2)While they are not in camouflage state, they can be tamed with Lobster Tails."
+            "text": "$(li)The Mimic Octopus is a neutral curious animal that can be found in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l) and $(l:patchouli:structures/coral_reefs)Coral Reefs$(/l).$(br)$(li)They have the hability to camouflage into their surrounding, changing their skin colour.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sac$(/l) on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:mimic_octopus",
-            "scale": 0.5,
-            "text": "Tamed Mimic Octopus can be commanded to stay, follow, and wander."
+            "scale": 0.5
         },
         {
             "type": "patchouli:text",
-            "text": "Tamed Mimic Octopus can walk on land if tame too but only 5 minutes out of water.$(br2)This can be circumvented by giving them slime balls, which will allow them to last longet out of water.$(br2)If you right click a tame Mimic Octopus with an Ink Sack, It will stop chaning colours to camouflage it's self."
+            "text": "$(li)While they are not in camouflage state, they can be tamed with $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tails$(/l).$(br)$(li)Tamed Mimic Octopus can be commanded to stay, follow, and wander.$(br)$(li)Tamed Mimic Octopus can walk on land if tame too but only 5 minutes out of water.$(br)$(li)This can be circumvented by giving them $(l:patchouli:miscellaneous/vanilla/slimeball)Slimeballs$(/l), which will allow them to last longet out of water."
         },
         {
             "type": "patchouli:text",
-            "text": "You can also use prismarine shards, pupperfish or gunpowder on it, which will cause it to change it to change it's look ro rememble a guardian, a pupperfish or a creeper respectively.$(br2)If fed a few mimicream, it will actually learn how to mimic the attacks of the mobs  allowing it to shoot lasers as a guardian, poison mobs as a pufferfish, and create small explosions as a creeper, which will not kill it. On death it may drop a Ink Sac."
+            "text": "$(li)If you right click a tame Mimic Octopus with an $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sac$(/l), It will stop changing colours to camouflage itself.$(br)$(li)You can also use $(l:patchouli:miscellaneous/vanilla/prismarine_shard)Prismarine Shard$(/l), $(l:patchouli:miscellaneous/vanilla/pufferfish)Pufferfish$(/l) or $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) on it, which will cause it to change it to change iti s look to rememble a $(l:patchouli:creatures/vanilla/guardian)Guardian$(/l), a $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l) or a $(l:patchouli:creatures/vanilla/creeper)Creeper$(/l) respectively."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)If you feed it with a few $(l:patchouli:miscellaneous/alexsmobs/mimicream)Mimicreams$(/l), it will actually learn how to mimic the attacks of the mobs allowing it to shoot lasers as a $(l:patchouli:creatures/vanilla/guardian)Guardian$(/l).$(br)$(li)It will learn how to mimic poison creatures as a $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l) too.$(br)$(li)Also it will learn how to create small explosions as a $(l:patchouli:creatures/vanilla/creeper)Creeper$(/l), which will not damage itself."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

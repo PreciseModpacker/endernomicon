@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like Hummingbirds can be found here.$(br)$(li)You can find an exclusive kind of Spider in this biome known as the Plantain Spider.$(br)$(li)You can search this biome introducing the word $(l)Rainforest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) can be found here too.$(br)$(li)You can find an exclusive kind of $(l:patchouli:creatures/vanilla/spider)Spider$(/l) in this biome known as the $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l).$(br)$(li)You can search this biome introducing the word $(l)Rainforest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

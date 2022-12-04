@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The End Highlands is a biome composed of the outer islands of the End, forming the the hilltops in the center of each island.$(br)$(li)In this Biome you can find Chorus Plants.$(br)$(li)Some creatues like Endermans and Spectres can be found here too."
+            "text": "$(li)The End Highlands is a biome composed of the outer islands of the End, forming the the hilltops in the center of each island.$(br)$(li)In this Biome you can find Chorus Plants to obtain $(l:patchouli:miscellaneous/vanilla/chorus_fruit)Chorus Fruit$(/l).$(br)$(li)Some creatues like $(l:patchouli:creatures/vanilla/enderman)Endermans$(/l) and $(l:patchouli:creatures/alexsmobs/spectre)Spectres$(/l) can be found here too."
         },
         {
             "type": "patchouli:text",

@@ -3,17 +3,16 @@
     "icon": "charm:redstone_sand",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "charm:redstone_sand/redstone_sand",
-            "text": "$(li)The Redstone Sand works exactly like the Redstone Block, emiting power of neighbouring blocks."
+            "text": "$(li)The Redstone Sand works exactly like the Redstone Block, emiting power of neighbouring blocks.$(br)$(li)It will obey gravity like Sand and Gravel blocks."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/redstone_sand.png",
-            "text": "$(li)It will obey gravity like Sand and Gravel blocks."
+            "picture": "endermonicon:textures/book/entries/redstone/redstone_sand.png"
         }
              ]
 }

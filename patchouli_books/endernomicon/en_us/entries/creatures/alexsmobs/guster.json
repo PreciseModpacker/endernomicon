@@ -3,11 +3,11 @@
     "icon": "minecraft:sand",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/guster",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Guster are hostiles creatures that can be found in the Deserts.$(br)$(li)They uses Sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br)$(li)They may drop Sand or a Gunter Eye on death."
+            "text": "$(li)Guster are hostiles creatures that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)They uses sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br)$(li)They may drop sand blocks or a $(l:patchouli:miscellaneous/alexsmobs/guster_eye)Guster Eye$(/l) on death."
         },
         {
             "type": "patchouli:entity",

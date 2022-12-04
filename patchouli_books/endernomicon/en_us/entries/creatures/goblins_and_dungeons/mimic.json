@@ -3,11 +3,11 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "goblinsanddungeons:goblinsanddungeons/an_unpleasant_surprise",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Careful! Don't be fooled by that chest. There is a goblin inside!$(br)$(li)Mimics may drop a Chest, Emerald, Iron Ingot, Gold Ingot or a Ring of Steal on death."
+            "text": "$(li)Careful! Don't be fooled by that chest. There is a goblin inside!$(br)$(li)Mimics may drop a $(l:patchouli:utility/vanilla/chest)Chest$(/l), $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l), $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) or a $(l:patchouli:armors/ring_of_stealth)Ring of Stealth$(/l) on death."
         },
         {
             "type": "patchouli:entity",

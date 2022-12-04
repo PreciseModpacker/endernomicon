@@ -3,17 +3,17 @@
     "icon": "savageandravage:creeper_spores",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "savageandravage:adventure/creeper_spores",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "savageandravage:creeper_spores",
-            "text": "$(li)The Creeper Spores, when is used, it creates an area with green particles.$(br)$(li)In this area, it will appears multiple Creepiers.$(br)$(li)This tiny creatures will follow you and they will follow and explote to the creature that you attack.",
+            "text": "$(li)You can use Creeper Spores right clicking while are holding them in your hand to create an area with green particles.$(br)$(li)In this area, it will appears multiple $(l:patchouli:pets/savage_and_ravage/creepie)Creepiers$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to craft Mischief Arrows, a Blast-Proof Plating, a Spore Bomb, or a Creeper Spore Sack.",
+            "text": "$(li)These tiny creatures will follow you and they will follow and explote to the creature that you attack.$(br)$(li)This item can be used to craft $(l)Mischief Arrows$(), $(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast Proof Platings$(/l), $(l:patchouli:redstone/savage_and_ravage/spore_bomb)Spore Bombs$(/l), or $(l:patchouli:utility/savage_and_ravage/creeper_spore_sack)Creeper Spore Sacks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l) may drop this item if you kill them with an explosion of a $(l:patchouli:redstone/vanilla/tnt)TNT$(/l).",
             "link_recipe": "true"
         }
              ]

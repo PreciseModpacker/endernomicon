@@ -7,8 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
-            "text": "$(li)The Siphon enchantment can be applied in a Shulker.$(br)If you pick an item that the Shulker Box has at least one of the same type, it will place this item in the Shulker Box insteat of your main inventory.$(br)$(li)This enchantment can be found Fishing or Trading with Villagers.",
+            "text": "$(li)The Siphon enchantment can be applied in a $(l:patchouli:enchanting/shulker_enchantments/shulker_box)Shulker Box$(/l).$(br)$(li)If you pick an item that the Shulker Box has at least one of the same type, it will be placed inside insteat of your main inventory.",
             "title": "Siphon"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This enchantment can be found Fishing or trading with the $(l:patchouli:villagers/librarian)Librarians$(/l)."
         }
              ]
 }

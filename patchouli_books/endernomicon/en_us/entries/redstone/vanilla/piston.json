@@ -3,7 +3,7 @@
     "icon": "minecraft:piston",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -13,7 +13,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/piston.png",
-            "text": "$(li)This item can be used to craft a Hat Launcher or a Sticky Piston in a Crafting Table."
+            "text": "$(li)This item can be used to craft a $(l:patchouli:tools/hats/hat_launcher)Hat Launcher$(/l) or a $(l:patchouli:redstone/vanilla/sticky_piston)$(l:patchouli:redstone/vanilla/sticky_piston)Sticky Piston$(/l)$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

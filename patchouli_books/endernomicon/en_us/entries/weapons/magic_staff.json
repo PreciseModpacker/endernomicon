@@ -1,0 +1,22 @@
+{    
+    "name": "Magic Staff",
+    "icon": "goblinsanddungeons:staff_amethyst",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "goblinsanddungeons:staff_amethyst",
+            "text": "$(li)The Magic Staff once belong to the $(l:patchouli:bosses/goblin_king)Goblin King$(/l).$(br)$(li)This one has great magical power that allows it to slow down other creatures.$(br)$(li)Sadly you do not know how to use it, so it becomes a totally useless weapon." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Magic Staff",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"goblinsanddungeons:staff_amethyst\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        }
+
+             ]
+}

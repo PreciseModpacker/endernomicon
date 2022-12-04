@@ -3,17 +3,17 @@
     "icon": "minecraft:item_frame",
     "category": "patchouli:decoration",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:item_frame",
-            "text": "The Item Frame is an entity that can be used to displays the item or block that is inside it.$(br2)They can be dyed placing an Item Frame and the specific Dye in a Crafting Table.$(br2)They can be placed in the walls or on the ground.",
+            "text": "$(li)The Item Frame is an entity that can be used to displays the item or block that is inside it.$(br)$(li)It can be dyed placing an Item Frame and the specific Dye in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be placed in the walls or on the ground.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "You can make $(l:patchouli:tools/quark/glass_item_frame)Glass Item Frames$(/l) with the Item Frames.$(br2)Insert a picture of Item frames dyed in the walls and on the ground"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/item_frame.png"
         },
         {
             "type": "patchouli:crafting",
@@ -60,23 +60,19 @@
             "recipe2":"quark:building/crafting/frames/black_frame"
         },
         {
-            "type": "patchouli:spotlight",
-            "item": "quark:glass_item_frame",
-            "text": "The Glass Item Frame is a variation of the $(l:patchouli:tools/quark/item_frame)Item Frames$(/l).$(br)$(li)When a map is placed in a Glass Item Frame, it will update in real time$(br)$(li)If you put a Banner inside a Glass Item Frame, it will sit flat with the wall with the pattern that's in it",
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/frames/glass_frame",
+            "text": "$(li)When a $(l:patchouli:tools/vanilla/map)Map$(/l) is placed in a Glass Item Frame, this one it will update in real time.$(br)$(li)If you put a $(l:patchouli:decoration/vanilla/banners)Banner$(/l) inside of a Glass Item Frame, it will sit flat with the wall with the pattern that is in it.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Shields will sit flush with the wall$(br)$(li)Glass Item Frames can be right clicked to open Chests$(br)$(li)When a map is placed in a Glass Item Frame, it will update in real time$(br)$(li)Glass Item Frames can attach to the front of a Sign that's placed on the floor. This will make the item show flush with the Sign"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)Combining a Glass Item Frame with a Glowstone Dust creates a Glowing Glass.$(br)This one makes the placed item bright in the darkness$(br2)Insert a picture of Item frames dyed in the walls and on the ground"
+            "text": "$(li)$(l:patchouli:weapons/shield)Shields$(/l) will sit flush with the wall.$(br)$(li)Glass Item Frames can be right clicked to open $(l:patchouli:utility/vanilla/chest)Chests$(/l).$(br)$(li)Glass Item Frames can attach to the front of a $(l:patchouli:decoration/vanilla/signs)Sign$(/l) that is placed on the floor.$(br)$(li)This will make the item show flush with the $(l:patchouli:decoration/vanilla/signs)Sign$(/l)."
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/frames/glass_frame",
-            "recipe2":"quark:building/crafting/frames/glowing_glass_frame"
+            "recipe":"quark:building/crafting/frames/glowing_glass_frame",
+            "text": "$(li)The  one makes the placed item bright in the darkness."
         }
              ]
 }

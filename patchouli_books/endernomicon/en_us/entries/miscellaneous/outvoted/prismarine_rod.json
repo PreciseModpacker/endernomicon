@@ -3,12 +3,12 @@
     "icon": "outvoted:prismarine_rod",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:prismarine_bricks",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "outvoted:prismarine_rod",
-            "text": "$(li)The Prismarine Rod is a hard material that can be used to craft a Trident in a Crafting Table.",
+            "text": "$(li)The Prismarine Rod is a hard material that can be used to craft a $(l:patchouli:weapons/trident)Trident$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         }
              ]

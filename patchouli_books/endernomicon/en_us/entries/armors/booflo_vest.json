@@ -2,8 +2,8 @@
     "name": "Booflo Vest",
     "icon": "endergetic:booflo_vest",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 34,
+    "advancement": "endernomicon:booflo_hide",
     "pages": [
        {
             "type": "patchouli:crafting",

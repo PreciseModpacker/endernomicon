@@ -2,8 +2,8 @@
     "name": "Pocket of Sand",
     "icon": "alexsmobs:pocket_sand",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/nether_eye",
     "sortnum": 1,
+    "advancement": "endernomicon:guster_eye",
     "pages": [
         {
             "type": "patchouli:crafting",

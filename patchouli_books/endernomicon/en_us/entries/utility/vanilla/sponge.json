@@ -1,0 +1,19 @@
+{    
+    "name": "Sponge",
+    "icon": "minecraft:sponge",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:sponge",
+            "text": "$(li)The Sponge is a placeable block that can be found inside of the $(l:patchouli:structures/ocean_monument)Ocean Monuments$(/l) or be dropped by an $(l:patchouli:bosses/elder_guardian)Elder Guardian$(/l) .$(br)$(li)Just place this block and it will absorb near water blocks.$(br)$(li)This block will turn into a $(l)Wet Sponge$() which will not be able to absorb near water.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/sponge.png",
+            "text": "$(li)You can smelt it in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to recover back your $(l)Sponge$()."
+        }
+             ]
+}

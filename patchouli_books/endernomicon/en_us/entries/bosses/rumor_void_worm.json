@@ -1,0 +1,22 @@
+{    
+    "name": "Rumor (Void Power)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "alexsmobs:alexsmobs/capsid",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)What would happen if we could give the power of $(l)the Void$() $(o)into a growing larva?$(br2)$(o)This is what Illagers tried to do a long time ago, but sadly there is no information of the result of the experiment.$(br2)You have to insert a Crimson Larva into a Capsid, to obtain a Void Worm. Finally, you have to throw it into the void, so that it absorbs all its power."
+        },
+        {
+            "type": "patchouli:void_worm",
+            "title": "Obtain Mosquito Larva",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_void_worm_1.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)INSERTAR IMAGEN ARTISTA. PRIMERO UN CRIMSON MOSQUITO CON UNA FLECHA AL CRIMSON MOSQUITO LARVA. LUEGO INTRODUCIENDO UN CRIMSON MOSQUITO EN UN CAPSID, POR ULTIMO LANZANDO EL MYSTERIOUS WORM AL VACIO. CREAR NUEVO TEMPLATE PARA ÉSTO SI ES NECESARIO"
+        }
+             ]
+}

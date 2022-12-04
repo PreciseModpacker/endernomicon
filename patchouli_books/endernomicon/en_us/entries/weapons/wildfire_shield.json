@@ -6,14 +6,17 @@
     "sortnum": 16,
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "outvoted:wildfire_shield",
+            "type": "smithing_table",
+            "title": "Wildfire",
+            "input": "minecraft:shield",
+            "input2": "outvoted:wildfire_shield_part",
+            "output": "outvoted:wildfire_shield",
             "text": "$(li)The Wildfire Shield is a quiet better of the $(l:patchouli:weapons/iron_shield)Iron Shield $(/l)because this one has more durability than the last one.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Wildifre Shield",
+            "name": "Wildfire Shield",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"outvoted:wildfire_shield\",Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
             "text": "To equip it, just open your inventory and place the Shield into your left hand slot"

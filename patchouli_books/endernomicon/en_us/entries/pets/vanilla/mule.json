@@ -1,0 +1,37 @@
+{    
+    "name": "Mule",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Mules are passive animals that can only be created breeding a $(l:patchouli:pets/vanilla/horse)Horse$(/l) and a $(l:patchouli:pets/vanilla/donkey)Donkey$(/l) together.$(br)$(li)They can be tamed right clicking on them to mounts it.$(br)$(li)You will have to repeat this process until hearts appears above the Mule."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:mule",
+            "scale": 0.6,
+            "offset": 0.75
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Now, to ride the tamed Mule, you have to right click on it while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to equip it.$(br)$(li)After that right click on it again, to start to ride it.$(br)$(li)You can walk with it normally, but they jump less than Horsers.$(br)$(li)Tamed Mules can't be bred."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/mule_1.png"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/mule_2.png",
+            "text": "$(li)You can equip a tamed Mule with a $(l:patchouli:utility/vanilla/chest)Chest$(/l) right clicking on it while you are holding it in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/mule_3.png",
+            "text": "$(li)If you shift + right click on it again, you will access to its inventory, where you can save items."
+        }
+             ]
+}

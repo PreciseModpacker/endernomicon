@@ -1,0 +1,22 @@
+{    
+    "name": "Pumpkin (Large)",
+    "icon": "autumnity:large_pumpkin_slice",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:large_pumpkin_slice",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:large_pumpkin_slice",
+            "text": "$(li)The Large Pumpkin Slice is a fruit multiblock.$(br)$(li)You can place four of these blocks to form a Large Pumpkin.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "autumnity:carved_large_pumpkin_slice",
+            "title": "Carved L. Pumpkin Slice",
+            "text": "$(li)You can create Large Carved Pumpkin Slices right clicking while you are holding a Shears on your hand and your are pointing to a Large Pumpkin Slice.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -8,8 +8,15 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:tweaks/crafting/utility/tools/stone_hoe",
-            "text": "$(li)The Stone Hoe is the upgrade of the Wood Hoe.$(br)$(li)It has a greater durability than the Wood Hoe. $(br)$(li)You can use it to create Farmland." ,
+            "text": "$(li)The Stone Hoe is the upgrade of the $(l:patchouli:tools/vanilla/wooden_hoe)Wooden Hoe$(/l).$(br)$(li)It has a greater durability than the last one." ,
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Stone Hoe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:stone_hoe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "You can right click in a Grass or Dirt block while you are holding it in your hand to create Farmland."
         }
              ]
 }

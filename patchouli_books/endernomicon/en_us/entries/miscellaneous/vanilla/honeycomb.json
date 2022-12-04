@@ -2,19 +2,19 @@
     "name": "Honeycomb",
     "icon": "minecraft:honeycomb",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:honeycomb",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:honeycomb",
-            "text": "$(li)The Honeycomb is a item that can be obtained right clicking a Bee Nest or Beehive while you are holding a pair of Shears on your hand.$(br)$(li)This item can be used to craft multiple items in a Crafting Table.",
+            "text": "$(li)The Honeycomb is an item that can be obtained right clicking a $(l:patchouli:utility/vanilla/bee_nest)Bee Nest$(/l) or $(l:patchouli:utility/vanilla/beehive)Beehive$(/l) while you are holding a pair of $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand.$(br)$(li)This item can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "title": "Crafts",
-            "text": "$(li)Beehives$(li)Waxed Corundums$(li)Candles$(li)Honeycomb Door$(li)Honeycomb Trapdoor$(li)Bee Lanterns$(li)Banner Pattern Honeycomb$(li)Honey Pot$(li)Honeycomb Armor"
+            "title": "Craft Recipes",
+            "text": "$(li)$(l:patchouli:utility/vanilla/beehive)Beehives$(/l)$(li)Waxed Corundums$(li)$(l:patchouli:decoration/buzzier_bees/candle)Candles$(/l)$(li)$(l:patchouli:decoration/others/doors)Honeycomb Door$(/l)$(li)$(l:patchouli:decoration/others/trapdoors)Honeycomb Trapdoor$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)Bee Lanterns$(/l)$(li)$(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern Honeycomb$(/l)$(li)$(l:patchouli:utility/buzzier_bees/honey_pot)Honey Pot$(/l)$(li)$(l:patchouli:armors/honeycomb_armor)Honeycomb Armor$(/l)"
         }
              ]
 }

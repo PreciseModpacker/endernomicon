@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Lumberjack really loves collect Wood in the deep forests.$(br)$(li)It will trade you Saplings, Beds, Crates, Note Blocks, Bookfshelves and even Woodcutters for Emeralds and vice versa.$(br)$(li)A Villager can get the Lumberjack profession if is near of a Woodcutter."
+            "text": "$(li)The Lumberjack really loves collect wood in the deep forests.$(br)$(li)It will trade you Saplings, $(l:patchouli:utility/vanilla/beds)Beds$(/l), $(l:patchouli:utility/quark/crate)Crates$(/l), $(l:patchouli:redstone/vanilla/note_block)Note Blocks$(/l), $(l:patchouli:decoration/vanilla/bookshelf)Bookshelves$(/l), and $(l:patchouli:utility/charm/woodcutter)Woodcutters$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Lumberjack profession if it is near of a $(l:patchouli:utility/charm/woodcutter)Woodcutter$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'charm:lumberjack',level:2}}",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

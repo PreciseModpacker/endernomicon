@@ -3,32 +3,33 @@
     "icon": "minecraft:smithing_table",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:smithing_table",
-            "text": "$(li)The Smithing Table is an advanced workplace that will allow you to unlock new crafting recipes.",  
+            "text": "$(li)The Smithing Table is an advanced workplace that will allow you to create new items.",  
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/smithing_table_1.png",
-            "text": "$(li)Just place the block and right click on it to open the Smithing Table GUI."
+            "text": "$(li)To use it, just place the block and right click on it to open the Smithing Table GUI."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/smithing_table_2.png",
-            "text": "$(li)Now just insert the needed items to create a new item in the Smithing Table."
+            "text": "$(li)Now just follow the recipes and insert the needed ingredients to create a new item in the Smithing Table."
         },
         {
             "type": "patchouli:text",
             "title": "Smithing Table Recipes",
-            "text": "$(li)Wildfire Shield$(li)Glowsilk Bow$(li)Flamarang$(li)Netherite Wolf Armor$(li)Netherite Door$(li)Netherite Trapdoor$(li)Netherite Hoe$(li)Netherite Pickaxe$(li)Netherite Shovel$(li)Netherite Sword$(li)Netherite Axe$(li)Netherite Shield$(li)Netherite Armor$(li)Safe"
+            "text": "$(li)$(l:patchouli:weapons/wildfire_shield)Wilfire Shield$(/l)$(li)$(l:patchouli:weapons/glowsilk_bow)Glowsilk Bow$(/l)$(li)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(li)$(l:patchouli:pets/revamped_wolf/netherite_wolf_armor)Netherite Wolf Armor$(/l)$(li)$(l:patchouli:utility/supplementaries/netherite_door)Netherite Door$(/l)$(li)$(l:patchouli:utility/supplementaries/netherite_door)Netherite Trapdoor$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_hoe)Netherite Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_pickaxe)Netherite Pickaxe$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_shovel)Netherite Shovel$(/l)$(li)$(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l)$(li)$(l:patchouli:weapons/netherite_axe)Netherite Axe$(/l)$(li)$(l:patchouli:weapons/netherite_shield)Netherite Shield$(/l)$(li)$(l:patchouli:armors/netherite_armor)Netherite Armor$(/l)$(li)$(l:patchouli:utility/supplementaries/safe)Safe$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Smithing Table Recipes",
-            "text": "$(li)End Crystal Shovel$(li)End Crystal Hoe$(li)End Crystal Pickaxe$(li)End Crystal Sword$(li)End Crystal Axe$(li)End Crystal Armor$(li)Monstrous Helm"
+            "text": "$(li)$(l:patchouli:tools/end_remastered/end_crystal_shovel)End Crystal Shovel$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_hoe)End Crystal Hoe$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_pickaxe)End Crystal Pickaxe$(/l)$(li)$(l:patchouli:weapons/end_crystal_sword)End Crystal Sword$(/l)$(li)$(l:patchouli:weapons/end_crystal_axe)End Crystal Axe$(/l)$(li)$(l:patchouli:armors/end_crystal)End Crystal Armor$(/l)$(li)$(l:patchouli:armors/monstrous_helm)Monstrous Helm$(/l)"
         }
              ]
 }

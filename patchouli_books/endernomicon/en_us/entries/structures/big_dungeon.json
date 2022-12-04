@@ -1,0 +1,17 @@
+{    
+    "name": "Dungeon (Big)",
+    "icon": "minecraft:chiseled_stone_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Big Dungeon is a big structure with multiple floors that can be found deeper of the caves of the Overworld.$(br)$(li)Some treasures and dangerous creatures can be found here, so it's worth it to explore."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/big_dungeon.png"
+        }
+             ]
+}

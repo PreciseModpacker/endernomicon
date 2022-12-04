@@ -1,0 +1,27 @@
+{    
+    "name": "Cat",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Cats are passive animals that can be found in $(l:patchouli:villagers/villagers)Villages$(/l), $(l:patchouli:structures/witch_house)Witch Hut$(/l) and $(l:patchouli:structures/maple_witch_house)Maple Witch Hut$(/l) of the Overworld.$(br)$(li)Cat will sprint away from you.$(br)$(li)To tamed it except you have to hold a $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cod$(/l) or $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l), wait until the Cat approach you and give it the fish."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:cat",
+            "scale": 0.4,
+            "offset": 0.8
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Repeat this process a couple of times until it stops running away from you.$(br)$(li)Tamed Cats will follow you and they can be ordered sit right clicking on them.$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l) and $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) will run away from Cats too."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/cat.png"
+        }
+             ]
+}

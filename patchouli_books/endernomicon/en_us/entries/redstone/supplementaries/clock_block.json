@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)A Comparator can be used to receive a signal from 0 to 15 that is proporcional to the in-game time which is from 0 to 24.$(br)$(li)An Observer will detect a block update each time an in-game hour passes."
+            "text": "$(li)A $(l:patchouli:redstone/vanilla/comparator)$(l:patchouli:redstone/vanilla/comparator)Comparator$(/l)$(/l) can be used to receive a signal from 0 to 15 that is proporcional to the in-game time which is from 0 to 24.$(br)$(li)An $(l:patchouli:redstone/vanilla/observer)Observer$(/l) will detect a block update each time an in-game hour passes."
         },
         {
             "type": "patchouli:pictures",

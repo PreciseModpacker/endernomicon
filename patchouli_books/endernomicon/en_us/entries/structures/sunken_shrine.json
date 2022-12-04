@@ -1,0 +1,18 @@
+{    
+    "name": "Sunken Shrine",
+    "icon": "minecraft:sea_lantern",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Sunken Shrine is a structure that can be found in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)It is just an old shrine that was swallowed by the force of the ocean a long time ago along with its treasures and their devotees."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/sunken_shrine.png",
+            "text": "$(li)These $(l:patchouli:creatures/vanilla/drowned)Drowned$(/l) devootees will continue to defend the Sunker Shrine for foreigners at all costs."
+        }
+             ]
+}

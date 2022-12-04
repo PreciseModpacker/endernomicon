@@ -2,12 +2,12 @@
     "name": "Golden Armor",
     "icon": "minecraft:golden_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 3,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Golden Armor is quiet better than the Ice Armor.$(br)$(li)Anyway, this Armor is not the best choice, you should spent your Gold Ingot in something better."
+            "text": "$(li)The Golden Armor is quiet better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l).$(br)$(li)Anyway, this Armor is not the best choice because its durability.$(br)$(li)You should spent your $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) in other thing."
         },
         {
             "type": "patchouli:entity",

@@ -1,32 +1,21 @@
 {    
     "name": "Void Worm",
-    "icon": "minecraft:end_stone",
+    "icon": "alexsmobs:mysterious_worm",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/void_worm_kill",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Bad Eagles are flying criatures that it can be found in mountain biomes.$(br2)You can tame this creatures, for that you will need to feed them with $(l:patchouli:mobs/alexsmobs/blobfish)Fish Oil$(/l).$(br2)Like other tameable creatures they can be commanded to follow, stay and wander, but, they can also be used for falconry."
+            "text": "$(li)The Void Worm is a very dangerous creature composed of the result of introducing the power of the void into a $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l).$(br)$(li)This creature can shoot you with green homing crystals.$(br)$(li)It can also ram you or even knocking you back a large distance, lauching you in the air.$(br)$(li)"
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:bald_eagle",
-            "scale": 0.65,
-            "text": "A tamed eagle can be healed with any fish. Bald Eagles can be bred with rotten flesh."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/bosses/void_worm.png"
         },
         {
             "type": "patchouli:text",
-            "text": "To start falconry, you will need to craft the Falconry Glove. When held either in the main or off-hand, this glove can be used to pick up eagles and hold them in hand. To launch and eagle from the hand, simply punch. $(br2)If launched while staring at a mob, the eagle will fly to this mob, attack, and, if it survives, return to the hand. If no mob is selected the eagle will simply jump off the glove."
-        },  
-        {
-            "type": "patchouli:text",
-            "text": "To improve upon one's falconry skill, a Falconry Hood can be crafted. The hood can be placed on an eagle's head, and an eagle with be able to be piloted by its owner, like a drone.$(br2)If the eagle flies further than 150 blocks from its owner, it will attempt to return. To stop controlling the eagle, the owner can also sneak. The hood can be removed from the eagle with shears."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:falconry_glove",
-            "recipe2": "alexsmobs:falconry_hood"
-        }
+            "text": "$(li)This creature is able to control the space, creating portals that allow it to teleporting between two points.$(br)$(li)You or any other creature can be teleported by these portals too.$(br)$(li)It drops two $(l:patchouli:miscellaneous/alexsmobs/void_worm_mandible)Void Worm Mandibles$(/l) and one $(l:patchouli:miscellaneous/alexsmobs/void_worm_eye)Void Worm Eye$(/l) on death.$(br)$(li)These items don't have gravity, so you will have to figure out how reach them."
+        }  
              ]
 }

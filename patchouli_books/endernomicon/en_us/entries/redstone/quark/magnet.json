@@ -2,8 +2,8 @@
     "name": "Magnet",
     "icon": "quark:magnet",
     "category": "patchouli:redstone",
-    "sortnum": 3,
-    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:chorus_fruit",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The red side will repel metalic blocks up to 4 blocks away.$(br)$(li)Some of the blocks that are affected by Magnets are the Iron Block and the Chain."
+            "text": "$(li)The red side will repel metalic blocks up to 4 blocks away.$(br)$(li)Some of the blocks that are affected by Magnets are the $(l:patchouli:utility/vanilla/iron_block)Iron Blocks$(/l), the $(l:patchouli:utility/vanilla/gold_block)Gold Blocks$(/l), or the $(l:patchouli:decoration/others/chains)Chains$(/l)."
         },
         {
             "type": "patchouli:pictures",

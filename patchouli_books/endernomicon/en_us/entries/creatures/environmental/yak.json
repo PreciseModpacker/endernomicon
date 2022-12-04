@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Yak is a creature similar to the Cow that can be found in Mountains.$(br)$(li)The Yak can be right clicking while you are holding an Empty Bucket to get a Bucket of Milk.$(br)$(li)You can right click on one Yak while you are holding Shears in your hand to obtain Yak Hair."
+            "text": "$(li)The Yak is a creature similar to the $(l:patchouli:creatures/vanilla/cow)Cow$(/l) that can be found in $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l).$(br)$(li)It can be right clicking while you are holding an $(l:patchouli:tools/vanilla/bucket)Empty Bucket$(/l) to get a $(l:patchouli:tools/vanilla/milk_bucket)Bucket of Milk$(/l).$(br)$(li)You can right click on one Yak while you are holding a $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand to obtain $(l:patchouli:miscellaneous/environmental/yak_hair)Yak Hair$(/l)."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Yaks may drop Raw Beef or Yak Hair on death."
+            "text": "$(li)Yaks may drop Raw Beef and $(l:patchouli:miscellaneous/environmental/yak_hair)Yak Hair$(/l) on death."
         }
              ]
 }

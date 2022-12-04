@@ -1,0 +1,19 @@
+{    
+    "name": "Elder Eye",
+    "icon": "upgrade_aquatic:elder_eye",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "upgrade_aquatic:elder_eye",
+            "text": "$(li)The Elder Eye is a block that can be placed in any direction and underwater.$(br)$(li)When any entity, except $(l:patchouli:decoration/vanilla/painting)Paintings$(/l) and $(l:patchouli:decoration/quark/item_frame)Item Frames$(/l) is within 15 blocks of where it is facing, it will create a strong redstone signal from all sides.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can toggle the Elder Eye on or off right clicking on it."
+        }
+             ]
+}

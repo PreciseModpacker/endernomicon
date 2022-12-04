@@ -1,9 +1,9 @@
 {    
-    "name": "Shield (Shield)",
+    "name": "Shield (Diamond)",
     "icon": "bettershields:diamond_shield",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 17,
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",

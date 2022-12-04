@@ -3,22 +3,23 @@
     "icon": "minecraft:blast_furnace",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:blast_furnace",
-            "text": "$(li)The Blast Furnace is a variant of the Furnace that unlock an specific list of Smelting recipes.",  
+            "text": "$(li)The Blast Furnace is a variant of the $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) that unlock an specific list of Smelting recipes.",  
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/blast_furnace_1.png",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Armorer."
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/armorer)Armorer$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/blast_furnace_2.png",
-            "text": "$(li)To use it, you have to insert fuel like Coal or Blaze Rods in the second slot. Then, you have to add the item to Smelt in the first slot."
+            "text": "$(li)To use it, you have to insert fuel like $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l) or $(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rods$(/l) in the second slot. Then, you have to add the item to Smelt in the first slot."
         },
         {
             "type": "patchouli:text",

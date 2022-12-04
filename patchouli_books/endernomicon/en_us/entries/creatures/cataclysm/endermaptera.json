@@ -1,0 +1,18 @@
+{    
+    "name": "Endermaptera",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Endermapteras are small beetles that can be found in the $(l:patchouli:structures/ruined_citadel)Ruined Cirtadel$(/l) of the End.$(br)$(li)They are aggressive and are usually found in large groups.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/cataclysm/void_jaw)Void Jaw$(/l) on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:endermaptera",
+            "scale": 0.7
+        }
+             ]
+}

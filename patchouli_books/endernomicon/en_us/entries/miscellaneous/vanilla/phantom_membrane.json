@@ -3,17 +3,17 @@
     "icon": "minecraft:phantom_membrane",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:phantom_membrane",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:phantom_membrane",
-            "text": "$(li)Phantom Mebrane can be used to craft Gloomy Tiles, a Ghost Lantern, or a Phantom Armor.$(br)$(li)It can be used to repair a Elytra too in the Anvil.$(br)$(li)Finally, it can be used to brew a Potion of Slow Falling in a Brewing Stand.",
+            "text": "$(li)The Phantom Mebrane is an item that can be used to craft a $(l:patchouli:armors/phantom_armor)Phantom Armor$(/l) or a $(l:patchouli:decoration/charm/lanterns)Ghost Lanterns$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to repair an $(l:patchouli:armors/elytra)Elytra$(/l) too in the $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Finally, it can be used to brew a $(l:patchouli:potions/vanilla/slow_falling)Potion of Slow Falling$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be dropped by a Flare or Phantom.",
+            "text": "$(li)$(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l) or $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
 

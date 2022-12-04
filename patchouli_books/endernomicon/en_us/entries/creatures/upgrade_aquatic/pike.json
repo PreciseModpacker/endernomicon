@@ -1,28 +1,28 @@
 {    
     "name": "Pike",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Pike is a neutral mob that can be found in Swamps and Rivers.$(br2)There are exit different versions of Pikes: $(li)Amur Pike $(li)Redfin Pickerel $(li)Brown Nothren Pike $(li)Mahogany Northern Pike $(li)Jade Northen Pike $(li)Olive Northen Pike $(li)Spectral Pike $(li)Supercharged Pike."
+            "text": "Pikes are neutral creatures that can be found in $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l).$(br2)$(l)  Pike Variants:$() $(br)$(li)Amur Pike $(li)Redfin Pickerel $(li)Brown Nothren Pike $(li)Mahogany Northern Pike $(li)Jade Northen Pike $(li)Olive Northen Pike $(li)Spectral Pike $(li)Supercharged Pike."
         },
         {
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:pike",
             "scale": 0.5,
-            "text": "They will hide in Pickerelweed whick makes them invisible to other fish."
+            "text": "They will hide in $(l)Pickerelweed$() whick makes them invisible to other fish."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They will try to hunt other fishs, except Pufferfish or Lionfish.$(br)$(li)On death, if they were holding an item, they will drop it.$(br)$(li)Also they drop Raw Pike, that can be cooked to get Cooked Pike and they may drop Bone Meal too."
+            "text": "$(li)They will try to hunt other fishes, except $(l:patchouli:creatures/vanilla/pufferfish)Pufferfishes$(/l) or $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfishes$(/l).$(br)$(li)On death, if they were holding an item, they will drop it.$(br)$(li)Also they may drop Raw Pike, that can be cooked to get Cooked Pike and drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) too."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/pike.png",
-            "text": "$(li)When a Pike catch one Fish, it will carry it on its mouth."
+            "text": "$(li)When a Pike catch a prey, it will carry it in its mouth."
         }
              ]
 }

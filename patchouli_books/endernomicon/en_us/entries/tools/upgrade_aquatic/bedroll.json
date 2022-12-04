@@ -3,25 +3,18 @@
     "icon": "upgrade_aquatic:bedroll",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "upgrade_aquatic:bedroll",
-            "text": "$(li)Bedrolls are a new variant of the common Beds.$(br)$(li)Like Beds, Bedrolls can be used to sleep in the night, but they don't set the Spaintpoint.",
+            "text": "$(li)Bedrolls are a new variant of the common $(l:patchouli:utility/vanilla/beds)Beds$(/l).$(br)$(li)Bedrolls can be used to sleep in the night, but they don't set the Spaintpoint.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)Bedrolls can be tinted placing them and dyes in a Crafting Table too."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/bedrolls.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/bedrolls.png",
+            "text": "$(li)Bedrolls can be tinted placing them and dyes in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) too."
         },
         {
             "type": "patchouli:crafting",

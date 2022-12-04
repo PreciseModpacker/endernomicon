@@ -3,6 +3,7 @@
     "icon": "supplementaries:goblet",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",

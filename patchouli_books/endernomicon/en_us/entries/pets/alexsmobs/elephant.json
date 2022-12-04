@@ -7,17 +7,31 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Elephants are neutral creatures that spawns in herds.$(br2)Elephants can be tamed with Acacia Blossoms, but only non-tusker adults can be tamed. However, baby Tusker Elephants can be tamed.$(br2)Elephants can be attracted with Acacia Blossom.$(br2)Elephants are scared of Bees."
+            "text": "$(li)Elephants are neutral creatures that spawns in the $(l:patchouli:biomes/overworld/desert/savanna)Savvannas$(/l) of the Overworld.$(br)$(li)These creatures can be attracted with $(l:patchouli:miscellaneous/alexsmobs/acacia_blossom)Acacia Blossom$(/l).$(br)$(li)Elephants can be tamed with $(l:patchouli:miscellaneous/alexsmobs/acacia_blossom)Acacia Blossom$(/l) too, but only non-tusker adults can be tamed. However, baby Tusker Elephants can be tamed too."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:elephant",
-            "scale": 0.8,
-            "text": "Tamed Elephants will defend their owner but they will not follow them."
+            "scale": 0.8
         },
         {
             "type": "patchouli:text",
-            "text": "They can be equipped with Carpets.$(br2)They can be equipped with chests for a large, 9x6 storage space.$(br2)Elephants can be ridden, like other mounts, by right-clicking on them."
-        }  
+            "text": "$(li)Tamed Elephants will defend their owner but they will not follow them.$(br)$(li)Elephants are scared of $(l:patchouli:creatures/vanilla/bee)Bees$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/elephant_1.png",
+            "text": "$(li)Tamed Elephants can be ridden, without a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) by right-clicking on them."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/elephant_2.png",
+            "text": "$(li)Elephants can be equipped with carpets of different colours."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/elephant_3.png",
+            "text": "$(li)They can be equipped with $(l:patchouli:utility/vanilla/chest)Chests$(/l) for a large 9x6 storage space."
+        }
              ]
 }

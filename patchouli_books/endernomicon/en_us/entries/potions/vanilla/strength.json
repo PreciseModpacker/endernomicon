@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'minecraft:strength'}",
-            "text": "With Strength potions you will do extra damage to the creatures you attack.$(br2)They can be brewed using a Blaze Powder and Awkward Potions as ingredients."
+            "text": "With Strength potions you will do extra damage to the creatures you attack.$(br2)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients."
         },
         {
             "type": "potion",

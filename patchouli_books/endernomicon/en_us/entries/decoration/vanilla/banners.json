@@ -8,11 +8,11 @@
             "type": "patchouli:crafting",
             "title": "Banners",
             "recipe": "minecraft:white_banner",
-            "text": "$(li)Banners are tall decorative blocks that works like the Flags.$(br)$(li)They can be customizated with Dyes and Patterns in the Loom."
+            "text": "$(li)Banners are tall decorative blocks that works like the $(l:patchouli:decoration/supplementaries/flag)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l)$(/l).$(br)$(li)They can be customizated with dyes in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) and $(l:patchouli:decoration/alexsmobs/banner_patterns)Patterns$(/l) in the $(l:patchouli:decoration/alexsmobs/banner_patterns)Loom$(/l)."
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of the Banners"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/banners.png"
         },
         {
             "type": "patchouli:crafting",

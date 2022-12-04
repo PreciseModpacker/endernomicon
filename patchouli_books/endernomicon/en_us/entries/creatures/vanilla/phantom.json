@@ -1,0 +1,19 @@
+{    
+    "name": "Phantom",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Phantoms are flying undead hostile creatures that spawn when you have not slept or died for three or more days.$(br)$(li)They will be flying around you and lashing out at you.$(br)$(li)You can transform this creature into a $(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l) throwing it a $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:phantom",
+            "scale": 0.4,
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membrane$(/l) on death."
+        }
+             ]
+}

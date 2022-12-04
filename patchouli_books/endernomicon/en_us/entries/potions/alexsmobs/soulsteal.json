@@ -2,12 +2,12 @@
     "name": "Soulsteal",
     "icon": "minecraft:potion{Potion:'alexsmobs:soulsteal'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "alexsmobs:alexsmobs/soul_heart",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'alexsmobs:soulsteal'}",
-            "text": "Soulsteal potions will healt you slightly when you deal damage to a creature.$(br2)They can be brewed using a Soul Heart and Awkward potions as ingredients."
+            "text": "$(li)Soulsteal potions will healt you slightly when you deal damage to a creature.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/soul_heart)Soul Heart$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

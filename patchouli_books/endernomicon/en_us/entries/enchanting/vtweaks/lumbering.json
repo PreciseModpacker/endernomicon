@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:lumbering',lvl:1}]}",
-            "text": "$(li)The Lumbering enchantment Axe and Pickarang.$(br)$(li)This enchantment allows to you cut down whole trees. You must to be sneaking while you are cutting the tree to apply this effect.",
+            "text": "$(li)The Lumbering enchantment $(l:patchouli:weapons/wooden_axe)Axe$(/l) and $(l:patchouli:tools/quark/pickarang)Pickarang$(/l).$(br)$(li)This enchantment allows to you cut down whole trees.$(br)$(li)You must to be sneaking while you are cutting the tree to apply this effect.",
             "title": "Lumbering"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be created combining a Golden Axe with a Book and Quill in an Anvil."
+            "text": "$(li)It can be created combining a $(l:patchouli:weapons/gold_axe)Golden Axe$(/l) with a $(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l) in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l)."
         }
              ]
 }

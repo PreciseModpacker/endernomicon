@@ -7,12 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Chicken are small common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Feathers and Raw Chicken on death.$(br)$(li)They can't be tamed, but they can be breed giving them Seeds.$(br)$(li)Randomly, they may drop an Egg."
+            "text": "$(li)Chicken are small common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l)Raw Chicken$() on death.$(br)$(li)They can't be tamed, but they can be breed giving them $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:chicken",
-            "scale": 1
+            "scale": 1,
+            "text": "While they are alive, they will drop a $(l:patchouli:miscellaneous/vanilla/chicken_egg)Chicken Egg$(/l) randomly."
         }
              ]
 }

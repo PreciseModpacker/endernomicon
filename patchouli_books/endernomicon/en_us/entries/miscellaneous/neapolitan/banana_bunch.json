@@ -1,0 +1,15 @@
+{    
+    "name": "Banana Bunch",
+    "icon": "neapolitan:banana_bunch",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:banana_bunch",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:banana_bunch",
+            "text": "$(li)Banana Bunch can be used to attrack and breed $(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzees$(/l).$(br)$(li)They can be obtained breaking $(l:patchouli:miscellaneous/neapolitan/banana_bundle)Banana Bundles$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

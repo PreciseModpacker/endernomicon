@@ -2,8 +2,8 @@
     "name": "Ghost Armor",
     "icon": "extraarmor:ghost_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 25,
+    "advancement": "endernomicon:ghast_tear",
     "pages": [
        {
             "type": "patchouli:text",

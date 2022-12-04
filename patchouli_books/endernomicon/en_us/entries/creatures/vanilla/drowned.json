@@ -1,13 +1,13 @@
 {    
     "name": "Drowned",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Hushes are the aquatic variant of the common Zombies that can be found on Oceans and Rivers.$(br)$(li)When a Zombie drown, it will transform into a Drowned.$(br)$(li)They may drop Rotten Flesh and very rarely a Trident on death."
+            "text": "$(li)Drowneds are the aquatic variant of the $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) that can be found on any kind of ocean and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l).$(br)$(li)When a Zombie drown, it will transform into a Drowned.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l) and very rarely a $(l:patchouli:weapons/trident)Trident$(/l) on death."
         },
         {
             "type": "patchouli:entity",

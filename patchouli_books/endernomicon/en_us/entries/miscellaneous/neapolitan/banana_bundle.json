@@ -1,0 +1,15 @@
+{    
+    "name": "Banana Bundle",
+    "icon": "neapolitan:banana_bundle",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:banana_bunch",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:banana_bundle",
+            "text": "$(li)Banana Bundles can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)If you break a Banana Bundle, it will drop $(l:patchouli:miscellaneous/neapolitan/banana_bunch)Banana Bunch$(/l), but an aggressive $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l) may appears too",
+            "link_recipe": "true"
+        }
+             ]
+}

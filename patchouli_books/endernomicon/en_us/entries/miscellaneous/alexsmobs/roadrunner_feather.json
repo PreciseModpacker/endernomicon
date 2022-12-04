@@ -3,12 +3,12 @@
     "icon": "alexsmobs:roadrunner_feather",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:roadrunner_feather",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:roadrunner_feather",
-            "text": "$(li)Roadrunner Feathers can be used to craft a Falconry Hood or a Roadrunner Boots.$(br)$(li)They can only be dropped by Roadrunners.",
+            "text": "$(li)The Roadrunner Feather is an item that can be used to craft a $(l:patchouli:pets/alexsmobs/falconry_hood)Falconry Hood$(/l) or a $(l:patchouli:armors/roadrunner_boots)Roadrunner Boots$(/l).$(br)$(li)This item can only be dropped by a $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunner$(/l) on death.",
             "link_recipe": "true"
         }
              ]

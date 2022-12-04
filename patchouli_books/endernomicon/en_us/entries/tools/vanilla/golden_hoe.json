@@ -1,0 +1,22 @@
+{    
+    "name": "Hoe (Golden)",
+    "icon": "minecraft:golden_hoe",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_hoe",
+            "text": "$(li)The Golden Hoe is the worst hoe that you can have because its durability is the lowest compared to other hoes." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Golden Hoe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:golden_hoe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "You can right click in a Grass or Dirt block while you are holding it in your hand to create Farmland."
+        }
+             ]
+}

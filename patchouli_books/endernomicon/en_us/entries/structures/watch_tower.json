@@ -1,0 +1,17 @@
+{    
+    "name": "Watch Tower",
+    "icon": "endermonicon:textures/book/categories/structures.png",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Just an abandoned watch tower that can be found over the Overworld.$(br)$(li)Nobody knows who inhabited this tower."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/watch_tower.png"
+        }
+             ]
+}

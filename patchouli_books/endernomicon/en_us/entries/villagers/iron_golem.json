@@ -1,0 +1,35 @@
+{    
+    "name": "Iron Golem",
+    "icon": "minecraft:iron_block",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Iron Golem is a powerful and big neutral mob that will defend $(l:patchouli:villagers/villager)Villagers$(/l) from aggressive creatures.$(br)$(li)They can be made with four $(l:patchouli:utility/vanilla/iron_block)Iron Blocks$(/l) and one $(l:patchouli:miscellaneous/vanilla/pumpkin)Carved Pumpkin$(/l) or found in the $(l:patchouli:villagers/villagers)Villages$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l) and $(l)Poppies$()."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:iron_golem",
+            "scale": 1
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Iron Golem",
+            "multiblock": {
+                "pattern": [
+                    [ " P " ],
+                    [ "I0I" ],
+                    [ " I " ]
+                ],
+                "mapping": {
+                    "I": "minecraft:iron_block",
+                    "P": "minecraft:carved_pumpkin[facing=west]",
+                    "0": "minecraft:iron_block"
+                 },
+                 "symmetrical": true
+            }
+        }
+             ]
+}

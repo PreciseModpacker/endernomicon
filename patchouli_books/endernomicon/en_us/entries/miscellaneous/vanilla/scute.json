@@ -2,13 +2,13 @@
     "name": "Scute",
     "icon": "minecraft:scute",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:scute",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:scute",
-            "text": "$(li)The Scute is a rare item that can be used to craft new blocks like Scute Shingles, Scute Pavement, or Scute Block. It can be used to craft a Turtle Shell too.$(br)$(li)The Scute can only be drop by Turtles when they grow into adults.",
+            "text": "$(li)The Scute is a rare item that can be used to craft new blocks like the $(l)Scute Shingles$(), $(l)Scute Pavement$(), or $(l)Scute Block$().$(br)$(li)It can be used to craft a $(l:patchouli:armors/turtle_shell)Turtle Shell$(/l) too.$(br)$(li)When baby $(l:patchouli:creatures/vanilla/turtle)Turtles$(/l) grows, they maybe drop this item.",
             "link_recipe": "true"
         },
         {

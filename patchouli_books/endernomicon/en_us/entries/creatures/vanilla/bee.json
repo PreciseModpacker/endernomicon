@@ -1,0 +1,19 @@
+{    
+    "name": "Bee",
+    "icon": "minecraft:bee_nest",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Bees are flying neutral creatures that can be found near of $(l:patchouli:utility/vanilla/bee_nest)Bee Nests$(/l) and $(l:patchouli:utility/vanilla/beehive)Beehives$(/l).$(br)$(li)They fly around their nests, and are attracted to flowers, collecting their pollen, except if they are on $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l).$(br)$(li)Finally Bees fly back into their nests to generate honey."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:bee",
+            "scale": 1,
+            "text": "Bees will attack if you try to collect $(l:patchouli:miscellaneous/vanilla/honeycomb)Honeycomb$(/l) or $(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l), attacking and $(l:patchouli:potions/vanilla/poison)poisoning$(/l) you in the process."
+        }
+             ]
+}

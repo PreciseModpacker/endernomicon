@@ -2,8 +2,8 @@
     "name": "Glowstone Armor",
     "icon": "extraarmor:glowstone_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 16,
+    "advancement": "endernomicon:glowstone_dust",
     "pages": [
        {
             "type": "patchouli:text",

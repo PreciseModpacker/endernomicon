@@ -7,13 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:glass_pane",
-            "text": "$(li)The Glass Panes are transparent decorative blocks.$(br)$(li)They are a good alternative of the Glass Blocks.$(br)$(li)They can be added in a lot of Slabs and Stairs.",
+            "text": "$(li)The Glass Panes are transparent decorative blocks.$(br)$(li)They are a good alternative of the $(l:patchouli:decoration/others/glass)Glass Blocks$(/l).$(br)$(li)They can be added in the most of $(l)Slabs$() and $(l:patchouli:decoration/others/stairs)Stairs$(/l).",
             "link_recipe": "true",
             "title": "Glass Panes"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Glass Panes"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/glass_pane.png"
         },
         {
             "type": "patchouli:crafting",

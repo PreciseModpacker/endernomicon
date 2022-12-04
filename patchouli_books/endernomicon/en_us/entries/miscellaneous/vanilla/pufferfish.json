@@ -1,0 +1,24 @@
+{    
+    "name": "Pufferfish",
+    "icon": "minecraft:pufferfish",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:pufferfish",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:pufferfish",
+            "text": "$(li)The Pufferfish is an item that can be used to brew a $(l:patchouli:potions/vanilla/water_breathing)Potion of Water Breathing$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)It can be used to craft $(l:patchouli:decoration/charm/lanterns)Pufferfish Lanterns$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Effects when eaten",
+            "text": "$(li)$(l)Hunger$(), reducing your saturation bar quickly than normal.$(br)$(li)$(l:patchouli:potions/vanilla/poison)Poison$(/l), inflicting you extra damage until you have one half of heart of life.$(br)$(li)$(l)Nausea$(), making you harder to see."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l), and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/fisherman)Fishermans$(/l) will exchange their $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by this item."
+        }
+             ]
+}

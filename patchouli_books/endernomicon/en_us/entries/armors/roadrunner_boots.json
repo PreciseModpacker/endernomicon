@@ -2,8 +2,8 @@
     "name": "Roadrunner Boots",
     "icon": "alexsmobs:roadrunner_boots",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 26,
+    "advancement": "endernomicon:roadrunner_feather",
     "pages": [
        {
             "type": "patchouli:crafting",

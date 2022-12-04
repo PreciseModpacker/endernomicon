@@ -2,8 +2,8 @@
     "name": "Blood sprayer",
     "icon": "alexsmobs:blood_sprayer",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 5,
+    "advancement": "endernomicon:blood_sac",
     "pages": [
         {
             "type": "patchouli:crafting",

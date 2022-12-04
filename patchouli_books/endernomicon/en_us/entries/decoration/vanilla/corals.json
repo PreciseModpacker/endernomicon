@@ -8,8 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:fire_coral",
-            "text": "$(li)Corals are a new kind of decoration block that can be found in the Coral Reefs.$(br)$(li)They can be dropped by Coral Squids too.",
+            "text": "$(li)Corals are a new kind of decoration block that can be found in the $(l:patchouli:structures/coral_reefs)Coral Reefs$(/l).$(br)$(li)They can be dropped by $(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) too.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/coral.png"
         },
         {
             "type": "patchouli:spotlight",

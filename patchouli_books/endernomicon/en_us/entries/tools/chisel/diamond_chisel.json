@@ -3,7 +3,7 @@
     "icon": "chisel:diamond_chisel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -12,24 +12,34 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can left click click on any Chisel compatible block to convert it into a Chiseled version.$(br)$(li)If you shift left click, the Chiseled block will rollback."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_1.png",
+            "text": "$(li)If you right click while you have the Diamond Chisel in your hand, you will see four Chisel modes in the interface."
         },
         {
-            "type": "patchouli:text",
-            "text": "If you right click while you have the Diamond Chisel in your hand, you will see new modes in the GUI:$(br)$(li)Single: Chisel a single Block$(li)Panel: Chisel a 3x3 square of blocks$(li)Column: Chisel a 3x1 column of blocks$(li)Row: Chisel a 1x3 row of blocks.$(br2)This modes allows to you to Chisel more blocks when you left click in one block."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_2.png",
+            "text": "$(li)Single: Chisel a single Block."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": true
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_3.png",
+            "text": "$(li)Panel: Chisel blocks in a 3x3 square area."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_4.png",
+            "text": "$(li)Column: Chisel blocks in a 3x1 area."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_5.png",
+            "text": "$(li)Row: Chisel blocks in a 1x3 area."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_6.png",
+            "text": "$(li)These modes allows to you to Chisel more blocks when you left click in one block."
         }
              ]
 }

@@ -1,0 +1,17 @@
+{
+    "name": "Inventory Swap",
+    "icon": "minecraft:chest",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can swap your inventory hotbat quickly.$(br)$(li)First you have to press the Z key on your keyboard.$(br)$(li)Then you have to press the key 1, 2, or 3 to select the desired inventory column what do you want to become your new hotbar." 
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/inventory_swap.png"
+        }
+             ]
+}

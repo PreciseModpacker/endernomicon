@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: May 10, 2022 10:54:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Oct 20, 2022 1:10:28 AM
 
 #minecraft:lava
 - minecraft:lava
@@ -7,8 +7,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 #minecraft:water
 - minecraft:water
 - minecraft:flowing_water
-- restored_earth:mud
-- restored_earth:flowing_mud
 
 #forge:milk
 - minecraft:milk?

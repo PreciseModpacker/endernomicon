@@ -13,7 +13,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/lever.png",
-            "text": "$(li)This item can be used to craft Lanterns in a Crafting Table too."
+            "text": "$(li)This item can be used to craft Lanterns in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too."
         }
              ]
 }    

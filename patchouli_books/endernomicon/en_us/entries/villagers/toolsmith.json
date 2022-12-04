@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Toolsmith is very skillful creating tools.$(br)$(li)It will trade you Bells, Shovels, Pickaxes or Axes for Emeralds and vice versa.$(br)$(li)A Villager can get the Toolsmith profession if is near of a Smithing Table."
+            "text": "$(li)The Toolsmith is very skillful creating tools.$(br)$(li)It will trade you $(l:patchouli:decoration/vanilla/bell)Bells$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovels$(/l), $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxes$(/l), or $(l:patchouli:weapons/wooden_axe)Axes$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Toolsmith profession if is near of a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)."
         },
         {
             "type": "patchouli:entity",

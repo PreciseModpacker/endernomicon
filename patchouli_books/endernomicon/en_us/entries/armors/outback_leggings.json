@@ -2,8 +2,8 @@
     "name": "Outback Leggings",
     "icon": "alexsmobs:emu_leggings",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 10,
+    "advancement": "endernomicon:emu_feather",
     "pages": [
        {
             "type": "patchouli:crafting",

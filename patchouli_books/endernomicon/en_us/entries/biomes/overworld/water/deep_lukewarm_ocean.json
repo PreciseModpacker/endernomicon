@@ -7,16 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Deep Lukewarm Ocean is a variant of the Lukewarm Ocean biome that can be found in the Overworld.$(br)$(li)The terrain of this place is composed mainly by Sand blocks. $(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
+            "text": "$(li)The Deep Lukewarm Ocean is a variant of the $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Ocean$(/l) that can be found in the Overworld.$(br)$(li)The terrain of this place is composed mainly by Sand blocks. $(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Dolphins, Squids, Cods, Pufferfishes, Tropical Fishes, Frilled Sharks and Hammerhead Sharks can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Deep Lukewarm Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfishes$(/l), Tropical Fishes, $(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Sharks$(/l), and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Deep Lukewarm Ocean$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:deep_lukewarm_ocean"
-#        },
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/deep_lukewarm_ocean.png"

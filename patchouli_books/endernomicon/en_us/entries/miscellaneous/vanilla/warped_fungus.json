@@ -3,17 +3,17 @@
     "icon": "minecraft:warped_fungus",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:warped_fungus",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:warped_fungus",
-            "text": "$(li)Warped Fungus is a type of fungus that is commonly generated in Warped Forests.$(br)$(li)It can also be found in Crimson Forests.$(br)$(li)Warpbeetle can drop a Warped Fungus too.",
+            "text": "$(li)The Warped Fungus is a type of fungus that is commonly generated in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) and rarely in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)$(l:patchouli:creatures/infernalexp/warpbeetle)Warpbeetles$(/l) may drop this item on death too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to scared away Hoglins or attract Striders.$(br)$(li)With Warped Fungus mainly you can craft a Warped Fungus on a Stick, a Fungus & Tongue Stew."
+            "text": "$(li)It can be used to scared away $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l).$(br)$(li)It can be used to attract $(l:patchouli:pets/vanilla/strider)Striders$(/l) too.$(br)$(li)You can use Warped Fungus to craft a $(l:patchouli:pets/vanilla/warped_fungus_on_a_stick)Warped Fungus on a Stick$(/l) and a $(l)Fungus & Tongue Stew$()."
         }
              ]
 }

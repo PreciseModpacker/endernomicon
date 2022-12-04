@@ -1,0 +1,15 @@
+{    
+    "name": "Wither Skeleton Skull",
+    "icon": "minecraft:wither_skeleton_skull",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/get_wither_skull",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:wither_skeleton_skull",
+            "text": "$(li)The Wither Skeleton Skull is a placeable block that can be used in the ritual of the $(l:patchouli:bosses/rumor_wither)Wither$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l) may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

@@ -3,16 +3,17 @@
     "icon": "minecraft:quartz_block",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:nether_quartz",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:quartz_block",
-            "text": "$(li)Quartz Block is a new decorative block.$(br)$(li)It can be used to save Quartz in a more efficient way.$(br)$(li)Masons will exchange your Emeralds by Quartz Blocks.",  
+            "text": "$(li)Quartz Block is a new decorative block that it can be used to save $(l:patchouli:miscellaneous/vanilla/nether_quartz)Nether Quartz$(/l) in a more efficient way.$(br)$(li)$(l:patchouli:villagers/mason)Masons$(/l) will exchange Quartz Blocks by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",  
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can use Quartz blocks to craft Quartz Pillars, Quartz Walls, Quartz Bricks, Quartz Slabs, or Quartz Stairs in a Crafting Table.$(br)$(li)You can make a Smooth Quartz Block Smelting a Block of Quartz in a Furnace, Baking, or Kiln.$(br)$(li)You can place it in a Stonecutter to make new decorative blocks."
+            "text": "$(li)You can use Quartz blocks to craft Quartz Pillars, Quartz Walls, Quartz Bricks, Quartz Slabs, or Quartz Stairs in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)You can make a Smooth Quartz Block Smelting a Block of Quartz in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), or $(l:patchouli:utility/charm/kiln)Kiln$(/l).$(br)$(li)You can place it in a $(l:patchouli:utility/vanilla/stonecutter)Stonecutter$(/l) to make new decorative blocks."
         }
              ]
 }

@@ -2,8 +2,8 @@
     "name": "Snow Armor",
     "icon": "extraarmor:snow_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:snow",
     "pages": [
         {
             "type": "patchouli:text",

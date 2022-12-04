@@ -3,16 +3,23 @@
     "icon": "supplementaries:netherite_door",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_ancient_debris",
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:netherite_trapdoor",
+            "type": "smithing_table",
+            "title": "Netherite Door",
+            "input": "supplementaries:gold_door",
+            "input2": "minecraft:netherite_scrap",
+            "output": "supplementaries:netherite_door",
             "text": "$(li)The Netherite Door by default can be accesible to anyone.$(br)$(li)As $(l:patchouli:utility/supplementaries/lock_block)Lock Blocks$(/l), they can be locked with a $(l:patchouli:tools/supplementaries/key)Key$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:netherite_trapdoor",
+            "type": "smithing_table",
+            "title": "Netherite Trapdoor",
+            "input": "supplementaries:gold_trapdoor",
+            "input2": "minecraft:netherite_scrap",
+            "output": "supplementaries:netherite_trapdoor",
             "text": "$(li)The Netherite Trapdoor by default can be accesible to anyone.$(br)$(li)As $(l:patchouli:utility/supplementaries/lock_block)Lock Blocks$(/l), they can be locked with a $(l:patchouli:tools/supplementaries/key)Key$(/l).",
             "link_recipe": "true"
         },

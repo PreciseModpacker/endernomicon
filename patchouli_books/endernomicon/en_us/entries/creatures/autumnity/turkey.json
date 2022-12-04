@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Turkey is a large bird that can be found in the Maple Forest.$(br)$(li)You can bred them using Foul Berries.$(br)$(li)It may drops Feathers and Raw Turkey on death."
+            "text": "$(li)The Turkey is a large bird that can be found in the $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forest$(/l).$(br)$(li)You can bred them giving $(l:patchouli:miscellaneous/autumnity/foul_berry)Foul Berries$(/l) to them.$(br)$(li)It may drops Feathers and Raw Turkey on death."
         },
         {
             "type": "patchouli:entity",

@@ -8,12 +8,19 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:tweaks/crafting/utility/tools/stone_shovel",
-            "text": "$(li)The Stone Shovel is the direct upgrade of the Wooden Shovel.$(br)$(li)It has a greater durability than the Wooden Shovel." ,
+            "text": "$(li)The Stone Shovel is the direct upgrade of the $(l:patchouli:tools/vanilla/wooden_shovel)Wooden Shovel$(/l).$(br)$(li)It has a greater durability than the last one." ,
             "link_recipe": "true"
         },
         {
+            "type": "patchouli:entity",
+            "name": "Stone Shovel",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:stone_shovel,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "It can be used to create Grass Path right clicking on Dirt and Grass Block and obtain Snow Balls digging Snow Blocks."
+        },
+        {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to create Grass Path and obtain Snow.$(br)$(li)Toolsmiths will exchange your Emeralds by Stone Shovels." 
+            "text": "$(li)$(l:patchouli:villagers/toolsmith)Toolsmiths$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Stone Shovels." 
         }
              ]
 }

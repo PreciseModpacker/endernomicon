@@ -2,13 +2,13 @@
     "name": "Bottle (Milk)",
     "icon": "neapolitan:milk_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "neapolitan:milk/milk_bucket_from_bottles",
-            "text": "$(li)The Milk Bottle is a drinkable item that can be used to remove any kind of potion effect that you have.$(br)$(li)Milk Bottles can be used in multiples food recipes in a Crafting Table.",
+            "text": "$(li)The Milk Bottle is a drinkable item that can be used to remove any kind of potion effect that you have.$(br)$(li)Milk Bottles can be used in multiples food recipes in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
             "link_recipe": "true"
         },
         {

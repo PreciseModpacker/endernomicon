@@ -1,0 +1,18 @@
+{    
+    "name": "Perch",
+    "icon": "upgrade_aquatic:perch",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Perchs are fishes that can be found in the $(l:patchouli:biomes/overworld/water/marsh)Marsh$(/l) and $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l) of the Overworld.$(br)$(li)They may drop $(l)Raw Perch$() on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "upgrade_aquatic:perch",
+            "scale": 1
+        }
+             ]
+}

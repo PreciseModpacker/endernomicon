@@ -11,9 +11,17 @@
             "link_recipe": "true"
         },
         {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/painting.png"
+        },
+        {
             "type": "patchouli:crafting",
             "recipe": "infernalexp:crafting/crafting_shaped/infernal_painting",
-            "text": "$(li)The Infernal Painting is a variant of the common Paintings.$(br)$(li)They have a gold color frame and new designs than common Paintings."
+            "text": "$(li)The Infernal Painting is a variant of the Painting.$(br)$(li)It has a gold color frame and new designs."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/infernal_painting.png"
         }
              ]
 }

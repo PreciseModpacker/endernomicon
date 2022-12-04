@@ -1,0 +1,15 @@
+{    
+    "name": "Phantoplasm",
+    "icon": "meetyourfight:phantoplasm",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:phantoplasm",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "meetyourfight:phantoplasm",
+            "text": "$(li)The Phantoplasm is an item that can only be dropped by the $(l:patchouli:bosses/bellringer)Bellringer$(/l).$(br)$(li)It can be used to craft the $(l:patchouli:tools/meet_your_fight/spectre_eye)Spectre's Eye$(/l), an $(l)Aether-Glazed Cupcake$(), the $(l:patchouli:tools/meet_your_fight/passage_toll)Passage's Toll$(/l), a Music Disc and the $(l:patchouli:tools/meet_your_fight/spectre_grasp)Spectre's Grasp$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

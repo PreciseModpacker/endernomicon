@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Mimicubes are creatures similar to slime that can be found guarding End Cities of the End.$(br)$(li)When attacked, they will mimic the weapons and armor of their attacker.$(br)$(li)That means they will can learn to use a shield, sword, bow, crossbow, trident, food and more."
+            "text": "$(li)Mimicubes are creatures similar to slime that can be found guarding $(l:patchouli:structures/end_city)End Cities$(/l) of the End.$(br)$(li)When attacked, they will mimic the weapons and armor of their attacker.$(br)$(li)That means they can learn how to use a $(l:patchouli:weapons/shield)Shield$(/l), $(l:patchouli:weapons/woorden_sword)Sword$(/l), $(l:patchouli:weapons/bow)Bow$(/l), $(l:patchouli:weapons/crossbow)Crossbow$(/l), $(l:patchouli:weapons/trident)Trident$(/l), food and more."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:mimicube",
             "scale": 0.7,
-            "text":"Mimicubes may drop Mimicreams on death."
+            "text":"Mimicubes may drop $(l:patchouli:miscellaneous/alexsmobs/mimicream)Mimicreams$(/l) on death."
         }
              ]
 }

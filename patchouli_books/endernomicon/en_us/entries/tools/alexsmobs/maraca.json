@@ -3,25 +3,17 @@
     "icon": "alexsmobs:maraca",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    #"advancement": "endernomicon:rattlesnake_rattle",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:maraca",
-            "text": "$(li)The Maraca can be given to a $(l:patchouli:pets/alexsmobs/cockroach)Cockroach$(/l) to make it dance.",
+            "text": "$(li)You can use the Maraca right clicking while you are holding it in your hand to produce a curious music sound.$(br)$(li)The Maraca can be given to a $(l:patchouli:creatures/alexsmobs/cockroach)Cockroach$(/l) to make it dance.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": true
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/maracas.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/maraca.png"
         }
              ]
 }

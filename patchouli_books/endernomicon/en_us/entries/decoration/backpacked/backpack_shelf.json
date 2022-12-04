@@ -7,13 +7,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "backpacked:oak_backpack_shelf",
-            "text": "$(li)The Backpack Shelfs allows you to place your $(l:patchouli:tools/backpacked/backpack)Backpack$(/l).",
+            "text": "$(li)The Backpack Shelfs allows you to place your $(l:patchouli:perks/backpack)Backpack$(/l).$(br)$(li)You can access to the inventory of your placed $(l:patchouli:perks/backpack)Backpack$(/l) right clicking on it.$(br)$(li)You can equip your backpack shift right cliking on it.",
             "link_recipe": "false",
             "title": "Backpack Shelf"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Backpack Shelfs."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/backpack_shelf.png"
         },
         {
             "type": "patchouli:crafting",

@@ -1,0 +1,20 @@
+{    
+    "name": "Banana",
+    "icon": "alexsmobs:banana",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:alexsmobs/banana",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:banana",
+            "text": "$(li)The Banana is an eatable item that can be used to craft $(l)Strawberry Banana Smoothie$(), $(l)Banana Ice Cream$(), $(l)Banana Bread$(), $(l)Banana Cake$(), $(l)Banana Milkshake$() or $(l)Bananaarrow$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can be used to tame $(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "neapolitan:banana/dried_banana",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)The Dried Banana gives you ten seconds of the Agility effect, giving you the hability to climb walls."
+        }
+             ]
+}

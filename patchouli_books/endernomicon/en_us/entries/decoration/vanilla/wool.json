@@ -1,0 +1,163 @@
+{    
+    "name": "Wool",
+    "icon": "minecraft:white_wool",
+    "category": "patchouli:decoration",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:white_wool_from_string",
+            "text": "$(li)The Wool is a fluffy material that can be obtained from the $(l:patchouli:creatures/vanilla/sheep)Sheeps$(/l) and $(l:patchouli:villagers/shepherd)Shepherds$(/l) will exchange it by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)It can be used to craft multiple items in the $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/wool.png",
+            "text": "$(li)This block can be dyed in multiple colors."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/white_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/white",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/orange_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/orange",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/magenta_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/magenta",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/light_blue_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/light_blue",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/yellow_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/yellow",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/lime_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/lime",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/pink_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/pink",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/gray_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/gray",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/light_gray_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/light_gray",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/cyan_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/cyan",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/purple_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/purple",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/blue_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/blue",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/brown_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/brown",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/green_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/green",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/red_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/red",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tweaks/crafting/utility/wool/black_wool",
+            "recipe2": "inspirations:cauldron/bottle/wool/black",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/white_quilted_wool",
+            "recipe2": "quark:building/crafting/orange_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/magenta_quilted_wool",
+            "recipe2": "quark:building/crafting/light_blue_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/yellow_quilted_wool",
+            "recipe2": "quark:building/crafting/lime_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/pink_quilted_wool",
+            "recipe2": "quark:building/crafting/gray_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/light_gray_quilted_wool",
+            "recipe2": "quark:building/crafting/cyan_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/purple_quilted_wool",
+            "recipe2": "quark:building/crafting/blue_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/brown_quilted_wool",
+            "recipe2": "quark:building/crafting/green_quilted_wool",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/red_quilted_wool",
+            "recipe2": "quark:building/crafting/black_quilted_wool",
+            "link_recipe": "true"
+        }
+             ]
+}

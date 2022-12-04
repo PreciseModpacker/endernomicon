@@ -2,13 +2,13 @@
     "name": "Ink Sac",
     "icon": "minecraft:ink_sac",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:ink_sac",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:ink_sac",
-            "text": "$(li)The Ink Sac is a item that can be used to craft Book and Quills, Black Dye, and Dark Prismarine.$(br)$(li)Squids and Mimic Octopus may drops this material when they are slayed.$(br)$(li)Librarians will Exchange Ink Sacs by Emeralds.",
+            "text": "$(li)The Ink Sac is an item that can be used to craft the $(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l), $(l)Black Dye$(), and $(l)Dark Prismarine Blocks$().$(br)$(li)$(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/librarian)Librarians$(/l) will exchange Ink Sacs by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         }
              ]

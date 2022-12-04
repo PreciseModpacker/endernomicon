@@ -1,0 +1,20 @@
+{    
+    "name": "Netherite Monstrosity",
+    "icon": "cataclysm:monstrous_helm",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "cataclysm:kill_monstrosity",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Netherite Monstrosity is an ancestral golem that can be found in the $(l:patchouli:structures/soul_black_smith)Soul Black Smith$(/l).$(br)$(li)It will attack you with low-ranged attacks, or shooting lava when you are too away and it is able to heal itself sucking out lava.$(br)$(li)Once it reaches 33% health, it becomes enraged, attacking more often and catching fire."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:netherite_monstrosity",
+            "scale": 0.75,
+            "offset": 0.2,
+            "text": "It drops a $(l:patchouli:miscellaneous/cataclysm/monstrous_horn)Monstruos Horn$(/l), the $(l:patchouli:weapons/infernal_forge)Infernal Forge$(/l) and rarely a Music Disc on death."
+        }
+             ]
+}

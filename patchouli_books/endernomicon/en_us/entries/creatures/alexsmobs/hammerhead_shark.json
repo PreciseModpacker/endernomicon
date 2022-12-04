@@ -1,13 +1,13 @@
 {    
     "name": "Hammerhead Shark",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Hammerhead Sharks are neutral fishes that like to live in warmer waters.$(br)$(li)They will only attack any creature that is beneath half health and their special preys: tropical fish and squids.$(br)$(li)Occasionally, when attacking prey, the Hammerhead may loose one Shark Tooth."
+            "text": "$(li)Hammerhead Sharks are neutral fishes that like to live in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l).$(br)$(li)They will only attack any creature that is beneath half health and their special preys: $(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fishes$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l).$(br)$(li)Occasionally, when attacking prey, the Hammerhead may drops one of its $(l:patchouli:miscellaneous/alexsmobs/shark_tooth)Shark Tooth$(/l)."
         },
         {
             "type": "patchouli:entity",

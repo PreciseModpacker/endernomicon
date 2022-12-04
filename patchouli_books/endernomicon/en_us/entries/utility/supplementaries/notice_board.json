@@ -8,23 +8,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:notice_board",
-            "text": "$(li)The Notice Board allows you insert it different items to show text, draws, or maps.$(br)$(li)You can interact with it using Hoppers.",
+            "text": "$(li)The Notice Board allows you to insert into it different items to show text, draws, or $(l:patchouli:tools/vanilla/map)maps$(/l).$(br)$(li)You can interact with this block using a $(l:patchouli:redstone/vanilla/hopper)$(l:patchouli:redstone/vanilla/hopper)Hopper$(/l)$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/notice_board_1.png",
-            "text": "$(li)You can insert a Book and Quill with writted text in its first page to show it."
+            "text": "$(li)You can insert a $(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l) with writted text in its first page to show it."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/notice_board_2.png",
-            "text": "$(li)You can insert a Map into the Notice Board. This one will show it like an Item Frame."
+            "text": "$(li)You can insert a $(l:patchouli:tools/vanilla/map)Map$(/l) into the Notice Board. This one will show it like an $(l:patchouli:decoration/quark/item_frame)Item Frame$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/notice_board_3.png",
-            "text": "$(li)You can insert a Pattern into the Notice Board. This one will show the design of the Pattern inserted."
+            "text": "$(li)You can insert a $(l:patchouli:decoration/alexsmobs/banner_patterns)Pattern$(/l) into the Notice Board. This one will show the design of the Pattern inserted."
         }
              ]
 }

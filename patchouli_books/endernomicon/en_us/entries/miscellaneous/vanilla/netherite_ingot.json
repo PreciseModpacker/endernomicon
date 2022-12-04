@@ -2,30 +2,30 @@
     "name": "Netherite Ingot",
     "icon": "minecraft:netherite_ingot",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:netherite_ingot",
-            "text": "$(li)Netherite ingots are hard processed ingots that can be crafted with Gold Ingots and Netherite Scrap in a Crafting Table.$(br)$(li)They can be found rarely in Loot Chests of the Nether too.",
+            "text": "$(li)Netherite ingots are hard processed ingots that can be crafted with $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) and $(l:patchouli:miscellaneous/vanilla/netherite_scrap)Netherite Scrap$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)They can be found rarely in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the Nether too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "charm:netherite_nuggets/netherite_ingot_from_nuggets",
-            "text": "$(li)Netherite Ingots can be used to craft Netherite Nuggets and viceversa.$(br)$(li)They can be used to craft multiple items in a Crafting Table or Smithing Table.",
+            "text": "$(li)Netherite Ingots can be used to craft $(l)Netherite Nuggets$() and viceversa.$(br)$(li)They can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) or Smithing Table.",
             "link_recipe": "true"
         },
         {
             "type": "text",
             "title": "Armors & Weapons",
-            "text": "$(br)$(l)        Armors$()$(br)$(li)Netherite Armor$(li)Netherite Shield$(li)Netherite Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Netherite Axe$(li)Netherite Sword"
+            "text": "$(br)$(l)        Armors$()$(br)$(li)$(l:patchouli:armors/netherite_armor)Netherite Armor$(/l)$(li)$(l:patchouli:weapons/netherite_shield)Netherite Shield$(/l)$(li)$(l:patchouli:pets/revamped_wolf/netherite_wolf_armor)Netherite Wolf Armor$(/l)$(br2)$(l)        Weapons$()$(br)$(li)$(l:patchouli:weapons/netherite_axe)Netherite Axe$(/l)$(li)$(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l)"
         },
         {
             "type": "text",
             "title": "Tools & Utility",
-            "text": "$(br)$(l)        Tools$()$(br)$(li)Dimensional Carver$(li)Flamarang$(li)Netherite Hoe$(li)Netherite Pickaxe$(li)Netherite Shovel$(li)Straddleboard$(br2)$(l)        Utility$()$(br)$(li)Block of Netherite$(li)Lodestone$(li)Safe"
+            "text": "$(br)$(l)        Tools$()$(br)$(li)$(l:patchouli:tools/alexsmobs/dimensional_carver)Dimensional Carver$(/l)$(li)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_hoe)Netherite Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_pickaxe)Netherite Pickaxe$(/l)$(li)$(l:patchouli:tools/vanilla/netherite_shovel)Netherite Shovel$(/l)$(li)$(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l)$(br2)$(l)        Utility$()$(br)$(li)$(l:patchouli:utility/vanilla/netherite_block)Block of Netherite$(/l)$(li)$(l:patchouli:utility/vanilla/lodestone)Lodestone$(/l)$(li)$(l:patchouli:utility/supplementaries/safe)Safe$(/l)"
         }
              ]
 }

@@ -3,21 +3,25 @@
     "icon": "minecraft:sand",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/tarantula_hawk",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Tarantula Hawk is neither a spider nor a hawk. They are giant wasps that are often found buzzing above desert biomes searching their favourites preys, Spiders.$(br2)Once they find some Spider, they will attack it with their sting, inflict the Debilitating String effect, which paralyzes arthropods. Then it will bury it underground, where it will die after a few minutes."
+            "text": "$(li)Tarantula Hawks are giant wasps that are often found buzzing above the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) searching their favourites preys, $(l:patchouli:creatures/vanilla/spider)Spiders$(/l).$(br)$(li)Once they find their prey, they will attack it with their sting, inflict them the Debilitating String effect, which paralyzes arthropods."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:tarantula_hawk",
             "scale": 0.5,
-            "text": "Tarantula Hawks can be tamed by feeding them 15-25 Spider Eyes. They are formidable defense against many monsters."
+            "text": "Then it will bury it underground, where it will die after a few minutes."
         },
         {
             "type": "patchouli:text",
-            "text": "They can be fred by feeding them Fermented Spider Eyes. Once bred, the wasps will seek out spiders to paralyze - only this time, a baby Tarantula Hawk Grub will emerge from where the spider is buried, after some time it will mature. Tame Tarantula Hawks can be healed with flowers.$(br2)On death, Tarantula Hawk may drop a Tattered Tarantula Hawk Wing, with 9 of those you can create a Tarantula Hawk Wing, with 2 of them you can create a $(l:patchouli:armors/alexsmobs/tarantula_hawk_elytra)Tarantula Hawk Elytra$(/l)."
+            "text": "$(li)They can be bred by feeding them $(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eyes$(/l).$(br)$(li)Once bred, the wasps will seek out spiders to paralyze.$(br)$(li)Only this time, a baby Tarantula Hawk Grub will emerge from where the spider is buried, after some time it will mature."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Tarantula Hawks can be tamed by feeding them 15-25 $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l).$(br)$(li)They are formidable defense against many monsters.$(br)$(li)Tamed Tarantula Hawks can be healed with flowers.$(br)$(li)Tarantula Hawks may drop a $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing_fragment)Tattered Tarantula Hawk$(/l) on death."
         }
              ]
 }

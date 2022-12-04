@@ -7,13 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Endergrades are fluffy flying creatures that can be found in the End. You can find them near Chorus Fruit.$(br2)Using a Saddle and a $(l:patchouli:tools/alexsmobs/chorus_on_a_stick)Chorus Fruit on a Stick$(/l) you can ride them, like a pig on the Overworld.$(br2)They are slow but you can use them to fly on the End, that makes them very useful."
+            "text": "$(li)Endergrades are fluffy flying creatures that can be found near of Chorus Plants in the End.$(br)$(li)Using a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) and a $(l:patchouli:pets/alexsmobs/chorus_on_a_stick)Chorus Fruit on a Stick$(/l) you can ride them, as a $(l:patchouli:creatures/vanilla/pig)Pig$(/l) on the Overworld."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:endergrade",
-            "scale": 0.5,
-            "text": "Be careful! If an $(l:patchouli:mobs/alexsmobs/enderiophage)Enderiophage$(/l) infects an Endergrade, It will die in a few minutes unless it eats a Chrous Fruit."
+            "scale": 0.5
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/endergrade_1.png",
+            "text": "$(li)They are slow but you can use them to fly on the End, that makes them very useful."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/endergrade_2.png",
+            "text": "$(li)If an $(l:patchouli:creatures/alexsmobs/enderiophage)Enderiophage$(/l) infects an Endergrade, it will die in a few minutes unless it eats a $(l:patchouli:miscellaneous/vanilla/chorus_fruit)Chorus Fruit$(/l)."
         }
              ]
 }

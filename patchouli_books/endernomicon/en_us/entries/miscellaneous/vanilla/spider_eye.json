@@ -1,0 +1,19 @@
+{    
+    "name": "Spider Eye",
+    "icon": "minecraft:spider_eye",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:spider_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:spider_eye",
+            "text": "$(li)The Spider Eye is an item that can be used to craft $(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to brew a $(l:patchouli:potions/vanilla/poison)Potion of Poison$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.$(br)$(li)Finally, it can be used to tame $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hawks$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l) or $(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death."
+        }
+             ]
+}

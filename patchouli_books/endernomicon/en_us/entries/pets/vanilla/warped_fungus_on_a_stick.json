@@ -3,17 +3,17 @@
     "icon": "minecraft:warped_fungus_on_a_stick",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:warped_fungus",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:warped_fungus_on_a_stick",
-            "text": "$(li)Warped Fungus on a Stick can be used to control saddled Stridders.$(br)$(li)A Warped Fungus on a Stick can be crafted with a Fishing Rod and a Warped Fungus.",
+            "text": "$(li)Warped Fungus on a Stick can be used to control $(l:patchouli:pets/vanilla/strider)Striders$(/l).$(br)$(li)To ride it, first you have to equip a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to this creature.",
             "title": "Warped F. on a Stick"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)To ride a Strider, first you have to equip a Saddle to the Strider.$(br)$(li)Then, right click to the Strider to ride it.$(br)$(li)Now, just hold the Warped Fungus on a Stick on your hand to make walk your Strider in any direction.$(br)$(li)Thanks to this, you will now be able to move through the lava in the Nether."
+            "text": "$(li)Then, right click to this creature to ride it.$(br)$(li)Now, just hold the Warped Fungus on a Stick in your hand to make walk your Strider in any direction.$(br)$(li)Thanks to this, you will now be able to move through the lava in the Nether."
         }
              ]
 }

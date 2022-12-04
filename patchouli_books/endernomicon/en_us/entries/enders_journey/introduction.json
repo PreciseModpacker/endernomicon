@@ -1,0 +1,32 @@
+{    
+    "name": "Introduction PDT DOCUMENTAR",
+    "icon": "endermonicon:textures/book/categories/book.png",
+    "category": "patchouli:enders_journey",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_1.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_2.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        {
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_3.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}

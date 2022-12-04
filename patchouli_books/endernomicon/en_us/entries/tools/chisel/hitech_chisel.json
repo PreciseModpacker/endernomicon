@@ -8,20 +8,23 @@
         {
             "type": "patchouli:spotlight",
             "item": "chisel:hitech_chisel",
-            "text": "$(li)iChisel is the direct upgrade of the $(l:patchouli:tools/chisel/diamond_chisel)Diamond Chisel$(/l).$(br)$(li)This one has more durability and new features than the last one.$(br)$(li)In the GUI of the iChisel now you have the Preview mode.",
+            "text": "$(li)iChisel is the direct upgrade of the $(l:patchouli:tools/chisel/diamond_chisel)Diamond Chisel$(/l).$(br)$(li)This one has more durability and two new modes than the last one.$(br)$(li)In the interface of the iChisel you have the Preview mode.",
             "link_recipe": "true"
         },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)This function allows you to see the Chiseled version resultant block before convert it.$(br)$(li)In addition, two new modes have been added.$(br)$(li)Contiguous: Chisel an area of alike blocks, extending 10 blocks in any direction$(br)$(li)Contiguous (2D): Chisel an area of alike blocks, extending 10 blocks along the plane of the current side"
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/ichisel_1.png",
+            "text": "$(li)This function allows you to see the Chiseled version resultant block before convert it."
         },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/hitech_chisel.png"
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/ichisel_2.png",
+            "text": "$(li)Contiguous: Chisel an area of alike blocks, extending 10 blocks in any direction."
         },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/ichisel_3.png",
+            "text": "$(li)Contiguous (2D): Chisel an area of alike blocks, extending 10 blocks along the plane of the current side."
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Spectres are ethereal peaceful creatures that can be found in the End.$(br)$(li)They can phase throught blocks and only take magic damage.$(br)$(li)Spectres may be attracted holding a $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Heart$(/l)."
+            "text": "$(li)Spectres are ethereal peaceful creatures that can be found over the End.$(br)$(li)They can phase throught blocks and only take magic damage.$(br)$(li)Spectres may be attracted holding a $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Heart$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
@@ -15,7 +15,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can attach a Lead to a Spectre to travel with it.$(br)$(li)They are fast than $(l:patchouli:creatures/alexsmobs/endergrade)Endergrades$(/l) but the player cannot control where the Spectre travels to.$(br)$(li)Sneaking or interacting with the Lead will detach the player."
+            "text": "$(li)You can attach a $(l:patchouli:pets/vanilla/lead)Lead$(/l) to a Spectre to travel with it.$(br)$(li)They are fast than the $(l:patchouli:pets/alexsmobs/endergrade)Endergrades$(/l) but the player cannot control where the Spectre travels to.$(br)$(li)Sneaking or interacting with the $(l:patchouli:pets/vanilla/lead)Lead$(/l) will make to you let go of it."
         },
         {
             "type": "patchouli:small_pictures",

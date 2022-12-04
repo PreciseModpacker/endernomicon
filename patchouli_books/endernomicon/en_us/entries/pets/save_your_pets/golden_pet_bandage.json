@@ -3,16 +3,13 @@
     "icon": "syp:golden_pet_bandage",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:gold_nugget",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "syp:golden_pet_bandage",
-            "text": "$(li)The Golden Pet Bandage is the upgrade of the common Pet Bandage.$(br)$(li)Just right click your diying pet while you are holding the Golden Pet Bandage on your hand to revive it with with regeneration effect during 20 seconds.",
+            "type": "patchouli:crafting",
+            "recipe": "syp:golden_pet_bandage",
+            "text": "$(li)The Golden Pet Bandage is a upgrade of the $(l:patchouli:pets/save_your_pets/pet_bandage)Pet Bandage$(/l).$(br)$(li)Just right click your diying pet while you are holding this item in your hand to revive it with with regeneration effect during 20 seconds.",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)This item can be crafted placing a Pet Bandage and Gold Nuggets in a Crafting Table.$(br2)Insert a picture of a Flute"
         }
              ]
 }

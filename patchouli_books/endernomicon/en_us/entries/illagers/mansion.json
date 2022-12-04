@@ -1,0 +1,18 @@
+{    
+    "name": "Mansion",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Mansion is a big structure where the civilization of Illagers conduct their experiments that can be found over the Overworld.$(br)$(li)There are multiple variants of this structure depending on the biome where they were built."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/mansion.png",
+            "text": "$(li)Here can be found $(l:patchouli:illagers/vindicator)Vindicators$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), and $(l:patchouli:illagers/evoker)Evokers$(/l), who will not be happy about your visit."
+        }
+             ]
+}

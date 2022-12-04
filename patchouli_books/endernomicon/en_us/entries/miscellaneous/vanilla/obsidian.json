@@ -1,0 +1,20 @@
+{    
+    "name": "Obsidian",
+    "icon": "minecraft:obsidian",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "minecraft:story/form_obsidian",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:obsidian",
+            "text": "$(li)The Obsidian is a hard block that is created when water flows over a lava source and can only be mined with a $(l:patchouli:tools/vanilla/diamond_pickaxe)Diamond Pickaxe$(/l), $(l:patchouli:tools/vanilla/netherite_pickaxe)Netherite Pickaxe$(/l), or $(l:patchouli:tools/end_remastered/end_crystal_pickaxe)End Crystal Pickaxe$(/l).$(br)$(li)This block has a very high blast resistant.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Obsidian Recipes",
+            "text": "$(li)$(l:patchouli:decoration/charm/lanterns)Acidian Lantern$(/l)$(li)$(l:patchouli:utility/vanilla/beacon)Beacon$(/l)$(li)$(l)Diamond to Crystal Chest Upgrade$()$(li)$(l)Diamond to Obsidian Chest Upgrade$()$(li)$(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l)$(li)$(l:patchouli:utility/vanilla/ender_chest)Ender Chest$(/l)$(li)$(l:patchouli:armors/obsidian_armor)Obsidian Armor$(/l)$(li)$(l:patchouli:utility/iron_chest/obsidian_chest)Obsidian Chest$(/l)$(li)$(l:patchouli:redstone/quark/obsidian_pressure_plate)Obsidian Pressure Plate$(/l)"
+        }
+             ]
+}

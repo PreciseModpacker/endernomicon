@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Gravelly Mountains are a variant of the Mountains biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The Gravelly Mountains are like common Mountains, but They are composed of mostly by Gravel, Dirt and Stone."
+            "text": "$(li)The Gravelly Mountains are a variant of the Mountains biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The Gravelly Mountains are a variation of the $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l), they are composed of mostly by Gravel, Dirt and Stone."
         },
         {
             "type": "patchouli:text",

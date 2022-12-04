@@ -1,13 +1,13 @@
 {    
     "name": "Orca",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Orcas are large, aquatic and neutral mammals with black and white blubbery skin that can be found in Cold Oceans of the Overworld.$(br)$(li)They love hunt their preys, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l), they will jump out of the water to attack their prey and even break ice to get to them."
+            "text": "$(li)Orcas are large, aquatic and neutral mammals with black and white blubbery skin that can be found in $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) of the Overworld.$(br)$(li)They love hunt their preys, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l), they will jump out of the water to attack their prey and even break the $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l) to get to them."
         },
         {
             "type": "patchouli:small_pictures",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When you are near of a Orca, you can obtain the rare Orca's Might effect which increases your attack speed."
+            "text": "$(li)When you are near of a Orca, you can obtain the rare $(l)Orca's Might$() effect which increases your attack speed."
         }
              ]
 }

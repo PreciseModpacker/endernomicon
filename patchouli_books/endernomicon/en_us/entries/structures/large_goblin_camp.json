@@ -1,0 +1,17 @@
+{    
+    "name": "Goblin Camp (Large)",
+    "icon": "goblinsanddungeons:urn",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When several $(l:patchouli:structures/medium_goblin_camp)Medium Goblin Camps$(/l) merge, form a larger camp, known as Large Goblin Camps.$(br)$(li)They can be found over the Overworld.$(br)$(li)Do not get too close to them, because the Goblins will attack you desperately protecting their home."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/large_goblin_camp.png"
+        }
+             ]
+}

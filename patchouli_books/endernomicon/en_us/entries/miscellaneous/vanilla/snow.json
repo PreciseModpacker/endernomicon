@@ -1,0 +1,20 @@
+{    
+    "name": "Snow",
+    "icon": "minecraft:snow",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:snowball",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Snow is a block that can be found naturally generated in snowy biomes like $(l:patchouli:biomes/overworld/snow/snowy_beach)Snowy Beaches$(/l), $(l:patchouli:biomes/overworld/snow/snowy_mountains)Snowy Mountains$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), or $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l).$(br)$(li)If you break it while you are holding a $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l) in your hand, it will drop $(l:patchouli:miscellaneous/vanilla/snowball)Snowballs$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/snow_golem)Snow Golems$(/l) generates Snow on the bottom of them.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:snow_block",
+            "text": "$(li)Using $(l:patchouli:miscellaneous/vanilla/snowball)Snowballs$(/l), you can generate Snow Blocks in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)You can use them to craft an $(l:patchouli:armors/snow_armor)Snow Armor$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

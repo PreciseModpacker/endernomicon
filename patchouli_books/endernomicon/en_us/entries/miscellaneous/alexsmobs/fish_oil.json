@@ -3,17 +3,17 @@
     "icon": "alexsmobs:fish_oil",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:blobfish",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:fish_oil",
-            "text": "$(li)You can consume Fish Oil to make you float while you are contact with Water for a minute, that includes Rain too.$(br)$(li)You can use it to craft Copper Lanterns.",
+            "text": "$(li)You can consume Fish Oil to make you float while you are contact with water for a minute, that includes rain too.$(br)$(li)This item can be used to craft $(l)Copper Lanterns$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can give Fish Oil to a Bald Eagle to tame it."
+            "text": "$(li)You can give Fish Oil to a $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagle$(/l) to tame it."
         }
              ]
 }

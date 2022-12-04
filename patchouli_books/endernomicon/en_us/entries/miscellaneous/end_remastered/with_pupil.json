@@ -2,13 +2,18 @@
     "name": "Witch Pupil",
     "icon": "endrem:witch_pupil",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "endrem:witch_pupil",
-            "text": "$(li)The Witch Pupil is a mysterious item that holds corrupted magic in its interior.$(br)$(li)It can be used to craft the Witch Eye in a Crafting Table.",
+            "text": "$(li)The Witch Pupil is a mysterious item that holds corrupted magic in its interior.$(br)$(li)It can be used to craft the $(l:patchouli:enders_journey/ender_eyes)Witch Eye$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item can be found inside of the $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/witch_tower)Witch Tower$(/l), $(l:patchouli:structures/witch_house)Witch Hut$(/l), and $(l:patchouli:structures/witch_tower)Maple Witch Hut$(/l).",
             "link_recipe": "true"
         }
              ]

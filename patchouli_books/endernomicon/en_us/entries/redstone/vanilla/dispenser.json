@@ -3,17 +3,17 @@
     "icon": "minecraft:dispenser",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:dispenser",
-            "text": "$(li)Dispensers as the Droppers can be used to eject items that are saved in its inventory.$(br)$(li)Unlike Droppers, Dispensers will throw specific items, like Arrows or Potions."
+            "text": "$(li)Dispensers as the $(l:patchouli:redstone/vanilla/dropper)Droppers$(/l) can be used to eject items that are saved in its inventory.$(br)$(li)Unlike $(l:patchouli:redstone/vanilla/dropper)Droppers$(/l), Dispensers will throw specific items, like $(l:patchouli:weapons/arrows)Arrows$(/l) or Potions."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/dispenser.png",
-            "text": "$(li)They can work with other tools too, like Buckets and Flint and Steel."
+            "text": "$(li)They can work with other tools too, like a $(l:patchouli:tools/vanilla/bucket)Bucket$(/l) and a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)."
         }
              ]
 }

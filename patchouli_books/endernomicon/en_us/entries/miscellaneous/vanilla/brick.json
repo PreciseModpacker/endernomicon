@@ -2,18 +2,18 @@
     "name": "Brick",
     "icon": "minecraft:brick",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:clay_ball",
     "pages": [
         {
             "type": "patchouli:smelting",
             "recipe": "minecraft:brick",
-            "text": "$(li)The Bricks can be used to craft Flower Pots, Planters, Bricks and Honey Pots.$(br)$(li)You can throw them to your enemies right clicking while you have a Brick in your hand.$(br)$(li)They will inflict half of heart of damage and will push your enemies away too.",
+            "text": "$(li)The Brick can be used to craft $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l), $(l:patchouli:utility/supplementaries/planter)Planters$(/l), $(l)Brick Blocks$() and $(l:patchouli:utility/buzzier_bees/honey_pot)Honey Pots$(/l).$(br)$(li)You can throw them to other creatures right clicking while you have a Brick in your hand.$(br)$(li)They will inflict half of a heart of damage and will push them away too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can obtain Bricks smelting Clay in a Furnace, Baking or Kiln.$(br)$(li)Masons will trade this item in exchange of Emerals too.$(br)$(li)Their throw range is in the middle compared with the Nether Brick (Lowest) and Mud Brick (Largest).",
+            "text": "$(li)You can obtain Bricks smelting $(l)Clay Blocks$() in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)$(l:patchouli:villagers/mason)Masons$(/l) will trade this item in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.$(br)$(li)Their throw range is in the middle compared with the $(l:patchouli:miscellaneous/vanilla/nether_brick)Nether Brick$(/l) (Lowest) and $(l:patchouli:miscellaneous/environmental/mud_brick)Mud Brick$(/l) (Largest).",
             "link_recipe": "true"
         }
              ]

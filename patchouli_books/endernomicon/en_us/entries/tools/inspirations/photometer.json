@@ -3,7 +3,7 @@
     "icon": "inspirations:photometer",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:glowstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -12,8 +12,14 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)Yellow light means that's a safe light level, no monsters can spawn here.$(br)$(li)Red light means that's dangerous light level, so dangerous creatures can spawn there."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/photometer_1.png",
+            "text": "$(li)Yellow light means that's a safe light level, no monsters can spawn here."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/photometer_2.png",
+            "text": "$(li)Red light means that's dangerous light level, so dangerous creatures can spawn there."
         }
              ]
 }

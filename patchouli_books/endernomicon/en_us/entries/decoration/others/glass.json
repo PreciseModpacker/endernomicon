@@ -7,24 +7,24 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:tweaks/crafting/clear_glass",
-            "text": "$(li)The Glass blocks are transparent decorative blocks.$(br)$(li)They can be dyed.$(br)$(li)The Glass Blocks can be crafted placing Glass Shards in a Crafting Table.",
+            "text": "$(li)Glass blocks are transparent decorative blocks that can be useful in multiple constructions.$(br)$(li)These blocks can be dyed in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true",
             "title": "Glass Blocks"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Glass Blocks"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/glass.png"
         },
         {
             "type": "patchouli:smelting",
             "recipe": "minecraft:glass",
             "recipe2": "quark:tweaks/smelting/clean_glass",
-            "text": "$(li)The Glass Blocks can be smelted placing any kind of Sand or a Dirty Glass in a Furnace too."
+            "text": "$(li)Glass Blocks can be smelted placing any kind of sand block in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).$(br)$(li)It can be smelted placing a $(l)Dirty Glass$() in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) too."
         },
         {
             "type": "patchouli:smelting",
             "recipe": "infernalexp:smelting/glass",
-            "text": "$(li)The Glass Blocks can be smelted placing a Basalt Silt in a Furnace too."
+            "text": "$(li)Glass Blocks can be smelted placing a Basalt Silt in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) too."
         },
         {
             "type": "patchouli:crafting",
@@ -257,13 +257,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "infernalexp:crafting/crafting_shaped/quartz_glass",
-            "text": "$(li)The Quartz Glass is just the Quartz version of the common Glass Blocks.",
+            "text": "$(li)The Quartz Glass is just the $(l:patchouli:miscellaneous/vanilla/nether_quartz)Quartz$(/l) version of the $(l)Glass Blocks$().",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:smelting",
             "recipe": "infernalexp:smelting/glow_glass",
-            "text": "$(li)The Glow Glass is the only Glass Block that is a source light too.$(br)$(li)It can be smelted placing a Shimmer Sand inside of a Furnace.",
+            "text": "$(li)The Glow Glass is the only Glass Block that works as a source light too.$(br)$(li)It can be smelted placing a $(l)Shimmer Sand$() inside of a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).",
             "link_recipe": "true"
         }
              ]

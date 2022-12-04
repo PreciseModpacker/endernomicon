@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fortune',lvl:1}]}",
-            "text": "$(li)The Fortune enchantment can be applied in any kind of Pickaxe, Axe, Shovel, Hoe, Pickarang or Flamarang.$(br)$(li)This enchantment makes that ores like Coal, Lapis Lazuli, Redstone, Diamond or Emeralds have a higher possibility of drop more items.",
+            "text": "$(li)The Fortune enchantment can be applied in any kind of $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) or $(l:patchouli:tools/quark/flamarang)Flamarang$(/l).$(br)$(li)The enchanted pickaxe with this enchantment has a greater possibility of drop more items when ores like $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l), $(l:patchouli:miscellaneous/vanilla/diamond)Diamond$(/l), or $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l) are mined.",
             "title": "Fortune"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an Ancient Tome (Fortune)."
+            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_fortune)Ancient Tome (Fortune)$(/l)."
         }
              ]
 }

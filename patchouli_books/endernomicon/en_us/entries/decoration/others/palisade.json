@@ -7,9 +7,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks:oak_palisade",
-            "text": "$(li)Palisades are barrier blocks that cannot be jumped over. Unlike the Fences, you can't see trought Palisades.$(br)$(li)They are a good alternative to build walls.",
+            "text": "$(li)Palisades are barrier blocks that cannot be jumped over.$(br)$(li)Unlike the $(l:patchouli:decoration/others/fences)Fences$(/l), you can not see trought Palisades.",
             "link_recipe": "true",
             "title": "Palisades"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/palisade.png",
+            "text": "$(li)They are a good alternative to build walls."
         },
         {
             "type": "patchouli:crafting",

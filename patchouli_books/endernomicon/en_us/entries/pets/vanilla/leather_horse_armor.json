@@ -3,15 +3,17 @@
     "icon": "minecraft:leather_horse_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:leather_horse_armor",
-            "text": "$(li)The Leather Horse Armor is the most basic armor that you can give to your tamed Horse.$(br)$(li)You can craft this armor with Leather in a Crafting Table.",
+            "text": "$(li)The Leather Horse Armor is the most basic armor that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/horse_leather_armor.png",
             "text": "$(li)While you have the Leather Horse Armor on your hand, just right click on your tamed Horse, then place the Leather Horse Armor in the Armor slot."
         }
              ]

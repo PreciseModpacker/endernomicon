@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Zombies are common undead hostile creatures that can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They may drop Rotten Flesh on death.$(br)$(li)They will start to burn in contact with the sunlight."
+            "text": "$(li)Zombies are common undead hostile creatures that can be found over the Overworld when the night arrives or in places with low illumination.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l) on death.$(br)$(li)They will start to burn in contact with the sunlight."
         },
         {
             "type": "patchouli:entity",

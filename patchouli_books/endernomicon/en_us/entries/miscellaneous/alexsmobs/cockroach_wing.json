@@ -3,12 +3,12 @@
     "icon": "alexsmobs:cockroach_wing",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:cockroach_wing",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "alexsmobs:cockroach_wing",
-            "text": "$(li)Cockroach Wing is a item that can only be used to brew a Potion of Bug Pheromones.$(br)$(li)It can only be obtained by placing 9 Cockroach Wing Fragments in a Crafting Table.",
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:cockroach_wing",
+            "text": "$(li)Cockroach Wing is an item that can only be used to brew a $(l:patchouli:potions/alexsmobs/bug_pheromones)Potion of Bug Pheromones$(/l).",
             "link_recipe": "true"
         }
              ]

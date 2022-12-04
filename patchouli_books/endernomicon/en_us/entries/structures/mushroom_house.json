@@ -1,0 +1,17 @@
+{    
+    "name": "Mushroom House",
+    "icon": "minecraft:brown_mushroom",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:rarest_structure",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Mushroom House is a structure that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l) of the Overworld.$(br)$(li)It is said that some ancient civilization lived in this house, explore it, perhaps there are interesting things left inside."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/mushroom_house.png"
+        }
+             ]
+}

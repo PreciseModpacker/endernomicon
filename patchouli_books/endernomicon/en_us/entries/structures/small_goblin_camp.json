@@ -1,0 +1,17 @@
+{    
+    "name": "Goblin Camp (Small)",
+    "icon": "goblinsanddungeons:urn",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Goblins survive adversity in small settlements known as Small Goblin Camps.$(br)$(li)They can be found over the Overworld.$(br)$(li)Do not get too close to them, because they will attack you desperately protecting their little home."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/small_goblin_camp.png"
+        }
+             ]
+}

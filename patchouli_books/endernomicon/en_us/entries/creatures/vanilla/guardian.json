@@ -1,0 +1,18 @@
+{    
+    "name": "Guardian",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Guardians are pufferfish-like hostile creatures that spawn in and around $(l:patchouli:structures/ocean_monument)Ocean Monuments$(/l).$(br)$(li)This creature will charge a powerful laser that will inflict you damage after charging it for a few seconds.$(br)$(li)You will receive damage if you hit this creature too."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/guardian.png",
+            "text": "$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cods$(/l) or $(l:patchouli:miscellaneous/vanilla/prismarine_crystals)Prismarine Crystals$(/l) on death."
+        }
+             ]
+}

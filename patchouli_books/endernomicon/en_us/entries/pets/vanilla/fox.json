@@ -1,0 +1,19 @@
+{    
+    "name": "Fox",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Foxes are passive animals that can be found in the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taiga$(/l), $(l:patchouli:biomes/overworld/snow/taiga_mountains)Taiga Mounstains$(/l), $(l:patchouli:biomes/overworld/snow/giant_taiga)Giant Taiga$(/l), or in the $(l:patchouli:biomes/overworld/snow/red_spotted_taiga)Red Spotted Taiga$(/l) of the Overworld.$(br)$(li)They will jump to their prey, $(l:patchouli:creatures/vanilla/chicken)Chickens$(/l), $(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l), Cod, Salmon, Tropical Fishes, and $(l:patchouli:creatures/vanilla/turtle)Baby Turtles$(/l).$(br)$(li)They can be bred giving two Foxes $(l:patchouli:miscellaneous/vanilla/sweet_berries)Sweet Berries$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:fox",
+            "scale": 0.5,
+            "offset": 0.6
+        }
+             ]
+}

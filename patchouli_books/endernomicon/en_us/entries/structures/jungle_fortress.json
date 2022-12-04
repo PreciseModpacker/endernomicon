@@ -1,0 +1,17 @@
+{    
+    "name": "Fortress (Jungle)",
+    "icon": "alexsmobs:banana",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "repurposed_structures:fortress_jungle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Jungle Fortress is a very old structure that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l).$(br)$(li)It is pretty similar to the $(l:patchouli:structures/fortress)Nether Fortress$(/l), it is rumored that it was built by the same ancient civilization."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/jungle_fortress.png"
+        }
+             ]
+}

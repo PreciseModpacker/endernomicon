@@ -1,0 +1,22 @@
+{    
+    "name": "Void Core",
+    "icon": "cataclysm:void_core",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:void_core",
+            "text": "$(li)The Void Core is a weapon that can be used right clicking while you are holding it in your hand to summon pillars on the ground that will inflict 4 to 7 hearts of damage in any creature that hits.$(br)$(li)After that, you will not be able to use it again for seven seconds." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Void Core",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:void_core\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "It can only be dropped by the $(l:patchouli:bosses/ender_golem)Ender Golem$(/l)."
+        }
+             ]
+}

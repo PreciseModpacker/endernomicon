@@ -2,13 +2,13 @@
     "name": "Popped Chorus Fruit",
     "icon": "minecraft:popped_chorus_fruit",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:chorus_fruit",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:popped_chorus_fruit",
-            "text": "$(li)The Popped Chorus Fruit is an item that can be obtained Smelting a Chorus Fruit in a Furnace.$(br)$(li)It can be used to craft Purpur Blocks, End Rods, or Scented Candles.",
+            "text": "$(li)The Popped Chorus Fruit is an item that can be obtained cooking a $(l:patchouli:miscellaneous/vanilla/chorus_fruit)Chorus Fruit$(/l) in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).$(br)$(li)It can be used to craft $(l)Purpur Blocks$(), $(l:patchouli:decoration/vanilla/end_rod)End Rods$(/l), or $(l:patchouli:decoration/buzzier_bees/scented_candle)Scented Candles$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         }
              ]

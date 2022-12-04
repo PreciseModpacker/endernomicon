@@ -1,0 +1,19 @@
+{
+    "name": "Harvesting Crops",
+    "icon": "minecraft:carrot",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/crops_right_click_1.png",
+            "text": "$(li)You don't have to destroy your crops to harvest them anymore." 
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/crops_right_click_2.png",
+            "text": "$(li)When they are mature, you can just right click on them to obtain the item."
+        }
+             ]
+}

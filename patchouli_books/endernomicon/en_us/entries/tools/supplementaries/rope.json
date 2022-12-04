@@ -3,7 +3,7 @@
     "icon": "supplementaries:rope",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:flax",
     "pages": [
         {
             "type": "patchouli:crafting",

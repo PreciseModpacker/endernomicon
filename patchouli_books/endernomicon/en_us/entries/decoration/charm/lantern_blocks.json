@@ -3,12 +3,17 @@
     "icon": "minecraft:sea_lantern",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:prismarine_crystals",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:sea_lantern",
             "text": "$(li)The Lantern Blocks are a new kind of source light blocks.$(br)$(li)With them you will have more variety to iluminate your home.",
             "link_recipe": "false"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/lantern_block.png"
         },
         {
             "type": "patchouli:crafting",
@@ -37,10 +42,6 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/duskbound_lantern"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Lanterns"
         }
              ]
 }

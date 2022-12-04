@@ -2,49 +2,49 @@
     "name": "Ingot (Iron)",
     "icon": "minecraft:iron_ingot",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:iron_ingot",
-            "text": "$(li)The Iron Ingot is a hard metal that can be obtained smelting an Iron Ore, slaying creatures as Husks, Zombies or Mimics or found in Loot Chests.$(br)$(li)This item can be used in multiple crafts in a Crafting Table.",
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:iron_ingot",
+            "text": "$(li)The Iron Ingot is a hard metal that can be obtained smelting an Iron Ore, slaying creatures as $(l:patchouli:creatures/vanilla/husk)Husks$(/l), $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) or $(l:patchouli:creatures/goblins_and_dungeons/mimic)Mimics$(/l) or be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.$(br)$(li)This item can be used in multiple crafts in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
             "title": "Armors & Weapons",
-            "text": "$(li)Ace of Iron$(li)Antler Headdress$(li)Bone Raker$(li)Bomb$(li)Caged Heart$(li)Crossbow$(li)Depth Star$(li)Iron Armor$(li)Iron Axe$(li)Iron Shield$(li)Iron Sword$(li)Iron Wolf Armor$(li)Shield$(li)Slicer's Dice" 
+            "text": "$(li)$(l:patchouli:tools/meet_your_fight/ace_of_iron)Ace of Iron$(/l)$(li)$(l:patchouli:armors/moose_headgear)Antler Headdress$(/l)$(li)$(l:patchouli:tools/meet_your_fight/bone_raker)Bone Raker$(/l)$(li)$(l:patchouli:weapons/bomb)Bomb$(/l)$(li)$(l:patchouli:tools/meet_your_fight/caged_heart)Caged Heart$(/l)$(li)$(l:patchouli:weapons/crossbow)Crossbow$(/l)$(li)$(l:patchouli:weapons/depth_star)Depth Star$(/l)$(li)$(l:patchouli:armors/iron_armor)Iron Armor$(/l)$(li)$(l:patchouli:weapons/iron_axe)Iron Axe$(/l)$(li)$(l:patchouli:weapons/iron_sword)Iron Shield$(/l)$(li)$(l:patchouli:weapons/iron_sword)Iron Sword$(/l)$(li)$(l:patchouli:pets/revamped_wolf/iron_wolf_armor)Iron Wolf Armor$(/l)$(li)$(l:patchouli:weapons/shield)Shield$(/l)$(li)$(l:patchouli:tools/meet_your_fight/slicers_dice)Slicer's Dice$(/l)" 
         },
         {
             "type": "patchouli:text",
             "title": "Tools",
-            "text": "$(li)Abacus$(li)Backpack$(li)Bucket$(li)Compass$(li)Echolocator$(li)Flint and Steel$(li)Iron Chisel$(li)Iron Hoe$(li)Iron Shovel$(li)North Compass$(li)Photometer$(li)Shears$(li)Trowel$(li)Wrench"
+            "text": "$(li)$(l:patchouli:tools/quark/abacus)Abacus$(/l)$(li)$(l:patchouli:perks/backpack)Backpack$(/l)$(li)$(l:patchouli:tools/vanilla/bucket)Bucket$(/l)$(li)$(l:patchouli:tools/vanilla/compass)Compass$(/l)$(li)$(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l)$(li)$(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)$(li)$(l:patchouli:tools/chisel/iron_chisel)Iron Chisel$(/l)$(li)$(l:patchouli:tools/vanilla/iron_hoe)Iron Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/iron_shovel)Iron Shovel$(/l)$(li)$(l:patchouli:tools/inspirations/north_compass)North Compass$(/l)$(li)$(l:patchouli:tools/inspirations/photometer)Photometer$(/l)$(li)$(l:patchouli:tools/vanilla/shears)Shears$(/l)$(li)$(l:patchouli:tools/quark/trowel)Trowel$(/l)$(li)$(l:patchouli:tools/supplementaries/wrench)Wrench$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Utility",
-            "text": "$(li)Anvil$(li)Black Key$(li)Black Lock$(li)Blast Furnace$(li)Cage$(li)Cauldron$(li)Goblet$(li)Hummingbird Feeder$(li)Iron Chest$(li)Lock Block$(li)Sawmill$(li)Smithing Table$(li)Stonecutter$(li)Woodcutter"
+            "text": "$(li)$(l:patchouli:utility/vanilla/anvil)Anvil$(/l)$(li)$(l:patchouli:tools/inspirations/lock)Key and Lock$(/l)$(li)$(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l)$(li)$(l:patchouli:tools/supplementaries/cage)Cage$(/l)$(li)$(l:patchouli:utility/vanilla/cauldron)Cauldron$(/l)$(li)$(l:patchouli:utility/supplementaries/goblets)Goblet$(/l)$(li)$(l:patchouli:pets/alexsmobs/hummingbird_feeder)Hummingbird Feeder$(/l)$(li)$(l:patchouli:utility/iron_chest/iron_chest)Iron Chest$(/l)$(li)$(l:patchouli:utility/supplementaries/lock_block)Lock Block$(/l)$(li)$(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)$(li)$(l:patchouli:utility/vanilla/stonecutter)Stonecutter$(/l)$(li)$(l:patchouli:utility/charm/woodcutter)Sawmill & Woodcutter$(/l)$(li)$(l:patchouli:utility/vanilla/iron_block)Block of Iron$(/l)$(li)$(l:patchouli:utility/quark/crate)Crate$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Redstone",
-            "text": "$(li)Cog Block$(li)Faucet$(li)Heavy W. Pressure Plate$(li)Hopper$(li)Iron Button$(li)Iron Rod$(li)Item Pipe$(li)Magnet$(li)Pipe$(li)Piston$(li)Pulley Block$(li)Spring Launcher$(li)Tripwire Hook$(li)Wind Vane"
+            "text": "$(li)$(l:patchouli:redstone/supplementaries/cog_block)Cog Block$(/l)$(li)$(l:patchouli:redstone/supplementaries/faucet)Faucet$(/l)$(li)$(l:patchouli:redstone/vanilla/iron_pressure_plate)Heavy W. Pressure Plate$(/l)$(li)$(l:patchouli:redstone/vanilla/hopper)Hopper$(/l)$(li)$(l:patchouli:redstone/quark/iron_button)Iron Button$(/l)$(li)$(l:patchouli:redstone/quark/iron_rod)Iron Rod$(/l)$(li)$(l:patchouli:redstone/quark/item_pipe)Item Pipe$(/l)$(li)$(l:patchouli:redstone/quark/magnet)Magnet$(/l)$(li)$(l:patchouli:redstone/inspirations/pipe)Pipe$(/l)$(li)$(l:patchouli:redstone/vanilla/piston)Piston$(/l)$(li)$(l:patchouli:redstone/supplementaries/pulley_block)Pulley Block$(/l)$(li)$(l:patchouli:redstone/supplementaries/spring_launcher)Spring Launcher$(/l)$(li)$(l:patchouli:redstone/vanilla/tripwire_hook)Tripwire Hook$(/l)$(li)$(l:patchouli:redstone/supplementaries/wind_vane)Wind Vane$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Transport",
-            "text": "$(li)Activator Rail$(li)Detector Rail$(li)Minecart$(li)Minecart with Chest$(li)Minecart with Furnace$(li)Minecart with Hopper$(li)Minecart with TNT$(li)Rail"
+            "text": "$(li)$(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/detector_rail)Detector Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/minecart)Minecart$(/l)$(li)$(l:patchouli:redstone/vanilla/chest_minecart)Minecart with Chest$(/l)$(li)$(l:patchouli:redstone/vanilla/furnace_minecart)Minecart with Furnace$(/l)$(li)$(l:patchouli:redstone/vanilla/hopper_minecart)Minecart with Hopper$(/l)$(li)$(l:patchouli:redstone/vanilla/tnt_minecart)Minecart with TNT$(/l)$(li)$(l:patchouli:redstone/vanilla/rail)Rail$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Decoration",
-            "text": "$(li)Chains$(li)Copper Lantern$(li)Crates$(li)Factory Blocks$(li)Framed Glass$(li)Framed Glass$(li)Iron Bars$(li)Iron Door$(li)Iron Gate$(li)Iron Ladder$(li)Iron Plate$(li)Iron Trapdoor$(li)Rusty Iron Plate$(li)Tyrian"
+            "text": "$(li)$(l:patchouli:decoration/others/chains)Chains$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)Copper Lanterns$(/l)$(li)Factory Blocks$(li)Framed Glass$(li)Iron Bars$(li)$(l:patchouli:decoration/others/doors)Iron Door$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Iron Gate$(/l)$(li)$(l:patchouli:decoration/others/ladders)Iron Ladders$(/l)$(li)Iron Plate$(li)$(l:patchouli:decoration/others/iron_trapdoor)Iron Trapdoor$(/l)$(li)Rusty Iron Plate$(li)Tyrian"
         },
         {
             "type": "patchouli:text",
             "title": "Miscellaneous",
-            "text": "$(li)Block of Iron$(li)End Crystal Ingot$(li)Iron Nugget$(li)Iron to Gold Chest Upgrade$(li)Wood to Iron Chest Upgrade"
+            "text": "$(li)$(l:patchouli:miscellaneous/end_remastered/end_crystal_ingot)End Crystal Ingot$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nugget$(/l)$(li)Iron to Gold Chest Upgrade$(li)Wood to Iron Chest Upgrade"
         }
              ]
 }

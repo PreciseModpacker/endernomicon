@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:piercing',lvl:1}]}",
-            "text": "$(li)The Piercing enchantment can be applied in a Crossbow, Pickarang, or Flamerang.$(br)$(li)This enchantment allows projectiles to pierce through mobs, that can be used to hit more enemies.",
+            "text": "$(li)The Piercing enchantment can be applied in a $(l:patchouli:weapons/crossbow)Crossbow$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l), or $(l:patchouli:tools/quark/flamarang)Flamarang$(/l).$(br)$(li)This enchantment allows projectiles to pierce through creatures, that can be used to hit more enemies.",
             "title": "Piercing"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an Ancient Tome (Piercing)."
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_piercing)Ancient Tome (Piercing)$(/l)."
         }
              ]
 }

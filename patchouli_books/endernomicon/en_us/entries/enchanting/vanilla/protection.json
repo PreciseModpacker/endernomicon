@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:protection',lvl:1}]}",
-            "text": "$(li)The Protection enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, Shields, Horse and Wolf Armors.$(br)$(li)This enchantment reduces the receive damage from most sources.",
+            "text": "$(li)The Protection enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, $(l:patchouli:weapons/shield)Shields$(/l), $(l:patchouli:pets/vanilla/leather_horse_armor)Horse Armors$(/l) and $(l:patchouli:pets/revamped_wolf/leather_wolf_armor)Wolf Armors$(/l).$(br)$(li)This enchantment reduces the receive damage from most sources.",
             "title": "Protection"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an Ancient Tome (Protection)."
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_protection)Ancient Tome (Protection)$(/l)."
         }
              ]
 }

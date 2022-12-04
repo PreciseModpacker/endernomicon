@@ -2,19 +2,18 @@
     "name": "Feather",
     "icon": "minecraft:feather",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:feather",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:feather",
-            "text": "$(li)Feathers are a soft material that can be used to craft Arrows, Book and Quill, Feather Blocks, Charged Arrows, and even even a complete Feather Armor.$(br)$(li)They can be crafted with Feather Blocks and viceversa in a Crafting Table or be found in Loot Chests too.",
+            "text": "$(li)Feathers are a soft material that can be used to craft $(l:patchouli:weapons/arrows)Arrows$(/l), $(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l), $(l:patchouli:utility/supplementaries/feather_block)Feather Blocks$(/l), $(l:patchouli:redstone/inspirations/charged_arrow)Charged Arrows$(/l), and the $(l:patchouli:armors/feather_armor)Feather Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)They can be found in $(l:patchouli:miscellaneous/vanilla/loot_chest)Loot Chests$(/l) too.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:feather_block_2",
-            "text": "$(li)Some Mobs, like Bald Eagles, Chickens, Crows, Ducks, Emus, Parrots, Roadrunners, Seagulls, Shoebills and Turkeys may drops Feathers when they are slayed.",
+            "type": "patchouli:text",
+            "text": "$(li)Some creatures like $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:creatures/vanilla/chicken)Chickens$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/environmental/duck)Ducks$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l), $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l), $(l:patchouli:creatures/alexsmobs/shoebill)Shoebills$(/l), and $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) may drop Feathers on death.",
             "link_recipe": "true"
         }
              ]

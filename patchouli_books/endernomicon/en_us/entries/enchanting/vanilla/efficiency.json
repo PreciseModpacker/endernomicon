@@ -1,5 +1,5 @@
 {    
-    "name": "Efficency",
+    "name": "Efficiency",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:efficency',lvl:1}]}",
     "category": "patchouli:enchanting",
     "advancement": "endrem:main/magical_eye",
@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:efficency',lvl:1}]}",
-            "text": "$(li)The Efficency enchantment can be applied in any kind of Pickaxe, Shovel, Axe, Hoe, Pickarang, Flamarang or Shears.$(br)$(li)This enchantment increases the mining speed of the enchanted tool.",
-            "title": "Efficency"
+            "text": "$(li)The Efficiency enchantment can be applied in a $(l:patchouli:tools/vanilla/wooden_pickaxe)$(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l)$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)$(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l)$(/l), $(l:patchouli:weapons/wooden_axe)$(l:patchouli:weapons/wooden_axe)Axe$(/l)$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)$(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l)$(/l), $(l:patchouli:tools/vanilla/shears)$(l:patchouli:tools/vanilla/shears)Shears$(/l)$(/l), $(l:patchouli:tools/quark/pickarang)$(l:patchouli:tools/quark/pickarang)Pickarang$(/l)$(/l), or $(l:patchouli:tools/quark/flamarang)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(/l).$(br)$(li)This enchantment increases the mining speed of the enchanted tool.",
+            "title": "Efficiency"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an Ancient Tome (Efficency)."
+            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_efficiency)Ancient Tome (Efficiency)$(/l)."
         }
              ]
 }

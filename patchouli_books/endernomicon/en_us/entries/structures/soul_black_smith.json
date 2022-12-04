@@ -1,0 +1,17 @@
+{    
+    "name": "Soul Black Smith",
+    "icon": "minecraft:blast_furnace",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "cataclysm:find_soul_black_smith",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Soul Black Smith is an old structure that can be found over the Nether.$(br)$(li)Multiple weapons and armors have been built in this location.$(br)$(li)The $(l:patchouli:bosses/netherite_monstrosity)Netherite Monstrosity$(/l) guards this place."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/soul_black_smith.png"
+        }
+             ]
+}

@@ -1,0 +1,16 @@
+{    
+    "name": "Tall Poise Bush",
+    "icon": "endergetic:tall_poise_bush",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:tall_poise_bush",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endergetic:tall_poise_bush",
+            "text": "$(li)The Tall Poise Bush is an extrange plant that can be found in the $(l:patchouli:biomes/end/poise_forest)Poise Forests$(/l).$(br)$(li)This item can be used to breed $(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bugs$(/l).",
+            "link_recipe": "true"
+        }
+
+             ]
+}

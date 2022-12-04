@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Fireflies are passive creatures that can be found in the Swamps at night.$(br)$(li)You can capture these creatures on Jars."
+            "text": "$(li)Fireflies are passive creatures that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l)s at night.$(br)$(li)You can capture these creatures on $(l:patchouli:utility/supplementaries/jar)Jars$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

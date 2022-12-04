@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "goblinsanddungeons:ring_of_health",
-            "text": "$(li)The Ring of Health adds you an extra heart of life.$(br)$(li)It can only be found in Loot Chests of the Ruined Keep.$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
+            "text": "$(li)The Ring of Health adds you an extra heart of life.$(br)$(li)It can only be found in Loot Chests of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
             "link_recipe": "true"
         }
              ]

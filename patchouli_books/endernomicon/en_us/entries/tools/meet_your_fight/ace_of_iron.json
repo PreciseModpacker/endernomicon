@@ -1,0 +1,20 @@
+{    
+    "name": "Ace of Iron",
+    "icon": "meetyourfight:ace_of_iron",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:fortunes_favor",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:ace_of_iron",
+            "text": "$(li)The Ace of Iron adds you the possibility of avoid completely 1 in 6 of damage received, more if you have the Luck attribute increased, for example, by a $(l:patchouli:potions/buzzier_bees/luck)Luck Potion$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/ace_of_iron.png",
+            "text": "$(li)It has to be equipped in the Body Curious API slot."
+        }
+             ]
+}

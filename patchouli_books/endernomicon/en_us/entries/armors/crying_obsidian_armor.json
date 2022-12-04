@@ -2,8 +2,8 @@
     "name": "Crying Obsidian Armor",
     "icon": "extraarmor:crying_obsidian_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 24,
+    "advancement": "minecraft:nether/obtain_crying_obsidian",
     "pages": [
        {
             "type": "patchouli:text",

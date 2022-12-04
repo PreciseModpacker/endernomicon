@@ -3,17 +3,16 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/straddler",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Straddler is a hostile mob that likes to live in the Basalt Deltas of the Nether.$(br)$(li)It will use $(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l) as projectiles.$(br)$(li)It will do anything to stay far away from you.$(br)Straddlers may drop Basalt and sometimes Straddlite on death."
+            "text": "$(li)The Straddler is a hostile mob that likes to live in the $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l) of the Nether.$(br)$(li)It will use $(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l) as projectiles.$(br)$(li)It will do anything to stay far away from you.$(br)$(li)Straddlers may drop Basalt blocks and sometimes $(l:patchouli:miscellaneous/alexsmobs/straddlite)Straddlite$(/l) on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:straddler",
-            "scale": 1,
-            "text": "Straddlite can be used to craft a Straddleboard in a Crafting Table."
+            "scale": 1
         }
              ]
 }

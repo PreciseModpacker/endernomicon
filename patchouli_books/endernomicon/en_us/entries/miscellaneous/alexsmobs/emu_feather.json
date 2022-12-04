@@ -3,12 +3,12 @@
     "icon": "alexsmobs:emu_feather",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:emu_feather",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:emu_feather",
-            "text": "$(li)Emu Feathers can be used to craft a Pattern,  or an Outback Leggings.$(br)$(li)They can only be dropped by Emus.",
+            "text": "$(li)Emu Feathers can be used to craft a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l), or the $(l:patchouli:armors/outback_leggings)Outback Leggings$(/l).$(br)$(li)This item can only be dropped by a $(l:patchouli:creatures/alexsmobs/emu)Emu$(/l).",
             "link_recipe": "true"
         }
              ]

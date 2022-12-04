@@ -2,18 +2,18 @@
     "name": "Charcoal",
     "icon": "minecraft:charcoal",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:charcoal",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:charcoal",
-            "text": "$(li)The Charcoal is a variant of the Coal.$(br)$(li)This material can be used as a fuel in Furnaces, Smokers, Blast Furnaces and Kilns.$(br)$(li)One Charcoal can smell up 8 items, so with 8 Charcoals you can smelt 1 complete stack.",
+            "text": "$(li)The Charcoal is a variant of the $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l).$(br)$(li)This item can be used as a fuel in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l) and $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)One Charcoal can smell up to 8 items.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Charcoal can be used to craft Fire Charges, Torchs, Braziers, Charcoal Blocks and Campfires in a Crafting Table too.$(br)$(li)Charcoal can be created smelting any kind of Wood Log in a Furnace.",
+            "text": "$(li)Charcoal can be used to craft $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charges$(/l), $(l:patchouli:decoration/others/torchs)Torches$(/l), $(l:patchouli:decoration/decorative_blocks/braziers)Braziers$(/l), $(l:patchouli:utility/quark/charcoal_block)Charcoal Blocks$(/l) and $(l:patchouli:utility/vanill/campfire)Campfires$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)Charcoal can be created smelting any kind of Wood Log in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).",
             "link_recipe": "true"
         }
              ]

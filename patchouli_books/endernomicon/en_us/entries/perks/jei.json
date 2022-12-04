@@ -1,0 +1,53 @@
+{
+    "name": "JEI",
+    "icon": "endermonicon:textures/book/categories/perks.png",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Just Enough Items is a very useful mod that will help you during all your journey.$(br)$(li)This mod basically helps you to know how to find or craft any item.$(br)$(li)Just press the E key in your keyboard to access to your inventory and the JEI interface." ,            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_1.png",
+            "text": "$(li)This mod has integration with the $(l:patchouli:enders_journey/craft_endernomicon)Endernomicon$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_2.png",
+            "text": "$(li)On the top right you can see the number of pages and you can use the right and left arrows to change between pages."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_3.png",
+            "text": "$(li)On the bottom right you can see a Settings button and a Search Box. Just write the name of the desired item."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_4.png",
+            "text": "$(li)To see the recipe of an specific item, just left click on it. You will see all the different ways to get that item."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_5.png",
+            "text": "$(li)If you want to get all the different recipes you can make with an item, you have to place the mouse over the desired item and press the U key."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_6.png",
+            "text": "$(li)You can save an item in your Bookmark section placing the mouse over the desired item and press the A key."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_7.png",
+            "text": "$(li)The bookmarks interface can be found in the top left corner. Just press the Bookmarks button placed on the botton left corner to hide it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/jei_8.png",
+            "text": "$(li)Finally, if you want to hide the interface you only have to press the Control + O keys in your keyboard. Do the same to show it again."
+        }
+             ]
+}

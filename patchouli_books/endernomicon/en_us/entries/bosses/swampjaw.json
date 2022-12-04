@@ -1,0 +1,19 @@
+{    
+    "name": "Swampjaw",
+    "icon": "meetyourfight:fossil_bait",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "meetyourfight:main/swampjaw_kill",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Swampjaw is an ancient predator that was located in the swamps, but now, it is just a fossil that can be summoned with the $(l:patchouli:bosses/rumor_swampjaw)Fosil Bait$(/l).$(br)$(li)This creature will be floating around you throwing powerful bombs at you or heading towards you to physically attack you."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "meetyourfight:swampjaw",
+            "scale": 0.48,
+            "text": "It drops $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), Dirt blocks, Vines and $(l:patchouli:miscellaneous/meet_your_fight/mossy_tooth)Mossy Tooths$(/l) on death."
+        }
+             ]
+}

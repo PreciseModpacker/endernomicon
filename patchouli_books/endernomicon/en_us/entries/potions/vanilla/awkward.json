@@ -1,0 +1,49 @@
+{    
+    "name": "Awkward Potion",
+    "icon": "minecraft:potion{Potion:'minecraft:awkward'}",
+    "category": "patchouli:potions",
+    "advancement": "endernomicon:nether_wart",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "title": "Awkward",
+            "text": "$(li)Awkward Potions are a basic ingredient for a very quantity of potions.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/nether_wart)Nether Wart$(/l) and $(l:patchouli:tools/vanilla/water_bottle)Water Bottles$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+        },
+        {
+            "type": "potion",
+            "title": "Awkward",
+            "input": "minecraft:nether_wart",
+            "input2": "minecraft:potion{Potion:'minecraft:water'}",
+            "output": "minecraft:potion{Potion:'minecraft:awkward'}"
+        },
+        {
+            "type": "potion",
+            "title": "Awkward Splash",
+            "input": "minecraft:nether_wart",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:water'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:awkward'}"
+        },
+        {
+            "type": "potion",
+            "title": "Awkward Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'minecraft:awkward'}"
+        },
+        {
+            "type": "potion",
+            "title": "Awkward Lingering",
+            "input": "minecraft:nether_wart",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:water'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:awkward'}"
+        },
+        {
+            "type": "potion",
+            "title": "Awkward Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'minecraft:awkward'}"
+        }
+             ]
+}

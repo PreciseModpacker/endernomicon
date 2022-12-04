@@ -3,7 +3,7 @@
     "icon": "quark:redstone_inductor",
     "category": "patchouli:redstone",
     "sortnum": 2,
-    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:magma_cream",
     "pages": [
         {
             "type": "patchouli:crafting",

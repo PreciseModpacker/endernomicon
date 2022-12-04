@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:1}]}",
-            "text": "$(li)The Illager's Bane enchantment can be applied in a Sword or Axe.$(br)$(li)A weapon with this enchantment applied does additional damage to Illager Mobs like the Evoker, Furanter, or Black Iron Golem.",
+            "text": "$(li)The Illager's Bane enchantment can be applied in a $(l:patchouli:weapons/wooden_sword)Sword$(/l) or $(l:patchouli:weapons/wooden_axe)Axe$(/l).$(br)$(li)A weapon with this enchantment applied does additional damage to Illager creatures like $(l:patchouli:illagers/evoker)Evokers$(/l), $(l:patchouli:illagers/furantur)Furanturs$(/l), or $(l:patchouli:illagers/black_iron_golem)Black Iron Golems$(/l).",
             "title": "Illager's Bane"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be upgraded until Level VIII and arrive the IX with the Ancient Tome."
+            "text": "$(li)By default, it can be upgrade just until level VIII.$(br)$(li)You can raise the level IX of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_illagers_bane)Ancient Tome (Illager's Bane)$(/l)."
         }
              ]
 }

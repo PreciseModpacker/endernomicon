@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:1}]}",
-            "text": "$(li)The Bane of Arthropods enchantment can be applied in any kind of Sword, Axe, Pickarang or Flamarang.$(br)$(li)This enchantment increase the damage inflicted of arthropods like Spiders or Silverfishes.",
+            "text": "$(li)The Bane of Arthropods enchantment can be applied in any kind of $(l:patchouli:weapons/wooden_sword)$(l:patchouli:weapons/wooden_sword)Sword$(/l)$(/l), $(l:patchouli:weapons/wooden_axe)$(l:patchouli:weapons/wooden_axe)Axe$(/l)$(/l), $(l:patchouli:tools/quark/pickarang)$(l:patchouli:tools/quark/pickarang)Pickarang$(/l)$(/l), or $(l:patchouli:tools/quark/flamarang)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(/l).$(br)$(li)This enchantment increase the damage inflicted of arthropods like $(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l) or $(l:patchouli:creatures/vanilla/silverfish)Silverfishes$(/l).",
             "title": "Bane of Arthropods"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an Ancient Tome (Bane of Arthropods)."
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_bane_of_arthropods)Ancient Tome (Bane of Arthropods)$(/l)."
         }
              ]
 }

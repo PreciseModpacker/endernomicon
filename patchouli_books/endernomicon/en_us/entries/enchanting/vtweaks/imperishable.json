@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:imperishable',lvl:1}]}",
-            "text": "$(li)The Imperishable enchantment can be applied in a Sword, Pickaxe, Shovel, Axe, Hoe, Shears, Bow, Crossbow, Fishing Rod, Trident, Elytra, Pickarang, Helmet, Chestplate, Leggings and Boots.",
+            "text": "$(li)The Imperishable enchantment can be applied in a $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l), $(l:patchouli:tools/vanilla/shears)Shears$(/l), $(l:patchouli:weapons/bow)Bow$(/l), $(l:patchouli:weapons/crossbow)Crossbow$(/l), $(l:patchouli:tools/vanilla/fishing_rod)Fishing Rod$(/l), $(l:patchouli:weapons/trident)Trident$(/l), $(l:patchouli:armors/elytra)Elytra$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l), Helmet, Chestplate, Leggings and Boots.",
             "title": "Imperishable"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This enchantment prevents that said equipment from being used when said equipment only has 1 durability left.$(br)$(li)It can be created combining two Umbreaking III books in an Anvil."
+            "text": "$(li)This enchantment prevents that said equipment from being used when said equipment only has 1 durability left.$(br)$(li)It can be created combining two $(l:patchouli:enchanting/vanilla/unbreaking)Unbreaking$(/l) III books in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l)."
         }
              ]
 }

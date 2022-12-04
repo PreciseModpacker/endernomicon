@@ -1,0 +1,27 @@
+{    
+    "name": "Ocelot",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Ocelots are passive animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)Ocelots will sprint away from you.$(br)$(li)To tamed it  except you have to hold a $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cod$(/l) or $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l), wait until the Ocelot approach you and give it the fish."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:ocelot",
+            "scale": 0.4,
+            "offset": 0.8
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Repeat this process a couple of times until it stops running away from you.$(br)$(li)Tamed Ocelots will not follow you unless you are holding a $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cod$(/l) or $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l) in your hand.$(br)$(li)You can carry them with a $(l:patchouli:pets/vanilla/lead)Lead$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l) and $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) will run away from Ocelots."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/ocelot.png"
+        }
+             ]
+}

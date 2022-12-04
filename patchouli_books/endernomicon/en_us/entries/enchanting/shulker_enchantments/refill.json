@@ -7,13 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:refill',lvl:1}]}",
-            "text": "$(li)The Refill enchantment can be applied in a Shulker Box and Useful Backpacks.$(br)$(li)Using an item or placing a block will use up the inventory of your Shulker Box insteat of your main inventory.$(br)$(li)This enchantment can be found Fishing or Trading with Villagers.",
+            "text": "$(li)The Refill enchantment can be applied in a $(l:patchouli:utility/vanilla/shulker_box)Shulker Box$(/l) and in a $(l:patchouli:perks/backpack)Backpack$(/l).$(br)$(li)Using an item or placing a block will use up the inventory of your Shulker Box insteat of your main inventory.",
             "title": "Refill"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This enchantment can be found Fishing or Trading with Villagers.",
-            "title": "Refill"
+            "text": "$(li)This enchantment can be found Fishing or trading your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) with a $(l:patchouli:villagers/librarian)Librarian$(/l)."
         }
              ]
 }

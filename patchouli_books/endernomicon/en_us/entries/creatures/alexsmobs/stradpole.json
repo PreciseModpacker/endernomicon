@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Stradpoles are tiny passive creatures that live in the lava of the Nether, but they can also live in water too.$(br)$(li)You can transport them using a Bucket.$(br)$(li)If you feed one with a Crimson Mosquito Larva, it will grow up into an adult Straddler."
+            "text": "$(li)Stradpoles are tiny passive creatures that live in the lava of the Nether, but they can also live in water too.$(br)$(li)You can transport them using a $(l:patchouli:tools/vanilla/lava_bucket)Lava Bucket$(/l).$(br)$(li)If you feed one with a $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l), it will grow up into an adult $(l:patchouli:creatures/alexsmobs/straddler)Straddler$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:stradpole",
             "scale": 0.45,
-            "text": "When $(l:patchouli:creatures/alexsmobs/straddler)Straddler$(/l) hits you with a throwedStradpole, you take 1.5 damage, and it disappears after a few seconds."
+            "text": "When $(l:patchouli:creatures/alexsmobs/straddler)Straddler$(/l) hits you with a throwed Stradpole, you take 1.5 damage, and it disappears after a few seconds."
         }
              ]
 }

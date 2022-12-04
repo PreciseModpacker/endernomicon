@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fire_aspect',lvl:1}]}",
-            "text": "$(li)The Fire Aspect enchantment can be applied in any kind of item.$(br)$(li)This enchantment inflicts the burn state of every creature that was hit with this enchanted item.",
+            "text": "$(li)The Fire Aspect enchantment can be applied in any kind of item.$(br)$(li)Any creature hitted with any enchanted item with this enchantment will receive the burn state, inflict it extra damage every few seconds.",
             "title": "Fire Aspect"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an Ancient Tome (Fire Aspect)."
+            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_fire_aspect)Ancient Tome (Fire Aspect)$(/l)."
         }
              ]
 }

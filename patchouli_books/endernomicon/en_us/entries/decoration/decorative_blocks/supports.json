@@ -12,8 +12,8 @@
             "title": "Supports"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Seats"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/support.png"
         },
         {
             "type": "patchouli:crafting",

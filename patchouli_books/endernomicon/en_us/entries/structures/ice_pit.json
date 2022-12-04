@@ -1,0 +1,17 @@
+{    
+    "name": "Ice Pit",
+    "icon": "minecraft:ice",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:chilled_halls",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ice Pit is a hole with an underground structure with its entrance in the surface.$(br)$(li)Some dangerous creatures as the $(l:patchouli:creatures/vanilla/stray)Strays$(/l) can be found inside.$(br)$(li)This structure can be found in the $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l) of the Overworld."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ice_pit.png"
+        }
+             ]
+}

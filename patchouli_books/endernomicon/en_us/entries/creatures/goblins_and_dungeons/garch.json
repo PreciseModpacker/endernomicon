@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Garch are speedy goblins that will attack you with their Bows.$(br)$(li)They may drop Iron Nuggets and Arrows on death."
+            "text": "$(li)Garch are speedy goblins that will attack you with their $(l:patchouli:weapons/bow)Bows$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) on death."
         },
         {
             "type": "patchouli:entity",

@@ -2,8 +2,8 @@
     "name": "Spiked Turtle Shell",
     "icon": "alexsmobs:spiked_turtle_shell",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 18,
+    "advancement": "alexsmobs:alexsmobs/spiked_scute",
     "pages": [
        {
             "type": "patchouli:crafting",

@@ -3,13 +3,18 @@
     "icon": "supplementaries:wrench",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:wrench",
-            "text": "$(li)Wrench is a tool which can be used to rotate blocks or entities like Armor Stands or Item Frames.$(br)$(li)The rotation axis will be the one of the face you click.",
+            "text": "$(li)Wrench is a tool which can be used to rotate blocks or entities like $(l:patchouli:utility/vanilla/armor_stand)Armor Stands$(/l) or $(l:patchouli:decoration/quark/item_frame)Item Frames$(/l).$(br)$(li)The rotation axis will be the one of the face you click.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/wrench.png",
+            "text": "$(li)Left click in the desired block while you are holding the Wrench in your hand to rotate it."
         }
              ]
 }

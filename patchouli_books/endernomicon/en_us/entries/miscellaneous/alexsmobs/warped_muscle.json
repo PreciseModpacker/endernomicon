@@ -3,12 +3,12 @@
     "icon": "alexsmobs:warped_muscle",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:warped_muscle",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:warped_muscle",
-            "text": "$(li)The Warped Muscle is a drop of the Warped Mosco.$(br)$(li)It can be used to craft a powerfull weapon called Hemolymph Blaster.",
+            "text": "$(li)The Warped Muscle is an item that can be used to craft a powerfull weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l).$(br)$(li)$(l:patchouli:bosses/warped_mosco)Warped Mosco$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

@@ -1,0 +1,18 @@
+{    
+    "name": "Bastion Underground",
+    "icon": "minecraft:cracked_stone_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "repurposed_structures:bastion_underground",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Bastion Underground is a big dungeon that can be found over the Overworld.$(br)$(li)Be careful, this place is infested with $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).$(br)$(li)If you manage to reach the deepest point of this place, you will be able to obtain numerous $(l:patchouli:perks/loot_chest)Loot Chests$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/bastion_underground.png"
+        }
+             ]
+}

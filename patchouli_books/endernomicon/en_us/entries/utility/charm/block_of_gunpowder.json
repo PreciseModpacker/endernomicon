@@ -3,16 +3,12 @@
     "icon": "charm:gunpowder_block",
     "category": "patchouli:utility",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gunpowder",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "charm:block_of_gunpowder/gunpowder_block_with_quark",
             "text": "$(li)The Gunpowder Block is a new decorative block which obey gravity like sand and gravel.$(br)$(li)If this block touches lava, it will dissolve into air."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Gunpowder Block"
         }
              ]
 }

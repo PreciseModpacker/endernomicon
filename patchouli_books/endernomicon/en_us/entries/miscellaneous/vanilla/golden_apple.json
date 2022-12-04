@@ -1,0 +1,19 @@
+{    
+    "name": "Golden Apple",
+    "icon": "minecraft:golden_apple",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:golden_apple",
+            "text": "$(li)The Golden Apple is an eatable item that can be used to craft a $(l:patchouli:utility/quark/golden_apple_crate)Golden Apple Crate$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When eaten gives you five seconds of $(l:patchouli:potions/vanilla/regeneration)Renegeration$(/l) II effect, healing your health while this effect is active.$(br)$(li)It gives the $(l)Absorption$() effect, adding to you for two minutes two extra hearts of life or when they are broken by receiving damage."
+        }
+             ]
+}

@@ -3,17 +3,13 @@
     "icon": "quark:crab_leg",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:crab_leg",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "quark:crab_leg",
-            "text": "$(li)Crab Legs can be eaten.$(br)$(li)They can be cooked in a Furnace to obtain Cooked Crab Legs too",
-            "link_recipe": "true"
-        },
-        {
             "type": "patchouli:smelting",
-            "recipe": "quark:world/smelting/cooked_crab_leg"
+            "recipe": "quark:world/smelting/cooked_crab_leg",
+            "text": "$(li)Crab Legs can be eaten, but they is not very satiating.$(br)$(li)They can be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to obtain Cooked Crab Legs which is a more satiating food than the previous one.",
+            "link_recipe": "true"
         }
              ]
 }

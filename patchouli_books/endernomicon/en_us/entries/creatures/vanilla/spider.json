@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Spiders are small hostile creatures with the hability to climb walls that can be found over the Overworld at night or in places with low lighting.$(br)$(li)They may drop String and Spider Eye on death."
+            "text": "$(li)Spiders are small hostile creatures with the hability to climb walls that can be found over the Overworld at night or in places with low lighting.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) and $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l) on death."
         },
         {
             "type": "patchouli:entity",

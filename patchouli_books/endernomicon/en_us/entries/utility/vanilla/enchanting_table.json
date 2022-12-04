@@ -1,0 +1,37 @@
+{    
+    "name": "Enchanting Table",
+    "icon": "minecraft:enchanting_table",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "minecraft:story/form_obsidian",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:enchanting_table",
+            "text": "$(li)The Enchanting Table is a block that allows you to enchant your Tools, Armors, Weapons and even $(l:patchouli:miscellaneous/vanilla/book)Books$(/l).$(br)$(li)Every enchant gives a different effect.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/enchanting_table_1.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To use it, first you have to place this block and right click on it to access to its interface.$(br)$(li)Now, place your desired tool, weapon, armor or book to enchant.$(br)$(li)You will see 3 enchantments to select, and with the indicated cost of XP Levels and $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l) in the right."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/enchanting_table_2.png",
+            "text": "$(li)Once selected, you will obtain the enchanted item. Sometimes you will receive an additional enchant."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Depending of the level of the Enchanting Table we will obtain lower or higher level enchantments.$(br)$(li)High level enchants will cost more XP levels.$(br)$(li)To upgrade the level of the Enchanting Table, we need to place $(l:patchouli:decoration/vanilla/bookshelf)Bookshelfs$(/l) near of this block."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/enchanting_table_3.png",
+            "text": "$(li)If we want to reduce the level of our Enchanting Table we will have to remove bookshelves instead."
+        }
+             ]
+}

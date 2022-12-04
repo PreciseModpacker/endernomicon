@@ -2,12 +2,12 @@
     "name": "Luck",
     "icon": "minecraft:potion{Potion:'minecraft:luck'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:four_leaf_clover",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'minecraft:luck'}",
-            "text": "$(li)Luck potions increase your probability of finding good loot in the naturally generated chests.$(br)$(li)They can be brewed using a Four Leaf Clover and an Awkward Potion as ingredients in a Brewing Stand."
+            "text": "$(li)Luck potions increase your probability of finding good loot in the naturally generated $(l:patchouli:utility/vanilla/chest)Chests$(/l).$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/four_leaf_clover)Four Leaf Clover$(/l) and an $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

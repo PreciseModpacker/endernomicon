@@ -2,7 +2,7 @@
     "name": "Shield (Iron)",
     "icon": "bettershields:iron_shield",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "sortnum": 15,
     "pages": [
         {

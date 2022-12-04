@@ -7,16 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snowy Mountains are a variant of the Mountain biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)This biome is composed of mostly by Stone, Dirt and, Snow layers, convering the whole area."
+            "text": "$(li)The Snowy Mountains is a variant of the $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This biome is composed of mostly by Stone, Dirt and, snow layers, convering the whole area."
         },
         {
             "type": "patchouli:text",
             "text": "$(li)You can find some vegetation here like Spruce and Oak trees here.$(br)$(li)You can search this biome introducing the words $(l)Snowy Mountains$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:snowy_mountains"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/snowy_mountains.png"

@@ -1,0 +1,18 @@
+{    
+    "name": "Monument (Ocean)",
+    "icon": "minecraft:prismarine",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ocean Monument is a huge structure that can be found in the deep of the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) in the Overworld.$(br)$(li)Inside, you can find $(l:patchouli:utility/vanilla/sponge)Sponges$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) defending this place and a very strongest dangerous creatiure that you will have to defeat during this adventure known as the $(l:patchouli:bosses/rumor_elder_guardian)Elder Guardian$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ocean_monument.png",
+            "text": "$(li)When you are near of this structure, you will receive the Mining Fatigue III, making imposible to you to break any block."
+        }
+             ]
+}

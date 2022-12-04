@@ -3,11 +3,11 @@
     "icon": "minecraft:sand",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/rattlesnake",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Rattlesnakes don't usually do much, but sometimes they may hunt other tiny animals.$(br)$(li)If you get too close to a Rattlesnake, it is going to make a rattle warning sound.$(br)$(li)If one gets close enought to a Rattlesnake while it is rattling, it will attack you with its poison."
+            "text": "$(li)Rattlesnakes are little creatures that can be foud in the $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l), $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), and $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) but sometimes they may hunt other tiny animals.$(br)$(li)If you get close to a Rattlesnake, it is going to make a rattle warning sound.$(br)$(li)If you gets close enought to it, it will attack you with its $(l:patchouli:potions/vanilla/poison)poison$(/l)."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Rattlesnakes can be bred with any type of Meat.$(br)$(li)Rattlesnakes are the favourite prey of the Roadrunners.$(br)$(li)Rattlesnakes may drop a Rattlesnake Rattle on death."
+            "text": "$(li)Rattlesnakes can be bred with any type of meat.$(br)$(li)Rattlesnakes are the favourite prey of the $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l).$(br)$(li)Rattlesnakes may drop a $(l:patchouli:miscellaneous/alexsmobs/rattlesnake_rattle)Rattlesnake Rattle$(/l) on death."
         }
              ]
 }

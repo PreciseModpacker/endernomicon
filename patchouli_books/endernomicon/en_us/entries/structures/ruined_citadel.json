@@ -1,0 +1,18 @@
+{    
+    "name": "Ruined Citadel",
+    "icon": "cataclysm:void_stone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "cataclysm:find_ruined_citadel",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ruined Citadel is an old structure that can be found over the End.$(br)$(li)This structure is made up of multiple layers, where there are hidden treasures.$(br)$(li)It is infested with $(l:patchouli:creatures/cataclysm/endermaptera)Endermapteras$(/l), and you will find various $(l:patchouli:bosses/ender_golem)Ender Golems$(/l) as you explore this place too."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ruined_citadel.png",
+            "text": "$(li)Deep within this place, lies the $(l:patchouli:bosses/ender_guardian)Ender Guardian$(/l) prepared to annihilate any intruder that approaches it."
+        }
+             ]
+}

@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cow are large common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Leather and Raw Beef on death.$(br)$(li)They can't be tamed, but they can be breed giving them Wheat."
+            "text": "$(li)Cow are large common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() on death.$(br)$(li)They can not be tamed, but they can be breed giving them $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:cow",
             "scale": 0.8,
-            "text": "You can right click on a Cow while you are holding a Bucket to obtain a Milk Bucket."
+            "text": "You can right click on a Cow while you are holding a $(l:patchouli:tools/vanilla/bucket)Bucket$(/l) to obtain a $(l:patchouli:tools/vanilla/milk_bucket)Milk Bucket$(/l)."
         }
              ]
 }

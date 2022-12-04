@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Silverfish are small hostile creatures that can be found hiding in stone-like blocks in Mountains, Strongholds, Igloo basements and Woodland Mansions.$(br)$(li)They don't drop anything on death."
+            "text": "$(li)Silverfishes are small hostile creatures that can be found hiding in stone-like blocks in $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l), $(l:patchouli:structures/stronghold)Strongholds$(/l), $(l:patchouli:structures/igloo)Igloos$(/l), and $(l:patchouli:illagers/mansion)Mansions$(/l).$(br)$(li)These creatures do not drop any item on death."
         },
         {
             "type": "patchouli:entity",

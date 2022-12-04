@@ -2,18 +2,19 @@
     "name": "Wheat",
     "icon": "minecraft:wheat",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:wheat",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:wheat",
-            "text": "$(li)Wheat can be obtained from Wheat Seeds.$(br)$(li)Cows can be feed with Wheat.$(br)$(li)You can put Wheat in a Composter to generate Bone Meal.",
+            "text": "$(li)Wheat can be obtained from $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l). $(l:patchouli:creatures/vanilla/cow)Cows$(/l) can be bred giving this item to them.$(br)$(li)You can put Wheat in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Wheat by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Farmers will exchange your Wheat by Emeralds.$(br)$(li)You can use Wheat to craft a Hay Bale, Daub, Cookies, Thatch, Grass Thatch, Scones, Hay Nest, Pancakes, Bread, Gateau, Cakes, Buns, Velvet Fortune, or Aether-Glazed Cupcake in a Crafting Table too."
+            "title": "Wheat Recipes" ,
+            "text": "$(li)$(l:patchouli:utility/vanilla/hay_bale)Hay Bale$(/l)$(li)$(l)Daub$()$(li)$(l)Cookies$()$(li)$(l)Thatch$()$(li)$(l)Grass Thatch$()$(li)$(l)Scones$()$(li)$(l:patchouli:pets/supplementaries/hay_nest)Hay Nest$(/l)$(li)$(l)Pancakes$()$(li)$(l:patchouli:miscellaneous/vanilla/bread)Bread$(/l)$(li)$(l)Gateau$()$(li)$(l)Cakes$()$(li)$(l)Buns$()$(li)$(l)Velvet Fortune$()$(li)$(l)Aether-Glazed Cupcake$()"
         }
              ]
 }

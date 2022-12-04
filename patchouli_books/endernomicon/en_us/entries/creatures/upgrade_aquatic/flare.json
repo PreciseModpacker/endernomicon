@@ -3,17 +3,17 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "upgrade_aquatic:nether/sleepless_slave",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Flares are flying creatures that doesn't summon normally.$(br)$(li)You have to hit a Phantom with a Splash $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l) or with a Arrow of Insomnia to transform it into a Flare.$(br)$(li)These creatures will attack Phantoms, so you can use them to defend your base of those annoying creatures."
+            "text": "$(li)Flares are flying creatures that does not summon normally.$(br)$(li)You have to hit a $(l:patchouli:creatures/vanilla/phantom)Phantom$(/l) with a Splash $(l:patchouli:potions/upgrade_aquatic/insomnia)Potion of Insomnia$(/l) or with an $(l)Arrow of Insomnia$() to transform it into a Flare.$(br)$(li)These creatures will attack $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l), so you can use them to defend your base of those annoying creatures."
         },
         {
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:flare",
             "scale": 0.4,
-            "text": "On death, like the Phantom, Flares may drop Phantom Membrane."
+            "text": "Flares may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membranes$(/l) on death."
         }
              ]
 }

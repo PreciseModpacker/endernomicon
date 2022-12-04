@@ -3,25 +3,18 @@
     "icon": "alexsmobs:straddleboard",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:straddlite",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:straddleboard",
-            "text": "$(li)The Straddleboard is a new way to traverse the Nether's lava lakes.$(br)$(li)It can perform high jumps above the lava and is much faster than Striders.",
+            "text": "$(li)The Straddleboard is a new way to traverse the Nether's lava lakes.$(br)$(li)It can perform high jumps above the lava and is much faster than $(l:patchouli:pets/vanilla/strider)Striders$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can enchant it with $(l:patchouli:enchanted_books/alexsmobs/straddle_jump)Straddle Jump$(/l), $(l:patchouli:enchanted_books/alexsmobs/lavawaxed)Lavawaxed$(/l), $(l:patchouli:enchanted_books/alexsmobs/serpent_chamber)Serpent Chamber$(/l) and $(l:patchouli:enchanted_books/alexsmobs/returning_board)Returning Board$(/l)."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/straddleboard.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/straddleboard.png",
+            "text": "$(li)You can enchant it with $(l:patchouli:enchanting/alexsmobs/straddle_jump)Straddle Jump$(/l), $(l:patchouli:enchanting/alexsmobs/lavawaxed)Lavawaxed$(/l), $(l:patchouli:enchanting/alexsmobs/serpent_chamber)Serpent Chamber$(/l) and $(l:patchouli:enchanting/alexsmobs/returning_board)Returning Board$(/l)."
         }
              ]
 }

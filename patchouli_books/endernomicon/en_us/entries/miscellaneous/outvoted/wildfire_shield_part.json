@@ -3,12 +3,12 @@
     "icon": "outvoted:wildfire_shield_part",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "outvoted:obtain_wildfire_piece",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "outvoted:wildfire_shield_part",
-            "text": "$(li)The Wildfire Shield Part can be placed in a Smithing table with a Shield to make a Wildfire Shield.$(br)$(li)It can be only crafted with a Shattered Blaze Piece and Polished Blackstone blocks.",
+            "text": "$(li)The Wildfire Shield Part is an item that can be used to craft a $(l:patchouli:weapons/wildfire_shield)Wildfire Shield$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         }
              ]

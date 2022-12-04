@@ -11,12 +11,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Cods, Salmons, Cachalot Whales, Dolphins, and Squids can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like Cods, Salmons, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Ocean$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:ocean"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/ocean.png"

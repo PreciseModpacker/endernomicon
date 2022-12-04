@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Frostmancer is a powerful mage who has specialized in the ice element.$(br)$(li)It is able to pull in their enemies, slow their movement speed and even summon ice blocks on top of them that once they fall they deal a lot of damage.$(br)$(li)The Fromancer can be found in the Ice Castle."
+            "text": "$(li)The Frostmancer is a powerful mage who has specialized in the ice element.$(br)$(li)It is able to pull in their enemies, slow their movement speed and even summon ice blocks on top of them that once they fall they deal a lot of damage.$(br)$(li)The Frostmancer can be found in the $(l:patchouli:illagers/ice_castle)Ice Castle$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "illagers_plus:frostmancer",
             "scale": 0.9,
-            "text": "On death they may drop Snow Blocks, Ice, Blue Ice, Snowballs, Diamonds, and even Totems of Undying."
+            "text": "On death they may drop $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l), $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l), Blue Ice, $(l:patchouli:miscellaneous/vanilla/snowball)Snowballs$(/l), $(l:patchouli:miscellaneous/vanilla/diamond)Diamonds$(/l), and a $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l)."
         }
              ]
 }

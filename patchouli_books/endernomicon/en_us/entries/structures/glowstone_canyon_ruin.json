@@ -1,0 +1,17 @@
+{    
+    "name": "Glowstone Canyon Ruin",
+    "icon": "minecraft:glowstone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Glowstone Canyon Ruin is an old structure that can be found in the $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyon$(/l) of the Nether.$(br)$(li)You can find multiple treasures inside."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/glowstone_canyon_ruin.png"
+        }
+             ]
+}

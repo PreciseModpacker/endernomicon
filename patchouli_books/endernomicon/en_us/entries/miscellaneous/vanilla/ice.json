@@ -1,0 +1,19 @@
+{    
+    "name": "Ice",
+    "icon": "minecraft:ice",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:ice",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:ice",
+            "text": "$(li)The Ice is a translucent solid block that can be found in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l), $(l:patchouli:biomes/overworld/snow/frozen_river)Frozen Rivers$(/l), $(l:patchouli:biomes/overworld/snow/ice_spikes)Ice Spikes$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/snow/snowy_mountains)Snowy Mountains$(/l), and $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l).$(br)$(li)You will walk slower and slide on this block, but if you jump you will go faster on it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ice block can be used to craft the $(l:patchouli:armors/ice_armor)Ice Armor$(/l)."
+        }
+             ]
+}

@@ -3,12 +3,12 @@
     "icon": "inspirations:redstone_charger",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:tools/redstone_charger",
-            "text": "$(li)The Redstone Charger is a variantion of the Flint and Steel.$(br)$(li)Insteat producing fire, this one produces a quick redstone pulse.",
+            "text": "$(li)The Redstone Charger is a variantion of the $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l).$(br)$(li)Insteat producing fire, this one produces a quick redstone pulse.",
             "link_recipe": "true"
         },
         {

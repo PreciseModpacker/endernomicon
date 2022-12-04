@@ -3,16 +3,18 @@
     "icon": "minecraft:golden_horse_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:golden_horse_armor",
-            "text": "$(li)The Golden Horse Armor is the upgrade of the Iron Horse Armor that you can give to your tamed Horse.$(br)$(li)You can craft this armor with a Iron Horse Armor and Gold Ingots in a Crafting Table.",
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_eymq68au9ji6yudnwld1yptwd",
+            "text": "$(li)The Golden Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/iron_horse_armor)Iron Horse Armor$(/l) that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)While you have the Golden Horse Armor on your hand, just right click on your tamed Horse, then place the Golden Horse Armor in the Armor slot.$(br2)Insert a picture equipping an armor"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/horse_golden_armor.png",
+            "text": "$(li)While you have the Golden Horse Armor on your hand, just right click on your tamed Horse, then place the Golden Horse Armor in the Armor slot."
         }
              ]
 }

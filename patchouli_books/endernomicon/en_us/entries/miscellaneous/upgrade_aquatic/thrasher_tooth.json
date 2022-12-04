@@ -3,12 +3,12 @@
     "icon": "upgrade_aquatic:thrasher_tooth",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "upgrade_aquatic:adventure/tooth_fairy",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:thrasher_tooth",
-            "text": "$(li)Thrasher Tooths can be used to make Trapdoors, Doors, decoration blocks, a beautiful lantern, Bone Meanl and even a Trident.$(br)$(li)They only can be obtained slaying a Thraser.",
+            "text": "$(li)The Thrasher Tooth is an item that can be used to make $(l:patchouli:decoration/others/trapdoors)Trapdoors$(/l), $(l:patchouli:decoration/others/doors)Doors$(/l), decoration blocks, a $(l:patchouli:decoration/charm/lanterns)Lantern$(/l), $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) and a $(l:patchouli:weapons/trident)Trident$(/l).$(br)$(li)$(l:patchouli:creatures/upgrade_aquatic/thrasher)Thrasers$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

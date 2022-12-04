@@ -1,0 +1,18 @@
+{    
+    "name": "Witch Hut",
+    "icon": "minecraft:cauldron",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Witch Hut is an exiled place where $(l:patchouli:illagers/witch)Witches$(/l) live peacefully.$(br)$(li)The main house can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l), but there are also other variants that can appear throughout the Overworld.$(br)$(li)You can find a $(l:patchouli:miscellaneous/end_remastered/with_pupil)Witch Pupil$(/l) inside of this place."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/witch_hut.png"
+
+        }
+             ]
+}

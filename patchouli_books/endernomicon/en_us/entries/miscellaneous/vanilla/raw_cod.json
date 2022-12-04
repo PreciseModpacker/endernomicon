@@ -1,0 +1,20 @@
+{    
+    "name": "Raw Cod",
+    "icon": "minecraft:cod",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:cod",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:cod",
+            "text": "$(li)The Raw Cod is an eatable food that is dropped by $(l:patchouli:creatures/vanilla/cod)Cods$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l), $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l), $(l:patchouli:creatures/vanilla/polar_bear)Polar Bears$(/l), and $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l).$(br)$(li)It can be used to tame $(l:patchouli:pets/vanilla/ocelot)Ocelots$(/l), $(l:patchouli:pets/vanilla/cat)Cats$(/l), and $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:cooked_cod",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/smoker)Smoker$(/l).$(br)$(li)Cooked Cod satisfies three times more than a Raw Cod."
+        }
+             ]
+}

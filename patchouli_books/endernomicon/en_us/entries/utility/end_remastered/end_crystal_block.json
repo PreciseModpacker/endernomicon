@@ -3,11 +3,12 @@
     "icon": "endrem:end_crystal_block",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:end_crystal_fragment",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "endrem:end_crystal_block",
-            "text": "$(li)End Crystal Block is a new decorative block.$(br)$(li)It can be used to save End Crystal in a more efficient way.",  
+            "text": "$(li)End Crystal Block is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/end_remastered/end_crystal_fragment)End Crystal Fragments$(/l) in a more efficient way.",  
             "link_recipe": "true"
         }
              ]

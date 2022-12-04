@@ -2,18 +2,18 @@
     "name": "Sweet Berries",
     "icon": "minecraft:sweet_berries",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:sweet_berries",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:sweet_berries",
-            "text": "$(li)Sweet Berries are a fruit that can be growed up from Sweet Berry Pips.$(br)$(li)You can use Sweet Berries to craft Seed Pouch, Sweet Berry Mince, Sweet Berry Sack, or Sweet Berry Pips in a Crafting Table.",
+            "text": "$(li)Sweet Berries are a fruit that can be growed up from $(l:patchouli:miscellaneous/berry_good/sweet_berry_pips)Sweet Berry Pips$(/l).$(br)$(li)You can use Sweet Berries to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l)Sweet Berry Mince$(), $(l:patchouli:utility/quark/sweet_berry_sack)Sweet Berry Sack$(/l), or $(l:patchouli:miscellaneous/berry_good/sweet_berry_pips)Sweet Berry Pips$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Butchers will exchange this item by Emeralds.",
+            "text": "$(li)$(l:patchouli:villagers/butcher)Butchers$(/l) will exchange it by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         }
              ]

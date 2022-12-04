@@ -2,8 +2,8 @@
     "name": "Magma Armor",
     "icon": "extraarmor:magma_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 5,
+    "advancement": "endernomicon:magma_block",
     "pages": [
        {
             "type": "patchouli:text",

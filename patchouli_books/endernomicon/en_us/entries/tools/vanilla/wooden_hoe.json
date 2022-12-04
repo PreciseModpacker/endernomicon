@@ -8,12 +8,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:wooden_hoe",
-            "text": "$(li)The Wooden Hoe is the most basic Hoe and it can be used to create Farmland.$(br)$(li)You should craft a better Hoe, like the Stone Hoe." ,
+            "text": "$(li)The Wooden Hoe is the most basic hoe.$(br)$(li)You can right click in a Grass or Dirt block while you are holding it in your hand to create Farmland." ,
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)You can use it to create Farmland."
+            "type": "patchouli:entity",
+            "name": "Wooden Hoe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:wooden_hoe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
         }
              ]
 }

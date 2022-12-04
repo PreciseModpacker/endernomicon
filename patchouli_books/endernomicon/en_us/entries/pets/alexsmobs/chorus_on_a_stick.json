@@ -3,16 +3,17 @@
     "icon": "alexsmobs:chorus_on_a_stick",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:chorus_fruit",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:chorus_on_a_stick",
-            "text": "$(li)The Chorus Fruit on a Stick can be use to ride a $(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l).$(br)$(li)It can be crafted with a Fishing Rod and a Chorus Fruit in a Crafting Table.",
+            "text": "$(li)The Chorus Fruit on a Stick can be use to ride an $(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l).$(br)$(li)To ride a Endergrade, first you have to equip a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to this creature.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)To ride a Endergrade, first you have to equip a Saddle to the Endergrade.$(br)$(li)Then, right click to the Endergrade to ride it.$(br)$(li)Now just hold the Chorus Fruit on a Stick on your hand to make walk your Endergrade in any direction."
+            "text": "$(li)Then, right click to the Endergrade to ride it.$(br)$(li)Now just hold the Chorus Fruit on a Stick in your hand to make walk your Endergrade in any direction."
         }
              ]
 }

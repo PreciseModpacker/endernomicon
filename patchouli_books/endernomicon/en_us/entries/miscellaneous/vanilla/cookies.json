@@ -1,0 +1,15 @@
+{    
+    "name": "Cookies",
+    "icon": "minecraft:cookie",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:cookie",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:cookie",
+            "text": "$(li)Cookies are an item food that can be stored in $(l:patchouli:utility/supplementaries/jar)Jars$(/l)$(br)$(li)$(l)Warning: Do not give Cookies to a $(l:patchouli:pets/vanilla/parrot)Parrot$(/l).",
+                        "link_recipe": "true"
+        }
+             ]
+}

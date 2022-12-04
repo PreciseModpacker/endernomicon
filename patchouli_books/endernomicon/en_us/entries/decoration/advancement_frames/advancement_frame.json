@@ -3,21 +3,17 @@
     "icon": "advancementframes:advancement_frame",
     "category": "patchouli:decoration",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:emerald",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "advancementframes:advancement_frame",
+            "type": "patchouli:crafting",
+            "recipe": "advancementframes:advancement_frame",
             "text": "$(li)The Advancenment Frame is an item that can be placed in any wall.$(br)$(li)It shows any Advancement you have archieved during your adventure.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Advancement Frames"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "advancementframes:advancement_frame"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/advancement_frame.png"
         }
              ]
 }

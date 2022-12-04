@@ -3,12 +3,12 @@
     "icon": "alexsmobs:kangaroo_hide",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:kangaroo_hide",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:kangaroo_hide",
-            "text": "$(li)Kangaroo Hide can be used to craft Common Leather, a new Pattern and a Outback Leggins.$(br)$(li)It can be obtained salying Kangaroos.",
+            "text": "$(li)The Kangaroo Hide can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l), and the $(l:patchouli:armors/outback_leggings)Outback Leggings$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

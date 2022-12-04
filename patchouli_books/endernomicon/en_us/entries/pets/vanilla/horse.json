@@ -1,0 +1,28 @@
+{    
+    "name": "Horse",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Horsers are passive animals that can be found in the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) and $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) and in the $(l:patchouli:villagers/villagers)Villages$(/l) of the Overworld.$(br)$(li)They can be tamed right clicking on them to mounts it.$(br)$(li)You will have to repeat this process until hearts appears above the horse."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:horse",
+            "scale": 0.6,
+            "offset": 0.8
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Now, to ride the tamed Horse, you have to right click on it while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to equip it.$(br)$(li)After that right click on it again, to start to ride it.$(br)$(li)You can walk with it normally, and use the spacebar key in your keyboard to jump.$(br)$(li)Tamed Horsers can be bred giving them $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apples$(/l) or $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/horse.png",
+            "text": "$(li)If a Horse is bred with a $(l:patchouli:pets/vanilla/donkey)Donkey$(/l) they will create a $(l:patchouli:pets/vanilla/mule)Mule$(/l) foal."
+        }
+             ]
+}

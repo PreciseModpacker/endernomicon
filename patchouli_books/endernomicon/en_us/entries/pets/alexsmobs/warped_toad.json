@@ -7,13 +7,16 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Warped Toads are neutral large blue toads, that attacks with their tongues. Warped Toads target Flies and Crimsom Mosquitos. They move via hopping and they can also swim in lava and water.$(br2)Warped Toads can be tamed with Crimsom Mosquito Larva. Once tamed, you can command a Warped Toad to sit, follow or wander. These creatures will defend their owner."
+            "text": "$(li)Warped Toads are neutral large blue amphibians that attacks with their tongues and they can be found in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) of the Nether.$(br)$(li) Warped Toads target $(l:patchouli:creatures/alexsmobs/fly)Flies$(/l) and $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l) as their prey.$(br)$(li) They move via hopping and they can also swim in lava and water."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:warped_toad",
-            "scale": 0.7,
-            "text": "Tamed Warped Toads can be bred with Crimson Mosquito Larva. On Death, they may drop Shroomlight or Nether Wart."
+            "scale": 0.7
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Warped Toads can be tamed with $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larvas$(/l).$(br)$(li)Once tamed, you can command a Warped Toad to sit, follow or wander. These creatures will defend their owner from another creatures.$(br)$(li)Tamed Warped Toads can be bred giving to them $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larvas$(/l).$(br)$(li)They may drop $(l:patchouli:decoration/vanilla/shroomlight)Shroomlight$(/l) or $(l:patchouli:miscellaneous/vanilla/nether_wart)Nether Wart$(/l) on death."
         }
              ]
 }

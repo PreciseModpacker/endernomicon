@@ -3,13 +3,18 @@
     "icon": "minecraft:torch",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:coal",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:torch",
-            "text": "$(li)The Torches are the most common source light block that you can make and even found in this world.$(br)$(li)When they are hit by Water or any kind of fluid, they breaks and drop on the ground.",
+            "text": "$(li)Torches are the most common source light block that you can make and even found in this world.$(br)$(li)When they are hit by Water or any kind of fluid, they break and drop on the ground.",
             "link_recipe": "true",
             "title": "Torchs"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/torch.png"
         },
         {
             "type": "patchouli:crafting",
@@ -29,10 +34,6 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:ender_torch",
             "recipe2":"bamboo_blocks:ender_bamboo_torch"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Chains"
         }
              ]
 }

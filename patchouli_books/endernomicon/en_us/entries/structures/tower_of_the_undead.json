@@ -1,0 +1,17 @@
+{    
+    "name": "Tower of the Undead",
+    "icon": "minecraft:zombie_head",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Tower of the Undead is an abandoned structure by an ancient necromancer where he kept its test objects captive.$(br)$(li)Currently only the remains of its experiments remain in this tower."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/tower_of_the_undead.png"
+        }
+             ]
+}

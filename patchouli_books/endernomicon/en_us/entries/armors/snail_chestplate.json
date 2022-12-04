@@ -2,8 +2,8 @@
     "name": "Snail Shell Chestplate",
     "icon": "autumnity:snail_shell_chestplate",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 19,
+    "advancement": "endernomicon:snail_shell_piece",
     "pages": [
        {
             "type": "patchouli:crafting",

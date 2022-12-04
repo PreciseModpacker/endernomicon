@@ -1,0 +1,20 @@
+{    
+    "name": "Magic Staff",
+    "icon": "minecraft:grass_block",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Moobloom is a variant of the $(l:patchouli:creatures/vanilla/cow)Cow$(/l) that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() on death.$(br)$(li)They can't be tamed, but they can be breed and milked in the same way as the cows."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "buzzier_bees:moobloom",
+            "scale": 0.7,
+            "offset": 0.4,
+            "text": "You can right click on a Moobloom while you are holding $(l:patchouli:tools/vanilla/shears)Shears$(/l) in you hand to transform it into a $(l:patchouli:creatures/vanilla/cow)Cow$(/l)."
+        }  
+             ]
+}

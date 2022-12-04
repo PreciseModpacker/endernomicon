@@ -2,18 +2,18 @@
     "name": "Coal",
     "icon": "minecraft:coal",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:coal",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:coal",
-            "text": "$(li)The Coal is a burnable material that can be found and mined easily in the Caves.$(br)$(li)Some creatures as the Baby Wither Skeletons, Wither Skeletons, Foxhounds, and Soul Vultures drops this material when they are slayed too.$(br)You can find Coal in Loot Chests too.",
+            "text": "$(li)The Coal is an item that can be found and mined in the caves over the Overworld.$(br)$(li)Some creatures as the $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l), $(l:patchouli:pets/quark/foxhound)Foxhounds$(/l), and $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item on death.$(br)$(li)You can find Coal in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Coal can be used as a fuel in Furnaces, Smokers, Blast Furnaces and Kilns.$(br)$(li)One Coal can smell up 8 items, so with 8 Coals you can smelt 1 complete stack.$(br)$(li)Coal can be used to craft Fire Charges, Torchs, Braziers, Block of Coal and Campfires in a Crafting Table too.",
+            "text": "$(li)Coal can be used as a fuel in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l) and $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)One Coal can smell up to eight items.$(br)$(li)Coal can be used to craft $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charges$(/l), $(l:patchouli:decoration/others/torchs)Torches$(/l), $(l:patchouli:decoration/decorative_blocks/braziers)Braziers$(/l), $(l:patchouli:utility/vanilla/coal_block)Coal Blocks$(/l) and $(l:patchouli:utility/vanilla/campfire)Campfires$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
             "link_recipe": "true"
         }
              ]

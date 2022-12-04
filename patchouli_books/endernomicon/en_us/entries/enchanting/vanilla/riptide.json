@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
-            "text": "$(li)The Riptide enchantment can be applied in a Trident.$(br)$(li)This enchantment allows the trident to launch you forwards while you are in contact with Water, this includes Rain.",
+            "text": "$(li)The Riptide enchantment can be applied in a $(l:patchouli:weapons/trident)Trident$(/l).$(br)$(li)This enchantment allows the trident to launch you forwards while you are in contact with Water, this includes Rain.",
             "title": "Riptide"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an Ancient Tome (Riptide)."
+            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_riptide)Ancient Tome (Riptide)$(/l)."
         }
              ]
 }

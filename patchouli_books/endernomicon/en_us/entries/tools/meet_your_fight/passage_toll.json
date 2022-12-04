@@ -1,0 +1,19 @@
+{    
+    "name": "Passage's Toll",
+    "icon": "meetyourfight:passages_toll",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:phantoplasm",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:passages_toll",
+            "text": "$(li)The Passage's Toll allows you to teleport up to 16 blocks through any surface.$(br)$(li)Just right click the desired block while you are holding this item in your hand to use it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/passages_toll.png"
+        }
+             ]
+}

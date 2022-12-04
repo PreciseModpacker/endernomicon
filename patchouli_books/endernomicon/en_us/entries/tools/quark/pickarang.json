@@ -3,7 +3,7 @@
     "icon": "quark:pickarang",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:diamond_heart",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "The Pickarang can be Enchanted with multiples enchantments:$(br)$(li)Tinted$(li)Bane of Arthropods$(li)Mending$(li)Sharpness$(li)Smite$(li)Curse of Vanishing$(li)Imperishable$(li)Lumbering$(li)Efficiency$(li)Umbreaking$(li)Fortune$(li)Silk Touch$(li)Piercing"
+            "text": "The Pickarang can be Enchanted with multiples enchantments:$(br)$(li)$(l:patchouli:enchanting/charm/tinted)Tinted$(/l)$(li)$(l:patchouli:enchanting/vanilla/bane_of_arthropods)Bane of Arthropods$(/l)$(li)$(l:patchouli:enchanting/vanilla/mending)Mending$(/l)$(li)$(l:patchouli:enchanting/vanilla/sharpness)Sharpness$(/l)$(li)$(l:patchouli:enchanting/vanilla/smite)Smite$(/l)$(li)$(l:patchouli:enchanting/vanilla/curse_of_vanishing)Curse of Vanishing$(/l)$(li)$(l:patchouli:enchanting/vtweaks/imperishable)Imperishable$(/l)$(li)$(l:patchouli:enchanting/vtweaks/lumbering)Lumbering$(/l)$(li)$(l:patchouli:enchanting/vanilla/efficiency)Efficiency$(/l)$(li)$(l:patchouli:enchanting/vanilla/unbreaking)Unbreaking$(/l)$(li)$(l:patchouli:enchanting/vanilla/fortune)Fortune$(/l)$(li)$(l:patchouli:enchanting/vanilla/silk_touch)Silk Touch$(/l)$(li)$(l:patchouli:enchanting/vanilla/piercing)Piercing$(/l)"
         }
              ]
 }

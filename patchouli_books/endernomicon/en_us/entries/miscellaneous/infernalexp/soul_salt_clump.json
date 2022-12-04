@@ -3,12 +3,12 @@
     "icon": "infernalexp:soul_salt_clump",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:soul_salt_clump",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:soul_salt_clump",
-            "text": "$(li)The Soul Salt Clump can be used tp make the Charged Chiseled Soul Slate Brick, Charged Chiseled Soul Stone Brick and Cured Jerky.$(br)$(li)It can be only dropped by an Embody.",
+            "text": "$(li)The Soul Salt Clump can be used to craft the $(l)Charged Chiseled Soul Slate Brick$(), $(l)Charged Chiseled Soul Stone Brick$() and $(l:patchouli:miscellaneous/infernalexp/cured_jerky)Cured Jerky$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/infernal_expansion/embody)Embodies$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

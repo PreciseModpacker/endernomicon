@@ -1,0 +1,19 @@
+{    
+    "name": "Magma Block",
+    "icon": "minecraft:magma_block",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:magma_block",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:magma_block",
+            "text": "$(li)The Magma Block is a light-emitting naturally-occuring block that can be found in the deeps of the $(l:patchouli:biomes/overworld/water/oceans)Oceans$(/l) over the Overworld and over the Nether.$(br)$(li)They will damage you if you walk over them, except if you wear the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) or you sneak over it.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When a water source is directly above a magma block, a whirlpool bubble column is created, going down from the highest source block.$(br)$(li)Any item, $(l:patchouli:tools/vanilla/boats)Boats$(/l) and creatures encountering the bubble column are pulled down.$(br)$(li)You can restore breath underwater by entering a magma block's bubble column.$(br)$(li)The Magma block can be used to craft the $(l:patchouli:armors/magma_armor)Magma Armor$(/l)."
+        }
+             ]
+}

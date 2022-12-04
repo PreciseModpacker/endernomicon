@@ -2,8 +2,8 @@
     "name": "Pumpkin Armor",
     "icon": "extraarmor:pumpkin_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 2,
+    "advancement": "endernomicon:pumpkin",
     "pages": [
         {
             "type": "patchouli:text",

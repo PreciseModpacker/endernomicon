@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:honey_block",
-            "text": "$(li)The Honey Block is a block that has works very well with pistons."
+            "text": "$(li)The Honey Block is a block that has works very well with $(l:patchouli:redstone/vanilla/piston)$(l:patchouli:redstone/vanilla/piston)Piston$(/l)s$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
@@ -18,20 +18,20 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/honey_block_2.png",
-            "text": "$(li)A Honey Block can move any block a Sticky Piston can pull, except Glazed Terracota and Slime Blocks."
+            "text": "$(li)A Honey Block can move any block a $(l:patchouli:redstone/vanilla/sticky_piston)$(l:patchouli:redstone/vanilla/sticky_piston)Sticky $(l:patchouli:redstone/vanilla/piston)Piston$(/l)$(/l)$(/l) can pull, except Glazed Terracota and $(l:patchouli:redstone/vanilla/slime_block)Slime Blocks$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/honey_block_3.png",
-            "text": "$(li)The blocks that are move may, in turn, push other blocks, as if they were being pushed by a piston"
+            "text": "$(li)The blocks that are move may, in turn, push other blocks, as if they were being pushed by a piston."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When the adjacent block that is moved is also a Honey Block, that block also attempts to move all its adjacent blocks.$(br)$(li)Honey Blocks are not pulled by a non-sticky piston, nor are they moved if an adjacent (non-honey) block is moved by a piston."
+            "text": "$(li)When the adjacent block that is moved is also a Honey Block, that block also attempts to move all its adjacent blocks.$(br)$(li)Honey Blocks are not pulled by a non-sticky piston, nor are they moved if an adjacent (non-honey) block is moved by a piston.$(br)$(li)The maximum of 12 blocks moved by a piston still applies."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The maximum of 12 blocks moved by a piston still applies.$(br)$(li)Honey Blocks moved by pistons do not move entities that are touching the side or bottom of the block."
+            "text": "$(li)Honey Blocks moved by pistons do not move entities that are touching the side or bottom of the block."
         }
              ]
 }

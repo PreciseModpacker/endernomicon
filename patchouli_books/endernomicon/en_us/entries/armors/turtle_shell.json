@@ -2,8 +2,8 @@
     "name": "Turtle Shell",
     "icon": "minecraft:turtle_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 1,
+    "advancement": "endernomicon:scute",
     "pages": [
        {
             "type": "patchouli:crafting",

@@ -1,0 +1,34 @@
+{    
+    "name": "Snow Golem",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+    "advancement": "endernomicon:snow",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Snow Golem is a passive creative that can be summoned with two $(l)Snow Blocks$() and one $(l:patchouli:miscellaneous/vanilla/pumpkin)Carved Pumpkin$(/l).$(br)$(li)These creatures can attack all creatures, but they only can damage $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:pets/revamped_wolf/wolf)Wolves$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/snow_golem.png"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Snow Golem",
+            "multiblock": {
+                "pattern": [
+                    [ " P " ],
+                    [ " 0 " ],
+                    [ " S " ]
+                ],
+                "mapping": {
+                    "S": "minecraft:snow_block",
+                    "P": "minecraft:carved_pumpkin[facing=west]",
+                    "0": "minecraft:snow_block"
+                 },
+                 "symmetrical": true
+            }
+        }
+             ]
+}

@@ -3,11 +3,12 @@
     "icon": "quark:nether_wart_sack",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:nether_wart",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/compressed/nether_wart_sack",
-            "text": "$(li)The Nether Wart Sack is a new decorative block.$(br)$(li)It can be used to save Nether Wart in a more efficient way.",  
+            "text": "$(li)The Nether Wart Sack is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/vanilla/nether_wart)Nether Wart$(/l) in a more efficient way.",  
             "link_recipe": "true"
         }
              ]

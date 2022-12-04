@@ -1,0 +1,27 @@
+{
+    "name": "Cosmetic Armor",
+    "icon": "minecraft:diamond_helmet",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Tired of not being able to show off your Skin without taking off your armor and sacrificing protection?$(br)$(li)Don't worry! We have a solution to that!$(br)$(li)First, open your inventory, and look in your 3d model character." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/cosmetic_armor_1.png",
+            "text": "$(li)Now click in the Shirt button located on the right down corner."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)After click this icon, you will see four slots. Once slot for every part of your armor.$(br)$(li)You can just click in the checkboxes in the top left corner of every slot to stop showing your armor, and click again to show it again.$(br)$(li)If you want to show a different piece of armor than the one you have equipped, just place the desire piece of armor in the correct slot."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/cosmetic_armor_2.png"
+        }
+             ]
+}

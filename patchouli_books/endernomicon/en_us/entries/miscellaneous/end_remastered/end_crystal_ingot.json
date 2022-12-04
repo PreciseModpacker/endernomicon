@@ -2,19 +2,19 @@
     "name": "End Crystal Ingot",
     "icon": "endrem:end_crystal_ingot",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:end_crystal_fragment",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "endrem:end_crystal_ingot",
-            "text": "$(li)The End Crystal Ingot is the hardest material that you can obtain in this World.$(br)$(li)It can be used to craft multiple tools and even an armor in the Smithing Table.",
+            "text": "$(li)The End Crystal Ingot is the hardest material that you can obtain in this world.$(br)$(li)It can be used to craft multiple tools and even an armor in the $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "title": "End Crystal Crafts",
-            "text": "$(li)End Crystal Axe$(li)End Crystal Sword$(li)End Crystal Shovel$(li)End Crystal Hoe$(li)End Crystal Pickaxe$(li)End Crystal Armor",
+            "title": "End Crystal Recipes",
+            "text": "$(li)$(l:patchouli:weapons/end_crystal_axe)End Crystal Axe$(/l)$(li)$(l:patchouli:weapons/end_crystal_sword)End Crystal Sword$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_shovel)End Crystal Shovel$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_hoe)End Crystal Hoe$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_pickaxe)End Crystal Pickaxe$(/l)$(li)$(l:patchouli:armors/end_crystal)End Crystal Armor$(/l)",
             "link_recipe": "true"
         }
              ]

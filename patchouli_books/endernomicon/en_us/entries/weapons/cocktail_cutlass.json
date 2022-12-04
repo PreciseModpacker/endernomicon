@@ -2,8 +2,8 @@
     "name": "Cocktail Cutlass",
     "icon": "meetyourfight:cocktail_cutlass",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 8,
+    "advancement": "endernomicon:fortunes_favor",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -2,8 +2,8 @@
     "name": "Ender Armor",
     "icon": "extraarmor:ender_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 8,
+    "advancement": "endernomicon:ender_pearl",
     "pages": [
        {
             "type": "patchouli:text",

@@ -1,0 +1,20 @@
+{    
+    "name": "Slicer's Dice",
+    "icon": "meetyourfight:slicers_dice",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:fortunes_favor",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:slicers_dice",
+            "text": "$(li)The Slicer's Dice adds you 20% possibility of inflicts double damage time that you hit a creature, you have more possibilities if you have the Luck attribute increased, for example, by a $(l:patchouli:potions/buzzier_bees/luck)Luck Potion$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/slicers_dice.png",
+            "text": "$(li)It has to be equipped in the Charm Curious API slot."
+        }
+             ]
+}

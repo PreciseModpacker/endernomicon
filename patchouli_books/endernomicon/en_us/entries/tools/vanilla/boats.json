@@ -2,26 +2,29 @@
     "name": "Boats",
     "icon": "minecraft:oak_boat",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:oak_boat",
-            "text": "$(li)Boats are vehicles used primarily for fast transport over the water and even over the Ice.$(br)$(li)A rider and a passager can be on a same Boat.",
+            "text": "$(li)Boats are vehicles used primarily for fast transport over the water and even over the $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l).$(br)$(li)A rider and a passager can be on a same Boat.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)If a creature is near of a Boat, it will be trapped on it. This doesn't happend with all creatures, so be careful.$(br)$(li)To use it, just place the Boat and right click on it, then you will be able to move the Boat and finally get out of it pressing the Shift key.$(br)$(li)The are exist some variants of Boats for decoration purporses, just try it using any kind of wood."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/boat_1.png",
+            "text": "$(li)Place the Boat and right click on it to drive it, then you will be able to control the Boat and get out of it pressing the Shift key."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/boats.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/boat_2.png",
+            "text": "$(li)If a creature is near of a Boat, it will be trapped on it. This doesn't happend with all creatures, so be careful."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/boat_3.png",
+            "text": "$(li)The are exist some variants of Boats for decoration purporses, just try it using any kind of wood."
         },
         {
             "type": "patchouli:crafting",

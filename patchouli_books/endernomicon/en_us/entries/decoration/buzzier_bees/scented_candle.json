@@ -8,47 +8,43 @@
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:white_tulip_scented_candle",
-            "text": "Scented Candles are a improve version of the $(l:patchouli:tools/buzzier_bees/candle)Candles$(/l) produces potion effects of nearby creatures including you.$(br2)The effect depends of the kind of Scented Candle.$(br2)They can be crafted with a Candle, the specific Dye and a Chorus Fuit.",
+            "text": "$(li)Scented Candles are an improve version of the $(l:patchouli:decoration/buzzier_bees/candle)Candles$(/l) because produces a potion effect of nearby creatures, including you.$(br)$(li)This potion effect depends of the placed Scented Candle.",
             "link_recipe": "false",
             "title": "Scented Candle"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Candle"
-        },
-        {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/allium_scented_candle",
-            "text": "Allium Scented Candle gives the nearby creatures Fire Resistance effect.$(br2)This effect gives you inmunity of any kind of Fire Damage."
+            "text": "$(li)Allium Scented Candle gives the nearby creatures Fire Resistance effect.$(br)$(li)This effect gives you inmunity of any kind of Fire Damage."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/lily_of_the_valley_scented_candle",
-            "text": "Lily of the Valley Scented Candle gives the nearby creatures Poison effect.$(br2)This effect damage you every second until you have half hearth of life.",
+            "text": "$(li)Lily of the Valley Scented Candle gives the nearby creatures Poison effect.$(br)$(li)This effect damage you every second until you have half hearth of life.",
             "title": "Valley Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/azure_bluet_scented_candle",
-            "text": "Azure Bluet Scented Candle gives the nearby creatures Blindness effect.$(br2)This effect impairs your vision as if a thick black fog were surrounding you, reducing your field of vision.",
+            "text": "$(li)Azure Bluet Scented Candle gives the nearby creatures Blindness effect.$(br)$(li)This effect impairs your vision as if a thick black fog were surrounding you, reducing your field of vision.",
             "title": "A. Bluet Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/cornflower_scented_candle",
-            "text": "Cornflower Scented Candle gives the nearby creatures Jump Boost effect.$(br2)This effect allows you to jump greater heights.",
+            "text": "$(li)Cornflower Scented Candle gives the nearby creatures Jump Boost effect.$(br)$(li)This effect allows you to jump greater heights.",
             "title": "C. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/oxeye_daisy_scented_candle",
-            "text": "Oxeye Daisy Scented Candle gives the nearby creatures Regeneration effect.$(br2)This effect regenerares your life health.",
+            "text": "$(li)Oxeye Daisy Scented Candle gives the nearby creatures Regeneration effect.$(br)$(li)This effect regenerares your life health.",
             "title": "O. Daisy Scented Candle"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:white_tulip_scented_candle",
-            "text": "Tulip Scented Candle gives the nearby creatures Weakness effect.$(br2)This effect reduces the damage that you inflict to other creatures.",
+            "text": "$(li)Tulip Scented Candle gives the nearby creatures Weakness effect.$(br)$(li)This effect reduces the damage that you inflict to other creatures.",
             "link_recipe": "false",
             "title": "Tulip Scented Candle"
         },
@@ -67,13 +63,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/wither_rose_scented_candle",
-            "text": "Wither Rose Scented Candle gives the nearby creatures Wither effect.$(br2)This effect damage you every second.",
+            "text": "$(li)Wither Rose Scented Candle gives the nearby creatures Wither effect.$(br)$(li)This effect inflicts damage every second.",
             "title": "W. Rose Scented Candle"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:white_clover_scented_candle",
-            "text": "Clover Scented Candle gives the nearby creatures Bad Luck effect.$(br2)This effect reduces your probability of generate good drops in the new naturally Chests generated while this effect is still active.",
+            "text": "$(li)Clover Scented Candle gives the nearby creatures Bad Luck effect.$(br)$(li)This effect reduces your probability of generate good drops in the new naturally Chests generated while this effect is still active.",
             "link_recipe": "false",
             "title": "Clover Scented Candle"
         },
@@ -86,30 +82,30 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/buttercup_scented_candle",
-            "text": "Buttercup Scented Candle gives the nearby creatures Sunny effect.$(br2)If this effect is applied to creatures that are damaged with the Sunlight, like Zombies or Skeletos, they will start to burn.",
+            "text": "$(li)Buttercup Scented Candle gives the nearby creatures Sunny effect.$(br)$(li)If this effect is applied to creatures that are damaged with the Sunlight, like Zombies or Skeletos, they will start to burn.",
             "title": "B. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/cartwheel_scented_candle",
-            "text": "Cartwheel Scented Candle gives the nearby creatures Levitation effect.$(br2)This effect makes you float rising slowly to the sky.",
+            "text": "$(li)Cartwheel Scented Candle gives the nearby creatures Levitation effect.$(br)$(li)This effect makes you float rising slowly to the sky.",
             "title": "C. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/violet_scented_candle",
-            "text": "Violet Scented Candle gives the nearby creatures Invisibility effect.$(br2)This effect makes you harder to detect from nearby hostile creatures."
+            "text": "$(li)Violet Scented Candle gives the nearby creatures Invisibility effect.$(br)$(li)This effect makes you harder to detect from nearby hostile creatures."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/dianthus_scented_candle",
-            "text": "Dianthus Scented Candle gives the nearby creatures Strength effect.$(br2)This effect allows you to inflict more damage to other creatures.",
+            "text": "$(li)Dianthus Scented Candle gives the nearby creatures Strength effect.$(br)$(li)This effect allows you to inflict more damage to other creatures.",
             "title": "D. Scented Candle"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:white_lotus_flower_scented_candle",
-            "text": "Lotus Flower Scented Candle gives the nearby creatures Slow Falling effect.$(br2)This effect makes you slow falling from heighs, allowing to you to fall from big heights without reveicing any damage.",
+            "text": "$(li)Lotus Flower Scented Candle gives the nearby creatures Slow Falling effect.$(br)$(li)This effect makes you slow falling from heighs, allowing to you to fall from big heights without reveicing any damage.",
             "link_recipe": "false",
             "title": "L. F. Scented Candle"
         },
@@ -122,7 +118,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:red_hibiscus_scented_candle",
-            "text": "Hibiscus Scented Candle gives the nearby creatures Glowing effect.$(br2)Creatures with this effect will be easier to detect in the darkness or between blocks.",
+            "text": "$(li)Hibiscus Scented Candle gives the nearby creatures Glowing effect.$(br)$(li)Creatures with this effect will be easier to detect in the darkness or between blocks.",
             "link_recipe": "false",
             "title": "H. Scented Candle"
         },
@@ -147,7 +143,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:warm_monkey_brush_scented_candle",
-            "text": "Monkey Brush Candle gives the nearby creatures Relief effect.$(br2)This effect will heal you if the incoming damage is greater than or equal to the level.",
+            "text": "$(li)Monkey Brush Candle gives the nearby creatures Relief effect.$(br)$(li)This effect will heal you if the incoming damage is greater than or equal to the level.",
             "link_recipe": "false",
             "title": "M. B. Scented Candle"
         },
@@ -165,25 +161,25 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/water_hyacinth_scented_candle",
-            "text": "Water Hyacinth Scented Candle gives the nearby creatures Worsening effect.$(br2)This effect will increase the incoming damage to you if the incoming damage is greater than or equal to the level.",
+            "text": "$(li)Water Hyacinth Scented Candle gives the nearby creatures Worsening effect.$(br)$(li)This effect will increase the incoming damage to you if the incoming damage is greater than or equal to the level.",
             "title": "W. H. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/gilia_scented_candle",
-            "text": "Gilia Scented Candle gives the nearby creatures Speed effect.$(br2)This effect will increase your movement speed.",
+            "text": "$(li)Gilia Scented Candle gives the nearby creatures Speed effect.$(br)$(li)This effect will increase your movement speed.",
             "title": "Gilia Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/yucca_flower_scented_candle",
-            "text": "Yucca Flower Scented Candle gives the nearby creatures Persistance effect.$(br2)This effect will increase you movement speed in 5%.",
+            "text": "$(li)Yucca Flower Scented Candle gives the nearby creatures Persistance effect.$(br)$(li)This effect will increase you movement speed in 5%.",
             "title": "Y. F. Scented Candle"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:white_searocket_scented_candle",
-            "text": "White Searocket Scented Candle gives the nearby creatures Watet Breathing effect.$(br2)This effect will allow you to be more time underwater without breathing.",
+            "text": "$(li)White Searocket Scented Candle gives the nearby creatures Watet Breathing effect.$(br)$(li)This effect will allow you to be more time underwater without breathing.",
             "link_recipe": "false",
             "title": "S. Scented Candle"
         },
@@ -196,31 +192,31 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/autumn_crocus_scented_candle",
-            "text": "Autumn Crocus Scented Candle gives the nearby creatures Foul Taste effect.$(br2)This effect gives a small boost of hunger to the foods you eat.",
+            "text": "$(li)Autumn Crocus Scented Candle gives the nearby creatures Foul Taste effect.$(br)$(li)This effect gives a small boost of hunger to the foods you eat.",
             "title": "A. C. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/compat/bluebell_scented_candle",
-            "text": "Bluebell Scented Candle gives the nearby creatures Hunger effect.$(br2)This effect makes you spent your hunger bar quickly.",
+            "text": "$(li)Bluebell Scented Candle gives the nearby creatures Hunger effect.$(br)$(li)This effect makes you spent your hunger bar quickly.",
             "title": "Bluebell Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/poppy_scented_candle",
-            "text": "Poppy Scented Candle gives nearby creatures Night Vision effect.$(br2)This effect allows you to see better in the darkness.",
+            "text": "$(li)Poppy Scented Candle gives nearby creatures Night Vision effect.$(br)$(li)This effect allows you to see better in the darkness.",
             "title": "Poppy Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/dandelion_scented_candle",
-            "text": "Dandelion Scented Candle doesn't give any effect to nearby creatures.",
+            "text": "$(li)Dandelion Scented Candle doesn't give any effect to nearby creatures.",
             "title": "D. Scented Candle"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/blue_orchid_scented_candle",
-            "text": "Blue Orchid Scented Candle doesn't give any effect to nearby creatures.",
+            "text": "$(li)Blue Orchid Scented Candle doesn't give any effect to nearby creatures.",
             "title": "B. O. Scented Candle"
         }
              ]

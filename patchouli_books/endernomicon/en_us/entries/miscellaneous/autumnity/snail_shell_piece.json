@@ -3,12 +3,12 @@
     "icon": "autumnity:snail_shell_piece",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:snail_shell_piece",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "autumnity:snail_shell_piece",
-            "text": "$(li)The tought Snail Shell Pieces can be used to craft new decoration Blocks, a Pattern and a Snail Shell Chestplate too.$(br)$(li)They can only be drop when a baby Snail turns into an adult Snail.",
+            "text": "$(li)The Snail Shell Piece is an item that can be used to craft new decoration blocks, a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l), and the $(l:patchouli:armors/snail_chestplate)Snail Shell Chestplate$(/l) too.$(br)$(li)It can only be dropped when a baby Snail turns into an $(l:patchouli:creatures/autumnity/snail)Snail$(/l).",
             "link_recipe": "true"
         }
              ]

@@ -1,0 +1,28 @@
+{    
+    "name": "Bone Armor",
+    "icon": "extraarmor:bone_helmet",
+    "category": "patchouli:armors",
+    "sortnum": 10,
+    "advancement": "endernomicon:bone",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Iron Armor is quiet better than the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)This armor will not give to you any special effect."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Iron Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:bone_boots\",Count:1},{id:\"extraarmor:bone_leggings\",Count:1},{id:\"extraarmor:bone_chestplate\",Count:1},{id:\"extraarmor:bone_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:bone_helmet",
+            "recipe2":"extraarmor:bone_chestplate"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "extraarmor:bone_leggings",
+            "recipe2":"extraarmor:bone_boots"
+        }
+             ]
+}

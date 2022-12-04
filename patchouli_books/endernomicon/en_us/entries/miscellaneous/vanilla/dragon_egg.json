@@ -1,0 +1,15 @@
+{    
+    "name": "Ender Dragon Egg",
+    "icon": "minecraft:dragon_egg",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "minecraft:end/dragon_egg",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:dragon_egg",
+            "text": "$(li)The Ender Dragon Egg is a placeable block that is spawned after defeat the $(l)Ender Dragon$().$(br)$(li)If you touch it, this egg will be teleported to a random place up to fifteen blocks horizontally and seven blocks vertically.",
+            "link_recipe": "true"
+        }
+             ]
+}

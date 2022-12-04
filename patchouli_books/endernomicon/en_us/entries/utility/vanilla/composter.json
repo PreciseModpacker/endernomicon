@@ -8,13 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:composter",
-            "text": "$(li)The Composter is a block that converts biological material, like Crops or Saplings into Bone Meal.$(br)$(li)To use it, just right click on it while you have that kind of items on your hand.",
+            "text": "$(li)The Composter is a block that converts biological material, like Crops, or Saplings into $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).$(br)$(li)To use it, just right click on it while you have that kind of items on your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/composter.png",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Farmer."
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/farmer)Farmer$(/l)."
         }
              ]
 }

@@ -3,18 +3,18 @@
     "icon": "minecraft:lodestone",
     "category": "patchouli:utility",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:lodestone",
-            "text": "$(li)The Lodestone is a block that allows to you to bind a Compass to it.",
+            "text": "$(li)The Lodestone is a block that allows to you to bind a $(l:patchouli:tools/vanilla/compass)Compass$(/l) to it.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/lodestone.png",
-            "text": "$(li)This will make that Compass to point the Lodestone insteat the Spawn Point."
+            "text": "$(li)This will make the compass needle to point the Lodestone insteat to the Spawn Point."
         }
              ]
 }

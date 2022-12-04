@@ -1,14 +1,14 @@
 {    
-    "name": "Tarantula Hawk Fragment",
+    "name": "Tarantula Hawk Wing",
     "icon": "alexsmobs:tarantula_hawk_wing",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:tarantula_hawk_wing_fragment",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:tarantula_hawk_wing",
-            "text": "$(li)Two Tarantula Hawk Fragments can be combined with a Elytra in a Crafting Table to make a Tarantula Hawk Elytra.$(br)$(li)It can be crafted with 9x Tattered Tarantula Hawk Wings.",
+            "text": "$(li)Two Tarantula Hawk Wing can be combined with an $(l:patchouli:armors/elytra)Elytra$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to make a $(l:patchouli:armors/tarantula_hawk_elytra)Tarantula Hawk Elytra$(/l).",
             "link_recipe": "true"
         }
              ]

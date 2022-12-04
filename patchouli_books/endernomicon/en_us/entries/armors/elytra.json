@@ -1,0 +1,21 @@
+{    
+    "name": "Elytra",
+    "icon": "minecraft:elytra",
+    "category": "patchouli:armors",
+    "sortnum": 35,
+    "advancement": "minecraft:end/elytra",
+    "pages": [
+       {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:elytra",
+            "text": "$(li)Elytra are rare wings found in End Ships in the $(l:patchouli:structures/end_city)End City$(/l) over the End.$(br)$(li)They can be equipped in your Chestplate slot and they can be used to fly.$(br)$(li)You can usem use them to craft a better version known as the Tarantula Hawk Elytra.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Elytra",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"minecraft:elytra\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "text": "To fly, you must press the jump key while falling, and the elytra spread apart like a beetle's elytra."
+        }
+             ]
+}

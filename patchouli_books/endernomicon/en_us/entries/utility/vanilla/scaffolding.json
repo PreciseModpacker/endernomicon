@@ -3,6 +3,7 @@
     "icon": "minecraft:scaffolding",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:bamboo",
     "pages": [
         {
             "type": "patchouli:crafting",

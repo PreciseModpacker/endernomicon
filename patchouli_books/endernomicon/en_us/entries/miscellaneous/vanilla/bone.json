@@ -2,18 +2,18 @@
     "name": "Bone",
     "icon": "minecraft:bone",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:bone",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:bone",
-            "text": "$(li)The Bone is hard bio-material that can be used to craft Bone Meal, Sopa De Macaco, an Bone Armor, Depth Star, Caged Heart, Fossil Bait and Bone Ranker.$(br)$(li)Lumberjacks will exchange the Bones by Emeralds.",
+            "text": "$(li)The Bone is hard bio-material that can be used to craft $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l), $(l)Sopa De Macaco$(), an $(l:patchouli:armors/bone_armor)Bone Armor$(/l), $(l:patchouli:weapons/depth_star)Depth Star$(/l), $(l:patchouli:tools/meet_your_fight/caged_heart)Caged Heart$(/l), $(l:patchouli:bosses/rumor_swampjaw)Fossil Bait$(/l) and the $(l:patchouli:tools/meet_your_fight/bone_raker)Bone Raker$(/l).$(br)$(li)$(l:patchouli:villagers/lumberjack)Lumberjacks$(/l) will exchange the Bones by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Bones are placed over all the Soul Sand and Soul Soil in the Soul Sand Valley biome, so you can obtain a lot of bones there.$(br)$(li)Skeletons, Baby Skeletons, Xylophone Skeletons, Skeleton Villagers, Skeleton Horses, Strays, Baby Strays, Wither Sekeletons, Baby Wither Skeletons, Bone Serpents, Forgottens and Soul Vultures may drop this item."
+            "text": "$(li)Bones are placed over all the Soul Sand and Soul Soil in the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valley$(/l), so you can obtain a lot of Bones there.$(br)$(li)$(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l), $(l:patchouli:illagers/skeleton_villager)Skeleton Villagers$(/l), $(l)Skeleton Horses$(), $(l:patchouli:creatures/vanilla/stray)Strays$(/l), $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l), $(l:patchouli:creatures/alexsmobs/bone_serpent)Bone Serpents$(/l), $(l:patchouli:creatures/quark/forgotten)Forgottens$(/l) and $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item."
         }
              ]
 }

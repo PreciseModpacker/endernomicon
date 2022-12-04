@@ -3,11 +3,15 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_centre",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illager Centre is a big castle where Illagers save their big treasure, Holy Water.$(br)$(li)Pillagers, Furanturs, Witches and a Black Iron Golem guard this place."
+            "text": "$(li)The Illager Centre is a big castle that can be found over the Overworld where Illagers save their big treasure, the $(l:patchouli:potions/illagers/holy_water)Holy Water$(/l).$(br)$(li)$(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/furantur)Furanturs$(/l), $(l:patchouli:illagers/witch)Witches$(/l), and a $(l:patchouli:illagers/black_iron_golem)Black Iron Golem$(/l) this place."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/illager_centre.png"
         }
              ]
 }

@@ -3,12 +3,12 @@
     "icon": "alexsmobs:mimicream",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:mimicream",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:mimicream",
-            "text": "$(li)The Mimicream is a sticky item that can be used to craft the Hemolymph Blaster in a Crafting Table.$(br)$(li)Mimicreams may drop this item on death.",
+            "text": "$(li)The Mimicream is a sticky item that can be used to craft a powerful weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/mimicube)Mimicubes$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

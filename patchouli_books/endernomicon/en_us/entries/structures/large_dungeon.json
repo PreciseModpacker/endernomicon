@@ -1,0 +1,17 @@
+{    
+    "name": "Dungeon (Large)",
+    "icon": "minecraft:cobblestone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:thats_a_dungeon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Large Dungeon is a big structure that can be found over the Overworld.$(br)$(li)Here, multiples dangerous creatures can be found defending the $(l:patchouli:perks/loot_chest)Loot Chests$(/l) inside of this ruins."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/large_dungeon.png"
+        }
+             ]
+}

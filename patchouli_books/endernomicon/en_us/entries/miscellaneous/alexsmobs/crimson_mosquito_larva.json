@@ -3,12 +3,12 @@
     "icon": "alexsmobs:mosquito_larva",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:mosquito_proboscis",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "alexsmobs:mosquito_larva",
-            "text": "$(li)The Crimson Mosquito Larva is a good it's a good food for certain creatures.$(br)$(li)It can be used to tame Warped Toads.$(br)$(li)Some rumors say that something will happen if you insert it into a Capsid.",
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:mosquito_larva",
+            "text": "$(li)The Crimson Mosquito Larva can be used to tame $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l).$(br)$(li)Some rumors say that something will happen if you insert it into a $(l:patchouli:utility/alexsmobs/capsid)Capsid$(/l).",
             "link_recipe": "true"
         }
              ]

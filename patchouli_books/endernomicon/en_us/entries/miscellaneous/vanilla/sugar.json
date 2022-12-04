@@ -2,13 +2,13 @@
     "name": "Sugar",
     "icon": "minecraft:sugar",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:sugar_cane",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:sugar_from_sugar_cane",
-            "text": "$(li)Sugar is a sweet flavour that can be obtained placing a Sugar Cane, Sap Bottle, or Honey Bottle in a Crafting Table.$(br)$(li)Witches may drop Sugar on death.",
+            "text": "$(li)Sugar is a sweet flavour that can be obtained placing a $(l:patchouli:miscallenous/vanilla/sugar_cane)Sugar Cane$(/l), $(l:patchouli:tools/autumnity/sap_bottle)Sap Bottle$(/l), or $(l:patchouli:tools/vanilla/honey_bottle)Honey Bottle$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used to brew a Potion of Swiftness in a Brewing Stand.$(br)$(li)Sugar is a valious ingredient for numerous food recipes that can be crafted in a Crafting Table.$(br)$(li)Sugar allows to you to craft other useful items in a Crafting Table too."
+            "text": "$(li)This item can be used to brew a $(l:patchouli:potions/vanilla/swiftness)Potion of Swiftness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)Sugar is a valious ingredient for numerous food recipes that can be crafted in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Sugar allows to you to craft other useful items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death."
         },
         {
             "type": "patchouli:text",
@@ -28,7 +28,7 @@
         {
             "type": "patchouli:text",
             "title": "Other Items",
-            "text": "$(li)Sugar Block$(li)Fermented Spider Eye"
+            "text": "$(li)$(l:patchouli:utility/charm/block_of_sugar)Sugar Block$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l)"
         }
              ]
 }

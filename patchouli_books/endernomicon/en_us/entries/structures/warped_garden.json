@@ -1,0 +1,17 @@
+{    
+    "name": "Warped Garden",
+    "icon": "minecraft:stripped_warped_hyphae",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_warped_garden",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Warped Garden is a unnatural aquatic structure that can be found in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)It can be found a renewable source of coral blocks in their interior.$(br)$(li)Do not let those $(l:patchouli:creatures/vanilla/drowned)Drowned$(/l) inside these structures take you by surprise."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/warped_garden.png"
+        }
+             ]
+}

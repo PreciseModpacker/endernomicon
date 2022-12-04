@@ -7,11 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Snow Leopars are big felines that can be found in Snowy and Mountainous biomes.$(br)$(li)They are not aggresive towards humans.$(br)$(li)They will hunt other animals like Sheeps or Horsers.$(br)$(li)You can't tame them but you still bred them with Raw Moose Ribs."
+            "text": "$(li)Snow Leopars are big felines that can be found in the $(l:patchouli:biomes/overworld/snow/snowy_mountains)Snowy Mountains$(/l), $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l), $(l:patchouli:biomes/overworld/snow/snowy_mountains)Snowy Taiga$(/l), $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l) and $(l:patchouli:biomes/overworld/snow/taiga_mountains)Taiga Mountains$(/l).$(br)$(li)They are not aggresive towards humans, insteat, they will hunt other animals like $(l:patchouli:creatures/vanilla/sheep)Sheeps$(/l) or $(l:patchouli:pets/vanilla/horse)Horses$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/creatures/snow_leopard.png"
+            "picture": "endermonicon:textures/book/entries/creatures/snow_leopard.png",
+            "text": "$(li)They can't be tamed but they still can be bred giving them $(l:patchouli:miscellaneous/alexsmobs/raw_moose_ribs)Raw Moose Ribs$(/l)"
         }
              ]
 }

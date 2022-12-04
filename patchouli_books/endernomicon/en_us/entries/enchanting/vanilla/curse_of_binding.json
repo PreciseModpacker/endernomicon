@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:binding_curse',lvl:1}]}",
-            "text": "$(li)The Curse of Binding enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots or even Elytras.$(br)$(li)This cursed enchantment prevents the item from being removed from an armor slot.",
+            "text": "$(li)The Curse of Binding enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots or even $(l:patchouli:armors/elytra)$(l:patchouli:armors/elytra)Elytra$(/l)s$(/l).$(br)$(li)This cursed enchantment prevents the item from being removed from an armor slot.",
             "title": "Curse of Binding"
         }
              ]

@@ -2,8 +2,8 @@
     "name": "Blindsight Tongue Whip",
     "icon": "infernalexp:blindsight_tongue_whip",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/nether_eye",
     "sortnum": 2,
+    "advancement": "endernomicon:blindsight_tongue",
     "pages": [
         {
             "type": "patchouli:crafting",

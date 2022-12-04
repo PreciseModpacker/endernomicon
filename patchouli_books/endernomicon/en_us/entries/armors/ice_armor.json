@@ -2,12 +2,12 @@
     "name": "Ice Armor",
     "icon": "extraarmor:ice_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 4,
+    "advancement": "endernomicon:ice",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ice Armor is quiet better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l), and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear the complete set, you will get Frost Walker effect, then you walk near of the water, this will be turned into Frosted Ice."
+            "text": "$(li)The Ice Armor is quiet better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l), and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear the complete set, you will get Frost Walker effect.$(br)$(li)This effect makes you to turn the water into Frosted Ice when you walk near of it."
         },
         {
             "type": "patchouli:entity",

@@ -8,13 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:stone_button",
-            "text": "$(li)Stone Buttons are placeable blocks that emites a restone pulse of 1 seconds.",
+            "text": "$(li)Stone Buttons are placeable blocks that emites a restone pulse of 1 seconds.$(br)$(li)There are many variants of the stone buttons.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/stone_button.png",
-            "text": "$(li)There are many variants of the stone buttons."
+            "picture": "endermonicon:textures/book/entries/redstone/stone_button.png"
         },
         {
             "type": "patchouli:crafting",

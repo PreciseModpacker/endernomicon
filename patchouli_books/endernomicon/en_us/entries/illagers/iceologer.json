@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Iceologers, are powerful wizards that are specialized in the ice element.$(br)$(li)It is rumored that the Iceologers were Frostmancers corrupted by their own magic, because of this, Illagers exiled them of their lands.$(br)$(li)The few Iceologers still alive appears rarely in Snowy Biomes during the night."
+            "text": "$(li)It is rumored that the Iceologers were $(l:patchouli:illagers/frostmancer)Frostmancers$(/l) corrupted by their own magic, because of this, Illagers exiled them of their lands.$(br)$(li)The few Iceologers still alive appears rarely in the $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Mountains$(/l) or in the $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Tundras$(/l) during the night."
         },
         {
             "type": "patchouli:entity",
             "entity": "savageandravage:iceologer",
             "scale": 1,
-            "text": "On death they maybe drop the Wand of Freezing."
+            "text": "On death they maybe drop the $(l:patchouli:weapons/wand_of_freezing)Wand of Freezing$(/l)."
         },
         {
             "type": "patchouli:text",

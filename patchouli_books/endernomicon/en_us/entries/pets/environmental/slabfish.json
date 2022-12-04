@@ -1,0 +1,23 @@
+{    
+    "name": "Slabfish PDT DOCUMENTAR",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Slabfish are aquatic and land creatures that can be found in the Marsh Biome.$(br2)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "environmental:slabfish",
+            "scale": 1,
+            "text": "If a Jukebox is playing near of them. They will start to dance!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This is about nether knowledge 3"
+        }  
+             ]
+}

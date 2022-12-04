@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Pillagers are the lowest ranking soldiers of the Illagers.$(br)$(li)They are armed with Crossbows.$(br)$(li)They can be found in the Illager Tower, Illager Fort, Illager Mine, Mansion, in a Raid and in a Patrol around the Overworld too."
+            "text": "$(li)The Pillagers are the lowest ranking soldiers of the Illagers.$(br)$(li)They are armed with $(l:patchouli:weapons/crossbow)Crossbows$(/l).$(br)$(li)They can be found in the $(l:patchouli:illagers/illager_tower)Illager Towers$(/l), $(l:patchouli:illagers/illager_fort)Illager Forts$(/l), $(l:patchouli:illagers/illager_mine)Illager Mines$(/l), $(l:patchouli:illagers/mansion)Mansions$(/l), in a $(l:patchouli:illagers/raid)Raid$(/l) and in a $(l:patchouli:illagers/patrol)Patrol$(/l) around the Overworld too."
         },
         {
             "type": "patchouli:entity",

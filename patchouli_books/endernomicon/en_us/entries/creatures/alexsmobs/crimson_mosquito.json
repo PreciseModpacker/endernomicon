@@ -3,16 +3,17 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/crimson_mosquito",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Crimson Mosquito is a very big flying hostile creature that likes to suck the blood of their preys.$(br)$(li)Crimson Mosquito may be drop a Blood Sac or Crimson Mosquito Proboscis on death.$(br)$(li)Don't try to burn them, they're fire resistant!"
+            "text": "$(li)The Crimson Mosquito is a very big flying hostile creature that likes to suck the blood of their preys.$(br)$(li)They live in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)These creatures may be drop a $(l:patchouli:miscellaneous/alexsmobs/blood_sac)Blood Sac$(/l) or $(l:patchouli:miscellaneous/alexsmobs/mosquito_proboscis)Crimson Mosquito Proboscis$(/l) on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:crimson_mosquito",
-            "scale": 0.5
+            "scale": 0.5,
+            "text": "Don't try to burn them, they're fire resistant!"
         }
              ]
 }

@@ -3,12 +3,15 @@
     "icon": "minecraft:netherite_sword",
     "category": "patchouli:weapons",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:netherite_sword",
-            "text": "$(li)The Netherite Sword is the direct upgrade of the Diamond Sword.$(br)$(li)This one inflicts more damage and has more durability than the Diamond Sword." ,
+            "type": "smithing_table",
+            "title": "Netherite Sword",
+            "input": "minecraft:diamond_sword",
+            "input2": "minecraft:netherite_ingot",
+            "output": "minecraft:netherite_sword",
+            "text": "$(li)The Netherite Sword is the direct upgrade of the $(l:patchouli:weapons/diamond_sword)Diamond Sword$(/l).$(br)$(li)This one inflicts more damage and has more durability than the last one." ,
             "link_recipe": "true"
         },
         {
@@ -16,7 +19,7 @@
             "name": "Netherite Sword",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:netherite_sword,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "This item can't be burned."
+            "text": "This item can't be burned in fire or lava."
         }
 
              ]

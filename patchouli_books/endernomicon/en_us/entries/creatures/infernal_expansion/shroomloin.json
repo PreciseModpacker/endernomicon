@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Shroomloins can be found in the Crimson Forests of the Nether.$(br)$(li)They shoot Ascus Bombs that explode and produce an Infectious Poison, spreading among entities that brush against one another and killing them.$(br)$(li)The may drop Ascus Bombs on death."
+            "text": "$(li)Shroomloins can be found in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)They shoot an $(l:patchouli:miscellaneous/infernalexp/ascus_bomb)Ascus Bomb$(/l) that explodes and produces an $(l:patchouli:potions/infernal_expansion/infection)Infectious$(/l) effect, spreading among entities that brush against one another and killing them.$(br)$(li)The may drop $(l:patchouli:miscellaneous/infernalexp/ascus_bomb)Ascus Bombs$(/l) on death."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Be careful, these creatures will attack you if you dare to damage the Crimson Forest.$(br)$(li)This includes breaking any of the blocks found withit it besides Crimson Nylium and Shroomlights."
+            "text": "$(li)Be careful, these creatures will attack you if you dare to damage their biome.$(br)$(li)This includes breaking any of the blocks found withit it besides Crimson Nylium and $(l:patchouli:decoration/vanilla/shroomlight)Shroomlights$(/l)."
         }
              ]
 }

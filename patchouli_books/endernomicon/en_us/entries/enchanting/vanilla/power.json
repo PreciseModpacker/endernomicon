@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:protection',lvl:1}]}",
-            "text": "$(li)The Power enchantment can be applied in any kind of Bow.$(br)$(li)This enchantment increases the damage from the Arrows fires from the enchanted Bow.",
+            "text": "$(li)The Power enchantment can be applied in a $(l:patchouli:weapons/bow)Bow$(/l), or $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bow$(/l).$(br)$(li)This enchantment increases the damage from the $(l:patchouli:weapons/arrows)Arrows$(/l) fires from the enchanted $(l:patchouli:weapons/bow)Bow$(/l).",
             "title": "Power"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an Ancient Tome (Power)."
+            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_power)Ancient Tome (Power)$(/l)."
         }
              ]
 }

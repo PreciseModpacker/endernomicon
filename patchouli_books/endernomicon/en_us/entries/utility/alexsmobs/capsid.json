@@ -1,0 +1,20 @@
+{    
+    "name": "Capsid",
+    "icon": "alexsmobs:capsid",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "alexsmobs:alexsmobs/capsid",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:capsid",
+            "text": "$(li)The Capsid is a block that can be used as an $(l:patchouli:decoration/quark/item_frame)Item Frame$(/l).$(br)$(li)To use it, just right click to this block while you are holding the desired block that you want to place inside it.$(br)$(li)To retrieve the item, just right click in the Capsid block again.",
+            "link_recipe": "true"
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/capsid.png",
+            "text": "$(li)Some $(l:patchouli:bosses/rumor_void_worm)rumors$(/l) say that something will happen if you insert a $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l) into this block."
+        }
+             ]
+}

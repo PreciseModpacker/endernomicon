@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Endermites are small hostile creatures that rarely can appears when you throws an Ender Pearl.$(br)$(li)Endermen are hostile toward these creatures.$(br)$(li)They don't drop anything on death."
+            "text": "$(li)Endermites are small hostile creatures that rarely can appears when you throws an $(l:patchouli:miscellaneous/vanilla/ender_pearl)Ender Pearl$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermen$(/l) are hostile toward these creatures.$(br)$(li)They do not drop anything on death."
         },
         {
             "type": "patchouli:entity",

@@ -3,12 +3,12 @@
     "icon": "alexsmobs:guster_eye",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:guster_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:guster_eye",
-            "text": "$(li)Maggots can be used to craft a Pocket of Sand or a Gustamker.$(br)$(li)They can be only obtained slaying slaying Gusters.",
+            "text": "$(li)The Guster Eye can be used to craft a $(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l) or a $(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/guster)Gusters$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

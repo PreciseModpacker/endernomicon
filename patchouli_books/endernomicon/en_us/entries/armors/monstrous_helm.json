@@ -2,13 +2,16 @@
     "name": "Monstrous Helm",
     "icon": "cataclysm:monstrous_helm",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:monstrous_horn",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "cataclysm:monstrous_helm",
-            "text": "$(li)The Monstrous can be weared on your head.$(br)$(li)When equipped, if you fall below half of your life, you will pushing nearby monster and gain multiple buffs like Resisance, Knockback Resistance and Regeneration.",
+            "type": "smithing_table",
+            "title": "Monstrous Helm",
+            "input": "minecraft:netherite_helmet",
+            "input2": "cataclysm:monstrous_horn",
+            "output": "cataclysm:monstrous_helm",
+            "text": "$(li)The Monstrous Helm can be weared on your head.$(br)$(li)When equipped, if you fall below half of your life, you will pushing nearby monster and gain multiple buffs like Resisance, Knockback Resistance and Regeneration.",
             "link_recipe": "true"
         },
         {
@@ -16,7 +19,7 @@
             "name": "Monstous Helm",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"cataclysm:monstrous_helm\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
             "offset": "0.2",
-            "text": "It can only be created in a Smithing Table."
+            "text": "It can only be created in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)."
         }
              ]
 }

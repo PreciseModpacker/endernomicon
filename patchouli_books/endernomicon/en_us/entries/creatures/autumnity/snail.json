@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)These passive creatures can be found in the Maple Forest of the Overworld.$(br)$(li)You can attract them using Red or Brown Mushrooms.$(br)$(li)If you give a Red or Brown Mushroom to a Snail, it will place on the ground Snail Slime. If you broke this block, you will obtain Snail Slime."
+            "text": "$(li)These passive creatures can be found in the $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forests$(/l) of the Overworld.$(br)$(li)You can attract them holding a $(l:patchouli:miscellaneous/vanilla/red_mushroom)Red Mushroom$(/l) or $(l:patchouli:miscellaneous/vanilla/brown_mushroom)Brown Mushroom$(/l) in your hand.$(br)$(li)If you give a Snail one of them, it will place on the ground Snail Slime. If you broke this block, you will obtain $(l:patchouli:miscellaneous/autumnity/snail_slime)Snail Slime$(/l)."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can bred Snails give them Mushroom Stews.$(br)$(li)When they grows to Adults Snails, they drop a Snail Shell Piece."
+            "text": "$(li)You can bred Snails give them $(l:patchouli:miscellaneous/vanilla/mushroom_stew)Mushroom Stews$(/l).$(br)$(li)When a Baby Snail grows up to ab Adult Snail, it drop a $(l:patchouli:miscellaneous/autumnity/snail_shell_piece)Snail Shell Piece$(/l)."
         }  
              ]
 }

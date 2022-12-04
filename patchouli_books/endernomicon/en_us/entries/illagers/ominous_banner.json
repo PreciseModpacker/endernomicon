@@ -1,0 +1,18 @@
+{    
+    "name": "Ominous Banner PDT DOCUMENTAR",
+    "icon": "minecraft:white_banner",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Illagers and $(l:patchouli:villagers/villager)Villagers$(/l) have a grudge against each other, but they don't normally fight each other.$(br)$(li)But what would happen if you burn a placed $(l:patchouli:illagers/ominous_banner)Ominous Banner$(/l) right clicking on it with a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)?$(br)$(li)The Illagers would destroy the nearest $(l:patchouli:villagers/village)Village$(/l) as revenge."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/raid.png",
+            "text": "$(li)Defend the village from various waves of Illagers and you will become the $(l)Hero of the Village$()."
+        }  
+             ]
+}

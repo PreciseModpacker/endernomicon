@@ -1,21 +1,18 @@
 {    
-    "name": "Ignitium Armor",
-    "icon": "cataclysm:ignitium_helmet",
+    "name": "Mask of Dishonesty",
+    "icon": "savageandravage:mask_of_dishonesty",
     "category": "patchouli:armors",
     "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "This is about nether knowledge"
+            "text": "$(li)The Mask of Dishonesty is a helmet that doesn't give too many protection to you.$(br)$(li)In return, it offers you invisibility while crouched.$(br)$(li)It can only be dropped by a $(l:patchouli:illagers/tricker)Tricker$(/l) on death."
         },
         {
-            "type": "patchouli:text",
-            "text": "This is about nether knowledge 2"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "This is about nether knowledge 3"
-        }  
+            "type": "patchouli:entity",
+            "name": "Mask of Dishonesty",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"savageandravage:mask_of_dishonesty\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
+        }
              ]
 }

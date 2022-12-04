@@ -3,13 +3,20 @@
     "icon": "minecraft:diamond_hoe",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:diamond_hoe",
-            "text": "$(li)The Diamond Hoe is the upgrade of the Iron Hoe.$(br)$(li)It has a greater durability than the Iron Hoe. $(br)$(li)You can use it to create Farmland." ,
+            "text": "$(li)The Diamond Hoe is the upgrade of the $(l:patchouli:tools/vanilla/iron_hoe)Iron Hoe$(/l).$(br)$(li)It has a greater durability than the last one." ,
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Diamond Hoe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:diamond_hoe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "You can right click in a Grass or Dirt block while you are holding it in your hand to create Farmland."
         }
              ]
 }

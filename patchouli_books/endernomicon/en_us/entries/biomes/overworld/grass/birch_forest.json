@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like Grizzly Bears and Deers can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) and $(l:patchouli:creatures/environmental/deer)Deers$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

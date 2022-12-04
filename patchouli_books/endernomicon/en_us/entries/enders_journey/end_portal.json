@@ -1,0 +1,29 @@
+{    
+    "name": "Find End Portal PDT DOCUMENTAR",
+    "icon": "endermonicon:textures/book/categories/book.png",
+    "category": "patchouli:enders_journey",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_9gat4uxkju9obnxb11vw870du",
+            "text": "$(li)You can craft a physical copy of the Endernomicon.$(br)$(li)This has new features that will help you in your journey.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_5.png",
+            "text": "$(li)While you are holding the Endernomicon in your hand you can shift right click a block to access to its entry."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_6.png",
+            "text": "$(li)While you are holding the Endernomicon in your hotbar you can place your mouse on any block and press Ctrl key to access to its entry."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_7.png",
+            "text": "$(li)This feature also can be used on JEI Items or in any kind of inventory, such as a Chest or a Furnace."
+        }
+             ]
+}

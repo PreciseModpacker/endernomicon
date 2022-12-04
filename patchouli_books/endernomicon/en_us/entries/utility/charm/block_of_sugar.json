@@ -9,10 +9,6 @@
             "type": "patchouli:crafting",
             "recipe": "charm:block_of_sugar/sugar_block",
             "text": "$(li)The Sugar Block is a new decorative block which obey gravity like sand and gravel.$(br)$(li)If this block touches water, it will dissolve into air."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Sugar Block"
         }
              ]
 }

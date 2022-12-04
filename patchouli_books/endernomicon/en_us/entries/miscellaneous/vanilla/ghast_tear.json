@@ -2,14 +2,18 @@
     "name": "Ghast Tear",
     "icon": "minecraft:ghast_tear",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:ghast_tear",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:ghast_tear",
-            "text": "$(li)The Ghast Tear is an item that can be used to brew a Potion of Regeneration in a Brewing Stand.$(br)$(li)This item can be used to craft a End Crystal Ingot, End Crystal, or even a Ghost Armor in a Crafting Table.$(br)$(li)Ghast may drop it on death.",
+            "text": "$(li)The Ghast Tear is an item that can be used to brew a $(l:patchouli:potions/vanilla/regeneration)Potion of Regeneration$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)This item can be used to craft an $(l:patchouli:miscellaneous/end_remastered/end_crystal_ingot)End Crystal Ingot$(/l), $(l:patchouli:utility/vanilla/end_crystal)End Crystal$(/l), or the $(l:patchouli:armors/ghost_armor)Ghost Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l) may drop this item on death."
         }
              ]
 }

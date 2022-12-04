@@ -1,0 +1,118 @@
+{    
+    "name": "Stability",
+    "icon": "minecraft:potion{Potion:'quark:resilience'}",
+    "category": "patchouli:potions",
+    "advancement": "endernomicon:crab_shell",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:'quark:resilience'}",
+            "text": "$(li)Stability potions adds you Knockback Resistance, reducing the push that other creatures can do to you with their attacks.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/quark/crab_shell)Crab Shell$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+        },
+        {
+            "type": "potion",
+            "title": "Stability",
+            "input": "quark:crab_shell",
+            "input2": "minecraft:potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:potion{Potion:'quark:resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:potion{Potion:'quark:resilience'}",
+            "output": "minecraft:potion{Potion:'quark:long_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability II",
+            "input": "minecraft:glowstone",
+            "input2": "minecraft:potion{Potion:'quark:resilience'}",
+            "output": "minecraft:potion{Potion:'quark:strong_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Splash",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:resilience'}",
+            "output": "minecraft:splash_potion{Potion:'quark:resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Splash",
+            "input": "quark:crab_shell",
+            "input2": "minecraft:splash_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:splash_potion{Potion:'quark:resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "S. Splash Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:splash_potion{Potion:'quark:resilience'}",
+            "output": "minecraft:splash_potion{Potion:'quark:long_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "S. Splash Extended",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:long_resilience'}",
+            "output": "minecraft:splash_potion{Potion:'quark:long_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Splash II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:splash_potion{Potion:'quark:resilience'}",
+            "output": "minecraft:splash_potion{Potion:'quark:strong_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Splash II",
+            "input": "minecraft:gunpowder",
+            "input2": "minecraft:potion{Potion:'quark:strong_resilience'}",
+            "output": "minecraft:splash_potion{Potion:'quark:strong_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Lingering",
+            "input": "quark:crab_shell",
+            "input2": "minecraft:lingering_potion{Potion:'minecraft:awkward'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Lingering",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:resilience'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "S. Lingering Extended",
+            "input": "minecraft:redstone",
+            "input2": "minecraft:lingering_potion{Potion:'quark:resilience'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:long_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "S. Lingering Extended",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:long_resilience'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:long_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Lingering II",
+            "input": "minecraft:glowstone_dust",
+            "input2": "minecraft:lingering_potion{Potion:'quark:resilience'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:strong_resilience'}"
+        },
+        {
+            "type": "potion",
+            "title": "Stability Lingering II",
+            "input": "minecraft:dragon_breath",
+            "input2": "minecraft:splash_potion{Potion:'quark:strong_resilience'}",
+            "output": "minecraft:lingering_potion{Potion:'quark:strong_resilience'}"
+        }
+             ]
+}

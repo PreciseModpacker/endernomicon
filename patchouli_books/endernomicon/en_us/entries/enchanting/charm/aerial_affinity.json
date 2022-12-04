@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:aerial_affinity',lvl:1}]}",
-            "text": "$(li)The Aerial Affinity enchantment can be applied in a pair of Boots.$(br)$(li)This enchantment increases the mining rate when not on the ground.",
+            "text": "$(li)The Aerial Affinity enchantment can be applied in a pair of boots.$(br)$(li)This enchantment increases the mining rate when you are not on the ground.",
             "title": "Aerial Affinity"
         }
              ]

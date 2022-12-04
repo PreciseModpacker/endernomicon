@@ -3,12 +3,12 @@
     "icon": "inspirations:charged_arrow",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:tools/charged_arrow",
-            "text": "$(li)The Charged Arrow is a variant of the common Arrows.$(br)$(li)It works as ammunition for Bows and Crossbows.$(br)$(li)It can be fired by Dispensers too.",
+            "text": "$(li)The Charged Arrow is a variant of the common $(l:patchouli:weapons/arrows)Arrows$(/l) that works as ammunition for $(l:patchouli:weapons/bow)Bows$(/l), $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bows$(/l), and $(l:patchouli:weapons/crossbow)Crossbows$(/l).$(br)$(li)It can be fired by $(l:patchouli:redstone/vanilla/dispenser)Dispensers$(/l) too.",
             "link_recipe": "true"
         },
         {

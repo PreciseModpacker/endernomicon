@@ -2,18 +2,18 @@
     "name": "Cocoa Beans",
     "icon": "minecraft:cocoa_beans",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:cocoa_beans",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:cocoa_beans",
-            "text": "$(li)Cocoa Beans can be plant in a Jungle Log to generate more Cocoa Beans.$(br)$(li)You can use Cocoa Beans to craft Chocolate Bars, Cocoa Bean Stacks, Brown Dye, Seed Pouch, or Cookies in a Crafting Table.",
+            "text": "$(li)Cocoa Beans can be planted in a Jungle Log to generate more Cocoa Beans.$(br)$(li)You can use Cocoa Beans to craft $(l)Chocolate Bars$(), $(l:patchouli:utility/quark/cocoa_bean_sack)Cocoa Beans Sacks$(/l), $(l)Brown Dye$(), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), or $(l)Cookies$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can use this item as an ingredient to brew a Potion of Restfulness in a Brewing Stand."
+            "text": "$(li)You can use this item as an ingredient to brew a $(l:patchouli:potions/upgrade_aquatic/restfulness)Potion of Restfulness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)This item can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) of the Overworld. "
         }
              ]
 }

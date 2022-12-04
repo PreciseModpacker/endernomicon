@@ -1,19 +1,18 @@
 {    
-    "name": "Arrows PDT DOCUMENTAR",
+    "name": "Arrows",
     "icon": "minecraft:arrow",
     "category": "patchouli:weapons",
     "sortnum": 0,
+    "advancement": "endernomicon:flint",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:arrow",
-            "text": "$(li)The Bombs are a new range weapon that explotes on impact and does not break blocks.$(br)$(li)They make 11 hearts of damage for every hit."
+            "text": "$(li)Arrows serves as ammunition for $(l:patchouli:weapons/bow)Bows$(/l), $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bows$(/l), $(l:patchouli:weapons/crossbow)Crossbows$(/l) and $(l:patchouli:redstone/vanilla/dispenser)Dispensers$(/l).$(br)$(li)They can be modified with Potions in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) to imbue status effects to other creatures."
         },
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:bomb_blue",
-            "text": "$(li)The Blue Bombs are a very poweful version of the Bombs. $(br)$(li)They deals 35-75 hearts of damage approximately and they Burn and inflicts Weakness effect too.$(br)$(li)They only can be found in naturally generated Chests.",
-            "link_recipe": "true"
+            "type": "patchouli:text",
+            "text": "$(li)You should use $(l:patchouli:perks/jei)JEI$(/l) to search all the arrow variants."
       
         }
              ]

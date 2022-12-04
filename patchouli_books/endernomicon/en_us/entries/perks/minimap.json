@@ -1,0 +1,64 @@
+{
+    "name": "Map & Minimap",
+    "icon": "minecraft:filled_map",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Xaero's Map & Minimap will help you to don't be lost in this gigantic world.$(br)$(li)The Minimap will show you where are you, near terrain and surroundies creatures near you.$(br)$(li)The yellow dots represent neutral creatures and the red dots aggresive ones." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_1.png"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_2.png",
+            "text": "$(li)You can open the map pressing the M key.$(li)You are represented as a red arrow on the map."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_3.png",
+            "text": "$(li)In the up left corner you have a button to access the settings of the Xaero's Map and you can press the Y button to access the Minimap settings."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In the lower right corner you can found four buttons:$(br)$(li)1. It shows you the Map Controls and Keybinds.$(br)$(li)2. Exports a picture in PNG of your actual Map.$(br)$(li)3. Turn On / Turn Off the creatures radar.$(br)$(li)4. Manage your Waypoints."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_4.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can save your favourite positions in the map creating Waypoints.$(br)$(li)First press the B key in your keyboard.$(br)$(li)Then, configure the colour and the name of the waypoint and click in the Confirm button to create it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_5.png"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_6.png",
+            "text": "$(li)Now in the Minimap and Map you can see the Waypoint created."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_7.png",
+            "text": "$(li)You can right click on the waypoint to edit, disable, share, or even remove it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_8.png",
+            "text": "$(li)Now you will see the distance between you and your waypoint."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/minimap_9.png",
+            "text": "$(li)If you want to stop this, you can disable the waypoint in the Map interface."
+        }
+             ]
+}

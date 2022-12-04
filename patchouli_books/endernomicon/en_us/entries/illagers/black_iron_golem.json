@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Black Irom Golems are strong weapons made to destroy their enemies and can only be found rarely in Raids or in the Illager Centre.$(br)$(li)They can shoot fireballs, throw entities in the air, and make you a lot of damage.$(br)$(li)On death they may drop Redstone Blocks, Fire Charges and Iron Ingots."
+            "text": "$(li)The Black Irom Golems are strong weapons made to destroy their enemies and can only be found rarely in $(l:patchouli:illagers/raid)Raids$(/l) or in the $(l:patchouli:illagers/illager_centre)Illager Centre$(/l).$(br)$(li)They can shoot fireballs, throw entities in the air, and make you a lot of damage.$(br)$(li)On death they may drop $(l:patchouli:redstone/vanilla/redstone_block)Redstone Blocks$(/l), $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charges$(/l) and $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "illagers_plus:black_iron_golem",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

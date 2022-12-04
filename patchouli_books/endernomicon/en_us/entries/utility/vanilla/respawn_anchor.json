@@ -3,17 +3,18 @@
     "icon": "minecraft:respawn_anchor",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_crying_obsidian",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:respawn_anchor",
-            "text": "$(li)The Respawn Anchor is a block that allows you to set the Spawn Point in The Nether.$(br)$(li)First you have to place the Respawn Anchor and then, insert 4 Glowstone Blocks right clicking on it to turn it on.",
+            "text": "$(li)The Respawn Anchor is a block that allows you to set the Respawn Point in The Nether.$(br)$(li)Place this block and insert 4 $(l:patchouli:utility/vanilla/glowstone_block)Glowstone blocks$(/l) right clicking on it.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/respawn_anchor.png",
-            "text": "$(li)Finally right click again to Set your new Respawn Point."
+            "text": "$(li)Finally right click on this block again to Set your new $(l)Respawn Point$()."
         }
              ]
 }

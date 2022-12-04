@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Bone Serpents are big, large and dangerous skeletal creatures that can be found in the lava lakes of The Nether.$(br)$(li)They may drop a Bone Serpent Tooth on death."
+            "text": "$(li)Bone Serpents are big, large and dangerous skeletal creatures that can be found in the lava lakes of The Nether.$(br)$(li)These creatures may drop a $(l:patchouli:miscellaneous/alexsmobs/bone_serpent_tooth)Bone Serpent Tooth$(/l) on death."
         },
         {
             "type": "patchouli:small_pictures",

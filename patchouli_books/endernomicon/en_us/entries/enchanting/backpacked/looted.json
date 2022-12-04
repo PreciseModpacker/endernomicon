@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:looted',lvl:1}]}",
-            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:tools/backpacked/backpack)Backpack$(/l).$(br)$(li)The Looted enchantment makes that every drop got for killing a creature will be place directly into the Backpack insteat of your main inventory.",
+            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:tools/backpacked/backpack)$(l:patchouli:perks/backpack)Backpack$(/l)$(/l).$(br)$(li)The Looted enchantment makes that every drop got for killing a creature will be place directly into the $(l:patchouli:perks/backpack)Backpack$(/l) insteat of your main inventory.",
             "title": "Looted"
         }
              ]

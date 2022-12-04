@@ -1,0 +1,15 @@
+{    
+    "name": "Potato (Poisonous)",
+    "icon": "minecraft:poisonous_potato",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:poisonous_potato",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:poisonous_potato",
+            "text": "$(li)Poisonous Potatoes rarely can be found when you harvest regular $(l:patchouli:miscellaneous/vanilla/potato)Potatoes$(/l).$(br)$(li)They will inflict the $(l:patchouli:potions/vanilla/poison)Poison$(/l) effect if you eat it, inflicting damage to you every few of seconds until you have one half of heart of life.",
+            "link_recipe": "true"
+        }
+             ]
+}

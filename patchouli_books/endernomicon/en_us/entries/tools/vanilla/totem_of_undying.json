@@ -1,0 +1,19 @@
+{    
+    "name": "Totem of Undying",
+    "icon": "minecraft:totem_of_undying",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:totem_of_undying",
+            "text": "$(li)The Totem of Undying is a useful tool that that will immediately resurrect you when you die.$(br)$(li)It must be placed in your inventory for this effect to activate.$(br)$(li)$(l:patchouli:illagers/evoker)Evokers$(/l) will drop this item on death."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/totem_of_undying.png",
+            "text": "$(li)To save space in your inventory, it can be equipped within the Charm slot in the Curios API menu."
+        }
+             ]
+}

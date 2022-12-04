@@ -1,0 +1,18 @@
+{    
+    "name": "Dungeon (Zombie)",
+    "icon": "minecraft:rotten_flesh",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Zombie Dungeon is a structure that can be found near of the surface of the Overworld.$(br)$(li)Here, you can find a big quantity of $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l).$(br)$(li)Some interesting $(l:patchouli:perks/loot_chest)Loot Chest$(/l) can be found here, so it is a good place to explore.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/zombie_dungeon.png"
+        }
+             ]
+}

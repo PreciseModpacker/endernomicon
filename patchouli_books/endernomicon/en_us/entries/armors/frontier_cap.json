@@ -2,8 +2,8 @@
     "name": "Frontiersman's Cap",
     "icon": "alexsmobs:frontier_cap",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 26,
+    "advancement": "endernomicon:raccoon_tail",
     "pages": [
        {
             "type": "patchouli:crafting",

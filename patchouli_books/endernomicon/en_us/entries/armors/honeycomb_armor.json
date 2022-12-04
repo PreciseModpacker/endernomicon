@@ -2,8 +2,8 @@
     "name": "Honeycomb Armor",
     "icon": "extraarmor:honeycomb_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 3,
+    "advancement": "endernomicon:honeycomb",
     "pages": [
        {
             "type": "patchouli:text",

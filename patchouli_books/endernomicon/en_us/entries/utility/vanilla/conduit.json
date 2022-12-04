@@ -1,0 +1,15 @@
+{    
+    "name": "Conduit PDT DOCUMENTAR",
+    "icon": "minecraft:conduit",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:heart_of_the_sea",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:conduit",
+            "text": "sasdaasdds.",
+            "link_recipe": "true"
+        }
+             ]
+}

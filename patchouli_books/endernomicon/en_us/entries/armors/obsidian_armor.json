@@ -2,8 +2,8 @@
     "name": "Obsidian Armor",
     "icon": "extraarmor:obsidian_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 23,
+    "advancement": "minecraft:story/form_obsidian",
     "pages": [
        {
             "type": "patchouli:text",

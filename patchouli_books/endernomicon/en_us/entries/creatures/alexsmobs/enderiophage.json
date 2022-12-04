@@ -3,11 +3,11 @@
     "icon": "minecraft:end_stone",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/enderiophage",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Enderiophage is virus-like creature that can be found in the End Midlands.$(br)$(li)They travel by floating around the End searching Endergrade.$(br)$(li)They may drop a Capsid on death."
+            "text": "$(li)The Enderiophage is virus-like creature that can be found in the $(l:patchouli:biomes/end/end_midlands)End Midlands$(/l).$(br)$(li)They travel by floating around the End searching any $(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l).$(br)$(li)They may drop a $(l:patchouli:utility/alexsmobs/capsid)Capsid$(/l) on death."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When this creature finds an Endergrade, it with infect it with Ender Flu.$(br)$(li)If you attack them, they will infect you as well.$(br)$(li)This effect make the victim to receive a lot of instant damage after 10 minutes.$(br)$(li)This effect can be healed eating a Chorus Fruit."
+            "text": "$(li)When this creature finds an $(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l), it with infect it with Ender Flu.$(br)$(li)If you attack them, they will infect you as well.$(br)$(li)This effect makes the victim to receive a lot of instant damage after 10 minutes.$(br)$(li)This effect can be healed eating a $(l:patchouli:miscellaneous/vanilla/chorus_fruit)Chorus Fruit$(/l) before time runs out."
         }
              ]
 }

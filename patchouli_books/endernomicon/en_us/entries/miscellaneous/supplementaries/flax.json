@@ -3,17 +3,18 @@
     "icon": "supplementaries:flax",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
+    "advancement": "endernomicon:flax",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:wild_flax",
-            "text": "$(li)Flax can spawn near of the water in Desert Biomes.$(br)$(li)Like other crops, when you harvest the Wild Flax left clicking on it you will receive Flax Seeds and Flax.",
+            "text": "$(li)Flax can spawn near of the water in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)Like other crops, when you harvest the Wild Flax left clicking on it you will receive Flax Seeds and Flax.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:flax",
-            "text": "Flax can be used to craft multiple items in a Crafing Table.$(br)$(li)$(l:patchouli:blocks/supplementaries/flax_block)Flax Bale$(/l)$(li)$(l:patchouli:tools/supplementaries/rope)Rope$(/l)$(li)$(l:patchouli:blocks/supplementaries/sack)Sack$(/l)$(li)$(l:patchouli:pets/supplementaries/doormat)Doormat$(/l)$(li)String",
+            "text": "$(li)Flax can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br2)$(l) Flax Recipes$()$(li)$(l:patchouli:utility/supplementaries/flax_block)Flax Bale$(/l)$(li)$(l:patchouli:tools/supplementaries/rope)Rope$(/l)$(li)$(l:patchouli:utility/supplementaries/sack)Sack$(/l)$(li)$(l:patchouli:pets/supplementaries/doormat)Doormat$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/string)String$(/l)",
             "link_recipe": "true"
         },
         {

@@ -1,0 +1,21 @@
+{    
+    "name": "Rumor (Soul Guide)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:haunted_bell",
+            "link_recipe": "true",
+            "title": "Rumor (Bellringer)",
+            "text": "$(o)The Aether is real?$(br)$(o)Well, we can't be sure, what we can confirm thanks to our knowlede is that its counterpart, the Nether exists,after all, we have learned how to create portals that connect our world with this dimension."
+
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Lost souls, also known as Wraiths, are transferred from the Overworld to the Nether by a powerful spectral entity known as the Bellringer.$(br2)$(o)if this creature meets a mortal, it will not hesitate to steal its soul.$(br2)$(o)To summon this creature, first you have to craft a Haunted Bell.$(br2)$(o)Finally you have to right click while you are holding the Haunted Bell on your hand."
+        }
+             ]
+}

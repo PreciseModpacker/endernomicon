@@ -3,17 +3,22 @@
     "icon": "inspirations:shelf",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:book",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "inspirations:shelf",
-            "text": "$(li)The Shelfs are a new kind of decorative block used to hold books.$(br)$(li)You can place books and remove books from the shelf by right clicking, or shift right clicking with an empty hand to open the GUI.",
+            "text": "$(li)The Shelfs are a new kind of decorative block used to hold $(l:patchouli:decoration/inspirations/books)Books$(/l).$(br)$(li)You can place books and remove books from the shelf by right clicking, or shift right clicking with an empty hand to open the GUI.",
             "link_recipe": "false",
             "title": "Shelfs"
         },
         {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/shelf.png"
+        },
+        {
             "type": "patchouli:text",
-            "text": "There are four types of Shelves:$(br)$(li)Default: randomly sized books which take on the color of the current book in the slot.$(br)$(li)Rainbow: book colors from red to purple in order$(br)$(li)Tomes: consistent, brown books of the same size$(br)$(li)Ancient: brown and tan books with an adventuring theme"
+            "text": "There are four types of Shelves.$(br)$(li)Default: randomly sized books which take on the color of the current book in the slot.$(br)$(li)Rainbow: book colors from red to purple in order$(br)$(li)Tomes: consistent, brown books of the same size$(br)$(li)Ancient: brown and tan books with an adventuring theme"
         },
         {
             "type": "patchouli:crafting",
@@ -24,10 +29,6 @@
             "type": "patchouli:crafting",
             "recipe": "inspirations:building/bookshelves/rainbow_grb",
             "recipe2": "inspirations:building/bookshelves/tomes"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Shelfs"
         }
              ]
 }

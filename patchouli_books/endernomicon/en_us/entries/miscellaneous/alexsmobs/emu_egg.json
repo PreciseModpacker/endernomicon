@@ -2,18 +2,18 @@
     "name": "Egg (Emu)",
     "icon": "alexsmobs:emu_egg",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:emu_egg",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:emu_egg",
-            "text": "$(li)You can just throw the egg away right clicking while you are holding an Egg on your hand.$(br)$(li)When the egg hits a block, this one has a little possibility of make a tiny Emu appears.",
+            "text": "$(li)The Emu Egg can be thrown away right clicking while you are holding it in your hand.$(br)$(li)When the egg hits a block, this one has a little possibility of make a baby $(l:patchouli:creatures/alexsmobs/emu)Emu$(/l) appears.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Emu Eggs are a valious ingredient for a numerous kind of food recipes.$(br)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Boiled Emu Egg$(li)Aether-Glazed Cupcake"
+            "text": "$(l) Emu Eggs Recipes$()$(br)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Boiled Emu Egg$(li)Aether-Glazed Cupcake"
         }
              ]
 }

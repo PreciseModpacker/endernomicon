@@ -8,13 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:sconce_lever",
-            "text": "$(li)Sconce Lever is a variant of the $(l:patchouli:tools/supplementaries/sconce)Sconce$(/l).$(br)$(li)This one is a new kind of lever that emits light as a torch.",
+            "text": "$(li)Sconce Lever is a variant of the $(l:patchouli:decoration/supplementaries/sconce)Sconce$(/l).$(br)$(li)This one is a new kind of lever that emits light as a torch.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/sconce_lever.png",
-            "text": "$(li)The Sconce Lever can only be placed in walls."
+            "text": "$(li)The Sconce Lever can only be placed in the walls."
         }
              ]
 }

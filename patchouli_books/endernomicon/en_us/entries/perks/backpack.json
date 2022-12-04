@@ -1,0 +1,37 @@
+{    
+    "name": "Backpack",
+    "icon": "backpacked:backpack",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_eocjwhh34ctjhtyg95f0vcww3",
+            "text": "$(li)The Backpack allows to you to have an extra inventory.$(br)$(li)It can be enchanted with $(l:patchouli:enchanting/backpacked/looted)Looted$(/l), $(l:patchouli:enchanting/backpacked/repairman)Repairman$(/l), $(l:patchouli:enchanting/backpacked/imbued_hide)Imbued Hide$(/l), $(l:patchouli:enchanting/backpacked/funneling)Funneling$(/l), $(l:patchouli:enchanting/backpacked/marksman)Marksman$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/backpack_1.png",
+            "text": "$(li)To use the Backpack, first you have to open your inventory, access to the Curios API menu and equip the Backpack in the Backpack slot."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Once equipped, you can press the B key to access the Backpack inventory with 27 extra slots to save your items.$(br)$(li)You will not be able to unequip your Backpack if this one contains at least 1 item.$(br)$(li)Like other containers, you can filter items to find them easily and sort the items in its interior too."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/backpack_2.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can click the Customize button to acces a new GUI that allows you change the aspect of your Backpack.$(br)$(li)On the top, you have 3 checkboxs to allow or disallow to show the Enchantment Glint, show Elytras, and show Backpack Effects while you have the Backpack equipped.$(br)$(li)In the middle, you can select multiple different cosmetic designs for you Backpack."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/backpack_3.png",
+            "text": "$(li)You will have to complete specific challenges to unlock the Locked Backpack designs."
+        }
+             ]
+}

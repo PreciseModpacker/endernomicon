@@ -2,14 +2,20 @@
     "name": "Dragon Scale",
     "icon": "quark:dragon_scale",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:dragon_scale",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "quark:dragon_scale",
-            "text": "$(li)When an Ender Dragon summoned by the use of a End Crystal on the End Fountain is killed, it drops this item.$(br)$(li)You can place it with a Elytra to make a copy of it.$(br)$(li)The cloned Elytra will be dyed black, but can still be dyed again to another color.",
+            "text": "$(li)When the $(l)Ender Dragon$() summoned by the use of a $(l:patchouli:utility/vanilla/end_crystal)End Crystal$(/l) on the $(l:patchouli:structures/end_fountain)End Fountain$(/l) is killed, it will drop this item.$(br)$(li)You can place it with a $(l:patchouli:armors/elytra)Elytra$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to make a copy of it.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The cloned Elytra will be dyed black, but can still be dyed again to another color placing the Elytra in a Crafting Table with the desired dye color."
         }
+
+        
              ]
 }

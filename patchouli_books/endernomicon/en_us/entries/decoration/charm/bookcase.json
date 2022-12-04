@@ -8,13 +8,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "charm:oak_bookcase",
-            "text": "$(li)Bookcases are a new kind of Bookshelft that have 18 inventory slots for storing books.$(br)$(li)It provides the same enchanting power as a normal Bookshelf in the Enchantment Table.",
+            "text": "$(li)Bookcases are a new kind of Bookshelft that have 18 inventory slots for storing $(l:patchouli:miscellaneous/vanilla/book)Books$(/l).$(br)$(li)It provides the same enchanting power as a normal $(l:patchouli:decoration/vanilla/bookshelf)Bookshelf$(/l) in the $(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l).",
             "link_recipe": "true",
             "title": "Bookcases"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Bookcase"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/bookcase.png"
         },
         {
             "type": "patchouli:crafting",

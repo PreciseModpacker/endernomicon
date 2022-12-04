@@ -1,19 +1,15 @@
 {    
     "name": "Rattlesnake Rattle",
-    "icon": "alexsmobs:maggot",
+    "icon": "alexsmobs:rattlesnake_rattle",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:rattlesnake_rattle",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:rattlesnake_rattle",
-            "text": "$(li)Rattlesnake Rattle can be used to craft a Maraca.$(br)$(li)It can be obtained slaying Rattlesnakes.",
+            "text": "$(li)The Rattlesnake Rattle can be used to craft a $(l:patchouli:tools/alexsmobs/maraca)Maraca$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l) may drop this item on death.",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Maraca and Cockroach dancing"
         }
              ]
 }

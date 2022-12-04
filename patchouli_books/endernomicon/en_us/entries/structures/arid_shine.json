@@ -1,0 +1,18 @@
+{    
+    "name": "Arid Shrine",
+    "icon": "minecraft:sand",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Arid Shrine is a structure that can be found in the $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l) of the Overworld.$(br)$(li)You can find $(l:patchouli:creatures/vanilla/husk)Husks$(/l) living inside of this structure.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/arid_shine.png"
+        }
+             ]
+}

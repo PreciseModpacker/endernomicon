@@ -1,0 +1,18 @@
+{    
+    "name": "Tower",
+    "icon": "waystones:waystone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_tower",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Nobody know who build multiple towers over the Overworld.$(br)$(li)Anyway, these structures will be useful during your journey.$(br)$(li)Not only because of the treasures hidden inside, but because of the $(l:patchouli:perks/waystones)Waystones$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/tower.png",
+            "text": "$(li)It is said that in the past these towers were interconnected and allowed fast travel between them."
+        }
+             ]
+}

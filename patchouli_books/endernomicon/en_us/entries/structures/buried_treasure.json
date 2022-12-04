@@ -1,0 +1,18 @@
+{    
+    "name": "Buried Treasure",
+    "icon": "minecraft:filled_map",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Buried Tresure is a hide $(l:patchouli:perks/loot_chest)Loot Chest$(/l) that can be found over the Overworld with the help of a $(l:patchouli:tools/vanilla/buried_treasure_map)Buried Treasure Map$(/l) or $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l).$(br)$(li)Inside of this chest can be found $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l), $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l), $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), $(l:patchouli:miscellaneous/vanilla/diamond)Diamonds$(/l), the $(l:patchouli:miscellaneous/vanilla/heart_of_the_sea)Heart of the Sea$(/l), and the $(l:patchouli:enders_journey/ender_eyes)Black Eye$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/buried_treasure.png"      
+        }
+             ]
+}

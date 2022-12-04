@@ -1,0 +1,15 @@
+{    
+    "name": "Mossy Tooth",
+    "icon": "meetyourfight:mossy_tooth",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:mossy_tooth",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "meetyourfight:mossy_tooth",
+            "text": "$(li)The Mossy Tooth is an item that can only be dropped by the $(l:patchouli:bosses/swampjaw)Swampjaw$(/l).$(br)$(li)It can be used to craft the $(l:patchouli:tools/meet_your_fight/caged_heart)Caged Heart$(/l), a $(l)Mershy Delight$(), the $(l:patchouli:weapons/depth_star)Depth Star$(/l), a Music Disc and the $(l:patchouli:tools/meet_your_fight/bone_raker)Bone Raker$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

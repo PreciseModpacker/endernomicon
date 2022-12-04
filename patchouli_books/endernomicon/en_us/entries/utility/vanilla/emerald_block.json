@@ -3,11 +3,12 @@
     "icon": "minecraft:emerald_block",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:emerald",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:emerald_block",
-            "text": "$(li)Emerald Block is a new decorative block.$(br)$(li)It can be used to save Emeralds in a more efficient way.",  
+            "text": "$(li)Emerald Block is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) in a more efficient way.",  
             "link_recipe": "true"
         }
              ]

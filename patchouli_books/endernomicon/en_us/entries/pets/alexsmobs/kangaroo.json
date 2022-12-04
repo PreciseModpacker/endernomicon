@@ -3,26 +3,24 @@
     "icon": "minecraft:sand",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/kangaroo",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Kangaroos are neutral creatures that can be found in the Savannas and Badlands.$(br2)You can breed them giving them Dead Bush or Grass and they can be tameable with Carrots.$(br2)Tameable Kangaroos can be ordered to Sit, Wander and Follow. You can equip them a Sword, a Helmet and even a Chestplate."
+            "text": "$(li)Kangaroos are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) and in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) of the Overworld.$(br)$(li)You can breed them giving them $(l:patchouli:miscellaneous/vanilla/dead_bush)Dead Bushes$(/l) or $(l:patchouli:miscellaneous/vanilla/grass)Grass$(/l).$(br)$(li)They may drop kangaroo meat or $(l:patchouli:miscellaneous/alexsmobs/kangaroo_hide)Kangaroo Hide$(/l) on death."
         },
         {
-            "type": "patchouli:entity",
-            "entity": "alexsmobs:kangaroo",
-            "scale": 0.9,
-            "offset": 0.2,
-            "text": "You can heal hurted Kangaroos give them vegetable base food, like Bread."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/kangaroo_1.png"
         },
         {
             "type": "patchouli:text",
-            "text": "On death they may drop Kangaroo Meat, that can be ate or cooked to make Cooked Kangaroo Meat.$(br2)They may drop Kangaroo Hide too that can be used to craft common Leather, an special Banner Pattern or even an $(l:patchouli:armors/outback_leggings)Outback Leggins$(/l) too."
+            "text": "$(li)Kangaroos can be tame with $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l).$(br)$(li)Tamed Kangaroos can be ordered to Sit, Wander and Follow.$(br)$(li)You can heal hurted Kangaroos give them vegetable base food, like $(l:patchouli:miscellaneous/vanilla/bread)Bread$(/l).$(br)$(li)Kangaroos has an inventory of 9 slots that you can access shift right clicking of them."
         },
         {
-            "type": "patchouli:smelting",
-            "recipe": "alexsmobs:cooked_kangaroo_meat"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/kangaroo_2.png",
+            "text": "$(li)If you place a Helmet, Chestplate or $(l:patchouli:weapons/wooden_sword)Sword$(/l) in the pouch of your tamed Kangaroo, this one will equip these items."
         }
              ]
 }

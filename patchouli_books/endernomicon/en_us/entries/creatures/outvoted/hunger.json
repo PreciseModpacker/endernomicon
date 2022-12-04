@@ -7,17 +7,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Hungers are creatures that can be found in the Deserts, Red Sand Dederts, or Swamp.$(br)$(li)They will bury itself in the ground or sand in order not to be detected.$(br)$(li)When they detect the presence of something above them, they will nimbly close their jaws in order to catch their prey."
+            "text": "$(li)Hungers are creatures that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), or $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l).$(br)$(li)They will bury itself in the ground or sand in order not to be detected.$(br)$(li)When they detect the presence of something above them, they will nimbly close their jaws in order to catch their prey."
         },
         {
             "type": "patchouli:entity",
             "entity": "outvoted:hunger",
             "scale": 0.65,
-            "text": "On death the may drop Bottles o' Enchanting or Void Hearts."
+            "text": "On death the may drop $(l:patchouli:tools/vanilla/experience_bottle)Bottle o' Enchanting$(/l) or $(l:patchouli:miscellaneous/outvoted/void_heart)Void Hearts$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If this creature makes you any damage, it will randomly remove 1 level of your enchant armor.$(br)$(li)This creature really love to eat everything like you drop on their heads.$(br)$(li)They works as a kind of Trash Can."
+            "text": "$(li)If this creature makes you any damage, it will randomly remove 1 level of your enchant armor.$(br)$(li)This creature really love to eat everything like you drop on their heads.$(br)$(li)They works as a kind of trash can."
         },
         {
             "type": "patchouli:small_pictures",
@@ -26,7 +26,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)For example, you can throw a Sword with an Looting 1 enchant applied and other Sword without any kind of Enchant applied.$(br)$(li)Then, this creature will expel from its mouth the new enchanted item.$(br)$(li)This can be used to apply enchants to items using enchanted books and the specific item to enchant."
+            "text": "$(li)For example, you can throw a Sword with an Looting 1 enchantment applied and other Sword without any kind of enchantment applied.$(br)$(li)Then, this creature will expel from its mouth the new enchanted item.$(br)$(li)This can be used to apply enchants to items using enchanted books and the specific item to enchant."
         }
              ]
 }

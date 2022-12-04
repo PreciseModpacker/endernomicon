@@ -8,8 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:honey_wand",
-            "text": "$(li)The Honey Wand is a useful tool for the beekeping.$(br)$(li)Just click a Beehive or Bee Nest that is full of honey while you are holding a Honey Wand in your hand to obtain a Sticky Honey Wand.$(br)$(li)Apiarist will exchange your Emeralds by a Honey Wand.",
+            "text": "$(li)The Honey Wand is a useful tool for the beekeping.$(br)$(li)Just click a $(l:patchouli:utility/vanilla/beehive)Beehive$(/l) or a $(l:patchouli:utility/vanilla/bee_nest)Bee Nest$(/l) that is full of honey while you are holding a Honey Wand in your hand to obtain a Sticky Honey Wand.$(br)$(li)$(l:patchouli:villagers/apiarist)Apiarist$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by a Honey Wand.",
             "link_recipe": "true"
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/honey_wand.png"
         }
              ]
 }

@@ -2,18 +2,18 @@
     "name": "Nether Wart",
     "icon": "minecraft:nether_wart",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:nether_wart",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:nether_wart",
-            "text": "$(li)Nether Wart is a useful item that can be found in the Nether Fortress of the Nether.$(br)$(li)You can plant it in Soul Sand and make it grows up faster applying Bone Meal of it.",
+            "text": "$(li)The Nether Wart is a useful item that can be found in the $(l:patchouli:structures/fortress)Nether Fortress$(/l) of the Nether.$(br)$(li)You can plant it in $(l)Soul Sand$() and make it grows up faster applying $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on it.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used to craft Crimson Wart Blocks, Red Nether Bricks, Seed Pouch and Nether Wart Sack in a Crafting Table.$(br)$(li)You can use this item as ingredient to brew a Awkward Potion in a Brewing Stand.$(br)$(li)Clerics will change your Nether Wart by Emeralds too."
+            "text": "$(li)This item can be used to craft $(l)Crimson Wart Blocks$(), $(l)Red Nether Bricks$(), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), and $(l:patchouli:utility/quark/nether_wart_sack)Nether Wart Sack$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can use this item as ingredient to brew an $(l:patchouli:potions/vanilla/awkward)Awkward Potion$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will change your Nether Wart by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too."
         }
              ]
 }

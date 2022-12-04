@@ -1,28 +1,25 @@
 {    
-    "name": "Wand of Freezing PDT DOCUMENTAR",
+    "name": "Wand of Freezing",
     "icon": "savageandravage:wand_of_freezing",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 4,
+    "advancement": "endernomicon:wand_of_freezing",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "savageandravage:wand_of_freezing",
-            "text": "The Trident is a weapon used in both melee and ranged combat. Drowneds may drop it.$(br2)It can be crafted in different ways too: $(li)Kraken Tooths, Prismarine Rod and Heart of Sea $(li)Prismarine Crystals, Heart of Sea and Prismarine Shard$(li)Trasher Tooths amd Prismarine Rods.",
+            "text": "$(li)The Wand of Freezing is a weapon that can't be used to attack directly.$(br)$(li)First you have to right click while you are pointing your target.$(br)$(li)Then a couple of ice blocks will appear on top of your target.",
             "link_recipe": "true"
         },
         {
+            "type": "patchouli:entity",
+            "name": "Trident",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"savageandravage:wand_of_freezing\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
+        },
+        {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Trident"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:trident",
-            "recipe2": "charm:extra_recipes/trident"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:trident"
+            "text": "$(li)Finally, you have to right click again to release the ice block.$(br)$(li)This block will hurt the creature that hits and inflicts the Frostbite effect.$(br)$(li)This effect slows and damage it every continuously from time to time until the effect ends.$(br)$(li)$(l:patchouli:illagers/iceologer)Iceologers$(/l) may drop the Wand of Freezing on death."
         }
              ]
 }

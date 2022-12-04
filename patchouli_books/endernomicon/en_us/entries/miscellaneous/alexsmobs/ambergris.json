@@ -3,13 +3,17 @@
     "icon": "alexsmobs:ambergris",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "alexsmobs:alexsmobs/save_cachalot_whale",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:ambergris",
-            "text": "$(li)The Ambergris can be used as a fuel to burn 64 items in a Furnace, Smoker, Blast Furnace, or Kiln. It can be used to craft a Echolocator too.$(br)$(li)It can be obtained trading it with a Fisherman or pushing back into the water a Cachalot Whale that is out of the water.",
+            "text": "$(li)The Ambergris can be used as a fuel to burn 64 items in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)It can be obtained trading with a $(l:patchouli:villagers/fisherman)Fisherman$(/l) by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item can be obtained pushing back into the water a $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l) that is out of the water during a thunderstorm.$(br)$(li)This item can be used to craft a $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too."
         }
              ]
 }

@@ -3,17 +3,18 @@
     "icon": "decorative_blocks:brazier",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks:brazier",
-            "text": "$(li)Braziers are a good choice of a light source block, they are like the campfires, but just decorative.$(br)$(li)Don't stand on them, or the embers will hurt you!.",
+            "text": "$(li)Braziers are a good choice of a light source block, they are like the $(l:patchouli:utility/vanilla/campfire)Campfires$(/l), but just decorative.$(br)$(li)Do not stand on them, or the embers will hurt you.",
             "link_recipe": "true",
             "title": "Braziers"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of the Braziers"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/brazier.png"
         },
         {
             "type": "patchouli:crafting",

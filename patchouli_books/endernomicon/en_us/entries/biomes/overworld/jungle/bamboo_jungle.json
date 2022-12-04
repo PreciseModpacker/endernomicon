@@ -7,16 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Bamboo Jungle is a humid climate composed of mostly of Bamboo and Podzo that can be found in the Overworld.$(br)$(li)Because the climate of this place, you can find a lot vegetation, like Bamboo, Melons, Bird of Paradise, Jungle and Oak Trees, Vines, Cocoa and Banana Bundles."
+            "text": "$(li)The Bamboo Jungle is a humid climate composed of mostly of $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) and Podzol that can be found over the Overworld.$(br)$(li)Because the climate of this place, you can find a lot vegetation, like $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), $(l:patchouli:miscellaneous/vanilla/melon_slice)Melons$(/l), Bird of Paradise, Jungle and Oak Trees, Vines, $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa$(/l) and Banana Bundles."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find animals like Leafcutter Ants, Plantain Spiders, Panda Bears, Hummingbirds, Parrots, and even Tigers.$(br)$(li)You can search this biome introducing the words $(l)Bamboo Jungle$() in the search box of the Nature's Compass."
+            "text": "$(li)You can find animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/vanilla/panda)Panda Bears$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l), and $(l:patchouli:creatures/alexsmobs/tiger)Tigers$(/l).$(br)$(li)You can search this biome introducing the words $(l)Bamboo Jungle$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:bamboo_jungle,minecraft:bamboo_jungle_hills"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/bamboo_jungle.png"

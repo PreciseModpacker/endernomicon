@@ -1,0 +1,19 @@
+{    
+    "name": "Strider",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Striders are passive creatures that can be found walking over the lava of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) on death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l).$(br)$(li)Striders can be equipped with a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l)."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:strider",
+            "scale": 1,
+            "text": "Then you can ride this Strider right clicking on it and drive it with a $(l:patchouli:pets/vanilla/warped_fungus_on_a_stick)Warped Fungus on a Stick$(/l). "
+        }
+             ]
+}

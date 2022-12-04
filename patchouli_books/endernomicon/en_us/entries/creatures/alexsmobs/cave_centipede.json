@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cave centipedes are hostile, slow but strong creatures.$(br)$(li)If they bite you, you will be afflicted by a powerfull Posion II for a few seconds.$(br)$(li)Cave Centipedes target players and $(l:patchouli:creatures/alex_creatures/cockroaches)Cockroach$(/l).$(br)$(li)On death, Cave Centipedes can drop Cave Centipede Legs."
+            "text": "$(li)Cave centipedes are hostile, slow but strong creatures.$(br)$(li)If they bite you, you will be afflicted by a powerfull $(l:patchouli:potions/vanilla/poison)Poison$(/l) II effect for a few seconds.$(br)$(li)Cave Centipedes will not doubt to attack $(l:patchouli:creatures/alexsmobs/cockroach)Cockroaches$(/l) or players if they are near of them."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/cave_centipede.png",
-            "text": "$(li)Cave Centipedes will not doubt to attack $(l:patchouli:creatures/alex_creatures/cockroaches)Cockroach$(/l) or you if you are near of them."
+            "text": "$(li)Cave Centipedes may drop $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Legs$(/l) on death."
         }
              ]
 }

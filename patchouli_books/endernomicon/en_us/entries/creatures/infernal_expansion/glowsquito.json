@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Glowsquitos are an horrible pest that can be found in the Glowstone Canyons of the Nether.$(br)$(li)These neutral creatures loves sucking the dust out of Glowstone, turning it to Dimstone and finally to Dullstone.$(br)$(li)You can breed Glowsquitos giving them Shroomlight Juice."
+            "text": "$(li)Glowsquitos are an horrible pest that can be found in the $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyons$(/l) of the Nether.$(br)$(li)These neutral creatures loves sucking the dust out of $(l:patchouli:utility/vanilla/glowstone_block)Glowstone$(/l), turning it to Dimstone and finally to Dullstone.$(br)$(li)You can breed Glowsquitos giving them $(l:patchouli:miscellaneous/infernalexp/shroomlight_tear)Shroomlight Tears$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

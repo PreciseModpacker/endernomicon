@@ -23,7 +23,7 @@
         {
             "type": "patchouli:text",
             "title": "Fuel Items",
-            "text": "$(li)Wood$(li)Charcoal$(li)Coal$(li)Coal Block$(li)Lava Bucket$(li)Blaze Rod$(li)Blaze Lantern.$(br)$(li)Then you have to insert the item to smelt in the first slot.$(br)$(li)After a few seconds you can pick up the result and add it into your inventory."
+            "text": "$(li)Wood$(li)$(l:patchouli:miscellaneous/vanilla/charcoal)Charcoal$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l)$(li)$(l:patchouli:utility/vanilla/coal_block)Coal Block$(/l)$(li)$(l:patchouli:tools/vanilla/lava_bucket)Lava Bucket$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rod$(/l)$(li)Blaze Lantern.$(br)$(li)Then you have to insert the item to smelt in the first slot.$(br)$(li)After a few seconds you can pick up the result and add it into your inventory."
         }
              ]
 }

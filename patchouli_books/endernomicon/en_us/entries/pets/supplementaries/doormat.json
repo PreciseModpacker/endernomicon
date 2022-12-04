@@ -3,20 +3,17 @@
     "icon": "supplementaries:doormat",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:flax",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:doormat",
-            "text": "The Doormat is a hybrid between is a new kind of Carpet. The cats love to sit on it from time to time.$(br2)They work like common Signs too, just right click on them and write something.$(br2)The Doormat can be crafted with Flax.",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:doormat",
+            "text": "$(li)The Doormat is a a new kind of carpet where $(l:patchouli:pets/vanilla/cat)Cats$(/l) really love to sit.$(br)$(li)They work as $(l:patchouli:decoration/vanilla/signs)Signs$(/l) too, just right click on them and write something.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Doormat"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:doormat"
+            "text": "$(li)You can shift right click on a Doormat to save an item under of it."
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "savageandravage:cleaver_of_beheading",
-            "text": "$(li)The Cleaver of Beheading is a very sharp, big and heavy broadsword.$(br)$(li)It can only be dropped by a Executioner.$(br)$(li)This weapon can be repaired with Iron Ingots in an Anvil.",
+            "text": "$(li)The Cleaver of Beheading is a very sharp, big and heavy broadsword.$(br)$(li)It can only be dropped by a $(l:patchouli:illagers/executioner)Executioner$(/l).$(br)$(li)This weapon can be repaired with $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l) in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).",
             "link_recipe": "true"
         },
         {

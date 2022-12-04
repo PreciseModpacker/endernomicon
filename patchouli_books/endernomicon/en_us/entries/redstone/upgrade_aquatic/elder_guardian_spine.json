@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/elder_guardian_spine.png",
-            "text": "$(li)This item only can be dropped by the Elder Guardian."
+            "text": "$(li)This item only can be dropped by the $(l:patchouli:bosses/elder_guardian)Elder Guardian$(/l)."
         }
              ]
 }

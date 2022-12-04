@@ -1,0 +1,24 @@
+{
+    "name": "Waystones",
+    "icon": "waystones:waystone",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_tower",
+    "pages": [
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/waystones_1.png",
+            "text": "$(li)Waystones can be found in the $(l:patchouli:structures/tower)Towers$(/l) and these can be used to move quickly through the Overworld." 
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/waystones_2.png",
+            "text": "$(li)A Waystone can be activated right clicking while you are pointing on it."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/waystones_3.png",
+            "text": "$(li)If you right click again on the Waystone, you will be able to teleport to other Waystone that you have already found during your adventure."
+        }
+             ]
+}

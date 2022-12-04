@@ -3,12 +3,12 @@
     "icon": "alexsmobs:void_worm_eye",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:void_worm_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:void_worm_eye",
-            "text": "$(li)The interior of the Void Worm Eye emits a very powerful and corrupt magic.$(br)$(li)This Orb can be used to craft the Dimensional Carver in a Crafting Table.",
+            "text": "$(li)The interior of the $(l)Void Worm Eye$() emits a very powerful and corrupt magic.$(br)$(li)This Orb can be used to craft the $(l:patchouli:tools/alexsmobs/dimensional_carver)Dimensional Carver$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It only can be obtained defeating the $(l:patchouli:bosses/void_worm)Void Worm$(/l).",
             "link_recipe": "true"
         }
              ]

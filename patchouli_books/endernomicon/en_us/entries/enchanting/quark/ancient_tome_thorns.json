@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:thorns',lvl:3s}]}",
-            "text": "$(li)The Ancient Tome Thorns can be used to upgrade an enchanted item with Thorns III enchantment to level IV.$(br)$(li)To apply this enchant, you need to place the desired item and the ancient tome in an Anvil while you have at least 30 levels.",
+            "text": "$(li)The Ancient Tome Thorns can be used to upgrade an enchanted item with Thorns III enchantment to level IV.$(br)$(li)To apply this enchant, you need to place the desired item and the ancient tome in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l) while you have at least 30 levels of experience.",
             "title": "A.T. Thorns IV"
         },
         {
             "type": "patchouli:text",
-            "text": "The Ancient tomes can only be obtained rarely in Loot Chests. Insert a picture of a Straddleboard and Fire Resistance effect"
+            "text": "$(li)The Ancient tomes can only be obtained rarely in $(l:patchouli:perks/loot_chest)Loot Chests$(/l)."
         }
              ]
 }

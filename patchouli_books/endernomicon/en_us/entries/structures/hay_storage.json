@@ -1,0 +1,17 @@
+{    
+    "name": "Hay Storage",
+    "icon": "minecraft:wheat",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Hay Storage is an abandoned place with a lot of $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l) stored inside.$(br)$(li)This structure can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) of the Overworld."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/hay_storage.png"
+        }
+             ]
+}

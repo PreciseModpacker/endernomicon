@@ -2,7 +2,7 @@
   "components": [
     {
       "type": "image",
-      "image": "endermonicon:textures/book/templates/pictures/small_frame.png",
+      "image": "endermonicon:textures/book/templates/small_pictures/small_frame.png",
       "x": 2,
       "y": -6,
       "width": 112,

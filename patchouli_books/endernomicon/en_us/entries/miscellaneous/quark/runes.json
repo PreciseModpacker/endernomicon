@@ -8,12 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "quark:blank_rune",
-            "text": "$(li)Runes can be applied to enchanted items in an Anvil$(br)$(li)This Rune will change the color of the enchantment glint depending of the color of the Rune used.$(br)$(li)Blank Runes can be turned into any other color placing the Blank Rune and a Dye.",
+            "text": "$(li)Runes can be applied to enchanted items in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l)$(br)$(li)This Rune will change the color of the enchantment glint depending of the color of the Rune used.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)A Blank Rune can online be found in Dungeon, Nether Fortress, Desert Temple and Jungle Temple naturally generated Chests.$(br)$(li)You can craft a Rainbow Rune placing 8 Runes or 8 blocks of Corundum and any kind of Stone in a Crafting table."
+            "text": "$(li)Blank Runes can be turned into any other color placing the Blank Rune and a Dye in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)A Blank Rune can only be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the different Dungeons over the Overworld.$(br)$(li)You can craft a Rainbow Rune placing eight Runes or eight blocks of $(l)Corundum$() and any kind of $(l)Stone$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
             "type": "patchouli:crafting",

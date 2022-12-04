@@ -1,13 +1,13 @@
 {    
     "name": "Lobster",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Lobsters are small, neutral aquatic crustaceans that can be found in Beaches and Rivers.$(br)$(li)If attacked, lobsters pinch any mob nearby aggressively.$(br)$(li)Lobsters may drop Lobster Tails on death.$(br)$(li)You can capture Lobsters in Water Buckets."
+            "text": "$(li)Lobsters are small, neutral aquatic crustaceans that can be found in $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l).$(br)$(li)If attacked, lobsters pinch any mob nearby aggressively.$(br)$(li)Lobsters may drop $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tails$(/l) on death.$(br)$(li)You can capture these creatures in $(l:patchouli:tools/vanilla/water_bucket)Water Buckets$(/l)."
         },
         {
             "type": "patchouli:entity",

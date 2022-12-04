@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/grindstone_1.png",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a Weaponsmith."
+            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/weaponsmith)Weaponsmith$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
@@ -24,7 +24,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/grindstone_3.png",
-            "text": "$(li)You can place Enchanted Books or other enchanted Tools to disenchant them and obtain Experience in the process."
+            "text": "$(li)You can place Enchanted Books or an enchanted Tools to disenchant them and obtain Experience in the process."
         }
              ]
 }

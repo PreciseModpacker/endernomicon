@@ -2,18 +2,19 @@
     "name": "Nether Quartz",
     "icon": "minecraft:quartz",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:nether_quartz",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:quartz",
-            "text": "$(li)The Nether Quartz is a hard crystaline mineral that can be found and mined over the Nether.$(br)$(li)Masons will exchange your Nether Quartz by Emeralds.$(br)$(li)It can be used to craft multiple items in a Crafting Table.",
+            "text": "$(li)The Nether Quartz is a hard crystaline mineral that can be found and mined over the Nether.$(br)$(li)$(l:patchouli:villagers/mason)Masons$(/l) will exchange your Nether Quartz by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)It can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Laboratory Blocks$(li)Quartz Glass$(li)Blackboard$(li)Observer$(li)Block of Quartz$(li)Decorative Quartz Amphora$(li)Small Decorative Quartz Pot$(li)Redstone Comparators$(li)Diorite$(li)Granite$(li)Daylight Detectors$(li)Quartz Armor"
+            "title": "Nether Quartz Recipes",
+            "text": "$(li)Laboratory Blocks$(li)Quartz Glass$(li)$(l:patchouli:utility/supplementaries/blackboard)Blackboard$(/l)$(li)$(l:patchouli:redstone/vanilla/observer)Observer$(/l)$(li)Block of Quartz$(li)Decorative Quartz Amphora$(li)Small Decorative Quartz Pot$(li)$(l:patchouli:redstone/vanilla/comparator)Redstone Comparator$(/l)$(li)Diorite$(li)Granite$(li)$(l:patchouli:redstone/vanilla/daylight_detector)Daylight Detector$(/l)$(li)$(l:patchouli:armors/quartz_armor)Quartz Armor$(/l)"
         }
              ]
 }

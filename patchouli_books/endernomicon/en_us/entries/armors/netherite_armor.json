@@ -2,12 +2,12 @@
     "name": "Netherite Armor",
     "icon": "minecraft:netherite_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 27,
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Netherite Armor is the seconth best armor that you can make.$(br)$(li)It can be crafted placing a Netherite with a Diamond piece of Armor in a Smithing Table.$(br)$(li)This armor can't be burned."
+            "text": "$(li)The Netherite Armor is the seconth best armor that you can make.$(br)$(li)It can be crafted placing a $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l) with the specific piece of $(l:patchouli:armors/diamond_armor)Diamond Armor$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l).$(br)$(li)This armor can't be burned."
         },
         {
             "type": "patchouli:entity",
@@ -15,14 +15,26 @@
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:netherite_boots,Count:1},{id:netherite_leggings,Count:1},{id:netherite_chestplate,Count:1},{id:netherite_helmet,Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:netherite_helmet",
-            "recipe2":"minecraft:netherite_chestplate"
+            "type": "smithing_table_multiple",
+            "title": "Netherite Helmet",
+            "input": "minecraft:diamond_helmet",
+            "input2": "minecraft:netherite_ingot",
+            "output": "minecraft:netherite_helmet",
+            "title2": "Netherite Chestplate",
+            "input3": "minecraft:diamond_chestplate",
+            "input4": "minecraft:netherite_ingot",
+            "output2": "minecraft:netherite_chestplate"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:netherite_leggings",
-            "recipe2":"minecraft:netherite_boots"
+            "type": "smithing_table_multiple",
+            "title": "Netherite Leggings",
+            "input": "minecraft:diamond_leggings",
+            "input2": "minecraft:netherite_ingot",
+            "output": "minecraft:netherite_leggings",
+            "title2": "Netherite Boots",
+            "input3": "minecraft:diamond_boots",
+            "input4": "minecraft:netherite_ingot",
+            "output2": "minecraft:netherite_boots"
         }
              ]
 }

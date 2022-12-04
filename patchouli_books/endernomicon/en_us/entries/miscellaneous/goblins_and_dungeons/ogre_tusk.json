@@ -1,0 +1,15 @@
+{    
+    "name": "Ogre Tusk",
+    "icon": "goblinsanddungeons:ogre_tusk",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:ogre_tusk",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "goblinsanddungeons:ogre_tusk",
+            "text": "$(li)The Ogre Tusk is an item that can be used to brew a $(l:patchouli:potions/goblins_and_dungeons/ogres_might)Potion of Ogre's Might$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)The $(l:patchouli:bosses/ogre)Ogre$(/l) may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

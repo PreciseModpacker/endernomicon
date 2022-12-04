@@ -3,16 +3,16 @@
     "icon": "minecraft:minecart",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:minecart",
-            "text": "$(li)Minecarts are vehicles that runs on Rails.$(br)$(li)You can mount in a Minecart right clicking on it."
+            "text": "$(li)Minecarts are vehicles that runs on $(l:patchouli:redstone/vanilla/rail)Rails$(/l).$(br)$(li)You can mount in a Minecart right clicking on it."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)There are exists four variants of Minecarts:$(br)$(li)Minecart with Chest$(li)Minecart with Furnace$(li)Minecart with TNT$(li)Minecart with Hopper."
+            "text": "$(li)There are exists four variants of Minecarts:$(br)$(li)$(l:patchouli:redstone/vanilla/chest_minecart)Minecart with Chest$(/l)$(li)$(l:patchouli:redstone/vanilla/furnace_minecart)Minecart with Furnace$(/l)$(li)$(l:patchouli:redstone/vanilla/tnt_minecart)Minecart with TNT$(/l)$(li)$(l:patchouli:redstone/vanilla/hopper_minecart)Minecart with Hopper$(/l)"
         },
         {
             "type": "patchouli:pictures",

@@ -3,12 +3,12 @@
     "icon": "infernalexp:glownuggets",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:dullrocks",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:glownuggets",
-            "text": "$(li)Glownuggets can only be used to craft Dimstone and Dullstone blocks.$(br)$(li)They can only be dropped by Glowsquitos.",
+            "text": "$(li)Dullrocks can only be used to craft $(l)Dimstone Blocks$() and $(l)Dullstone Blocks$().$(br)$(li)$(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

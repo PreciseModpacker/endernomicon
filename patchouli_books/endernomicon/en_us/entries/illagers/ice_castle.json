@@ -3,15 +3,16 @@
     "icon": "minecraft:blue_ice",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_ice_castle",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Long ago, the Illagers exiled a powerfull wizards who specialized in the ice element and necromancy.$(br)$(li)They, along with their subjects, Strays, live isolated in underground castles in very cold biomes.$(br)$(li)Those wizards are known as the Frostmancers."
+            "text": "$(li)Long ago, the Illagers exiled a powerfull wizards who specialized in the ice element and necromancy.$(br)$(li)They, along with their subjects, Strays, live isolated in underground castles in very cold biomes.$(br)$(li)Those wizards are known as the $(l:patchouli:illagers/frostmancer)Frostmancers$(/l)."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)The Ice Castle can be found in the Extreme Hills, Icy and Taiga biomes."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/ice_castle.png",
+            "text": "$(li)The Ice Castle can be found in the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l)."
         }
              ]
 }

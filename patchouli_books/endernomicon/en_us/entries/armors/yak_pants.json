@@ -2,8 +2,8 @@
     "name": "Yak Pants",
     "icon": "environmental:yak_pants",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 6,
+    "advancement": "endernomicon:yak_hair",
     "pages": [
        {
             "type": "patchouli:crafting",

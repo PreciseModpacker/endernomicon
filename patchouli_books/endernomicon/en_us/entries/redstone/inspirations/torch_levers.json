@@ -8,22 +8,22 @@
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:utility/torch_lever",
-            "text": "$(li)Torch Levers, as the common Torchs, are a good source light block.",
+            "text": "$(li)Torch Levers, as the $(l:patchouli:decoration/others/torchs)Torches$(/l), are a good source light block.$(br)$(li)As other Levels, you can right click on them to emit a redstone signal in the nearby blocks.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/torch_level.png",
-            "text": "$(li)As other Levels, you can right click on them to emit a redstone signal in the nearby blocks."
+            "picture": "endermonicon:textures/book/entries/redstone/torch_level.png"
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "inspirations:utility/soul_torch_lever"
+            "recipe": "inspirations:utility/soul_torch_lever",
+            "text": "$(li)The Soul Toch Lever is the Nether version of the Torch Lever."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/soul_torch_level.png",
-            "text": "$(li)The Soul Toch Lever is just the Nether version of the Torch Lever."
+            "picture": "endermonicon:textures/book/entries/redstone/soul_torch_level.png"
+
         }
              ]
 }

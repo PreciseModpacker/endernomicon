@@ -1,13 +1,13 @@
 {    
     "name": "Alligator Snapping Turtle",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/alligator_snapping_turtle",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Alligator Snapping Turtle is a semi-aquatic creature that can be found in the depths of the Swamp of the Overworld.$(br)$(li)This creature will attack anything that steps near it.$(br)$(li)Sometimes they drop a piece of Spiked Scute, you can use it to craft a $(l:patchouli:armors/spiked_turtle_shell)Spiked Turtle Shell$(/l) in a Crafting Table."
+            "text": "$(li)The Alligator Snapping Turtle is a semi-aquatic creature that can be found in the depths of the $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l) of the Overworld.$(br)$(li)This creature will attack anything that steps near it.$(br)$(li)Sometimes they drop a piece of $(l:patchouli:miscellaneous/alexsmobs/spiked_scute)Spiked Scute$(/l)."
         },
         {
             "type": "patchouli:entity",

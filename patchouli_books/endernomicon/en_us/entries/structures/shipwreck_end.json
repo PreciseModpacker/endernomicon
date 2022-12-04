@@ -1,0 +1,17 @@
+{    
+    "name": "Shipwreck (End)",
+    "icon": "minecraft:purpur_block",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This variant of the Shipwrecks can appears over the End.$(br)$(li)Look carefully, because may you can find a $(l:patchouli:tools/vanilla/map)Map$(/l) that will help you to find the ubication of an $(l:patchouli:structures/end_city)End City$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/end_shipwreck.png"
+        }
+             ]
+}

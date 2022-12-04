@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you have the Oak Crafting Table in your inventory, you can access to the Portable Crafting Table GUI directly, without need to place it first.$(br)$(li)Sadly this fuction doesn't work with the other versions of the Crafting Tables."
+            "text": "$(li)If you have the Oak Crafting Table in your inventory, you can access to the $(l:patchouli:perks/portable_crafting_table)Portable Crafting Table GUI$(/l) directly, without need to place it first.$(br)$(li)Sadly this fuction doesn't work with the other versions of the Crafting Tables, only with the Oak Crafting Table."
         },
         {
             "type": "patchouli:crafting",

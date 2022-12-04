@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:lectern",
-            "text": "$(li)The Lectern is a block that is capable to hold readable Books.$(br)$(li)Just right click on the lectern while you are holding a written book on your hand."
+            "text": "$(li)The Lectern is a block that is capable to hold readable books, like the $(l:patchouli:tools/vanilla/book_and_quill)Book and Quill$(/l) or the $(l:patchouli:enders_journey/getting_started)Endernomicon$(/l).$(br)$(li)Just right click on the lectern while you are holding a written book on your hand."
         },
         {
             "type": "patchouli:small_pictures",

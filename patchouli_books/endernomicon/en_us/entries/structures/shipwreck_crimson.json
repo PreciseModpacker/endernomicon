@@ -1,0 +1,17 @@
+{    
+    "name": "Shipwreck (Crimson)",
+    "icon": "minecraft:crimson_stem",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This variant of the Shipwrecks can appears in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)These are inhabited by $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/crimson_shipwreck.png"
+        }
+             ]
+}

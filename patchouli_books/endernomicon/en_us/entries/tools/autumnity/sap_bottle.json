@@ -2,18 +2,18 @@
     "name": "Bottle (Sap)",
     "icon": "autumnity:sap_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "autumnity:sap_bottle",
-            "text": "$(li)Sap Bottles is a item that can be used to craft Sugar and Sappy Maple Log in a Crafting Table.$(br)$(li)You can make Syrup Bottle Smelting a Sap Bottle in a Furnace, Smoking, or Campfire.",
+            "text": "$(li)The Sap Bottle is an item that can be used to craft $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l) and Sappy Maple Log in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)You can make $(l:patchouli:tools/autumnity/syrup_bottle)Syrup Bottle$(/l) Smelting a Sap Bottle in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)To obtain a Sap Bottle, first you need to right click multiple Maple Log while you are holding any kind of Axe on your hand. You have a little probability that a Sappy Mapple Log appears.$(br)$(li)Finally right click the Sappy Mapple Log while you are holding a Glass Bottle on your hand to obtain a Sap Bottle."
+            "text": "$(li)To obtain a Sap Bottle, first you need to right click multiple Maple Log while you are holding any kind of $(l:patchouli:weapons/wooden_axe)Axe$(/l) in your hand.$(br)$(li)Doing this has a little probability that a Sappy Mapple Log appears.$(br)$(li)Finally right click the Sappy Mapple Log while you are holding a $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottle$(/l) in your hand to obtain a Sap Bottle."
         }
              ]
 }

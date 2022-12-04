@@ -7,16 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Lukewarm Ocean is a variant of the Ocean biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is composed mainly by Sand blocks.$(br)$(li)You can find some water vegetation here like Seagrass or Kelp Plants."
+            "text": "$(li)The Lukewarm Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is composed mainly by Sand blocks.$(br)$(li)You can find some water vegetation here like Seagrass or Kelp Plants."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Cods, Pufferfishes, Tropical Fishes, Dolphins, Squids, Cachalot Whales and Hammerhead Sharks can be found here too."
+            "text": "$(li)Some aquatic animals like Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfishes$(/l), Tropical Fishes, $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/vanilla/cachalot_whale)Cachalot Whales$(/l) and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here too."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:lukewarm_ocean"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/lukewarm_ocean.png"

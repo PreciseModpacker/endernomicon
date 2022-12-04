@@ -3,15 +3,16 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_archer_tower",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illager Archer Towers are surveillance zones of the Illagers.$(br)$(li)Be careful, those towers are full of Archers.$(br)$(li)You should visit them, on top of the tower they usually keep a chest with provisions."
+            "text": "$(li)The Illager Archer Towers are surveillance zones of the Illagers that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l), $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l) and $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l) of the Overworld.$(br)$(li)Be careful, those towers are full of $(l:patchouli:illagers/archer)Archers$(/l)."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)The Illager Archer Tower can be found in the Desert, Extreme Hills, Forest, Icy, Jungle, Mesa, Mushroom Forest, Plains, Savanna, Swamp and Taiga biomes."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/illager_archer_tower.png",
+            "text": "$(li)You should visit them, on top of this tower they usually keep a $(l:patchouli:perks/loot_chest)Loot Chest$(/l) with provisions."
         }
              ]
 }

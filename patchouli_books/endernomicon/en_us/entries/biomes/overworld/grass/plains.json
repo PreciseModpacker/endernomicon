@@ -11,12 +11,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Crows can be found flying around this biome.$(br)$(li)You can search this biome introducing the word $(l)Plains$() in the search box of the Nature's Compass."
+            "text": "$(li)$(l:patchouli:pets/alexsmobs/crow)Crows$(/l) can be found flying around this biome.$(br)$(li)You can search this biome introducing the word $(l)Plains$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:plains"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/plains.png"

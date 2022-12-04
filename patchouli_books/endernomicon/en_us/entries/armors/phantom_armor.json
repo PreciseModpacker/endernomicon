@@ -2,8 +2,8 @@
     "name": "Phantom Armor",
     "icon": "extraarmor:phantom_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 9,
+    "advancement": "endernomicon:phantom_membrane",
     "pages": [
        {
             "type": "patchouli:text",

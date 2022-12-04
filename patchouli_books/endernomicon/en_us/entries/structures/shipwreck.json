@@ -1,0 +1,17 @@
+{    
+    "name": "Shipwreck (Ocean)",
+    "icon": "minecraft:trident",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Shipwrecks are shunken ships that can be found inside of the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)The reason why they are sunk is unknown, although it is rumored that they are ships attacked by the dreaded creature of the seas, the $(l:patchouli:creatures/outvoted/kraken)Kraken$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/shipwreck.png"
+        }
+             ]
+}

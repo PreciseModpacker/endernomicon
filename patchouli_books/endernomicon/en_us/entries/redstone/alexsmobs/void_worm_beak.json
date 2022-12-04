@@ -3,7 +3,7 @@
     "icon": "alexsmobs:void_worm_beak",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:void_worm_mandible",
     "pages": [
         {
             "type": "patchouli:crafting",

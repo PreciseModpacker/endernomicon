@@ -1,0 +1,15 @@
+{    
+    "name": "Tropical Fish",
+    "icon": "minecraft:tropical_fish",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:tropical_fish",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:tropical_fish",
+            "text": "$(li)The Tropical Fish is an eatable item that is dropped by $(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fish$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l).$(br)$(li)$(l:patchouli:villagers/fisherman)Fishermans$(/l) may exchange your Tropical Fish by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)$(br)$(li)They can be used to tame $(l:patchouli:pets/vanilla/fox)Foxes$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

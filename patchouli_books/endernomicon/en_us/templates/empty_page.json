@@ -1,0 +1,14 @@
+{
+    "components": [
+      {
+        "type": "image",
+        "image": "endermonicon:textures/book/templates/empty_page/filler.png",
+        "x": -5,
+        "y": -18,
+        "width": 136,
+        "height": 181,
+        "texture_width": 136,
+        "texture_height": 181
+      }
+    ]
+  }

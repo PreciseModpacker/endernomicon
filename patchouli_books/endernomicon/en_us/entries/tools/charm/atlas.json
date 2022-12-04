@@ -8,20 +8,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "charm:atlas/atlas",
-            "text": "$(li)The Atlas can storage Maps that automatically updates the displayed map as you explore.$(br)$(li)To use it, just right click while you are holding the Atlas in your hand and insert your maps inside there",
+            "text": "$(li)The Atlas can storage $(l:patchouli:tools/vanilla/map)Maps$(/l) that automatically updates the displayed map as you explore.$(br)$(li)To use it, just right click while you are holding the Atlas in your hand and insert your maps inside there.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)Once place, you can just walk to the outskirts of the map, this will cause what another Empty Map is consumed and the map of the Atlas is enlarged.$(br)$(li)Using the buttons + and - you can Zoom in or Zoom out your map, this option will be useful when this one gets too big.$(br)$(li)You can recover your maps left clicking on the map GUI of the Atlas."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/atlas_1.png",
+            "text": "$(li)Now you can just walk to the outskirts of the map, this will cause what another Empty Map is consumed and the map of the Atlas is enlarged."
         },
         {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/atlas.png"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/atlas_2.png",
+            "text": "$(li)You can recover your maps left clicking on the map GUI of the Atlas."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/atlas_3.png",
+            "text": "$(li)Using the buttons + and - you can Zoom in or Zoom out your map, this option will be useful when this one gets too big."
         }
              ]
 }

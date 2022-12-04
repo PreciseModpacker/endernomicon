@@ -2,28 +2,28 @@
     "name": "Bottle (Honey)",
     "icon": "minecraft:honey_bottle",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:honey_bottle",
-            "text": "$(li)The Honey Bottle is a delicious drinkable food.$(br)$(li)Apiarists will exchange your Honey Bottles by Emeralds.",
+            "text": "$(li)The Honey Bottle is a delicious drinkable food.$(br)$(li)$(l:patchouli:villagers/apiarist)Apirarits$(/l) will exchange your Honey Bottles by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:honey/honey_bottle_from_wand",
-            "text": "$(li)You can obtain a Honey Bottle right clicking a Beehive while you are holding a Glass Bottle on your hand.",
+            "text": "$(li)You can obtain a Honey Bottle right clicking a $(l:patchouli:utility/vanilla/beehive)Beehive$(/l) or a $(l:patchouli:utility/vanilla/bee_nest)Bee Nest$(/l) while you are holding a $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottle$(/l) in your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Honey Bottles are a useful ingredient that can be used in multiples food recipes in a Crafting Table.$(br)$(li)You can use Honey Bottles to craft other useful items in a Crafting Table too."
+            "text": "$(li)Honey Bottles are a useful ingredient that can be used in multiples food recipes in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)You can use Honey Bottles to craft other useful items in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) too."
         },
         {
             "type": "patchouli:text",
-            "text": "$(br)$(l)      Food Recipes$()$(br)$(li)Honey Glazzed Gooseberries$(li)Candies$(li)Honey Apples$(li)Honey Glazed Porkchop$(li)Honey Apples$(li)Gooseberry Jam$(li)Honey Bread$(br2)$(l)        Others$()$(br)$(li)Sugar$(li)Honey Block$(li)Honey Lamps"
+            "text": "$(br)$(l)      Food Recipes$()$(br)$(li)Honey Glazzed Gooseberries$(li)Candies$(li)Honey Apples$(li)Honey Glazed Porkchop$(li)Honey Apples$(li)Gooseberry Jam$(li)Honey Bread$(br2)$(l)        Others$()$(br)$(li)$(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l)$(li)$(l:patchouli:redstone/vanilla/honey_block)Honey Block$(/l)$(li)Honey Lamps"
         }
              ]
 }

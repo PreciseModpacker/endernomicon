@@ -2,13 +2,13 @@
     "name": "Foul Berries",
     "icon": "autumnity:foul_berries",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:foul_berries",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "autumnity:foul_berries",
-            "text": "$(li)Foul Berries are a fruit that can be growed up from Foul Berry Pips.$(br)$(li)You can use Foul Berries to craft Foul Berry Pips, or White Strawberry Basket in a Crafting Table.",
+            "text": "$(li)Foul Berries are a fruit that can be growed up from $(l:patchouli:miscellaneous/autumnity/foul_berry_pips)Foul Berry Pips$(/l).$(br)$(li)You can use this item to craft $(l:patchouli:miscellaneous/autumnity/foul_berry_pips)Foul Berry Pips$(/l), or $(l:patchouli:utility/autumnity/foul_berry_sack)Foul Berry Sack$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {

@@ -1,0 +1,20 @@
+{    
+    "name": "Rumor (Swamp Monster)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "endernomicon:bone",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:fossil_bait",
+            "link_recipe": "true",
+            "title": "Rumor (Swamp Monster)",
+            "text": "$(o)A long time ago, there was a predator in the depths of the Swamps.$(br2)$(o)Thanks to the power of necromancy, it is possible to summon this creature, but it will become hostile against its summoner."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)To summon this creature, first you have to craft the Fossilt Bait.$(br2)Finally, you have to right while you are holding this item on your hand."
+        }
+             ]
+}

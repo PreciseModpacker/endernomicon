@@ -1,0 +1,22 @@
+{    
+    "name": "Capuchin Monkey",
+    "icon": "neapolitan:banana",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Capuchin monkeys are small creatures with black and cream-colored fur around their head that are located in the depths of the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) of the Overworld.$(br2)You can find four variants:$(li)White Headed Capuchin $(li)Blond Capuchin $(li)Brown Capuchin $(li)Weeper Capuchin$(br2)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "alexsmobs:capuchin_monkey",
+            "scale": 0.65
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)You can heal these creatures feeding them with $(l:patchouli:miscellaneous/vanilla/chicken_egg)Chicken Eggs$(/l).$(br)$(li)They can bred feeding them with $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l).$(br)$(li)You can feed them with $(l:patchouli:miscellaneous/alexsmobs/banana)Bananas$(/l) to tame them too.$(br)$(li)If you give them $(l:patchouli:miscellaneous/alexsmobs/ancient_dart)Ancient Darts$(/l) they will gain piercing damage."
+        }
+             ]
+}

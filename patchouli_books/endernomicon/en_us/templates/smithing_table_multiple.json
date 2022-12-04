@@ -1,0 +1,117 @@
+{
+    "components": [
+      {
+        "type": "header",
+        "text": "#title",
+        "x": -1,
+        "y": 10
+      },
+      {
+        "type": "item",
+        "item": "#input",
+        "framed": "true",
+        "x": 8,
+        "y": 25
+      },
+      {
+        "type": "image",
+        "image": "endermonicon:textures/book/templates/smithing_table/plus.png",
+        "x": 26,
+        "y": 23,
+        "height": 20,
+        "width": 20,
+        "texture_height": 20,
+        "texture_width": 20
+      },
+      {
+        "type": "item",
+        "item": "#input2",
+        "framed": "true",
+        "x": 48,
+        "y": 25
+      },
+      {
+        "type": "image",
+        "image": "endermonicon:textures/book/templates/smithing_table/arrow.png",
+        "x": 66,
+        "y": 23,
+        "height": 20,
+        "width": 20,
+        "texture_height": 20,
+        "texture_width": 20
+      },
+      {
+        "type": "item",
+        "item": "#output",
+        "framed": "true",
+        "x": 88,
+        "y": 25
+      },
+      {
+        "type": "item",
+        "item": "minecraft:smithing_table",
+        "framed": "false",
+        "x": 88,
+        "y": 44
+      },
+
+
+
+
+      {
+        "type": "header",
+        "text": "#title2",
+        "x": -1,
+        "y": 80
+      },
+      {
+        "type": "item",
+        "item": "#input3",
+        "framed": "true",
+        "x": 8,
+        "y": 95
+      },
+      {
+        "type": "image",
+        "image": "endermonicon:textures/book/templates/smithing_table/plus.png",
+        "x": 26,
+        "y": 92,
+        "height": 20,
+        "width": 20,
+        "texture_height": 20,
+        "texture_width": 20
+      },
+      {
+        "type": "item",
+        "item": "#input4",
+        "framed": "true",
+        "x": 48,
+        "y": 95
+      },
+      {
+        "type": "image",
+        "image": "endermonicon:textures/book/templates/smithing_table/arrow.png",
+        "x": 66,
+        "y": 93,
+        "height": 20,
+        "width": 20,
+        "texture_height": 20,
+        "texture_width": 20
+      },
+      {
+        "type": "item",
+        "item": "#output2",
+        "framed": "true",
+        "x": 88,
+        "y": 95
+      },
+      {
+        "type": "item",
+        "item": "minecraft:smithing_table",
+        "framed": "false",
+        "x": 88,
+        "y": 114
+      }
+    ]
+  }
+  

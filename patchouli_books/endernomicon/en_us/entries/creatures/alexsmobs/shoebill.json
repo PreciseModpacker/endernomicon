@@ -1,19 +1,19 @@
 {    
     "name": "Shoebill",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Shoebills are passive birds. When attacked, Shoebills will take to the skies and flee.$(br)$(li)Shoebills sometimes stand in the water, and fish for fish.$(br)$(li)Shoebills can be feed up to 10 Terrapin Eggs to increase their lunk or 10 Crocodile Eggs to increase their lure to improve their fishing."
+            "text": "$(li)Shoebills are passive birds that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)These creatures sometimes stand in the water, and fish for fishes.$(br)$(li)Shoebills can be feed up to 10 $(l:patchouli:miscellaneous/alexsmobs/emu_egg)Emu Eggs$(/l) to increase their lunk or 10 $(l:patchouli:miscellaneous/alexsmobs/crocodile_egg)Crocodile Eggs$(/l) to increase their lure to improve their fishing."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:shoebill",
             "scale": 1,
-            "text": "They like to hunt baby Turtles, baby Terrapins and baby Crocodiles, as well as most fish."
+            "text": "They like to hunt baby Turtles, and baby Crocodiles, as well as most fish."
         }
              ]
 }

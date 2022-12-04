@@ -2,39 +2,39 @@
     "name": "Ingot (Gold)",
     "icon": "minecraft:gold_ingot",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:gold_ingot",
-            "text": "$(li)The Gold Ingot is a shiny metal that can be obtained smelting a Gold Ore, and can be found in Loot Chests too.$(br)$(li)This item can be used in multiple crafts in a Crafting Table.$(br)$(li)You can trade Gold Ingots with the Piglins.",
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:gold_ingot",
+            "text": "$(li)The Gold Ingot is a shiny metal that can be obtained smelting a Gold Ore.$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.$(br)$(li)You can use it to trade with the $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
             "title": "Armors & Weapons",
-            "text": "$(br)$(l)        Armors$()$(br)$(li)Gold Armor$(li)Gold Shield$(li)Golder Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Gold Axe$(li)Gold Sword" 
+            "text": "$(br)$(l)        Armors$()$(br)$(li)$(l:patchouli:armors/golden_armor)Golden Armors$(/l)$(li)$(l:patchouli:weapons/gold_shield)Gold Shield$(/l)$(li)$(l:patchouli:pets/revamped_wolf/golden_wolf_armor)Golden Wolf Armor$(/l)$(br2)$(l)        Weapons$()$(br)$(li)$(l:patchouli:weapons/gold_axe)Golden Axe$(/l)$(li)$(l:patchouli:weapons/gold_sword)Golden Sword$(/l)" 
         },
         {
             "type": "patchouli:text",
             "title": "Tools",
-            "text": "$(li)Clock$(li)Dimension Compass$(li)Golden Hoe$(li)Golden Pickaxe$(li)Golden Shovel$(li)Key$(li)Passage's Toll$(li)Spectre's Eye$(li)Spectre's Grasp$(li)iChisel"
+            "text": "$(li)$(l:patchouli:tools/vanilla/clock)Clock$(/l)$(li)$(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l)$(li)$(l:patchouli:tools/vanilla/golden_hoe)Golden Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_pickaxe)Golden Pickaxe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_shovel)Golden Shovel$(/l)$(li)$(l:patchouli:tools/supplementaries/key)Key$(/l)$(li)Passage's Toll$(li)$(l:patchouli:tools/meet_your_fight/spectre_eye)Spectre's Eye$(/l)$(li)$(l:patchouli:tools/meet_your_fight/spectre_grasp)Spectre's Grasp$(/l)$(li)$(l:patchouli:tools/chisel/hitech_chisel)iChisel$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Redstone & Transport",
-            "text": "$(br)$(l)        Redstone$()$(br)$(li)Gold Button$(li)Hourglass$(li)Light W. Pressure Plate$(li)Redstone Charger$(br2)$(l)        Transport$()$(br)$(li)Powered Rail"
+            "text": "$(br)$(l)        Redstone$()$(br)$(li)$(l:patchouli:redstone/quark/gold_button)Gold Button$(/l)$(li)$(l:patchouli:redstone/supplementaries/hourglass)Hourglass$(/l)$(li)$(l:patchouli:redstone/vanilla/gold_pressure_plate)Light W. Pressure Plate$(/l)$(li)$(l:patchouli:redstone/inspirations/redstone_charger)Redstone Charger$(/l)$(br2)$(l)        Transport$()$(br)$(li)$(l:patchouli:redstone/vanilla/powered_rail)Powered Rail$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Decoration",
-            "text": "$(li)Crimson Lantern$(li)Gold Bars$(li)Gold Candelabra$(li)Gold Chain$(li)Gold Door$(li)Gold Door$(li)Gold Gate$(li)Gold Trapdoor$(li)Honey Lamp"
+            "text": "$(li)$(l:patchouli:decoration/charm/lanterns)Crimson Lantern$(/l)$(li)Gold Bars$(li)$(l:patchouli:decoration/supplementaries/candelabra)Gold Candelabra$(/l)$(li)$(l:patchouli:decoration/others/chains)Gold Chain$(/l)$(li)$(l:patchouli:redstone/supplementaries/gold_door)Gold Door$(/l)$(li)$(l:patchouli:redstone/supplementaries/gold_trapdoor)Gold Trapdoor$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Gold Gate$(/l)$(li)$(l:patchouli:decoration/others/lamps)Honey Lamp$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Miscellaneous",
-            "text": "$(li)Blast-Proof Plating$(li)Block of Gold$(li)Devil's Ante$(li)Gold Nugget$(li)G. to Diamond Chest Upgrade$(li)Golden Apple$(li)Haunted Bell$(li)Iron to Gold Chest Upgrade$(li)Netherite Ingot$(li)Shimmering Passionfruit"
+            "text": "$(li)$(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast-Proof Plating$(/l)$(li)$(l:patchouli:utility/vanilla/gold_block)Block of Gold$(/l)$(li)Devil's Ante$(li)$(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nugget$(/l)$(li)Gold to Diamond Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l)$(li)Haunted Bell$(li)Iron to Gold Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l)$(li)Shimmering Passionfruit"
         }
              ]
 }

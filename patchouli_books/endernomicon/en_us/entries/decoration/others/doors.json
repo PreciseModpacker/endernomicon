@@ -5,11 +5,19 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:oak_door",
+            "type": "patchouli:spotlight",
+            "item": "minecraft:oak_door",
             "text": "$(li)Doors are a decoration block which can be used as an openable 1x2 barrier.$(br)$(li)They can be interacted with right click and nearby redstone signals.",
             "link_recipe": "false",
             "title": "Doors"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/door.png"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_door"
         },
         {
             "type": "patchouli:crafting",
@@ -80,14 +88,10 @@
             "text": "$(li)The Iron Door is a variant of the common Doors.$(br)$(li)You can't open the Door directly, it will only reacts to a nearby redstone signal."
         },
         {
-            "type": "patchouli:spotlight",
-            "item":"supplementaries:gold_door",
-            "text": "$(li)The Gold Door by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any player.$(br)$(li)This means that a powerer door cannot be oppened or closed regardless of its state.",
-            "link_recipe": "true"
-        },
-        {
             "type": "patchouli:crafting",
-            "recipe":"supplementaries:gold_door"
+            "recipe":"supplementaries:gold_door",
+            "text": "$(li)The Gold Door by default can be accesible to anyone.$(br)$(li)If this one is powered by redstone will disable any interaction with any player, cannot be oppened or closed regardless of its state.",
+            "link_recipe": "true"
         },
         {
             "type": "patchouli:crafting",

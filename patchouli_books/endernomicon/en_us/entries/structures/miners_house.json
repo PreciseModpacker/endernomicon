@@ -1,0 +1,17 @@
+{    
+    "name": "Miners House",
+    "icon": "minecraft:red_sandstone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Miner House is a small old structure that can be found in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) of the Overworld.$(br)$(li)Some minerals can be found in its interior."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/miners_house.png"
+        }
+             ]
+}

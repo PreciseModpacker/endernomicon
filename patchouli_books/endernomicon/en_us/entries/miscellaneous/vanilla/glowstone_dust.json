@@ -2,23 +2,23 @@
     "name": "Glowstone Dust",
     "icon": "minecraft:glowstone_dust",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:glowstone_dust",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:glowstone_dust",
-            "text": "$(li)Glowstone Dust is a essencial ingredient for Potions.$(br)$(li)This item can be used to upgrade normal potions to Level II in a Brewing Stand.$(br)$(li)Witches rarely drop Glowstone Dust on death.",
+            "text": "$(li)Glowstone Dust is an essencial ingredient to brew Potions.$(br)$(li)This item can be used to upgrade regular potions to Level II in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) rarely drop this item on death.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(br)$(li)You can obtain Glowstone Dust breaking Glowstone blocks too.$(br)$(li)This item can be used to craft multiple items in a Crafting Table."
+            "text": "$(br)$(li)You can obtain Glowstone Dust breaking $(l:patchouli:utility/vanilla/glowstone_block)Glowstone Blocks$(/l) too.$(br)$(li)This item can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
             "type": "patchouli:text",
             "title": "Crafts",
-            "text": "$(li)Glowstone$(li)Paper Lantern$(li)Dimstone$(li)Elightened Bushes$(li)GLowballs$(li)Glimmer Gravel$(li)Spectral Arrows$(li)Glowing Glass Item Frames$(li)Photometer$(li)Antiblock$(li)Shimmer Sand$(li)Glowstone Armor"
+            "text": "$(li)$(l:patchouli:utility/vanilla/glowstone_block)Glowstone Block$(/l)$(li)Paper Lantern$(li)Dimstone$(li)$(l:patchouli:decoration/inspirations/bushs)Enlightened Bushes$(/l)$(li)$(l:patchouli:miscellaneous/charm/glowballs)Glowballs$(/l)$(li)Glimmer Gravel$(li)Spectral Arrows$(li)Glowing Glass Item Frames$(li)$(l:patchouli:tools/inspirations/photometer)Photometer$(/l)$(li)Antiblock$(li)Shimmer Sand$(li)$(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l)"
         }
              ]
 }

@@ -2,8 +2,8 @@
     "name": "Prismarine Shard Armor",
     "icon": "extraarmor:prismarine_shard_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 21,
+    "advancement": "endernomicon:prismarine_shard",
     "pages": [
        {
             "type": "patchouli:text",

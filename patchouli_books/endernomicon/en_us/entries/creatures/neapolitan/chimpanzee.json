@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Chimpazees are curious creatures that can be found in the Jungle of the Overworld.$(br)$(li)They can be attracted and breed them too with Banana Bunchs."
+            "text": "$(li)Chimpazees are curious creatures that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) of the Overworld.$(br)$(li)They can be attracted and breed them too with $(l:patchouli:miscellaneous/neapolitan/banana_bunch)Banana Bunchs$(/l)."
         },
         {
             "type": "patchouli:entity",

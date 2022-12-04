@@ -1,0 +1,18 @@
+{    
+    "name": "Stronghold (End)",
+    "icon": "minecraft:end_portal_frame",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Stronghold is a big Dungeon that can be found over the End using the $(l:patchouli:enders_journey/end_portal)Ender Eyes$(/l).$(br)$(li)It's a dangerous and big place with some hide loot in its interior, so it's advisable to explore it completely.$(br)$(li)You can easily find the End Portal in this structure using the $(l:patchouli:tools/alexsmobs/endolocator)Endolocator$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/stronghold_end.png"
+        }
+             ]
+}

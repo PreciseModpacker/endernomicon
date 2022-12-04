@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:feather_falling',lvl:1}]}",
-            "text": "$(li)The Feather Falling enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment reduces the fall damage receives and teleportation damage receives from an Ender Pearl.",
+            "text": "$(li)The Feather Falling enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment reduces the fall damage receives and teleportation damage receives from an $(l:patchouli:miscellaneous/vanilla/ender_pearl)Ender Pearl$(/l).",
             "title": "Feather Falling"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an Ancient Tome (Feather Falling)"
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_feather_falling)Ancient Tome (Feather Falling)$(/l)."
         }
              ]
 }

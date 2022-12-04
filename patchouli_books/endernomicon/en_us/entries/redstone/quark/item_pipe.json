@@ -3,12 +3,12 @@
     "icon": "quark:pipe",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "quark:oddities/crafting/pipe",
-            "text": "$(li)Item Pipes can transport items from a input to an output following specific rules.$(br)$(li)You can insert items to the Item Pipes using a Hopper or throwing them in the input of an Item Pipe.",
+            "text": "$(li)Item Pipes can transport items from a input to an output following specific rules.$(br)$(li)You can insert items to the Item Pipes using a $(l:patchouli:redstone/vanilla/hopper)Hopper$(/l) or throwing them in the input of an Item Pipe.",
             "link_recipe": "true"
         },
         {
@@ -49,7 +49,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/item_pipe_8.png",
-            "text": "$(li)Comparators can read how many items are in a pipe."
+            "text": "$(li)$(l:patchouli:redstone/vanilla/comparator)Comparators$(/l) can read how many items are in a pipe."
         },
         {
             "type": "patchouli:small_pictures",

@@ -1,0 +1,20 @@
+{    
+    "name": "Lobster Tail",
+    "icon": "alexsmobs:lobster_tail",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:lobster_tail",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:lobster_tail",
+            "text": "$(li)The Lobster Tail is an eatable item that can be used to tame $(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l).$(br)$(li)This item can be used to breed $(l:patchouli:pets/alexsmobs/mantis_shrimp)Mantis Shrimps$(/l) and $(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l).$(br)$(li)It can be used to make a $(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l) to help you to find a $(l)Buried Treasure$().",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "alexsmobs:cooked_lobster_tail",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Cooked Lobster Tail satisfies three times more than a Lobster Tail.$(br)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l) may drop this item on death."
+        }
+             ]
+}

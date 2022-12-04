@@ -1,0 +1,19 @@
+{    
+    "name": "Illager King",
+    "icon": "minecraft:gold_ingot",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Illager King is a greedy creature that lives in the $(l:patchouli:illagers/illager_tower)Illager Tower$(/l).$(br)$(li)If you manage to reach to his room, it will attacks you desperately with his axe.$(br)$(li)It may drops $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l), $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), $(l:patchouli:miscellaneous/vanilla/diamond)Diamonds$(/l), $(l:patchouli:tools/vanilla/experience_bottle)Bottle o' Enchanting$(/l) and even his $(l:patchouli:weapons/iron_axe)Axe$(/l) on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "illagers_plus:illager_king",
+            "scale": 1,
+            "offset": 0.2
+        }
+             ]
+}

@@ -1,0 +1,17 @@
+{    
+    "name": "Pillager Camp",
+    "icon": "endermonicon:textures/book/categories/illagers.png",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Pillager Camps are structures build by Illagers in the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) of the Overworld.$(br)$(li)Be careful, they don't welcome foreigners.$(br)$(li)Who knows, maybe you will find something interesting in this place."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/pillager_camp.png"
+        }
+             ]
+}

@@ -8,12 +8,21 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:name_tag",
-            "text": "$(li)Name Tags can be used to change the name of any Creature in this world.$(br)$(li)They can be found in Loot Chests.$(br)$(li)Librarians will exchange your Emeralds by Name Tags too.",
+            "text": "$(li)Name Tags can be used to change the name of any creature.$(br)$(li)They can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l).$(br)$(li)$(l:patchouli:villagers/librarian)Librarians$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Name Tags too.",
             "link_recipe": "true"
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/name_tag_1.png",
+            "text": "$(li)First, in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l), you can change the name of a Name Tag in exchange of a Level of experience."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)First, in an Anvil, you can change the name of a Name Tag in exchange of a Level of experience.$(br)$(li)Then, you only have to right click to any kind of creature while you are holding a Name Tag on your hand.$(br)$(li)Additionally, the most of creatures that have a custon name applied with a Name Tag will never naturally despawn."
+            "text": "$(li)Then, you only have to right click to any kind of creature while you are holding a Name Tag in your hand.$(br)$(li)Additionally, the most of creatures that have a custon name applied with a Name Tag will never naturally despawn.$(br)$(li)Some creatures, as the $(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l) will change if you put them a specific name."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/name_tag_2.png"
         }
              ]
 }

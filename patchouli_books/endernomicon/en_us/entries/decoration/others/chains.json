@@ -3,17 +3,17 @@
     "icon": "minecraft:chain",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "minecraft:chain",
-            "text": "$(li)The Chains are a new kind of decoration block.$(br)$(li)They can be used in the $(l:patchouli:redstone/supplementaries/pulley_block)Pulley Block$(/l).",
-            "link_recipe": "true",
-            "title": "Chains"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/chains.png",
+            "text": "$(li)The Chains are a new kind of decoration block.$(br)$(li)They can be used in the $(l:patchouli:redstone/supplementaries/pulley_block)Pulley Block$(/l)."
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "decorative_blocks:chain"
+            "recipe": "minecraft:chain",
+            "recipe2": "decorative_blocks:chain"
         },
         {
             "type": "patchouli:crafting",
@@ -22,10 +22,6 @@
         {
             "type": "patchouli:crafting",
             "recipe": "environmental:building/ice_chain"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Chains"
         }
              ]
 }

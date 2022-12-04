@@ -3,6 +3,7 @@
     "icon": "ironchest:diamond_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",

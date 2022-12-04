@@ -2,18 +2,18 @@
     "name": "Snowball",
     "icon": "minecraft:snowball",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:snowball",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:snowball",
-            "text": "$(li)The Snowballs can be throw to other creature right clicking while you are holding them on your hand.$(br)$(li)The most creatures will not receive any damage, except fire creatures like Blazes.$(br)$(li)They can be used to craft Snow blocks and Glowballs too.",
+            "text": "$(li)The Snowballs can be thrown to other creatures right clicking while you are holding them in your hand.$(br)$(li)The most creatures will not receive any damage, except fire creatures like $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l).$(br)$(li)They can be used to craft $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l) and $(l:patchouli:miscellaneous/charm/glowballs)Glowballs$(/l) too.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can obtain Snowballs mining the Snow Blocks that are located in Snow Biomes.",
+            "text": "$(li)You can obtain Snowballs mining the $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l) that are located in snow biomes, like $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taiga$(/l), $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundra$(/l) and $(l:patchouli:biomes/overworld/snow/snowy_mountains)Snowy Mountains$(/l).",
             "link_recipe": "true"
         }
              ]

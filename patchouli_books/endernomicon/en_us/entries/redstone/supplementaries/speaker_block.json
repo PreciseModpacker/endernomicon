@@ -3,7 +3,7 @@
     "icon": "supplementaries:speaker_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:emerald",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -19,7 +19,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/speaker_block_2.png",
-            "text": "$(li)You can change the Speaker Name, changing the name of the block in an Anvil."
+            "text": "$(li)You can change the Speaker Name, changing the name of the block in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

@@ -7,7 +7,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:present",
-            "text": "$(li)The Present is a block that can hold a stack of any item.$(br)$(li)Presents can be dyed placing the Present and the specific Dye in a Crafting table.",
+            "text": "$(li)The Present is a block that can hold a stack of any item.$(br)$(li)Presents can be dyed placing this block and the specific Dye in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
             "link_recipe": "true"
         },
         {
@@ -23,7 +23,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/present_3.png",
-            "text": "$(li)Once packet only you and the recipient will be able to open it."
+            "text": "$(li)Once packet, only the recipient and you will be able to open it."
         }
              ]
 }

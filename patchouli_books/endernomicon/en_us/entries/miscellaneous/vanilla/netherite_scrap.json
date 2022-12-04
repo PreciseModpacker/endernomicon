@@ -2,14 +2,18 @@
     "name": "Netherite Scrap",
     "icon": "minecraft:netherite_scrap",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_ancient_debris",
     "pages": [
         {
             "type": "patchouli:smelting",
             "recipe": "minecraft:netherite_scrap",
-            "text": "$(li)Netherite Scrap is a hard material that can be Smelted in a Furnace or Blast Furnace.$(br)$(li)This material can be found rarely in Loot Chests of the Nether.",
+            "text": "$(li)Netherite Scrap is a hard material that can be Smelted in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l).$(br)$(li)This material can be found rarely in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the Nether.$(br)$(li)This item can be used to craft $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingots$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) ",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Netherite Scrap is a hard material that can be Smelted in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l).$(br)$(li)This material can be found rarely in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the Nether.$(br)$(li)This item can be used to craft $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingots$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

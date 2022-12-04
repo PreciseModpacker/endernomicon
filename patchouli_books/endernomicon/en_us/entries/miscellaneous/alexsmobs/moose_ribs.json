@@ -1,0 +1,19 @@
+{    
+    "name": "Raw Moose Ribs",
+    "icon": "alexsmobs:moose_ribs",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:moose_ribs",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:moose_ribs",
+            "text": "$(li)The Raw Moose Ribs is an eatable item that can be used to breed $(l:patchouli:creatures/alexsmobs/snow_leopard)Snow Leopards$(/l)."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "alexsmobs:cooked_moose_ribs",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Cooked Moose Ribs satisfies two times more than a Raw Moose Ribs."
+        }
+             ]
+}

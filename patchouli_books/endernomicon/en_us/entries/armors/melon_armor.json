@@ -2,8 +2,8 @@
     "name": "Melon Armor",
     "icon": "extraarmor:melon_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 2,
+    "advancement": "endernomicon:melon_slice",
     "pages": [
         {
             "type": "patchouli:text",

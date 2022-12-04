@@ -7,9 +7,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:lantern",
-            "text": "$(li)Lanterns are a new kind of source light block.$(br)$(li)They can  be hanged on walls or placed on the ground.$(br)$(li)It exists a $(l:patchouli:redstone/charm/redstone_lantern)Redstone Lamp$(/l) variant too.",
+            "text": "$(li)Lanterns are a new kind of source light block.$(br)$(li)They can  be hanged on walls or placed on the ground.$(br)$(li)It exists a redstone version of this lamp known as the $(l:patchouli:redstone/charm/redstone_lantern)$(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamp$(/l)$(/l).",
             "link_recipe": "false",
             "title": "Lanterns"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/lantern.png"
         },
         {
             "type": "patchouli:crafting",

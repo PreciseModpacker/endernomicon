@@ -1,13 +1,13 @@
 {    
     "name": "Coral Squid",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Coral Squids are a type of cephalopods that likes to hang out around corals in Warm Oceans.$(br)$(li)They have 5 different colors $(li)Yellow $(li)Red $(li)Pink $(li)Purple $(li)Blue"
+            "text": "$(li)Coral Squids are a type of cephalopods that likes to hang out around corals in $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l).$(br)$(li)They have 5 different colors $(li)Yellow $(li)Red $(li)Pink $(li)Purple $(li)Blue"
         },
         {
             "type": "patchouli:entity",

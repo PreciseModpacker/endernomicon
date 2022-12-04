@@ -2,18 +2,18 @@
     "name": "Nether Brick",
     "icon": "minecraft:nether_brick",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:nether_brick",
     "pages": [
         {
             "type": "patchouli:smelting",
             "recipe": "minecraft:nether_brick",
-            "text": "$(li)The Nether Bricks can be used to craft Nether Brick Fences, Nether Brick Fence Gates, Nether Bricks, Red Nether Bricks, Blue Nether Bricks and a Blood Sprayer.$(br)$(li)You can throw them to your enemies right clicking while you have a Nether Brick on your hand.",
+            "text": "$(li)Nether Bricks can be used to craft $(l)Nether Brick Fences$(), $(l)Nether Brick Fence Gates$(), $(l)Nether Bricks$(), $(l)Red Nether Bricks$(), $(l)Blue Nether Bricks$() and the $(l:patchouli:weapons/blood_sprayer)Blood Sprayer$(/l).$(br)$(li)You can throw them to other creatures right clicking while you have a Nether Brick in your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They will inflict half of heart of damage and will push your enemies away too.$(br)$(li)You can obtain Bricks smelting Clay in a Furnace, Baking or Kiln.$(br)$(li)Their throw range is the lowest compared to the Brick and Mud Brick.",
+            "text": "$(li)They will inflict half of heart of damage and will push them away too.$(br)$(li)You can obtain Bricks smelting Netherrack in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)Their throw range is the lowest compared to the $(l:patchouli:miscellaneous/vanilla/brick)Brick$(/l) and $(l:patchouli:miscellaneous/environmental/mud_brick)Mud Brick$(/l).",
             "link_recipe": "true"
         }
              ]

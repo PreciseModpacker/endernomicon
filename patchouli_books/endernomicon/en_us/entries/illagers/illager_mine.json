@@ -3,15 +3,16 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_mine",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illagers Mines are used by the Illagers to get all the minerals that they need.$(br)$(li)They like to get all this stuff fast, that explains all the TNT that you can found in this place.$(br)$(li)Be careful, the Pillagers and the Miners will not hesistate to attack you to defend their resources."
+            "text": "$(li)The Illagers Mines are used by the Illagers to get all the minerals that they need.$(br)$(li)They like to get all this stuff fast, that explains all the $(l:patchouli:redstone/vanilla/tnt)TNT$(/l) that it can be found in this place.$(br)$(li)Be careful, the $(l:patchouli:illagers/pillager)Pillagers$(/l) and $(l:patchouli:illagers/miner)Miners$(/l) will not hesistate to attack you to defend their resources."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)The Illager Mine can be found in the Desert, Mesa, Mushroom Forest and Savanna biomes."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/illagers/illager_mine.png",
+            "text": "$(li)The Illager Mine can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), and $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) of the Overworld."
         }
              ]
 }

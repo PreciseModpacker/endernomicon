@@ -1,0 +1,15 @@
+{    
+    "name": "Melon Slice",
+    "icon": "minecraft:melon_slice",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:melon_slice",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:melon_slice",
+            "text": "$(li)Melon is a fruit block that appears over the Overworld.$(br)$(li)You can use Melon Slices to craft $(l)Melons$(), $(l:patchouli:miscellaneous/vanilla/melon_seeds)Melon Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l), and a $(l:patchouli:armors/melon_armor)Melon Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This block can be grows up from $(l:patchouli:miscellaneous/vanilla/melon_seeds)Melon Seeds$(/l).",
+            "link_recipe": "true"
+        }
+             ]
+}

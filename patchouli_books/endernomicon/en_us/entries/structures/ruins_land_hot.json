@@ -1,0 +1,17 @@
+{    
+    "name": "Ruins Land Hot",
+    "icon": "minecraft:sandstone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Some ruins of an old temple can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) or $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) of the Overworld.$(br)$(li)You should check carefully, who knows what you might find."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/ruins_land_hot.png"
+        }
+             ]
+}

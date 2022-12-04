@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "hats:hat_launcher",
-            "text": "$(li)The Hat Launcher is a tool that can be used to cover mobs with any of your current hats of the Hats mod.$(br)$(li)Just right click while you are holding this tool in your hand to shoot a random hat.",
+            "text": "$(li)The Hat Launcher is a tool that can be used to cover creatures with any of your current hats of the $(l:patchouli:perks/hats)Hats$(/l) mod.$(br)$(li)Just right click while you are holding this tool in your hand to shoot a random hat.",
             "link_recipe": "true"
         },
         {

@@ -3,11 +3,11 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/sunbird_blessing",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Sunbird is a passive creature that flies around the Overworld.$(br)$(li)If a Sunbird is near of a Beacon's beam, it will begin circling around it. This can be a way to keep Sunbirds within an area.$(br)$(li)When a Sunbird fly over undead creatures, they will burn up."
+            "text": "$(li)The Sunbird is a passive creature that flies around the Overworld.$(br)$(li)If a Sunbird is near of a $(l:patchouli:utility/vanilla/beacon)Beacon$(/l) beam, it will begin circling around it. This can be a way to keep Sunbirds within an area.$(br)$(li)When a Sunbird fly over undead creatures, they will burn up."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you manage to get close to a Sunbird, you will obtain the Sunbird's Blessing effect for 30 seconds, making you fall slowly.$(br)$(li)If you have an Elytra on whilst having this effect, it makes it easier to fly and reduces kinetic damage.$(br)$(li)When the Sunbird grants this effect, it emits a bright flash."
+            "text": "$(li)If you manage to get close to a Sunbird, you will obtain the Sunbird's Blessing effect for 30 seconds, making you fall slowly.$(br)$(li)If you have an $(l:patchouli:armors/elytra)Elytra$(/l) on whilst having this effect, it makes it easier to fly and reduces kinetic damage.$(br)$(li)When the Sunbird grants this effect, it emits a bright flash."
         },  
         {
             "type": "patchouli:text",

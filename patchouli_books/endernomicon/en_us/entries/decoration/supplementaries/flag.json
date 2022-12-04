@@ -8,13 +8,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:flag_white",
-            "text": "$(li)The Flags works like the Banners, but they can be only place in vertical position.$(br)$(li)They can be crafted in a Crafting table using Wool and a Stick.$(br)$(li)They can be placed in the Looms with a Pattern to make custom designs.",
+            "text": "$(li)The $(l:patchouli:decoration/supplementaries/flag)Flags$(/l) works like the $(l:patchouli:decoration/vanilla/banners)Banners$(/l), but they can be only place in vertical position.$(br)$(li)They can be placed in the Looms with a Pattern to make custom designs.$(br)$(li)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l) can be lowered and raised if placed on top a pole made with placeable $(l:patchouli:miscellaneous/vanilla/stick)Sticks$(/l).",
             "link_recipe": "false",
             "title": "Flag"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)The Flags can be lowered and raised if placed on top a pole made with Placeable Sticks$(br2)Insert a picture of a Flag"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/flag.png"
         },
         {
             "type": "patchouli:crafting",

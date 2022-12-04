@@ -3,18 +3,17 @@
     "icon": "supplementaries:magma_cream_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:magma_cream",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:magma_cream_block",
-            "text": "$(li)The Magma Cream Block is a variation of the Slime Block.",
+            "text": "$(li)The Magma Cream Block is a variation of the $(l:patchouli:redstone/vanilla/slime_block)Slime Block$(/l).$(br)$(li)When it's pushed by a piston it will only attach itself with the block that faces its sticky yellow face.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/magma_cream_block.png",
-            "text": "$(li)When it's pushed by a piston it will only attach itself with the block that faces its sticky yellow face."
+            "picture": "endermonicon:textures/book/entries/redstone/magma_cream_block.png"
         }
              ]
 }

@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can search this biome introducing the word $(l)Stone Shores$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:stone_shores"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/stone_shores.png"

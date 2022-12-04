@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
-            "text": "$(li)Vibing potions can be used to heal creatures.$(br)$(li)If they are close to you, they will obtain the regeneration effect.$(br)$(li)They can be brewed using a Fermented Spider Eye and a $(l:patchouli:potions/upgrade_aquatic/repellence)Repellence Potion$(/l) as ingredients in a Brewing Stand."
+            "text": "$(li)Vibing potions can be used to heal creatures.$(br)$(li)If they are close to you, they will obtain the regeneration effect.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l) and a $(l:patchouli:potions/upgrade_aquatic/repellence)Repellence Potion$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

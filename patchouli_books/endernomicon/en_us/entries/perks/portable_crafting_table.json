@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Pressing the V key on your keyboard you can access to a Portable Crafting Table.$(br)$(li)In other words you will not need to place a Crafting Table to use it anymore.$(br)$(li)Sadly, this function only works with the common Oak Crafting Table." 
+            "text": "$(li)You can access to a Portable Crafting Table pressing the V key on your keyboard.$(br)$(li)In other words, with this function, you will not need to place a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to use it anymore.$(br)$(li)Sadly, this function only works with the common Oak Crafting Table." 
         },
         {
             "type": "patchouli:image",

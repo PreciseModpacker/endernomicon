@@ -3,17 +3,23 @@
     "icon": "minecraft:netherite_shovel",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:netherite_shovel",
-            "text": "$(li)The Netherite Shovel is the direct upgrade of the Diamond Shovel.$(br)$(li)It has a greater durability than the Diamond Shovel." ,
+            "type": "smithing_table",
+            "title": "Netherite Shovel",
+            "input": "minecraft:diamond_shovel",
+            "input2": "minecraft:netherite_ingot",
+            "output": "minecraft:netherite_shovel",
+            "text": "$(li)The Netherite Shovel is the direct upgrade of the $(l:patchouli:tools/vanilla/diamond_shovel)Diamond Shovel$(/l).$(br)$(li)It has a greater durability than the last one and it can't be burned in fire or lava." ,
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)It can be used to create Grass Path and obtain Snow.$(br)$(li)This item can't be burned." 
+            "type": "patchouli:entity",
+            "name": "Netherite Shovel",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:netherite_shovel,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "It can be used to create Grass Path right clicking on Dirt and Grass Block and obtain Snow Balls digging Snow Blocks."
         }
              ]
 }

@@ -7,21 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Shiba is a new friendly dog that can be found in the Mountains of the Overworld.$(br)$(li)They can be tamed with Bones and interacted in the same way that regular Wolves."
+            "text": "$(li)The Shiba is a new friendly dog that can be found in the $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l) of the Overworld.$(br)$(li)They can be tamed with $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and interacted in the same way that regular $(l:patchouli:pets/revamped_wolf/wolf)Wolves$(/l).$(br)$(li)They will also lay down if you're having them sit on a bed!"
         },
         {
             "type": "patchouli:entity",
             "entity": "quark:shiba",
-            "scale": 0.7,
-            "text": "They will also lay down if you're having them sit on a bed!"
+            "scale": 0.7
         },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)Wolves also fetch any Arrows or Tridents after they land and bring them back to you."
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/shiba_inu_1.png",
+            "text": "$(li)These creatures also fetch any $(l:patchouli:weapons/arrows)Arrows$(/l) or $(l:patchouli:weapons/trident)Weapons$(/l) after they land and bring them back to you."
         },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)If you are holding a Torch, Shibas will also look for dark spots and get mad at them."
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/shiba_inu_2.png",
+            "text": "$(li)If you are holding a $(l:patchouli:decorations/others/torchs)Torch$(/l), Shibas will also look for dark spots and get mad at them."
         }
              ]
 }

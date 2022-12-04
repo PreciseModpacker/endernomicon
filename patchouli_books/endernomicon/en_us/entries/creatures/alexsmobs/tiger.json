@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Tiger is a big feline that can be found in the Bamboo Jungles. It naturally wary of outsiders and will attack if approached.$(br)$(li)By feeding them meat, you can obtain the Tiger's Blessing.$(br)$(li)This effect allows to you approach a Tiger without being mauled for a few minutes."
+            "text": "$(li)The Tiger is a big feline that can be found in the $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungle$(/l). It naturally wary of outsiders and will attack if approached.$(br)$(li)By feeding it with meat, you can obtain the Tiger's Blessing.$(br)$(li)This effect allows to you approach a Tiger without being mauled for a few minutes."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:tiger",
             "scale": 0.65,
-            "text": "It can be bred with Acacia Blossoms."
+            "text": "They can be bred giving them $(l:patchouli:miscellaneous/alexsmobs/acacia_blossom)Acacia Blossom$(/l)."
         }
              ]
 }

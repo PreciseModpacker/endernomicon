@@ -2,13 +2,13 @@
     "name": "Seeds (Foul Berry)",
     "icon": "autumnity:foul_berry_pips",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:foul_berry_pips",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "autumnity:foul_berry_pips",
-            "text": "$(li)Foul Berry Pips can be planted in Farmland to generate Foul Berries.$(br)$(li)You can use Foul Berry Pips to craft a Seed Pouch in a Crafting Table too.$(br)$(li)Finally you can put Foul Berry Pips in a Composter to generate Bone Meal.",
+            "text": "$(li)Foul Berry Pips can be planted in farmland to generate $(l:patchouli:miscellaneous/autumnity/foul_berries)Foul Berries$(/l).$(br)$(li)You can use Foul Berry Pips to craft a $(l:patchouli:tools/quark/seed_pouch)$(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l)$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)Finally you can put Foul Berry Pips in a $(l:patchouli:utility/vanilla/composter)$(l:patchouli:utility/vanilla/composter)Composter$(/l)$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)$(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l)$(/l).",
             "link_recipe": "true"
         }
              ]

@@ -7,22 +7,23 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:smoker",
-            "text": "$(li)The Smoker is a variant of the Furnace specialized in cooking.",  
+            "text": "$(li)The Smoker is a variant of the $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) specialized in cooking.$(br)$(li)The Smoker is twice as fast as the common Furnace.",  
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/smoker_1.png",
-            "text": "$(li)The Smoker is twice as fast as the common Furnace."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)First you have to place the Smoker and right click in it.$(br)$(li)Now you have to insert the Fuel in the second slot, the most common fuel are Wood, Charcoal, Coal, Coal Blocks, Lava Bucket, Blaze Rod and finally Blaze Lanterns.$(br)$(li)Then you need to place the item to cook in the first slot. "
+            "text": "$(li)To use it you have to place this block and right click on it."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/smoker_2.png",
-            "text": "$(li)Finally you can pick up the result and add it into your inventory."
+            "text": "$(li)Then you need to place the item to cook in the first slot.$(br)$(li)Now you have to insert the Fuel in the second slot."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Fuel Items",
+            "text": "$(li)Wood$(li)$(l:patchouli:miscellaneous/vanilla/charcoal)Charcoal$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l)$(li)$(l:patchouli:utility/vanilla/coal_block)Coal Block$(/l)$(li)$(l:patchouli:tools/vanilla/lava_bucket)Lava Bucket$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rod$(/l)$(li)Blaze Lantern.$(br2)$(li)After a few seconds you can pick up the result and add it into your inventory."
         }
              ]
 }

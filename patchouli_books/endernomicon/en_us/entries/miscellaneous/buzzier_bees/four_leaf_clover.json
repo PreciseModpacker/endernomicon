@@ -1,0 +1,19 @@
+{    
+    "name": "Four Leaf Clover",
+    "icon": "buzzier_bees:four_leaf_clover",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:four_leaf_clover",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buzzier_bees:four_leaf_clover",
+            "text": "$(li)The Four Leaf Clover is an item that can be used to brew a $(l:patchouli:potions/buzzier_bees/luck)Potion of Luck$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) inside of the $(l:patchouli:structures/desert_temple)Desert Temples$(/l) or Dungeons over the Overworld.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(l:patchouli:villagers/apiarist)Apiarists$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by a Four Leaf Clover."
+        }
+             ]
+}

@@ -2,8 +2,8 @@
     "name": "Quartz Armor",
     "icon": "extraarmor:quartz_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 4,
+    "advancement": "endernomicon:nether_quartz",
     "pages": [
        {
             "type": "patchouli:text",

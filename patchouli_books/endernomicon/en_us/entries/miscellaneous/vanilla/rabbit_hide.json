@@ -2,18 +2,14 @@
     "name": "Rabbit Hide",
     "icon": "minecraft:rabbit_hide",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:rabbit_hide",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:rabbit_hide",
-            "text": "$(li)The Rabbit Hide is a resistant material.$(br)$(li)It can be used to craft Leather, Slingshots, Bonded Rabbit Hide, Seed Pouch and even a Backpack.$(br)$(li)The Leatherworker will change this material by Emeralds.$(br)$(li)Rabbits may drop Rabbit Hide when they are slayed.",
+            "text": "$(li)The Rabbit Hide is an item that can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), $(l:patchouli:tools/supplementaries/slingshot)Slingshots$(/l), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) and a $(l:patchouli:perks/backpack)Backpack$(/l).$(br)$(li)$(l:patchouli:villagers/leatherworker)Leatherworkers$(/l) will change this material by $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) may drop this item on death.",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)Rabbits may drop Rabbit Hide when they are slayed."
         }
              ]
 }

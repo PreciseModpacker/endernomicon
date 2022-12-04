@@ -2,8 +2,8 @@
     "name": "Feather Armor",
     "icon": "extraarmor:feather_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 5,
+    "advancement": "endernomicon:feather",
     "pages": [
        {
             "type": "patchouli:text",

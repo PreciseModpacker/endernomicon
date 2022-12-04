@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Roadrunner is a small brown and yellow bird with blue feathers on their tail, wings and head.$(br)$(li)They run around the Desert at high speed searching theirpreis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br)$(li)Roadrunners may drop Feathers and Roadrunner Feathers on death."
+            "text": "$(li)The Roadrunner is a small brown and yellow bird with blue feathers on their tail, wings and head.$(br)$(li)They run around the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) at high speed searching their preis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br)$(li)Roadrunners may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l:patchouli:miscellaneous/alexsmobs/roadrunner_feather)Roadrunner Feathers$(/l) on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:roadrunner",
             "scale": 0.8,
-            "text": "Roadrunners can be bred with Maggots."
+            "text": "Roadrunners can be bred with $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l)."
         }
              ]
 }

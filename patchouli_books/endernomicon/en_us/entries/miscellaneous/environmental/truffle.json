@@ -1,0 +1,20 @@
+{    
+    "name": "Truffle",
+    "icon": "environmental:truffle",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:truffle",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "environmental:truffle",
+            "text": "$(li)The Truffle is an eatable item that can be used to craft a $(l)Truffle Crate$(), $(l)Truffle Mash$(), and $(l)Truffle Pie$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can be used to brew a $(l:patchouli:potions/environmental/vitality)Potion of Vitaly$(/l) too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When you give a $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrot$(/l) to a $(l:patchouli:creatures/vanilla/pig)Pig$(/l), it will leads you to an specific spot.$(br)$(li)If you dig there, you will find a Truffle.",
+            "link_recipe": "true"
+        }
+             ]
+}

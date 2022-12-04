@@ -7,17 +7,21 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Wolfs are neutral creatures which can be found over the Overworld.$(br)$(li)They can be tamed giving them Bones.$(br)$(li)Once tamed, they will assist you combating hostile creatures and can be ordered to sit right clicking on them."
+            "text": "$(li)Wolfs are neutral creatures which can be found over the Overworld.$(br)$(li)They can be tamed giving them $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l).$(br)$(li)Once tamed, they will assist you combating hostile creatures and can be ordered to sit right clicking on them."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:wolf",
-            "scale": 0.7,
-            "text": "$(li)Wolfs collar can be dyed using any color of dye."
+            "scale": 0.7
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When Wolfs are hungry, they will eat any meat that they find on the ground and they will attack nearby animals too.$(br)$(li)Wolfs can be equiped with $(l:patchouli:pets/revamped_wolf/wolf_armor)Wolf Armors$(/l).$(br)$(li)If a Wolf dies, it will stay on the ground for 3 days, in this time you can heal it with $(l:patchouli:pets/save_your_pets/pet_bandage)Pet Bandages$(/l)."
+            "text": "$(li)When Wolves are hungry, they will eat any meat that they find on the ground and they will attack nearby animals too.$(br)$(li)Wolves can be equiped with $(l:patchouli:pets/revamped_wolf/leather_wolf_armor)Wolf Armors$(/l).$(br)$(li)If a Wolf dies, it will stay on the ground for 3 days, in this time you can heal it with $(l:patchouli:pets/save_your_pets/pet_bandage)Pet Bandages$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/wolf.png",
+            "text": "$(li)Tamed wolfs collars can be tinted right click on them while you are holding a dye on your hand."
         }
              ]
 }

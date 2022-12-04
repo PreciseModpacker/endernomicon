@@ -2,18 +2,18 @@
     "name": "Blaze Rod",
     "icon": "minecraft:blaze_rod",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_blaze_rod",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:blaze_rod",
-            "text": "$(li)The Blaze Rod is a hot item that has diverses uses.$(br)$(li)It can be used to craft multiple items like Blaze Powder, Brewing Stand, Infernal Paintings, Blaze Lanterns and End Rods.$(br)$(li)Blazes and Wildifres may drop it on death.",
+            "text": "$(li)The Blaze Rod is a hot item that has diverses uses.$(br)$(li)It can be used to craft multiple items like $(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l), $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l), $(l:patchouli:decoration/vanilla/paintings)Infernal Paintings$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Blaze Lanterns$(/l), and $(l:patchouli:decoration/vanilla/end_rod)End Rods$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) may drop it on death.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be placed in a Furnace, Smoker, Blast Furnace, or Kiln to burn up to 12 items too.$(br2)Insert a picture of the Furnace and the Blaze Rod",
+            "text": "$(li)It can be placed in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l) to burn up to twelve items too.",
             "link_recipe": "true"
         }
              ]

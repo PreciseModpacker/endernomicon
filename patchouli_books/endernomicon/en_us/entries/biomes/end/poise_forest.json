@@ -4,19 +4,16 @@
     "category": "patchouli:biomes",
 #    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endergetic:poise_forest",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Poise Forest is a biome composed of mostly Poismoss and Eumus.$(br)$(li)It can be found in the End.$(br)$(li)You can find Poise trees, Bolloom Buds, Bolloom Fruits, Poise Bushes and Poise Beehives in this biome."
+            "text": "$(li)The Poise Forest is a biome composed of mostly Poismoss and Eumus.$(br)$(li)It can be found in the End.$(br)$(li)You can find Poise trees, Bolloom Buds, $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruits$(/l), Poise Bushes and Poise Beehives in this biome."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like Puff Bugs and Booflos can be found in this biome too.$(br)$(li)You can search this biome introducing the words $(l)Poise Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bugs$(/l) and $(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l) can be found in this biome too.$(br)$(li)You can search this biome introducing the words $(l)Poise Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)endergetic:poise_forest"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/poise_forest.png"

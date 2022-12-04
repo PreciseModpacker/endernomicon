@@ -2,34 +2,34 @@
     "name": "Leather",
     "icon": "minecraft:leather",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:leather",
-            "text": "$(li)The Leather is a resistant material that can be dropped by Cows, Deers, Donkeys, Foxhounds, Goblos, Gooms, Hobgobs, Hoglins, Horses, Llamas, Mooblooms, Mooshrooms and Mules.$(br)$(li)They can be used in a Crafting Table to craft multiples items.",
+            "text": "$(li)The Leather is a resistant material that can be dropped by $(l:patchouli:creatures/vanilla/cow)Cows$(/l), $(l:patchouli:creatures/environmental/deer)Deers$(/l), $(l:patchouli:pets/vanilla/donkey)Donkeys$(/l), $(l:patchouli:pets/quark/foxhound)Foxhounds$(/l), $(l:patchouli:creatures/goblins_and_dungeons/goblo)Goblos$(/l), $(l:patchouli:creatures/goblins_and_dungeons/goom)Gooms$(/l), $(l:patchouli:creatures/goblins_and_dungeons/hobgob)Hobgobs$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:pets/vanilla/horse)Horses$(/l), $(l:patchouli:pets/vanilla/llama)Llamas$(/l), $(l:patchouli:creatures/buzzier_bees/moobloom)Mooblooms$(/l), $(l:patchouli:creatures/vanilla/mooshroom)Mooshrooms$(/l), and $(l:patchouli:pets/vanilla/mule)Mules$(/l).$(br)$(li)They can be used to craft multiples items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
             "title": "Armors & Weapons",
-            "text": "$(br)$(l)        Armors$()$(br)$(li)Leather Armor$(li)Leather Horse Armor$(li)Leather Wolf Armor$(br2)$(l)        Weapons$()$(br)$(li)Pocket of Sand"
+            "text": "$(br)$(l)        Armors$()$(br)$(li)$(l:patchouli:armors/leather_armor)Leather Armor$(/l)$(li)$(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l)$(li)$(l:patchouli:pets/revamped_wolf/leather_wolf_armor)Leather Wolf Armor$(/l)$(br2)$(l)        Weapons$()$(br)$(li)$(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Tools & Redstone",
-            "text": "$(br)$(l)        Tools$()$(br)$(li)Backpack$(li)Bedroll$(li)Falconry Glove$(li)Falconry Hood$(br2)$(l)        Redstone$()$(br)$(li)Bellow$(li)Trapped Book"
+            "text": "$(br)$(l)        Tools$()$(br)$(li)$(l:patchouli:perks/backpack)Backpack$(/l)$(li)$(l:patchouli:tools/upgrade_aquatic/bedroll)Bedroll$(/l)$(li)$(l:patchouli:pets/alexsmobs/falconry_glove)Falconry Glove$(/l)$(li)$(l:patchouli:pets/alexsmobs/falconry_hood)Falconry Hood$(/l)$(br2)$(l)        Redstone$()$(br)$(li)$(l:patchouli:redstone/supplementaries/bellows)Bellow$(/l)$(li)$(l:patchouli:redstone/inspirations/trapped_book)Trapped Book$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Utility & Miscellaneous",
-            "text": "$(br)$(l)        Utility$()$(br)$(li)Bonded Leather$(br2)$(l)      Miscellaneous$()$(br)$(li)Item Frame$(li)Trapped Book"
+            "text": "$(br)$(l)        Utility$()$(br)$(li)Bonded Leather$(br2)$(l)      Miscellaneous$()$(br)$(li)$(l:patchouli:decoration/quark/item_frame)Item Frame$(/l)$(li)Trapped Book"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:leather",
-            "text": "$(li)The Leather can be found in Loot Chests too.$(br)$(li)It can be crafted with Rabbit Hide, Kangaroo Hide, or Bonded Leather too.",
+            "text": "$(li)The Leather can be found in Loot Chests too.$(br)$(li)It can be crafted with $(l:patchouli:miscellaneous/vanilla/rabbit_hide)Rabbit Hide$(/l), $(l:patchouli:miscellaneous/alexsmobs/kangaroo_hide)Kangaroo Hide$(/l), or $(l)Bonded Leather$() too.",
             "link_recipe": "true"
         },
         {

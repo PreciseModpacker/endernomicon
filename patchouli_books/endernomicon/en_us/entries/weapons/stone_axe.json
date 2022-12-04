@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:tweaks/crafting/utility/tools/stone_axe",
-            "text": "$(li)The Stone Axe is the direct upgrade of the Wooden Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the Wood Axe." ,
+            "text": "$(li)The Stone Axe is the direct upgrade of the $(l:patchouli:weapons/wooden_axe)Wooden Axe$(/l).$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the last one." ,
             "link_recipe": "true"
         },
         {

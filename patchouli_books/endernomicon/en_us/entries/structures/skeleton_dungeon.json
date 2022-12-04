@@ -1,0 +1,18 @@
+{    
+    "name": "Dungeon (Skeleton)",
+    "icon": "minecraft:skeleton_skull",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Skeleton Dungeon is a structure that can be found deeper of the caves of the Overworld.$(br)$(li)Here, you can find a big quantity of $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).$(br)$(li)Some interesting $(l:patchouli:perks/loot_chest)Loot Chests$(/l) can be found here, so it is a good place to explore.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/skeleton_dungeon.png"
+        }
+             ]
+}

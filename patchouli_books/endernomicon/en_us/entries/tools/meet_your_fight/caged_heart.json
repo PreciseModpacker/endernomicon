@@ -1,0 +1,20 @@
+{    
+    "name": "Caged Heart",
+    "icon": "meetyourfight:caged_heart",
+    "category": "patchouli:tools",
+    "sortnum": 0,
+    "advancement": "endernomicon:mossy_tooth",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "meetyourfight:caged_heart",
+            "text": "$(li)The Caged Heart reduced any received damage by 50% if you have less than 25% of your maximum health.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/caged_heart.png",
+            "text": "$(li)It has to be equipped in the Body Curious API slot."
+        }
+             ]
+}

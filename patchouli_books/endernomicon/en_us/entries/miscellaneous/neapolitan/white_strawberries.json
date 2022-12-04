@@ -2,13 +2,13 @@
     "name": "White Strawberries",
     "icon": "neapolitan:white_strawberries",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:white_strawberries",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "neapolitan:white_strawberries",
-            "text": "$(li)White Strawberries are a fruit athat can be growed up from Strawberry Pips.$(br)$(li)You can use White Strawberries to craft Strawberry Pips, or White Strawberry Basket in a Crafting Table.",
+            "text": "$(li)White Strawberries are a fruit that can be growed up from $(l:patchouli:miscellaneous/neapolitan/strawberry_pips)Strawberry Pips$(/l).$(br)$(li)You can use White Strawberries to craft $(l:patchouli:miscellaneous/neapolitan/strawberry_pips)Strawberry Pips$(/l), or $(l)White Strawberry Basket$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
             "link_recipe": "true"
         }
              ]

@@ -1,0 +1,20 @@
+{
+    "components": [
+      {
+        "type": "header",
+        "text": "#title",
+        "x": -1,
+        "y": -1
+      },
+      {
+        "type": "image",
+        "image": "#picture",
+        "x": 5,
+        "y": 7,
+        "width": 105,
+        "height": 140,
+        "texture_width": 105,
+        "texture_height": 140
+      }
+    ]
+  }

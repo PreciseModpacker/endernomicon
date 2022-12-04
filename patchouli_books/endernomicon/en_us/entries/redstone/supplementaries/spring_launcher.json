@@ -3,12 +3,12 @@
     "icon": "supplementaries:spring_launcher",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gunpowder",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:spring_launcher",
-            "text": "$(li)The Spring Launcher is a member of the Piston family.$(br)$(li)When it is activated and an item, creature, any entity or you are on the top of it, it will push up it several blocks away.",
+            "text": "$(li)The Spring Launcher is a member of the $(l:patchouli:redstone/vanilla/piston)Piston$(/l) family.$(br)$(li)When it is activated and an item, creature, any entity or you are on the top of it, it will push up it several blocks away.",
             "link_recipe": "true"
         },
         {

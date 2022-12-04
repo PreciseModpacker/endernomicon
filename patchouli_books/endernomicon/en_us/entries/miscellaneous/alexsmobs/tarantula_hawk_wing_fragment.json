@@ -3,12 +3,12 @@
     "icon": "alexsmobs:tarantula_hawk_wing_fragment",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:tarantula_hawk_wing_fragment",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:tarantula_hawk_wing_fragment",
-            "text": "$(li)The Tarantula Hawk Wing Fragment can be obtained slaying Tarantula Hawks.$(br)$(li)It can be used to craft a new Pattern or a Tarantula Hawk Wing.",
+            "text": "$(li)The Tarantula Hawk Wing Fragment is an item that can be used to craft a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l) or a $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing)Tarantula Hawk Wing$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true",
             "title": "T. Tarantula Hawk Wing"
         }

@@ -7,11 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:sign_post_oak",
-            "text": "The Sign Post can be place on any fence block.$(br2)They are like a normal Sign, and you can shift right-click to reverse it's orientation.$(br2)If you ise a Compass on them, they point towards wherever the compass directs to, so it works for spawn points and lodestones."
+            "text": "$(li)The Sign Post can be place right clicking on any $(l:patchouli:decoration/others/fences)Fences$(/l) while you are holding the Sign Post item in your hand.$(br)$(li)They are like $(l:patchouli:decoration/vanilla/signs)Signs$(/l).$(br)$(li)You can shift right-click to place it in reverse orientation."
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Sign Post"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/sign_post.png",
+            "text": "$(li)If you use a $(l:patchouli:tools/vanilla/compass)Compass$(/l) on them, they point towards wherever the compass directs to, so it works for spawn points and $(l:patchouli:utility/vanilla/lodestone)Lodestones$(/l)."
         },
         {
             "type": "patchouli:crafting",

@@ -7,13 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks:chandelier",
-            "text": "$(li)Chandeliers are a good choice of a light source block.$(br)$(li)They are a good alternative of the common Torchs.",
+            "text": "$(li)Chandeliers are a good choice of a light source block.$(br)$(li)They are a good alternative of the $(l:patchouli:decoration/others/torchs)Torches$(/l).",
             "link_recipe": "true",
             "title": "Chandeliers"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of the Braziers"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/chandelier.png"
         },
         {
             "type": "patchouli:crafting",

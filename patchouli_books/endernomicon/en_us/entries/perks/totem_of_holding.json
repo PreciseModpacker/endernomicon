@@ -1,0 +1,27 @@
+{
+    "name": "Totem of Holding",
+    "icon": "waystones:waystone",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)When you die, your items are automatically saved in the Totem of Holding.$(br)$(li)This one can be found in the place where you died.$(br)$(li)Also a waypoint will have been created on the $(l:patchouli:perks/minimap)minimap$(/l).$(br)$(li)Head towards that location to retrieve your items." 
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/totem_of_holding_1.png",
+            "text": "$(li)Your $(l)Last Death$() location is represent with the white skull icon in the Minimap."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Once you reach the location of your $(l)Last Death$(), you will find the Totem of Holding floating.$(br)$(li)Now, just hit it so that your items are automatically saved in your inventory.$(br)$(li)Make sure you have enough space or the items stored in the Totem of Holding will fall to the ground." 
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/totem_of_holding_2.png",
+            "text": "$(li)The Totem of Holding can't be destroyed by lava, explosions or any kind of creature."
+        }
+             ]
+}

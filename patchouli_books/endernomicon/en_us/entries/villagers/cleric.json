@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Cleric is a master of the arcane and unkown.$(br)$(li)It will trade you Redstone, Lapis Lazuli, Glowstone, Bottle O' Enchanting or even Ender Pearls for Emeralds and vice versa.$(br)$(li)A Villager can get the Cleric profession if is near of a Brewing Stand."
+            "text": "$(li)The Cleric is a master of the arcane and unknown.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), $(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone Dust$(/l), $(l:patchouli:tools/vanilla/experience_bottle)Bottle O' Enchanting$(/l), and $(l:patchouli:miscellaneous/vanilla/ender_pearl)Ender Pearls$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Cleric profession if is near of a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:cleric',level:2}}",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

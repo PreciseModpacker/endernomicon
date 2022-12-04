@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Sheep are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop Wool and Raw Mutton on death.$(br)$(li)They can be breed giving them Wheat.$(br)$(li)You can right click on a Sheep while you are holding Shears to obtain Wool."
+            "text": "$(li)Sheeps are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:decoration/vanilla/wool)Wool$(/l) and Raw Mutton on death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l).$(br)$(li)You can right click on a Sheep while you are holding $(l:patchouli:tools/vanilla/shears)Shears$(/l) to obtain $(l:patchouli:decoration/vanilla/wool)Wool$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:sheep",
             "scale": 0.8,
-            "text": "The Sheep will regenerate its Wool in a few minutes eating Grass on the ground."
+            "text": "This animal will regenerate its $(l:patchouli:decoration/vanilla/wool)Wool$(/l) in a few minutes eating $(l)Grass$() on the ground."
         }
              ]
 }

@@ -1,23 +1,20 @@
 {    
     "name": "Warped Mosco",
-    "icon": "minecraft:grass_block",
+    "icon": "alexsmobs:mosquito_larva",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/warped_mosco_kill",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Warped Mosco is an aggresive mini-boss version of a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l), appearing if one of these creatures sucks the blood of a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l).$(br2)On death, Warped Mosco may drop Hemolymph Sac and Warped Muscle.$(br2)Those items can be used with a Blood Sprayer to craft a powerfull weapon called Hemolymph Blaster."
+            "text": "$(li)The Warped Mosco is the result of a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l), having sucked the blood of a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l) that had previously been infected by $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l).$(br)$(li)It will attack everything in its path, a distance shooting hemolymph blast or physically with its great strength."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:warped_mosco",
             "scale": 0.9,
-            "offset": 0.5
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "alexsmobs:hemolymph_blaster"
-        }  
+            "offset": 0.5,
+            "text": "It may drop a $(l:patchouli:miscellaneous/alexsmobs/hemolymph_sac)Hemolymph Sac$(/l) and a $(l:patchouli:miscellaneous/alexsmobs/warped_muscle)Warped Muscle$(/l) on death."
+        }
              ]
 }

@@ -1,5 +1,5 @@
 {    
-    "name": "Soul Compass",
+    "name": "Compass (Soul)",
     "icon": "quark:soul_compass",
     "category": "patchouli:tools",
     "sortnum": 0,
@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:oddities/crafting/soul_compass",
-            "text": "$(li)The Soul Compass is a new variant of the common Compass.$(br)$(li)It's always pointing into the Totem of Holding.",
+            "text": "$(li)The Soul Compass is a variant of the common $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)It's always pointing into the $(l:patchouli:perks/totem_of_holding)Totem of Holding$(/l).",
             "link_recipe": "true"
         }
              ]

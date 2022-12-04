@@ -1,0 +1,19 @@
+{    
+    "name": "Fortress (Nether)",
+    "icon": "minecraft:nether_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/find_fortress",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Nether Fortress is a large structure that can be found in the Nether.$(br)$(li)This place is inhabited by $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l), $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l).$(br)$(li)Here you can find $(l:patchouli:miscellaneous/vanilla/nether_wart)Nether Wart$(/l), an important ingredient for brewing potions."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/nether_fortress.png",
+            "text": "$(li)Blaze Spawners can be found here too, and these sometimes makes appears $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l)."
+
+        }
+             ]
+}

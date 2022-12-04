@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:quick_charge',lvl:1}]}",
-            "text": "$(li)The Quick Charge enchantment can be applied in a Crossbow.$(br)$(li)This enchantment increases the reload speed of Crossbows.",
+            "text": "$(li)The Quick Charge enchantment can be applied in a $(l:patchouli:weapons/crossbow)Crossbow$(/l).$(br)$(li)This enchantment increases the reload speed of this weapon.$(br)$(li)By default, it can be upgrade just until level III.",
             "title": "Quick Charge"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an Ancient Tome (Quick Charge)."
+            "text": "$(li)You can raise the level IV of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_quick_charge)Ancient Tome (Quick Charge)$(/l)."
         }
              ]
 }

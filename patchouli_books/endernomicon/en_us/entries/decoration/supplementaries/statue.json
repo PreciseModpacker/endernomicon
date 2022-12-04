@@ -7,12 +7,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:statue",
-            "text": "$(li)Statues can hold items in their hands.$(br)$(li)If you put a Sword, a Tool or a $(l:patchouli:tools/buzzier_bees/candle)Candle$(/l), the Statue will took a different position.",
+            "text": "$(li)Statues can hold items in their hands.$(br)$(li)The Statue will took a different position if you put a $(l:patchouli:weapons/wooden_sword)Sword$(/l), a $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), other tools, or a Candle Holder on it.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Statues holding a Book, a Sword, a Candle and a Tool"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/statue.png"
         }
              ]
 }

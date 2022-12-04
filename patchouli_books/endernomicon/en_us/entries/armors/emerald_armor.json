@@ -2,8 +2,8 @@
     "name": "Emerald Armor",
     "icon": "extraarmor:emerald_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 13,
+    "advancement": "endernomicon:emerald",
     "pages": [
        {
             "type": "patchouli:text",

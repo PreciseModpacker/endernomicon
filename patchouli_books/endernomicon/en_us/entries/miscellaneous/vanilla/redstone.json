@@ -2,8 +2,8 @@
     "name": "Redstone Dust",
     "icon": "minecraft:redstone",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -18,7 +18,7 @@
         {
             "type": "patchouli:text",
             "title": "Redstone",
-            "text": "$(li)Charged Arrow$(li)Collector$(li)Dispenser$(li)Dropper$(li)Ender Watcher$(li)Gustmaker$(li)Magnet$(li)Note Block$(li)Observer$(li)Piston$(li)Redstone Block$(li)Redstone Charger$(li)Redstone Illuminator$(li)Redstone Lamp"
+            "text": "$(li)Charged Arrow$(li)Collector$(li)Dispenser$(li)Dropper$(li)Ender Watcher$(li)Gustmaker$(li)Magnet$(li)Note Block$(li)Observer$(li)$(l:patchouli:redstone/vanilla/piston)Piston$(/l)$(li)Redstone Block$(li)Redstone Charger$(li)Redstone Illuminator$(li)$(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamp$(/l)"
         },
         {
             "type": "patchouli:text",

@@ -8,13 +8,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:guardian_spine",
-            "text": "$(li)The Guardian Spine only turns on when receives a nearby redstone signal.$(br)$(li)When a nearby creature or even you step on the Guardian Spine, its walking speed will be considerably reduced and it will receive a damage of 1 heart per second.",
+            "text": "$(li)The Guardian Spine only turns on when receives a nearby redstone signal.$(br)$(li)When a nearby creature steps on the Guardian Spine, its walking speed will be considerably reduced and it will receive a damage of 1 heart per second.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/guardian_spine.png",
-            "text": "$(li)This item only can be dropped by Guardians."
+            "text": "$(li)This item only can be dropped by a $(l:patchouli:creatures/vanilla/guardian)Guardian$(/l)."
         }
              ]
 }

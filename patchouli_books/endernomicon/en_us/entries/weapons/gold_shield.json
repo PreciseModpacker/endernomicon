@@ -2,8 +2,8 @@
     "name": "Shield (Gold)",
     "icon": "bettershields:gold_shield",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
-    "sortnum": 14,
+    "sortnum": 16,
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",

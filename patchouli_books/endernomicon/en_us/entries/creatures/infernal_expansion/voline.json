@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Voline is a hostile creature that can be found in Nether Waste Biomes of the Nether.$(br)$(li)Holding a Magma Cream in your hand in front of it, will make it stop from attacking you by a moment.$(br)$(li)This creature may drops Golden Nuggets on death."
+            "text": "$(li)The Voline is a hostile creature that can be found in $(l:patchouli:biomes/nether/nether_waste)Nether Wastes$(/l) of the Nether.$(br)$(li)Holding a $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Cream$(/l) in your hand in front of it will make it stop from attacking you by a moment.$(br)$(li)This creature may drops $(l:patchouli:miscellaneous/vanilla/gold_nugget)Golden Nuggets$(/l) on death."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/voline_1.png",
-            "text": "$(li)If you drop a Magma Cream on the ground near of a Voline, it will start to eat it."
+            "text": "$(li)If you drop a $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Cream$(/l) on the ground near of a Voline, it will start to eat it."
         },
         {
             "type": "patchouli:small_pictures",
@@ -31,7 +31,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/voline_4.png",
-            "text": "$(li)Now you can drop Golden items to the ground that it will eat them too. Later, it will drop Golden Nuggets or Molten Gold Clusters."
+            "text": "$(li)Now you can drop Golden items to the ground that it will eat them too. Later, it will drop $(l:patchouli:miscellaneous/vanilla/gold_nugget)Golden Nuggets$(/l) or $(l:patchouli:miscellaneous/infernalexp/molten_gold_cluster)Molten Gold Clusters$(/l)."
         }
              ]
 }

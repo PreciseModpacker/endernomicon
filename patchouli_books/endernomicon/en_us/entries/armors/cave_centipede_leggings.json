@@ -2,8 +2,8 @@
     "name": "Cave Centipede Leggings",
     "icon": "alexsmobs:centipede_leggings",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 26,
+    "advancement": "endernomicon:cave_centipede_leg",
     "pages": [
        {
             "type": "patchouli:crafting",

@@ -2,18 +2,18 @@
     "name": "Cactus",
     "icon": "minecraft:cactus",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:cactus",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:cactus",
-            "text": "$(li)Cactus are plants that will hurt any creature who dates to approach them.$(br)$(li)You can use Cactus to craft Cactus Batch, and a Cactus Armor in a Crafting Table$(br)$(li)You can obtain Cactus Paste Smelting a Cactus in a Furnace.",
+            "text": "$(li)Cactus are plants that will hurt any creature who dates to approach them.$(br)$(li)You can use Cactus to craft $(l)Cactus Batch$(), and the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(br)$(li)You can obtain $(l:patchouli:miscellaneous/quark/cactus_paste)Cactus Paste$(/l) Smelting a Cactus in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find Cactus in dry areas, like Deserts.$(br)$(li)You can plant this block in a block of Sand.$(br)$(li)It grows even if the newly-grown block would immediately break due to adjacent blocks. ",
+            "text": "$(li)Cactus can be found in dry areas, like $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)You can plant this block in a Sand block.$(br)$(li)It grows even if the newly-grown block would immediately break due to adjacent blocks. ",
             "link_recipe": "true"
         }
              ]

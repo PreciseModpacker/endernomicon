@@ -7,13 +7,20 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Cartographer gather data from its surroundings and creates Maps.$(br)$(li)It will give them to you in exchange of Emeralds.$(br)$(li)A Villager can get the Cartographer profession if is near of a Cartography Table."
+            "text": "$(li)The Cartographer gather data from its surroundings and creates $(l:patchouli:tools/vanilla/map)Maps$(/l) that can be useful in your journey.$(br)$(li)It will give them to you in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Cartographer profession if is near of a $(l:patchouli:utility/vanilla/cartography_table)Cartography Table$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:cartographer',level:2}}",
-            "scale": 1,
-            "text": ""
+            "scale": 1
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It is said that a very experienced Cartographer will give you an important stone known as the Levitation Stone.$(br)$(li)This item will help you to arrive to a remote island with many treasures.$(br)$(li)You should trade with one of them until they reach the maximum level and in this way they are interested in trading with you this important item."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/villagers/sky_stone.png"
         }
              ]
 }

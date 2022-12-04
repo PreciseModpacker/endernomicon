@@ -1,0 +1,17 @@
+{    
+    "name": "Leviathan",
+    "icon": "minecraft:bone_block",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_leviathan",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Leviathan was an old big sea serpent. Now only the remains of this creature remain in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) of the Overworld.$(br)$(li)This creature is said to has swallowed entire ships, so you might find something interesting inside."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/leviathan.png"
+        }
+             ]
+}

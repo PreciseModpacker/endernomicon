@@ -4,3 +4,10 @@
 
 /give Atonidas environmental:healer_pouch{HealerPouchUses:250}
 
+# Replace entries
+
+grep -rl "Brewing Stand" | xargs sed -i 's/Brewing Stand/$(l:patchouli:utility\/vanilla\/brewing_stand)Brewing Stand$(\/l)/g'
+
+
+# Obtener numero de palabras
+grep -h -re '"text' | sed 's/$(\/l)//g' | sed 's/$(li)//g' | sed 's/$(br)//g' | sed 's/$(br2)//g' | sed 's/$(l)//g' | sed 's/$()//g' | sed 's/$(l:patchouli:.*)//g' | grep -e '"type' -v | cut -d ":" -f2- | tr -d '"' | cut -c2-9999999999 | wc 

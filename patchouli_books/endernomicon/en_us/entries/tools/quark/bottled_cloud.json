@@ -2,7 +2,7 @@
     "name": "Bottle (Cloud)",
     "icon": "quark:bottled_cloud",
     "category": "patchouli:tools",
-    "sorrnum": 0,
+    "sortnum": 0,
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
@@ -12,16 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/bottle_cloud.png",
             "text": "$(li)You only have to right click while you are holding a Cloud in a Bottle in your hand to summon this block."
-        },
-        {
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/tools/bottle_cloud.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         }
              ]
 }

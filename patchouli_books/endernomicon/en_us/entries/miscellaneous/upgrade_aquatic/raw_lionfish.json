@@ -3,12 +3,12 @@
     "icon": "upgrade_aquatic:lionfish",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:raw_lionfish",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:lionfish",
-            "text": "$(li)Raw Lionfish can be cooked to get Cooked Lionfish.$(br)$(li)They can be used to brew a $(l:patchouli:potions/repellence)Potion of Repellence$(/l).",
+            "text": "$(li)Raw Lionfish is a item that can be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to get $(l)Cooked Lionfish$().$(br)$(li)They can be used to brew a $(l:patchouli:potions/upgrade_aquatic/repellence)Potion of Repellence$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.$(br)$(li)$(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

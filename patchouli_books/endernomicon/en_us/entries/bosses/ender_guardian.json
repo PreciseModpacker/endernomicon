@@ -1,0 +1,20 @@
+{    
+    "name": "Ender Guardian",
+    "icon": "cataclysm:gauntlet_of_guard",
+    "category": "patchouli:bosses",
+    "sortnum": 0,
+    "advancement": "cataclysm:kill_ender_guardian",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Ender Guardian is a giant creature with high defense that lies in the deep of the $(l:patchouli:structures/ruined_citadel)Ruined Citadel$(/l).$(br)$(li)It will attack you physically with its strength, or summoning void runes underground and attracting you to it.$(br)$(li)Once it reaches 50% health, its defense is halved."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:ender_guardian",
+            "scale": 0.85,
+            "offset": 0.1,
+            "text": "It drops the $(l:patchouli:weapons/gauntlet_of_guard)Gauntlet of Guard$(/l) and rarely a Music Disc on death."
+        }
+             ]
+}

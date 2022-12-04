@@ -2,18 +2,14 @@
     "name": "Eye of Ender",
     "icon": "minecraft:ender_eye",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "minecraft:nether/obtain_blaze_rod",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:ender_eye",
-            "text": "$(li)The Ender Eye is a mysterious item that holds a extrange power in its interior.$(br)$(li)It can be crafted placing an Ender Pearl and a Blaze Powder in a Crafting Table.",
+            "text": "$(li)The Ender Eye is a mysterious item that holds an extrange power in its interior.$(br)$(li)This item can be used to craft an $(l:patchouli:redstone/quark/ender_watcher)Ender Watcher$(/l), $(l:patchouli:utility/vanilla/end_crystal)End Crystals$(/l), $(l:patchouli:utility/vanilla/ender_chest)Ender Chests$(/l), the $(l:patchouli:enders_journey/ender_eyes)Witch Eye$(/l), and $(l:patchouli:enders_journey/ender_eyes)End Crystal Eye$(/l).",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)This item can be used to craft an Ender Watcher, End Crystal, Ender Chests, the Witch Eye, and the End Crystal Eye."
         }
              ]
 }

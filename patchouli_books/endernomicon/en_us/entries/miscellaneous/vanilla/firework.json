@@ -1,0 +1,44 @@
+{    
+    "name": "Firework Rocket",
+    "icon": "minecraft:firework_rocket",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:gunpowder",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:firework_rocket",
+            "text": "$(li)The Firework Rocket is an item that can be used to create decorative explosions.$(br)$(li)You can craft it placing $(l:patchouli:miscellaneous/vanilla/paper)Paper$(/l), $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) and optionally a $(l)Firework Star$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)The value of $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) affects the $(l)Flight Duration$().",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Up to three gunpowder can be used.$(br)$(li)Up ti five firework stars can be used with three gunpowder.$(br)$(li)Up to seven firework stars can be used by using firework stars insteat of additional gunpowder.$(br)$(li)All firework stars explote almost simultaneously when the rocket detonates.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:firework_star",
+            "text": "$(li)The Firework Star can be used to dye the color of the Firework Rocket explosions.$(br)$(li)You can craft it placing $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l), the matching Dye and an $(l)Extra Ingredient (Optional)$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Extra Ingredients",
+            "text": "You can add one ingredient to add a $(l)Shape Effect$().$(br2)A Firework Star can have only one shape effect$(br)$(li)$(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge:$(/l) Large Ball explosion and heavy sound.$(li)$(l:patchouli:miscellaneous/vanilla/paper)Gold Nugget:$(/l)Star-shaped explosion.$(li)$(l:patchouli:miscellaneous/vanilla/paper)Head (Any creature):$(/l) Head-shaped explosion.$(li)$(l:patchouli:miscellaneous/vanilla/feather)Feather:$(/l) Burst explosion",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Extra Ingredients",
+            "text": "In addition to the $(l)Shape Effects$(), you can add any combination of these additional effects to your Firework Star.$(br)$(li)$(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone Dust:$(/l) Twinkle (Crackle effect and sounds after the explosion).$(li)$(l:patchouli:miscellaneous/vanilla/diamond)Diamond:$(/l) Trail effect after the explosion.$(li)$(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone Dust$(/l) + $(l:patchouli:miscellaneous/vanilla/diamond)Diamond:$(/l) Twinkle + Trail effect after the explosion.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Elytra",
+            "text": "$(li)Fireworks can be used to boost $(l:patchouli:armors/elytra)Elytra$(/l) when in flight.$(br)$(li)Normally, elytra can glide for a short distance, but using a firework, you can fly a long distance, gain speed and take off from the ground.",
+            "link_recipe": "true"
+        }
+             ]
+}

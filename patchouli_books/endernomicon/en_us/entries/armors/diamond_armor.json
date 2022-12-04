@@ -2,8 +2,8 @@
     "name": "Diamond Armor",
     "icon": "minecraft:diamond_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 26,
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:text",

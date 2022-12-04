@@ -3,13 +3,22 @@
     "icon": "endrem:end_crystal_pickaxe",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "endrem:end_crystal_pickaxe",
-            "text": "$(li)The End Crystal Pickaxe is the best Pickaxe that exist in every dimension of this world.$(br)$(li)It can be made placing a Diamond Pickaxe and a End Crystal Ingot in a Smithing Table.$(br)$(li)It has more durability than a Netherite Pickaxe." ,
+            "type": "smithing_table",
+            "title": "End Crystal Pickaxe",
+            "input": "minecraft:diamond_hoe",
+            "input2": "endrem:end_crystal_ingot",
+            "output": "endrem:end_crystal_pickaxe",
+            "text": "$(li)The End Crystal Pickaxe is the best Pickaxe that exist in every dimension of this world.$(br)$(li)It has more durability than the $(l:patchouli:tools/vanilla/netherite_pickaxe)Netherite Pickaxe$(/l)." ,
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "End Crystal Pickaxe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"endrem:end_crystal_pickaxe\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9
         }
              ]
 }

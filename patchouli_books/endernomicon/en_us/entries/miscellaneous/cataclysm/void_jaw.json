@@ -1,0 +1,15 @@
+{    
+    "name": "Void Jaw",
+    "icon": "cataclysm:void_jaw",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:void_jaw",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:void_jaw",
+            "text": "$(li)The Void Jaw is an item that can be used to craft $(l:patchouli:weapons/void_arrows)Void Scatter Arrows$(/l).$(br)$(li)$(l:patchouli:creatures/cataclysm/endermaptera)Endermapteras$(/l) may drop this item on death.",
+            "link_recipe": "true"
+        }
+             ]
+}

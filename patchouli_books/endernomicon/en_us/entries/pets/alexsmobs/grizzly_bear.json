@@ -3,21 +3,26 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/grizzly_bear",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Grizzly Bears are defensive mobs that spawns in Forests Biomes of the Overworld. They will attack players if they get too close or attack them.$(br2)They can be tamed. The player must first feed it a honeycomb by dropping it on the ground. Then the player will have to fed it with a raw salmon, by throwing it on the ground, each salmon the bear consumes has a 30% change to tame."
+            "text": "$(li)Grizzly Bears are defensive creatures that can be found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l) of the Overworld.$(br)$(li)They can be tamed feeding them with a $(l:patchouli:miscellaneous/vanilla/honeycomb)Honeycomb$(/l) by dropping it on the ground.$(br)$(li)After that you have to feed them with a $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l), by throwing it on the ground, repeat this process a few times."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:grizzly_bear",
             "scale": 0.7,
-            "text": "These animals can sometimes be seen rummanging throught bee nests to find honeycomb for consumption."
+            "text": "They will attack you if you get too close or attack them."
         },
         {
             "type": "patchouli:text",
-            "text": "Tamed Grizzly Bears can be made to sit, wander or follow.$(br2)They can be ridden without the need of a Saddle but they are slow and cannot jump.$(br2)Grizzly bears will defend its owner from attackers such as hostile mobs and players, they even can attack while their owner is riding them."
-        }  
+            "text": "$(li)Tamed Grizzly Bears can be made to sit, wander or follow.$(br)$(li)Grizzly bears will defend its owner from attackers of a hostile creature, they even can attack while their owner is riding them.$(br)$(li)These animals can sometimes be seen rummanging throught $(l:patchouli:utility/vanilla/bee_nest)Bee Nests$(/l) to find $(l:patchouli:miscellaneous/vanilla/honeycomb)Honeycomb$(/l) for consumption."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/grizzly_bear.png",
+            "text": "$(li)These animals can be ridden without the need of a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) but they are slow and cannot jump."
+        }
              ]
 }

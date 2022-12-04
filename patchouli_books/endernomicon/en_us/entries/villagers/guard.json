@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Guard will defend its village with is life.$(br)$(li)Unlike other Villagers, they don't have anything to trade with you.$(br)$(li)A Villager can get the Guard profession if you right click of them while you are holding any kind of Sword or Crossbow on your hand."
+            "text": "$(li)The Guard will defend its village with is life.$(br)$(li)Unlike other Villagers, they don't have anything to trade with you.$(br)$(li)A Villager can get the Guard profession if you right click of them while you are holding any kind of $(l:patchouli:weapons/wooden_sword)Sword$(/l) or $(l:patchouli:weapons/crossbow)Crossbow$(/l) in your hand."
         },
         {
             "type": "patchouli:entity",

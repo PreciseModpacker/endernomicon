@@ -3,12 +3,12 @@
     "icon": "supplementaries:key",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gold_nugget",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:key",
-            "text": "$(li)The Key is a Item that can be used to lock and open $(l:patchouli:blocks/supplementaries/lock_block)Lock Blocks$(/l), $(l:patchouli:blocks/supplementaries/safe)Safes$(/l), $(l:patchouli:blocks/supplementaries/netherite_door)Netherite Doors$(/l) and $(l:patchouli:blocks/supplementaries/netherite_trapdoor)Netherite Trapdoors$(/l).$(br)$(li)You can change its name in an Anvil, to have multiple Keys.",
+            "text": "$(li)The Key is an Item that can be used to lock and open $(l:patchouli:utility/supplementaries/lock_block)Lock Blocks$(/l), $(l:patchouli:utility/supplementaries/safe)Safes$(/l), $(l:patchouli:utility/supplementaries/netherite_door)Netherite Doors and Trapdoors$(/l).$(br)$(li)You can change its name in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l), to have multiple Keys.",
             "link_recipe": "true",
             "title": "Key"
         },

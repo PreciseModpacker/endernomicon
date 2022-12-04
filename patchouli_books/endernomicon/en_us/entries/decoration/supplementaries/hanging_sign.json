@@ -7,15 +7,22 @@
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:hanging_sign_oak",
-            "text": "The Hanging Sign is a decorative item that comes in all wood types.$(br2)The Hanging Sign can be placed under or on the side of a block, fence or wall.$(br2)You can write text on them by right-cliking the sign with an empty hand."
+            "text": "$(li)The Hanging Sign is a decorative block that comes in all wood types.$(br)$(li)It can be placed under or on the side of a block, $(l:patchouli:decoration/others/fences)Fence$(/l) or $(l:patchouli:decoration/others/walls)Walls$(/l).$(br)$(li)They will swing back and forth when an entity collides with it."
         },
         {
-            "type": "patchouli:text",
-            "text": "You can right-click any item onto the sign to display it too.$(br2)The block can also display maps as well as banner patterns.$(br2)Hanging signs are animated and will swing back and forth when an entity collides with it, providing a bit of a realistic touch to the mod."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/hanging_sign_1.png",
+            "text": "$(li)You can write text on them by right-cliking the sign with an empty hand."
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Hanging Sign"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/hanging_sign_2.png",
+            "text": "$(li)You can right-click any item onto the sign to display it too."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/hanging_sign_3.png",
+            "text": "$(li)The block can also display $(l:patchouli:tools/vanilla/map)Maps$(/l) as well as $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Patterns$(/l)."
         },
         {
             "type": "patchouli:crafting",

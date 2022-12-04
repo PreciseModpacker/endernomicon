@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Archers are very good attacking you at long distance with their Bows.$(br)$(li)Don't let them to be too far of you!$(br)$(li)On death they may drop Arrows and Bows.$(br)$(li)It can be found in the Illager Archer Tower."
+            "text": "$(li)The Archers are very good attacking you at long distance with their $(l:patchouli:weapons/bow)Bows$(/l).$(br)$(li)Don't let them to be too far of you!$(br)$(li)On death they may drop $(l:patchouli:weapons/arrows)Arrows$(/l) and $(l:patchouli:weapons/bow)Bows$(/l).$(br)$(li)It can be found in the $(l:patchouli:illagers/illager_archer_tower)Illager Archer Tower$(/l)."
         },
         {
             "type": "patchouli:entity",

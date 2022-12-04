@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like Grizzly Bears, Bald Eagles, Crows, Raccoons and Foxes can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Taiga Mountains$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l), and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Taiga Mountains$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

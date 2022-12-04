@@ -1,0 +1,39 @@
+{    
+    "name": "Nature's Compass",
+    "icon": "naturescompass:naturescompass",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "naturescompass:naturescompass",
+            "text": "$(li)The Nature's Compass is a new variant of the common $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)It can be used to find different Biomes.$(br)$(li)This will help you to find Creatures or Places which only exists in an specific Biome."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/natures_compass_1.png",
+            "text": "$(li)First, just right click while you are holding the Nature's Compass in your hand."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/natures_compass_2.png",
+            "text": "$(li)Then search a Biome, using the searchbox, and the Sort options."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/natures_compass_3.png",
+            "text": "$(li)Now, select it and click the $(l)Start Search$() button to start the Biome Search."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/natures_compass_4.png",
+            "text": "$(li)When the search ends, the Nature's Compass will be indicanting the distance of the selected Biome."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/natures_compass_5.png",
+            "text": "$(li)The needle of this compass will indicate the path to the selected Biome."
+        }
+             ]
+}

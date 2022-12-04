@@ -1,0 +1,29 @@
+{    
+    "name": "Kiln",
+    "icon": "environmental:kiln",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+#    "advancement": "minecraft:story/smelt_iron",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:crafting/kiln",
+            "text": "$(li)The Kiln is a faster version of the common $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).$(br)$(li)It can smelt multiple items than this last one can not.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/utility/kiln.png"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Kiln Recipes",
+            "text": "$(li)Brick$(li)Cracked Arid Sandstone$(li)Cracked Nether Bricks$(li)Cracked Polished Blackstone Bricks$(li)Cracked Red Arid Sandstone$(li)Cracked Red Sandstone$(li)Cracked Sandstone$(li)Cracked Soul Sandstone$(li)Cracked Stone Bricks$(li)Eumus Brick$(li)Glass$(li)Glazed Terracota$(li)Mud Brick"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Kiln Recipes",
+            "text": "$(li)Nether Brick$(li)Smooth Arid Sandstone$(li)Smooth Biotite Block$(li)Smooth Quartz Block$(li)Smooth Red Arid Sandstone$(li)Smooth Red Sandstone$(li)Smooth Sandstone$(li)Smooth Soul Sandstone$(li)Smooth Stone$(li)Stone$(li)Terracota"
+        }
+             ]
+}

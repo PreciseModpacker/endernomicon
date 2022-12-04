@@ -1,0 +1,107 @@
+{    
+    "name": "Ender Eyes",
+    "icon": "endermonicon:textures/book/categories/book.png",
+    "category": "patchouli:enders_journey",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/lost_eye.png",
+            "title": "Lost Eye",
+            "text": "$(o)The Restone, even to this day, remains a mystery to us, both in its operation and in its true origin.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_13tvjnrkt0voeybb7ixl61fhn",
+            "text": "$(o)An $(l)Ender Eye$()$(o) can be imbued with energy from this mineral.$(br2)$(o)You have to place it with $(l)Redstone$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l), creating the $(l)Lost Eye$()$(o) in the process."
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/witch_eye.png",
+            "title": "Witch Eye",
+            "text": "$(o)The Villager's fear and uncertainty of the unknown caused the Witches to leave the Villages.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endrem:witch_eye",
+            "text": "$(o)Their pupils are said to contain great arcane power.$(br2)If you were able to put together a $(l)Witch Pupil$() $(o)and an $(l)Eye of Ender$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(o), you will be able to create the $(l)Witch Eye$()$(o).$()"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/rogue_eye.png",
+            "title": "Rogue Eye",
+            "text": "$(o)The $(l)Rogue Eye$()$(o) is hidden inside of the temples located in the depths of the Jungles over the Overworld.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/old_eye.png",
+            "title": "Old Eye",
+            "text": "$(o)The $(l)Old Eye$()$(o) is hidden inside of the temples located in the Deserts over the Overworld.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/cold_eye.png",
+            "title": "Cold Eye",
+            "text": "$(o)The $(l)Cold Eye$()$(o) is hidden inside of the different structures located in the snowy biomes as the Taigas, Tundras, or Mountains over the Overworld.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/black_eye.png",
+            "title": "Black Eye",
+            "text": "$(o)The $(l)Black Eye$()$(o) is a very rare treasure that some pirates hid.$(br2)May some Villagers will exchange Treasure Maps to you.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/corrupted_eye.png",
+            "title": "Corrupted Eye",
+            "text": "$(o)The illagers, being greedy creatures that they are, among their stolen belongings have $(l)Corrupted Eyes$()$(o) stored in their structures.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/magical_eye.png",
+            "title": "Magical Eye",
+            "text": "$(o)The Evokers learned the art of necromancy in their Mansions using the $(l)Magical Eye$() they possess. They won't give it away so easily, you'll have to get it by force.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/guardian_eye.png",
+            "title": "Guardian Eye",
+            "text": "$(o)In the depths of the Oceans are the Ocean Monuments where the Elder Guardians dwell. Defeat one of these creatures to get the $(l)Guardian Eye$()$(o).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/wither_eye.png",
+            "title": "Wither Eye",
+            "text": "$(o)The union of Wither Skeletons Skulls forms a powerful creature known as the Wither. You will be able to get the $(l)Wither Eye$()$(o) once you defeat this creature.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/end_crystal_eye.png",
+            "title": "End Crystal Eye",
+            "text": "$(o)The End Crystal is the hardest material that you can find in this world.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "endrem:end_crystal_eye",
+            "text": "$(o)You can place this hard material with $(o)an $(l)Eye of Ender$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(o).$(br2)This will allow you to create the $(l)End Crystal Eye$()$(o).$()"
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/nether_eye.png",
+            "title": "Nether Eye",
+            "text": "$(o)The $(l)Nether Eye$()$(o) is hidden inside of the Fortress or other structures located over the Nether.",
+            "link_recipe": "true"
+        }
+             ]
+}

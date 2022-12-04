@@ -2,17 +2,17 @@
     "name": "Poison Resistance",
     "icon": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:komodo_spit",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "title": "Poison Resistance",
             "item": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
-            "text": "$(li)Poison Resistance potions makes you inmune to any kind of poison damage.$(br)$(li)They can be brewed using a Cave Centipede Leg and Poisonous Essence as ingredients in a Brewing Stand."
+            "text": "$(li)Poison Resistance potions makes you inmune to any kind of poison damage.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Leg$(/l) and $(l:patchouli:potions/alexsmobs/poisonous_essence)Poisonous Essence$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They can be brewed too using Cave Centipede Leg and a Komodo Dragon Spit Bottle as ingredients in a Brewing Stand.$(br)$(li)The duration of the Poison Resistance potions can be extended using a Komodo Dragon Spit and a Potion of Poison Resistance as ingredients in a Brewing Stand."
+            "text": "$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Leg$(/l) and a $(l:patchouli:tools/alexsmobs/komodo_spit_bottle)Komodo Dragon Spit Bottle$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)The duration of the Poison Resistance potions can be extended using a $(l:patchouli:tools/alexsmobs/komodo_spit_bottle)Komodo Dragon Spit Bottle$(/l) and a Potion of Poison Resistance as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

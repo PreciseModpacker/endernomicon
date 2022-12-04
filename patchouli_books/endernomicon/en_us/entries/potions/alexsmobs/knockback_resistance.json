@@ -2,13 +2,13 @@
     "name": "Knockback Resistance",
     "icon": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:bear_fur",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "title": "Knockback Resistance",
             "item": "minecraft:potion{Potion:'alexsmobs:knockback_resistance'}",
-            "text": "$(li)Knockback Resistance potions reduces the knockback that you receive from other creatures.$(br)$(li)They can be brewed using a $(l:patchouli:potions/vanilla/strength)Strength Potion$(/l) and a Hair of Bear as ingredients in a Brewing Stand."
+            "text": "$(li)Knockback Resistance potions reduces the knockback that you receive from other creatures.$(br)$(li)They can be brewed using a $(l:patchouli:potions/vanilla/strength)Strength Potion$(/l) and a $(l:patchouli:miscellaneous/alexsmobs/hair_of_bear)Hair of Bear$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

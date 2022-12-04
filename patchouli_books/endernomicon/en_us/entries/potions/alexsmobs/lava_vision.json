@@ -2,12 +2,12 @@
     "name": "Lava Vision",
     "icon": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:bone_serpent_tooth",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'alexsmobs:lava_vision'}",
-            "text": "$(li)Lava Vision potions allows you to see under lava as if it were water.$(br)$(li)They can be brewed using a Bone Serpent Tooth and a Lava Bottle as ingredients in a Brewing Stand."
+            "text": "$(li)Lava Vision potions allows you to see under lava as if it were water.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/bone_serpent_tooth)Bone Serpent Tooth$(/l) and a $(l:patchouli:tools/alexsmobs/lava_bottle)Lava Bottle$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

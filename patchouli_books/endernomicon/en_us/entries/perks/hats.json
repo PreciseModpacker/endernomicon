@@ -1,0 +1,28 @@
+{
+    "name": "Hats PDT DOCUMENTAR",
+    "icon": "minecraft:chest",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Tired of not being able to transport certain creatures or blocks easily? Don't worry, I have the solution!$(br)$(li)Just press shift and right click simultaneously while you are pointing to the specific creature or block that you want to carry.$(br)$(li)For example, you can carry Passive Animals and Chests." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/carry_on_1.png",
+            "text": "$(li)If this block or creature can be transported using this method, it will end in your hands."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Your walking speed will be reduced to a greater or lesser extent depending of the creature or block that you are carriying.$(br)$(li)You will not be able to access to your inventory or use your items in your hotback until you stop carrying the block or creature.$(br)$(li)To stop carrying just right click while you are pointing in a safe surface."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/carry_on_2.png",
+            "text": "$(li)Some creatures can be stacked on each other."
+        }
+             ]
+}

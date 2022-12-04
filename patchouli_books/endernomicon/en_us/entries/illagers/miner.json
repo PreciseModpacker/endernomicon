@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Miner can only be found in the Illager Mines extracting essential resources for them, mainly ores.$(br)$(li)On death they may drop Coal, Iron Nuggets, Gold Nuggets, or even TNT."
+            "text": "$(li)The Miner can only be found in the $(l:patchouli:illagers/illager_mine)Illager Mines$(/l) extracting essential resources for them, mainly ores.$(br)$(li)On death they may drop $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l), $(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nuggets$(/l), or $(l:patchouli:redstone/vanilla/tnt)TNT$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -2,12 +2,12 @@
     "name": "Extension",
     "icon": "minecraft:potion{Potion:'autumnity:extension'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:snail_slime",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'autumnity:extension'}",
-            "text": "$(li)Extension potions will give you 30 additional seconds of duration to the effects of the potions you take while the extension effect is still active.$(br)$(li)They can be brewed using a Snail Slime and Awkward potions as ingredients in a Brewing Stand."
+            "text": "$(li)Extension potions will give you 30 additional seconds of duration to the effects of the potions you take while the extension effect is still active.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/autumnity/snail_slime)Snail Slime$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

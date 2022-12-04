@@ -3,20 +3,17 @@
     "icon": "supplementaries:flute",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:bamboo",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:flute",
-            "text": "The Flute is an item that will let you summon all non sitting pets that are around you. One can also right or left click a pet with a Flute to bind the item to said pet.$(br2)A bound Flute will then only summon that specific pet, this time regardless if it's sitting or not only if the pet if it is within 64 blocks to you..",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:flute",
+            "text": "$(li)The Flute is an item that will let you summon all non sitting pets that are around you.$(br)$(li)You can also right or left click a pet with a Flute to bind the item to said pet.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a picture of a Flute"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:flute"
+            "text": "$(li)A bound Flute will then only summon that specific pet, this time regardless if it's sitting or not only if the pet if it is within 64 blocks to you."
         }
              ]
 }

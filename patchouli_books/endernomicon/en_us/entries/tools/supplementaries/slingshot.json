@@ -3,7 +3,7 @@
     "icon": "supplementaries:slingshot",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:rabbit_hide",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -12,8 +12,9 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)A Slingshot can be enchanted with Quick Charge, Multi Shot and $(l:patchouli:enchanted_books/supplementaries/stasis)Stasis$(/l)."
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/slingshot.png",
+            "text": "$(li)A Slingshot can be enchanted with $(l:patchouli:enchanting/vanilla/quick_charge)Quick Charge$(/l), $(l:patchouli:enchanting/vanilla/multishot)Multi Shot$(/l) and $(l:patchouli:enchanting/supplementaries/stasis)Stasis$(/l)."
         }
              ]
 }

@@ -1,18 +1,18 @@
 {    
     "name": "Soul Speed",
-    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
+    "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:soul_speed',lvl:1}]}",
     "category": "patchouli:enchanting",
     "advancement": "endrem:main/magical_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:soul_speed',lvl:1}]}",
             "text": "$(li)The Soul Speed enchantment can be applied in any kind of Boots.$(br)$(li)This enchantment increases the walking speed while you are in any kind of Soul blocks, like Soul Sand or Soul Soil.",
             "title": "Soul Speed"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an Ancient Tome (Soul Speed)."
+            "text": "$(li)By default, it can be upgrade just until level III.$(br)$(li)You can raise the level IV of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_soul_speed)Ancient Tome (Soul Speed)$(/l)."
         }
              ]
 }

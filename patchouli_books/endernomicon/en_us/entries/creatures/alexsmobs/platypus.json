@@ -1,13 +1,13 @@
 {    
     "name": "Platypus",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Platypuses are small passive creatures mostly covered in brown fur, having gray on their bill and webbed feet.$(br)$(li)You don't want to attack them or you will be poisonned you for 5 seconds.$(br)$(li)Platypus can be bred with Lobster Tails or Cooked Lobster Tails."
+            "text": "$(li)Platypuses are small passive creatures mostly covered in brown fur, having gray on their bill and webbed feet.$(br)$(li)You don't want to attack them or you will be $(l:patchouli:potions/vanilla/poison)Poisoned$(/l) for 5 seconds.$(br)$(li)Platypus can be bred with $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tails$(/l) or Cooked Lobster Tails."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can attract Platypus with Redstone.$(br)$(li)Give them Redstone Powder or Redstone Blocks to make them find something useful for you in near clay blocks, like Maggots, Clay Balls, or even a Fedora."
+            "text": "$(li)You can attract Platypus with $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l).$(br)$(li)Give them $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l) or $(l:patchouli:redstone/vanilla/redstone_block)Redstone Blocks$(/l) to make them find something useful for you in near Clay blocks, like $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l), $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay Balls$(/l), or even a $(l)Fedora$()."
         }  
              ]
 }

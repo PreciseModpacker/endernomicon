@@ -1,0 +1,28 @@
+{    
+    "name": "Villagers",
+    "icon": "endermonicon:textures/book/categories/villagers.png",
+    "category": "patchouli:villagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Villagers are passive creatures that can be found in the $(l:patchouli:villagers/villagers)Villages$(/l) of the Overworld.$(br)$(li)By default they will not want to trade with you.$(br)$(li)They can learn a profession when are near of specific blocks."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:villager",
+            "scale": 1
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Professions",
+            "text": "$(li)$(l:patchouli:villagers/apiarist)Apiarist$(/l)$(li)$(l:patchouli:villagers/armorer)Armorer$(/l)$(li)$(l:patchouli:villagers/butcher)Butcher$(/l)$(li)$(l:patchouli:villagers/carpenter)Carpenter$(/l)$(li)$(l:patchouli:villagers/cartographer)Cartographer$(/l)$(li)$(l:patchouli:villagers/ceramist)Ceramist$(/l)$(li)$(l:patchouli:villagers/cleric)Cleric$(/l)$(li)$(l:patchouli:villagers/farmer)Farmer$(/l)$(li)$(l:patchouli:villagers/fisherman)Fisherman$(/l)$(li)$(l:patchouli:villagers/fletcher)Fletcher$(/l)$(li)$(l:patchouli:villagers/guard)Guard$(/l)$(li)$(l:patchouli:villagers/leatherworker)Leatherworker$(/l)$(li)$(l:patchouli:villagers/librarian)Librarian$(/l)$(li)$(l:patchouli:villagers/lumberjack)Lumberjack$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Professions",
+            "text": "$(li)$(l:patchouli:villagers/mason)Mason$(/l)$(li)$(l:patchouli:villagers/shepherd)Shepherd$(/l)$(li)$(l:patchouli:villagers/toolsmith)Toolsmith$(/l)$(li)$(l:patchouli:villagers/weaponsmith)Weaponsmith$(/l)"
+        }
+             ]
+}

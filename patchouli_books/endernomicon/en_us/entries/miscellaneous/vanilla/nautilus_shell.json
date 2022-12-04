@@ -2,19 +2,19 @@
     "name": "Nautilus Shell",
     "icon": "minecraft:nautilus_shell",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:nautilus_shell",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:nautilus_shell",
-            "text": "$(li)The Nautilus Shell is hard material that can be used to craft Coralstone and Conduits.$(br)$(li)Drowneds rarely drop them on death and they can rarely obtained during Fishing too.$(br)$(li)Wandering Traders may sell them by Emeralds.",
+            "text": "$(li)The Nautilus Shell is a hard material that can be used to craft $(l)Coralstone$() and $(l:patchouli:utility/vanilla/conduit)Conduits$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop them on death and they can rarely obtained during fishing too.$(br)$(li)$(l:patchouli:villagers/wandering_trader)Wandering Traders$(/l) may sell them by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:smelting",
             "recipe": "upgrade_aquatic:nautilus_shell_from_furnace",
-            "text": "$(li)Finally, you can obtain it Smelting an Embedded Ammonite in a Furnace or Blast furnace too.",
+            "text": "$(li)Finally, you can obtain it smelting an Embedded Ammonite in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l) too.",
             "link_recipe": "true"
         }
              ]

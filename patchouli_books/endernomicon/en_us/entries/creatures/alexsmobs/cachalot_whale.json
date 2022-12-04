@@ -1,31 +1,25 @@
 {    
     "name": "Cachalot Whale",
-    "icon": "minecraft:fishing_rod",
+    "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
 #    "advancement": "endrem:main/nether_eye",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cachalot Whales are neutral, massive mammals creatures found in the Lukewarm, Cold and Deep oceans.$(br)$(li)They detect their preys, Squids sending out a moaning noise to echolocate them."
+            "text": "$(li)Cachalot Whales are neutral, massive mammals creatures found in the $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l), and $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l).$(br)$(li)They detect their preys, $(l:patchouli:creatures/vanilla/squid)Squids$(/l) sending out a moaning noise to echolocate them."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_1.png"
         },
         {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_2.png",
-            "text": "$(li)During thunderstoms, Cachalot Whales may spawn washed up on beaches."
-        },
-        {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_2.png",
-            "text": "$(li)If you pushed back into the water without hurt them, they may reward you with an Ambergris."
-        },
-        {
             "type": "patchouli:text",
-            "text": "$(li)During thunderstoms, Cachalot Whales may spawn washed up on beaches.$(br)$(li)If you pushed back into the water without hurt them, they may reward you with an Ambergris."
+            "text": "$(li)During thunderstoms, Cachalot Whales may spawn washed up on $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l).$(br)$(li)If you pushed back into the water without hurt them, they may reward you with an $(l:patchouli:miscellaneous/alexsmobs/ambergris)Ambergris$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/creatures/cachalot_whale_2.png"
         }
              ]
 }

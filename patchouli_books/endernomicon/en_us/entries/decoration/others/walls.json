@@ -7,9 +7,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:cobblestone_wall",
-            "text": "$(li)Walls are a decorative block. Like Fences, they can be used to create boundaries, because you and most creatures cannot climb or jump over them.",
+            "text": "$(li)Walls are a decorative block.$(br)$(li)As the $(l:patchouli:decoration/others/fences)Fences$(/l), they can be used to create boundaries, because you and most creatures cannot climb or jump over them.",
             "link_recipe": "true",
             "title": "Walls"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/wall.png"
         },
         {
             "type": "patchouli:crafting",

@@ -2,13 +2,16 @@
     "name": "Sword (End Crystal)",
     "icon": "endrem:end_crystal_sword",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "endrem:end_crystal_sword",
-            "text": "$(li)The End Crystal Sword is a very powerful Sword which is even more powerful and durable than a Netherite Sword.$(br)$(li)The End Crystal Sword can be crafted in a Smithing table, with the specific Diamond Armor piece and a End Crystal Ingot.",
+            "type": "smithing_table",
+            "title": "End Crystal Sword",
+            "input": "minecraft:diamond_sword",
+            "input2": "endrem:end_crystal_ingot",
+            "output": "endrem:end_crystal_sword",
+            "text": "$(li)The End Crystal Sword is a very resistant and powerful sword.$(br)$(li)It is even more powerful and durable than a $(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l).",
             "link_recipe": "true"
         },
         {

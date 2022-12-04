@@ -1,0 +1,47 @@
+{    
+    "name": "Getting Started",
+    "icon": "endermonicon:textures/book/categories/book.png",
+    "category": "patchouli:enders_journey",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Thanks to download the Ender's Journey modpack!$(br)$(li)If you find any bug, please, don't doubt to report it here: [INSERTAR LINK].$(br)$(li)If you are new I strongly recommend you read these pages before to start."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Ender Dragon",
+            "text": "$(li)The Ender Dragon is becoming a latent threat in our world.$(br)$(li)If it gets enough power and gets into our dimension, it will be completely destroyed.$(br)$(li)You must go to the End and banish the Ender Dragon in the depths of the void before this happens."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Ender Portal",
+            "text": "$(li)Accessing the End will not be an easy task.$(br)$(li)First, you will need to find 12 different $(l:patchouli:enders_journey/ender_eyes)Ender Eyes$(/l), each one is obtained in a different way.$(br)$(li)These artifacts will allow you to find and activate a portal that will connect our world with the End, thus allowing you to access it to fulfill your objective."
+        },
+        {
+            "type": "patchouli:micro_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_1.png",
+            "title": "Endernomicon",
+            "text": "$(li)The Endornomicon is an ancient book with arcane knowledge that will help you in your journey."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_2.png",
+            "text": "$(li)You can access to this book with the $(l)Endernomicon button$() located in your inventory."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_3.png",
+            "text": "$(li)Here, you will see multiple categories. At first some of them will be locked."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_4.png",
+            "text": "$(li)Inside of every category you will find entries related with that category. At first some of them will be locked too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)As you explore the world, discover new dimensions, biomes and structures, find new items, slay creatures and craft items, the book entries will be unlocked little by little.$(br)$(li)This knowledge may be useful to you in your adventure.$(br)$(li)You can $(l:patchouli:enders_journey/craft_endernomicon)craft this book$(/l) to have extra functions too."
+        }
+             ]
+}

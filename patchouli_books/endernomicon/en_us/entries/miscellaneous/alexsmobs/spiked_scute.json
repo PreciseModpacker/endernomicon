@@ -3,12 +3,12 @@
     "icon": "alexsmobs:spiked_scute",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "alexsmobs:alexsmobs/spiked_scute",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:spiked_scute",
-            "text": "$(li)The Spiked Scute is a hard item that can be used to craft a Spiked Turtle Shell in a Crafting Table.$(br)$(li)It can only be obtained by shearing an Alligator Snapping Turtle covered in Algae after saying underwated for too long.",
+            "text": "$(li)The Spiked Scute is a hard item that can be used to craft the $(l:patchouli:armors/spiked_turtle_shell)Spiked Turtle Shell$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can only be obtained by shearing an $(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l) covered in $(l:patchouli:miscellaneous/vanilla/kelp)Kelp$(/l) after staying underwated for too long.",
             "link_recipe": "true"
         }
              ]

@@ -1,0 +1,38 @@
+{
+    "name": "Nether Portal",
+    "icon": "minecraft:crying_obsidian",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Nether portal allows you to enter in the Nether dimension.$(br)$(li)You can find partially created portals in the $(l:patchouli:structures/ruined_portal)Overworld$(/l) and $(l:patchouli:structures/ruined_portal_end)End$(/l).$(br)$(li)You can created it manually too, with $(l:patchouli:miscellaneous/vanilla/obsidian)Obsidian$(/l) or $(l:patchouli:miscellaneous/vanilla/crying_obsidian)Crying Obsidian$(/l)." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Nether Portal",
+            "multiblock": {
+                "pattern": [
+                    [ "AOOA" ],
+                    [ "OAAO" ],
+                    [ "O0AO" ],
+                    [ "OAAO" ],
+                    [ "AOOA" ]
+                ],
+                "mapping": {
+                    "O": "minecraft:obsidian",
+                    "A": "minecraft:air",
+                    "0": "minecraft:air"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/nether_portal.png",
+            "text": "$(li)Finally, just right click inside of the Nether Portal with the Flint and Steel or a Fire Charge to generate fire and turn it on."
+        }
+    ]
+}

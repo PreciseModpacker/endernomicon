@@ -1,0 +1,16 @@
+{    
+    "name": "Loot Chest",
+    "icon": "minecraft:chest",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)In the different Dungeons and Structures that you will find throughout your journey, Loot Chests can be hidden.$(br)$(li)These usually contain different items inside that can be useful.$(br)$(li)Do not forget to look for them whenever you explore a new structure!"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/loot_chest.png"
+        }
+             ]
+}

@@ -1,0 +1,20 @@
+{    
+    "name": "Apple",
+    "icon": "minecraft:apple",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:apple",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:apple",
+            "text": "$(li)The Apple is an eatable item that can be used to craft a $(l:patchouli:utility/quark/apple_crate)Apple Crate$(/l), $(l)Apple Pie$(), $(l)Honey Apple$(), and $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Leaves rarely drop this item when they are broken.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "fruitful:baked_apple",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Baked Apple satisfies more than an Apple."
+        }
+             ]
+}

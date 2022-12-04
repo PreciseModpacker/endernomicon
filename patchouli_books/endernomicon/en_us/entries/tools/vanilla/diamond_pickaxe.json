@@ -3,17 +3,20 @@
     "icon": "minecraft:diamond_pickaxe",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:diamond_pickaxe",
-            "text": "$(li)The Diamond Pickaxe is the upgrade of the Iron Pickaxe.$(br)$(li)It can be crafted placing a pair of Diamonds and Sticks in a Crafting Table." ,
+            "text": "$(li)The Diamond Pickaxe is the upgrade of the $(l:patchouli:tools/vanilla/iron_pickaxe)Iron Pickaxe$(/l).$(br)$(li)This pickaxe opens the possibility of mine $(l:patchouli:miscellaneous/vanilla/obsidian)Obsidian$(/l), $(l:patchouli:miscellaneous/vanilla/crying_obsidian)Crying Obsidian$(/l), and $(l:patchouli:miscellaneous/vanilla/ancient_debris)Ancient Debris$(/l)." ,
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)This pickaxe opens the possibility of mine Obsidian and Ancient Debris.$(br)$(li)The Diamond Pickaxe has more durability than the Iron Pickaxe." 
+            "type": "patchouli:entity",
+            "name": "Diamond Pickaxe",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:diamond_pickaxe,Count:1}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "The Diamond Pickaxe has more durability than the last one." 
         }
              ]
 }

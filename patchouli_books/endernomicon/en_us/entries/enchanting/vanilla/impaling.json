@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:impaling',lvl:1}]}",
-            "text": "$(li)The Impaling enchantment can be applied in a Trident.$(br)$(li)This enchantment increases the damage inflicted to any creature with the enchanted Trident.",
+            "text": "$(li)The Impaling enchantment can be applied in a $(l:patchouli:weapons/trident)Trident$(/l).$(br)$(li)This enchantment increases the damage inflicted to any creature with the enchanted $(l:patchouli:weapons/trident)Trident$(/l).",
             "title": "Impaling"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an Ancient Tome (Impaling)."
+            "text": "$(li)By default, it can be upgrade just until level V.$(br)$(li)You can raise the level VI of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_impaling)Ancient Tome (Impaling)$(/l)."
         }
              ]
 }

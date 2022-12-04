@@ -3,12 +3,12 @@
     "icon": "infernalexp:moth_dust",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:moth_dust",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:moth_dust",
-            "text": "$(li)Moth Dust is an special ingredient that can only be used to brew a Potion of Luminance.$(br)$(li)It can only be dropped by a Glowsilk Moth.",
+            "text": "$(li)The Moth Dust is a special ingredient that can be used to brew a $(l:patchouli:potions/infernal_expansion/luminance)Potion of Luminance$(/l).$(br)$(li)This item can be used to craft $(l:patchouli:miscellaneous/infernalexp/glowsilk)Glowsilk$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/infernal_expansion/glowsilk_moth)Glowsilk Moths$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

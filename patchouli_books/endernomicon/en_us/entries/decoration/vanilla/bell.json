@@ -7,13 +7,13 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:bell",
-            "text": "$(li)The Bell is a decorative item that will emit sound when you right click on it.$(br)$(li)Armorers, Toolsmiths, and Weaponsmiths will exchange your Emeralds by a Bell.",
+            "text": "$(li)The Bell is a decorative item that will emit sound when you right click on it.$(br)$(li)$(l:patchouli:villagers/armorer)Armorers$(/l), $(l:patchouli:villagers/toolsmith)Toolsmiths$(/l), and $(l:patchouli:villagers/weaponsmith)Weaponsmiths$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by a Bell.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/decoration/bell.png",
-            "text": "$(li)You can find Bells placed in the center of the Villagers."
+            "text": "$(li)You can find Bells placed in the center of the $(l:patchouli:villagers/villagers)Villages$(/l)."
         }
              ]
 }

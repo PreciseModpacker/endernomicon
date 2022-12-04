@@ -3,12 +3,12 @@
     "icon": "alexsmobs:soul_heart",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "alexsmobs:alexsmobs/soul_heart",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:soul_heart",
-            "text": "$(li)The Soul Heart of a Soul Vulture can be used to attract Spectres to you.$(br)$(li)It can be used to brew a Potion of Soulsteal too.",
+            "text": "$(li)The Soul Heart can be used to attract $(l:patchouli:creatures/alexsmobs/spectre)Spectres$(/l) to you.$(br)$(li)It is a needed ingredient to brew a $(l:patchouli:potions/alexsmobs/soulsteal)Potion of Soulsteal$(/l) too.$(br)$(li)$(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
              ]

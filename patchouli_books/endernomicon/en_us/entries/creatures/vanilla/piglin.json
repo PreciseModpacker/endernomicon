@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Piglins are neutral creatures that can be found over the Nether.$(br)$(li)These creatures will become hostile to you if they see you while you are not wearing at least one piece of Golden Armor.$(br)$(li)You can trade with a Pigling throwing Gold Ingots near to it."
+            "text": "$(li)Piglins are neutral creatures that can be found over the Nether.$(br)$(li)These creatures will become hostile to you if they see you while you are not wearing at least one piece of $(l:patchouli:armors/golden_armor)Golden Armor$(/l).$(br)$(li)You can trade with a Piglin throwing $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) near to it."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:piglin",
             "scale": 1,
-            "text": "They will held a Golden Sword or a Crossbow. They may drop their held weapon on death."
+            "text": "They will held a $(l:patchouli:weapons/gold_sword)Golden Sword$(/l) or a $(l:patchouli:weapons/crossbow)Crossbow$(/l). They may drop their held weapon on death."
         }
              ]
 }

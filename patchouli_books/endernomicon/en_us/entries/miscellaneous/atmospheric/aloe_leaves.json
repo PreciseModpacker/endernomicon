@@ -1,0 +1,19 @@
+{    
+    "name": "Aloe Leaves",
+    "icon": "atmospheric:aloe_leaves",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:aloe_leaves",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "atmospheric:aloe_leaves",
+            "text": "$(li)The Aloe Leaves is an eatable item that can be obtained by harvesting Aloe Vera plants in the $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l).$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange you this item by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)It can be used to craft a $(l:patchouli:tools/atmospheric/aloe_gel_bottle)Aloe Gel Bottle$(/l) or an $(l)Aloe Bundle$() in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This item can be used to brew a $(l:patchouli:potions/atmospheric/relief)Potion of Relief$(/l)."
+        }
+             ]
+}

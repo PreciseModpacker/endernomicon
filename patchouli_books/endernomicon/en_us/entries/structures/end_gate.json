@@ -1,0 +1,18 @@
+{    
+    "name": "End Gate",
+    "icon": "minecraft:end_portal_frame",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The End Gate is a dungeon that can be found deep of the caves of the Overworld using the $(l:patchouli:enders_journey/end_portal)Ender Eyes$(/l).$(br)$(li)Inside, you will have to go through numerous puzzles that will test your intelligente and determination, to finally reach the $(l:patchouli:enders_journey/end_portal)End Portal$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/end_gate.png"
+        }
+             ]
+}

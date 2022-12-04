@@ -6,18 +6,15 @@
 #    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "supplementaries:pedestal",
-            "text": "The Pedestal is a decorative blocks that acts as an item display.$(br2)You can place objects on there right clicking in one while you are holding an item in your hand.$(br2)It will also display an item's custom name if it has one.",
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:pedestal",
+            "text": "$(li)The Pedestal is a decorative block that acts as an item display.$(br)$(li)You can place items on the Pedestal right clicking on it while you are holding an item in your hand.",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Pedestal Items like Tridents, End Crystals and Swords display differently on pedestals and observers can detect when an item is taken from a pedestal."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "supplementaries:pedestal"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/pedestal.png",
+            "text": "$(li)It will also display an item's custom name if it has one."
         }
              ]
 }

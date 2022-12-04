@@ -3,12 +3,12 @@
     "icon": "minecraft:tnt",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gunpowder",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:tnt",
-            "text": "$(li)The TNT is a block that can be used to craft a Minecart with TNT or a Bomb in a Crafting Table.$(br)$(li)It can be activated with a Flint & Steel, Fire Arrow, or any kind of redstone signal."
+            "text": "$(li)The TNT is a block that can be used to craft a $(l:patchouli:redstone/vanilla/tnt_minecart)Minecart with TNT$(/l) or a $(l:patchouli:weapons/bomb)Bomb$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be activated with a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l), Fire $(l:patchouli:weapons/vanilla/arrow)Arrow$(/l), or any kind of redstone signal."
         },
         {
             "type": "patchouli:small_pictures",

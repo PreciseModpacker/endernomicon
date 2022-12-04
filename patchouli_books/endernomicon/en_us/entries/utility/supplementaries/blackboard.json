@@ -3,6 +3,7 @@
     "icon": "supplementaries:blackboard",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:nether_quartz",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -1,0 +1,17 @@
+{    
+    "name": "Shipwreck (Nether Brick)",
+    "icon": "minecraft:nether_bricks",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+#    "advancement": "endrem:main/end_crystal_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This variant of the Shipwrecks can appears over the Nether.$(br)$(li)These are inhabited by $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l)."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/nether_brick_shipwreck.png"
+        }
+             ]
+}

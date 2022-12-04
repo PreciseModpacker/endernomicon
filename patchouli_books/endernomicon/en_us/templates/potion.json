@@ -13,16 +13,6 @@
     },
     {
       "type": "image",
-      "image": "endermonicon:textures/book/templates/potion/gui_background.png",
-      "x": 1,
-      "y": 17,
-      "height": 130,
-      "width": 114,
-      "texture_height": 130,
-      "texture_width": 114
-    },
-    {
-      "type": "image",
       "image": "endermonicon:textures/book/templates/potion/gui_square.png",
       "x": 5,
       "y": 22,
@@ -172,6 +162,13 @@
       "width": 102,
       "texture_height": 32,
       "texture_width": 102
+    },
+    {
+      "type": "item",
+      "item": "minecraft:brewing_stand",
+      "framed": "false",
+      "x": 95,
+      "y": 122
     }
   ]
 }

@@ -1,0 +1,20 @@
+{    
+    "name": "Kelp",
+    "icon": "minecraft:kelp",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:kelp",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:kelp",
+            "text": "$(li)The Kelp is an underwater plant that generates in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l), $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_lukewarm_ocean)Deep Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/deep_cold_ocean)Deep Cold Oceans$(/l), and $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) of the Overworld.$(br)$(li)If you shear an $(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l) that was covered in this plant too long, you can obtain a $(l:patchouli:miscellaneous/alexsmobs/spiked_scute)Spiked Scute$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:dried_kelp_from_smelting",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)The Dried Kelp is not very satiating.$(br)$(li)Kelp can be used to craft $(l)Kelpy Cobblestone$(), $(l)Shark Tooth Arrow$(), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l)Kelpy Stone Bricks$(), and $(l)Kelp Blocks$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
+        }
+             ]
+}

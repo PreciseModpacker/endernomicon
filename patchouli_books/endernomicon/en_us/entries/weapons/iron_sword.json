@@ -3,12 +3,12 @@
     "icon": "minecraft:iron_sword",
     "category": "patchouli:weapons",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:iron_sword",
-            "text": "$(li)The Iron Sword is the direct upgrade of the Stone Sword.$(br)$(li)This one inflicts more damage and has more durability than the Stone Sword." ,
+            "text": "$(li)The Iron Sword is the direct upgrade of the $(l:patchouli:weapons/stone_sword)Stone Sword$(/l).$(br)$(li)This one inflicts more damage and has more durability than the last one." ,
             "link_recipe": "true"
         },
         {

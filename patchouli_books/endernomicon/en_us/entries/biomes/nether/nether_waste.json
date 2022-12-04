@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures like Zombified Piglins, Piglins, Ghasts, Magma Cubes, Endermans and Striders can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Nether Wastes$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures like $(l:patchouli:creatures/vanilla/zombified_piglin)Zombified Piglins$(/l), $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l), $(l:patchouli:creatures/vanilla/enderman)Endermans$(/l), and $(l:patchouli:pets/vanilla/strider)Striders$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Nether Wastes$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

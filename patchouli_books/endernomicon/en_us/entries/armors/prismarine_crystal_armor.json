@@ -2,8 +2,8 @@
     "name": "Prismarine Crystal Armor",
     "icon": "extraarmor:prismarine_crystal_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 22,
+    "advancement": "endernomicon:prismarine_crystals",
     "pages": [
        {
             "type": "patchouli:text",

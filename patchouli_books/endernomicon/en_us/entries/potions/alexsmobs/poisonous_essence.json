@@ -1,0 +1,22 @@
+{    
+    "name": "Poisonous Essence",
+    "icon": "alexsmobs:poison_bottle",
+    "category": "patchouli:potions",
+    "advancement": "endrem:main/witch_eye",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Poisonous Essence",
+            "item": "alexsmobs:poison_bottle",
+            "text": "$(li)Poisonous Essence is a needed ingredient to brew a $(l:patchouli:potions/alexsmobs/poison_resistance)Potion of Poison Resistance$(/l).$(br)$(li)It can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/rattlesnake_rattle)Rattlesnake Rattle$(/l) and $(l:patchouli:potions/vanilla/poison)Potion of Poisons$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "potion",
+            "title": "Poisonous Essence",
+            "input": "alexsmobs:rattlesnake_rattle",
+            "input2": "minecraft:potion{Potion:'minecraft:poison'}",
+            "output": "alexsmobs:poison_bottle"
+        }
+             ]
+}

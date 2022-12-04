@@ -2,18 +2,20 @@
     "name": "Pumpkin",
     "icon": "minecraft:pumpkin",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:pumpkin",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:pumpkin",
-            "text": "$(li)Pumpkin is a fruit block that appears over the Overworld.$(br)$(li)You can use Pumpkins to craft Pumpkin Bread, Large Pumpkin Slice, Pumpkin Seeds, Pumpkin Pie, Azuki Curry and a Pumpkin Armor in a Crafting Table.",
+            "text": "$(li)Pumpkin is a fruit block that appears over the Overworld.$(br)$(li)You can use Pumpkins to craft $(l)Pumpkin Bread$(), $(l)Large Pumpkin Slice$(), $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l), $(l)Pumpkin Pie$(), $(l)Azuki Curry$(), and a $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)This block can be grows up from a Pumpkin Seeds.$(br)$(li)You can create Carved Pumpkins right clicking while you are holding a Shears on your hand and your are pointing to a Pumpkin."
+            "type": "patchouli:spotlight",
+            "item": "minecraft:carved_pumpkin",
+            "text": "$(li)This block can be grows up from $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l).$(br)$(li)You can create Carved Pumpkins right clicking while you are holding a pair of $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand and your are pointing to a Pumpkin.",
+            "link_recipe": "true"
         }
              ]
 }

@@ -8,11 +8,11 @@
             "type": "patchouli:spotlight",
             "title": "Signs",
             "item": "minecraft:oak_sign",
-            "text": "$(li)The Sign is a decorative item that comes in all wood types.$(br)$(li)It can be placed under or on the side of a block, fence or wall.$(br)$(li)You can write text on them by right-cliking the sign with an empty hand."
+            "text": "$(li)The Sign is a decorative block that comes in all wood types.$(br)$(li)It can be placed under or on the side of a block, $(l:patchouli:decoration/others/fences)Fence$(/l) or $(l:patchouli:decoration/others/walls)Walls$(/l).$(br)$(li)You can write text on them by right-cliking the sign with an empty hand."
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of Signs"
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/decoration/sign.png"
         },
         {
             "type": "patchouli:crafting",

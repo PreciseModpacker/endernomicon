@@ -1,0 +1,17 @@
+{    
+    "name": "Monument (Jungle)",
+    "icon": "alexsmobs:banana",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_enhanced:ancient_civilizations",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Jungle Monument is a huge structure that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) of the Overworld.$(br)$(li)Some dangerous traps and puzzles can be found inside trying to prevent outsiders from taking the hidden treasures in this place."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/jungle_monument.png"
+        }
+             ]
+}

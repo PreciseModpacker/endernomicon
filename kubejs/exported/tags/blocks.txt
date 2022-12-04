@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: May 10, 2022 10:54:02 PM
+To refresh this file, delete it and run /reload command again! Last updated: Oct 20, 2022 1:10:28 AM
 
 #forge:glass_panes/magenta
 - minecraft:magenta_stained_glass_pane
@@ -209,16 +209,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:end_stone
 - minecraft:iron_bars
 - minecraft:respawn_anchor
-- architects_palette:entwine_block
-- architects_palette:entwine_pillar
-- architects_palette:chiseled_entwine
-- architects_palette:entwine_bars
-- architects_palette:heavy_end_stone_bricks
-- architects_palette:heavy_cracked_end_stone_bricks
-- architects_palette:chiseled_end_stone_bricks
-- architects_palette:choral_end_stone_bricks
-- architects_palette:cracked_end_stone_bricks
-- minecraft:end_stone_bricks
 - supplementaries:spring_launcher_arm
 - supplementaries:safe
 - cataclysm:witherite_block
@@ -310,10 +300,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 #forge:glass/red
 - minecraft:red_stained_glass
 
-#chiselsandbits:chiselable/forced
-- minecraft:grass_block
-- #minecraft:leaves
-
 #chisel:sandstone
 - chisel:sandstone/cracked
 - chisel:sandstone/solid_bricks
@@ -351,7 +337,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:sandstone/extra/bevel_creeper
 - chisel:sandstone/extra/glyphs
 - chisel:sandstone/extra/small
-- #forge:sandstone?
+- forge:sandstone?
 
 #chisel:planks/jungle
 - chisel:planks/jungle/large_planks
@@ -435,9 +421,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - quark:mushroom_trapped_chest?
 - bayou_blues:cypress_trapped_chest
 - minecraft:trapped_chest
+- endergetic:poise_trapped_chest
 - upgrade_aquatic:driftwood_trapped_chest
 - upgrade_aquatic:river_trapped_chest
-- endergetic:poise_trapped_chest
 - atmospheric:rosewood_trapped_chest
 - atmospheric:morado_trapped_chest
 - atmospheric:yucca_trapped_chest
@@ -475,7 +461,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - structure_gel:yellow_gel
 
 #forge:fence_gates
-- #forge:fence_gates/wooden
 - #forge:fence_gates/wooden
 - quark:nether_brick_fence_gate
 
@@ -521,13 +506,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - inspirations:red_enlightened_bush
 - inspirations:green_enlightened_bush
 - inspirations:blue_enlightened_bush
-
-#chimes:wind_chimes
-- chimes:bamboo_chimes
-- chimes:carved_bamboo_chimes
-- chimes:iron_chimes
-- chimes:copper_chimes
-- chimes:amethyst_chimes
 
 #chisel:planks/oak
 - chisel:planks/oak/large_planks
@@ -588,8 +566,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:purple_bed
 - minecraft:white_bed
 - minecraft:yellow_bed
-- bedspreads:decorated_bed
-- restored_earth:rainbow_bed
 
 #forge:ores/diamond
 - minecraft:diamond_ore
@@ -635,10 +611,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:iron_door
 - supplementaries:gold_door
 - supplementaries:netherite_door
-- druidcraft:darkwood_door
-- druidcraft:elder_door
 - buzzier_bees:honeycomb_door
-- outer_end:azure_door
 - upgrade_aquatic:tooth_door
 - upgrade_aquatic:glass_door
 - inspirations:glass_door
@@ -651,7 +624,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:metals/aluminum/badgreggy
 - chisel:metals/aluminum/bolted
 - chisel:metals/aluminum/scaffold
-- #forge:storage_blocks/aluminum?
+- forge:storage_blocks/aluminum?
 
 #minecraft:infiniburn_overworld
 - minecraft:netherrack
@@ -688,10 +661,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:potted_warped_fungus
 - minecraft:potted_crimson_roots
 - minecraft:potted_warped_roots
-- architects_palette:potted_twisted_sapling
-- druidcraft:potted_darkwood_sapling
-- druidcraft:potted_elder_sapling
-- druidcraft:potted_lavender
 - fruitful:potted_flowering_oak_sapling
 - environmental:potted_willow_sapling
 - environmental:potted_cherry_sapling
@@ -724,13 +693,13 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - buzzier_bees:potted_white_clover
 - buzzier_bees:potted_pink_clover
 - bayou_blues:potted_cypress_sapling
+- endergetic:potted_poise_bush
+- endergetic:potted_tall_poise_bush
 - upgrade_aquatic:potted_blue_pickerelweed
 - upgrade_aquatic:potted_purple_pickerelweed
 - upgrade_aquatic:potted_white_searocket
 - upgrade_aquatic:potted_pink_searocket
 - upgrade_aquatic:potted_river_sapling
-- endergetic:potted_poise_bush
-- endergetic:potted_tall_poise_bush
 - atmospheric:potted_rosewood_sapling
 - atmospheric:potted_morado_sapling
 - atmospheric:potted_yucca_sapling
@@ -1009,9 +978,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 #forge:glass_panes/red
 - minecraft:red_stained_glass_pane
 
-#druidcraft:rockroot_blocks
-- druidcraft:rockroot_block
-
 #farmersdelight:mushroom_colony_growable_on
 - supplementaries:planter_rich
 
@@ -1031,11 +997,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:potted_warped_fungus
 - minecraft:nether_portal
 - minecraft:respawn_anchor
-
-#outer_end:crystal_buds
-- outer_end:rose_crystal_bud
-- outer_end:mint_crystal_bud
-- outer_end:cobalt_crystal_bud
 
 #chisel:concrete/blue
 - chisel:concrete/blue/cracked
@@ -1088,6 +1049,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:emerald/masonryemerald
 - chisel:emerald/emeraldcircle
 - chisel:emerald/emeraldprismatic
+- minecraft:beacon_base_blocks?
 
 #chisel:laboratory
 - chisel:laboratory/wallpanel
@@ -1171,6 +1133,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_vertical_slab
 - enhanced_mushrooms:glowshroom_vertical_slab
 - bayou_blues:cypress_vertical_slab
+- endergetic:poise_vertical_slab
 - upgrade_aquatic:driftwood_vertical_slab
 - upgrade_aquatic:river_vertical_slab
 - atmospheric:rosewood_vertical_slab
@@ -1222,7 +1185,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:marble/twisted
 - chisel:marble/prism
 - chisel:marble/cuts
-- #forge:stone/marble?
+- forge:stone/marble?
 
 #minecraft:soul_speed_blocks
 - minecraft:soul_sand
@@ -1272,12 +1235,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 #forge:storage_blocks/charcoal
 - quark:charcoal_block
 
-#outer_end:end_plantable_on
-- #forge:end_stones
-
-#forge:storage_blocks/moonstone
-- druidcraft:moonstone_block
-
 #alexsmobs:lobster_spawns
 - #minecraft:sand
 - #forge:gravel
@@ -1312,33 +1269,11 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - infernalexp:soul_slate_brick_wall
 - infernalexp:soul_stone_wall
 - infernalexp:soul_stone_brick_wall
-- architects_palette:limestone_wall
-- architects_palette:limestone_brick_wall
-- architects_palette:mushy_limestone_brick_wall
-- architects_palette:olivestone_brick_wall
-- architects_palette:olivestone_tile_wall
-- architects_palette:algal_brick_wall
-- architects_palette:overgrown_algal_brick_wall
-- architects_palette:coal_ore_brick_wall
-- architects_palette:lapis_ore_brick_wall
-- architects_palette:redstone_ore_brick_wall
-- architects_palette:iron_ore_brick_wall
-- architects_palette:gold_ore_brick_wall
-- architects_palette:emerald_ore_brick_wall
-- architects_palette:diamond_ore_brick_wall
-- architects_palette:osseous_brick_wall
-- architects_palette:withered_osseous_brick_wall
-- architects_palette:flint_tile_wall
-- architects_palette:polished_packed_ice_wall
-- architects_palette:plating_wall
-- architects_palette:warpstone_wall
-- architects_palette:basalt_tile_wall
 - goblinsanddungeons:scoria_wall
 - goblinsanddungeons:scoria_brick_wall
 - goblinsanddungeons:polished_scoria_wall
 - cataclysm:obsidian_brick_wall
 - cataclysm:purpur_wall
-- druidcraft:dry_mud_brick_wall
 - environmental:mud_brick_wall
 - environmental:ice_brick_wall
 - environmental:terracotta_brick_wall
@@ -1373,8 +1308,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - cookielicious:mulberry_cookie_tile_wall
 - cookielicious:maple_cookie_tile_wall
 - cookielicious:gooseberry_jam_cookie_tile_wall
-- outer_end:violite_brick_wall
-- outer_end:mossy_violite_brick_wall
 - decorative_blocks:acacia_palisade
 - decorative_blocks:birch_palisade
 - decorative_blocks:jungle_palisade
@@ -1387,6 +1320,8 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - crumbs:sandstone_tile_wall
 - crumbs:red_sandstone_tile_wall
 - crumbs:blue_nether_brick_wall
+- endergetic:mystical_obsidian_wall
+- endergetic:eumus_brick_wall
 - neapolitan:chocolate_brick_wall
 - neapolitan:chocolate_tile_wall
 - upgrade_aquatic:kelpy_cobblestone_wall
@@ -1422,8 +1357,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - upgrade_aquatic:elder_prismarine_coralstone_wall
 - upgrade_aquatic:prismarine_coralstone_wall
 - upgrade_aquatic:dead_coralstone_wall
-- endergetic:mystical_obsidian_wall
-- endergetic:eumus_brick_wall
 - lepton:purpur_wall
 - lepton:quartz_wall
 - lepton:smooth_quartz_wall
@@ -1697,14 +1630,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - atmospheric:red_arid_sand
 
 #forge:end_stones
-- outer_end:azure_grass
 - minecraft:end_stone
-
-#druidcraft:darkwood_logs
-- druidcraft:darkwood_log
-- druidcraft:darkwood_wood
-- druidcraft:stripped_darkwood_log
-- druidcraft:stripped_darkwood_wood
 
 #biomesoplenty:fir_logs
 - decorative_blocks:fir_beam
@@ -1799,8 +1725,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - mysticalworld:uncanny_mushroom_wide_post?
 
 #forge:fences/wooden
-- druidcraft:darkwood_fence
-- druidcraft:elder_fence
 - environmental:willow_fence
 - environmental:cherry_fence
 - environmental:wisteria_fence
@@ -1817,9 +1741,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_fence
 - minecraft:crimson_fence
 - minecraft:warped_fence
+- endergetic:poise_fence
 - upgrade_aquatic:driftwood_fence
 - upgrade_aquatic:river_fence
-- endergetic:poise_fence
 - atmospheric:rosewood_fence
 - atmospheric:morado_fence
 - atmospheric:yucca_fence
@@ -1835,8 +1759,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - supplementaries:flax_block
 - supplementaries:magma_cream_block
 - endrem:end_crystal_block
-- #forge:storage_blocks/amber
-- #forge:storage_blocks/moonstone
 - #forge:storage_blocks/coal
 - #forge:storage_blocks/diamond
 - #forge:storage_blocks/emerald
@@ -1936,10 +1858,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_prismarine_slab
 - minecraft:dark_prismarine_stairs
 
-#forge:supports_beacon
-- druidcraft:amber_block
-- druidcraft:moonstone_block
-
 #minecraft:wooden_trapdoors
 - minecraft:acacia_trapdoor
 - minecraft:birch_trapdoor
@@ -1949,9 +1867,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:spruce_trapdoor
 - minecraft:crimson_trapdoor
 - minecraft:warped_trapdoor
-- architects_palette:twisted_trapdoor
-- druidcraft:darkwood_trapdoor
-- druidcraft:elder_trapdoor
 - environmental:willow_trapdoor
 - environmental:cherry_trapdoor
 - environmental:wisteria_trapdoor
@@ -1960,10 +1875,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_trapdoor
 - enhanced_mushrooms:glowshroom_trapdoor
 - bayou_blues:cypress_trapdoor
-- outer_end:azure_trapdoor
+- endergetic:poise_trapdoor
 - upgrade_aquatic:driftwood_trapdoor
 - upgrade_aquatic:river_trapdoor
-- endergetic:poise_trapdoor
 - atmospheric:rosewood_trapdoor
 - atmospheric:morado_trapdoor
 - atmospheric:yucca_trapdoor
@@ -1992,6 +1906,8 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #forge:fences/nether_brick
 - doubleslabs:vertical_slab?
 - #quark:vertical_slab?
+
+#jade:pick
 
 #forge:storage_blocks/redstone
 - minecraft:redstone_block
@@ -2067,39 +1983,11 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - infernalexp:soul_slate_stairs
 - infernalexp:soul_stone_brick_stairs
 - infernalexp:soul_slate_brick_stairs
-- architects_palette:limestone_stairs
-- architects_palette:limestone_brick_stairs
-- architects_palette:mushy_limestone_brick_stairs
-- architects_palette:olivestone_brick_stairs
-- architects_palette:olivestone_tile_stairs
-- architects_palette:algal_brick_stairs
-- architects_palette:overgrown_algal_brick_stairs
-- architects_palette:coal_ore_brick_stairs
-- architects_palette:lapis_ore_brick_stairs
-- architects_palette:redstone_ore_brick_stairs
-- architects_palette:iron_ore_brick_stairs
-- architects_palette:gold_ore_brick_stairs
-- architects_palette:emerald_ore_brick_stairs
-- architects_palette:diamond_ore_brick_stairs
-- architects_palette:polished_packed_ice_stairs
-- architects_palette:osseous_brick_stairs
-- architects_palette:withered_osseous_brick_stairs
-- architects_palette:sunmetal_stairs
-- architects_palette:flint_tile_stairs
-- architects_palette:entwine_stairs
-- architects_palette:gilded_sandstone_stairs
-- architects_palette:plating_stairs
-- architects_palette:warpstone_stairs
-- architects_palette:basalt_tile_stairs
-- architects_palette:entrails_stairs
 - goblinsanddungeons:scoria_stairs
 - goblinsanddungeons:scoria_brick_stairs
 - goblinsanddungeons:polished_scoria_stairs
 - cataclysm:obsidian_brick_stairs
 - cataclysm:polished_end_stone_stairs
-- druidcraft:darkwood_stairs
-- druidcraft:elder_stairs
-- druidcraft:dry_mud_brick_stairs
 - environmental:grass_thatch_stairs
 - environmental:cattail_thatch_stairs
 - environmental:duckweed_thatch_stairs
@@ -2143,6 +2031,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - crumbs:sandstone_tile_stairs
 - crumbs:red_sandstone_tile_stairs
 - crumbs:blue_nether_brick_stairs
+- endergetic:eumus_brick_stairs
 - neapolitan:chocolate_brick_stairs
 - neapolitan:chocolate_tile_stairs
 - upgrade_aquatic:kelpy_cobblestone_stairs
@@ -2179,7 +2068,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - upgrade_aquatic:prismarine_coralstone_stairs
 - upgrade_aquatic:dead_coralstone_stairs
 - upgrade_aquatic:beachgrass_thatch_stairs
-- endergetic:eumus_brick_stairs
 - lepton:smooth_stone_stairs
 - lepton:cut_sandstone_stairs
 - lepton:cut_red_sandstone_stairs
@@ -2381,15 +2269,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #minecraft:logs_that_burn
 - #minecraft:crimson_stems
 - #minecraft:warped_stems
-- druidcraft:darkwood_log
-- druidcraft:elder_log
-- druidcraft:darkwood_wood
-- druidcraft:elder_wood
-- druidcraft:stripped_darkwood_log
-- druidcraft:stripped_elder_log
-- druidcraft:stripped_darkwood_wood
-- druidcraft:stripped_elder_wood
-- outer_end:azure_stem
 - decorative_blocks:acacia_beam
 - decorative_blocks:birch_beam
 - decorative_blocks:jungle_beam
@@ -2500,7 +2379,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:redstone/pillar
 - chisel:redstone/twisted
 - chisel:redstone/prism
-- #forge:storage_blocks/redstone?
+- forge:storage_blocks/redstone?
 
 #quark:wraith_spawnable
 - minecraft:soul_sand
@@ -2515,9 +2394,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_door
 - minecraft:crimson_door
 - minecraft:warped_door
-- architects_palette:twisted_door
-- druidcraft:darkwood_door
-- druidcraft:elder_door
 - environmental:willow_door
 - environmental:cherry_door
 - environmental:wisteria_door
@@ -2526,10 +2402,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_door
 - enhanced_mushrooms:glowshroom_door
 - bayou_blues:cypress_door
-- outer_end:azure_door
+- endergetic:poise_door
 - upgrade_aquatic:driftwood_door
 - upgrade_aquatic:river_door
-- endergetic:poise_door
 - atmospheric:rosewood_door
 - atmospheric:morado_door
 - atmospheric:yucca_door
@@ -2588,7 +2463,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - infernalexp:soul_slate_vertical_slab
 - infernalexp:soul_stone_brick_vertical_slab
 - infernalexp:soul_slate_brick_vertical_slab
-- architects_palette:entrails_vertical_slab
 - cookielicious:chocolate_cookie_tile_vertical_slab
 - cookielicious:honey_cookie_tile_vertical_slab
 - cookielicious:strawberry_cookie_tile_vertical_slab
@@ -2915,7 +2789,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:end_stone/prism
 - chisel:end_stone/cuts
 - minecraft:end_stone_bricks
-- #forge:end_stones?
+- forge:end_stones?
 
 #chisel:charcoal
 - chisel:charcoal/raw
@@ -2952,7 +2826,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:charcoal/twisted
 - chisel:charcoal/prism
 - chisel:charcoal/cuts
-- #forge:storage_blocks/charcoal?
+- forge:storage_blocks/charcoal?
 
 #minecraft:anvil
 - minecraft:anvil
@@ -3110,12 +2984,12 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - bayou_blues:cypress_trapped_chest
 - minecraft:chest
 - minecraft:trapped_chest
+- endergetic:poise_chest
+- endergetic:poise_trapped_chest
 - upgrade_aquatic:driftwood_chest
 - upgrade_aquatic:driftwood_trapped_chest
 - upgrade_aquatic:river_chest
 - upgrade_aquatic:river_trapped_chest
-- endergetic:poise_chest
-- endergetic:poise_trapped_chest
 - atmospheric:rosewood_chest
 - atmospheric:rosewood_trapped_chest
 - atmospheric:morado_chest
@@ -3174,7 +3048,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:metals/bronze/badgreggy
 - chisel:metals/bronze/bolted
 - chisel:metals/bronze/scaffold
-- #forge:storage_blocks/bronze?
+- forge:storage_blocks/bronze?
 
 #chisel:prismarine
 - chisel:prismarine/cracked
@@ -3272,10 +3146,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_stairs
 - minecraft:crimson_stairs
 - minecraft:warped_stairs
-- architects_palette:twisted_stairs
 - cataclysm:chorus_stairs
-- druidcraft:darkwood_stairs
-- druidcraft:elder_stairs
 - environmental:willow_stairs
 - environmental:cherry_stairs
 - environmental:wisteria_stairs
@@ -3284,9 +3155,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_stairs
 - enhanced_mushrooms:glowshroom_stairs
 - bayou_blues:cypress_stairs
+- endergetic:poise_stairs
 - upgrade_aquatic:driftwood_stairs
 - upgrade_aquatic:river_stairs
-- endergetic:poise_stairs
 - atmospheric:rosewood_stairs
 - atmospheric:morado_stairs
 - atmospheric:yucca_stairs
@@ -3312,7 +3183,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:green_carpet
 - minecraft:red_carpet
 - minecraft:black_carpet
-- restored_earth:rainbow_carpet
 - inspirations:white_fitted_carpet
 - inspirations:orange_fitted_carpet
 - inspirations:magenta_fitted_carpet
@@ -3355,9 +3225,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_button
 - minecraft:crimson_button
 - minecraft:warped_button
-- architects_palette:twisted_button
-- druidcraft:darkwood_button
-- druidcraft:elder_button
 - environmental:willow_button
 - environmental:cherry_button
 - environmental:wisteria_button
@@ -3366,9 +3233,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_button
 - enhanced_mushrooms:glowshroom_button
 - bayou_blues:cypress_button
+- endergetic:poise_button
 - upgrade_aquatic:driftwood_button
 - upgrade_aquatic:river_button
-- endergetic:poise_button
 - atmospheric:rosewood_button
 - atmospheric:morado_button
 - atmospheric:yucca_button
@@ -3405,11 +3272,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:cracked_stone_bricks
 - minecraft:chiseled_stone_bricks
 
-#architects_palette:cage_lanterns
-- architects_palette:redstone_cage_lantern
-- architects_palette:glowstone_cage_lantern
-- architects_palette:algal_cage_lantern
-
 #forge:storage_blocks/quartz
 - minecraft:quartz_block
 
@@ -3434,9 +3296,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:soul_sand
 - minecraft:soul_soil
 - minecraft:warped_nylium
-
-#forge:mud_bricks
-- druidcraft:dry_mud_bricks
 
 #chisel:antiblock
 - chisel:antiblock/white
@@ -3514,34 +3373,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - infernalexp:soul_slate_slab
 - infernalexp:soul_stone_brick_slab
 - infernalexp:soul_slate_brick_slab
-- architects_palette:abyssaline_brick_slab
-- architects_palette:limestone_slab
-- architects_palette:limestone_brick_slab
-- architects_palette:mushy_limestone_brick_slab
-- architects_palette:olivestone_brick_slab
-- architects_palette:olivestone_tile_slab
-- architects_palette:algal_brick_slab
-- architects_palette:overgrown_algal_brick_slab
-- architects_palette:coal_ore_brick_slab
-- architects_palette:lapis_ore_brick_slab
-- architects_palette:redstone_ore_brick_slab
-- architects_palette:iron_ore_brick_slab
-- architects_palette:gold_ore_brick_slab
-- architects_palette:emerald_ore_brick_slab
-- architects_palette:diamond_ore_brick_slab
-- architects_palette:polished_packed_ice_slab
-- architects_palette:sunmetal_slab
-- architects_palette:osseous_brick_slab
-- architects_palette:withered_osseous_brick_slab
-- architects_palette:flint_tile_slab
-- architects_palette:entwine_slab
-- architects_palette:polished_glowstone_slab
-- architects_palette:gilded_sandstone_slab
-- architects_palette:plating_slab
-- architects_palette:warpstone_slab
-- architects_palette:basalt_tile_slab
-- architects_palette:abyssaline_tile_slab
-- architects_palette:entrails_slab
 - supplementaries:checker_slab
 - supplementaries:stone_tile_slab
 - supplementaries:blackstone_tile_slab
@@ -3550,9 +3381,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - goblinsanddungeons:polished_scoria_slab
 - cataclysm:obsidian_brick_slab
 - cataclysm:polished_end_stone_slab
-- druidcraft:darkwood_slab
-- druidcraft:elder_slab
-- druidcraft:dry_mud_brick_slab
 - environmental:grass_thatch_slab
 - environmental:cattail_thatch_slab
 - environmental:duckweed_thatch_slab
@@ -3602,6 +3430,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - crumbs:sandstone_tile_slab
 - crumbs:red_sandstone_tile_slab
 - crumbs:blue_nether_brick_slab
+- endergetic:eumus_brick_slab
 - neapolitan:chocolate_brick_slab
 - neapolitan:chocolate_tile_slab
 - upgrade_aquatic:kelpy_cobblestone_slab
@@ -3638,7 +3467,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - upgrade_aquatic:prismarine_coralstone_slab
 - upgrade_aquatic:dead_coralstone_slab
 - upgrade_aquatic:beachgrass_thatch_slab
-- endergetic:eumus_brick_slab
 - lepton:cracked_stone_brick_slab
 - lepton:acacia_wood_slab
 - lepton:birch_wood_slab
@@ -3816,9 +3644,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - quark:yellow_stained_planks_slab
 - charm:refined_obsidian_slab
 
-#forge:ores/moonstone
-- druidcraft:moonstone_ore
-
 #minecraft:guarded_by_piglins
 - minecraft:gold_block
 - minecraft:barrel
@@ -3871,8 +3696,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:planks/acacia/braid
 - chisel:planks/acacia/log_cabin
 - minecraft:acacia_planks
-
-#chiselsandbits:chiselable/blocked
 
 #cataclysm:ender_golem_can_destroy
 - minecraft:end_stone_brick_stairs
@@ -3996,9 +3819,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_pressure_plate
 - minecraft:crimson_pressure_plate
 - minecraft:warped_pressure_plate
-- architects_palette:twisted_pressure_plate
-- druidcraft:darkwood_pressure_plate
-- druidcraft:elder_pressure_plate
 - environmental:willow_pressure_plate
 - environmental:cherry_pressure_plate
 - environmental:wisteria_pressure_plate
@@ -4007,9 +3827,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_pressure_plate
 - enhanced_mushrooms:glowshroom_pressure_plate
 - bayou_blues:cypress_pressure_plate
+- endergetic:poise_pressure_plate
 - upgrade_aquatic:driftwood_pressure_plate
 - upgrade_aquatic:river_pressure_plate
-- endergetic:poise_pressure_plate
 - atmospheric:rosewood_pressure_plate
 - atmospheric:morado_pressure_plate
 - atmospheric:yucca_pressure_plate
@@ -4030,12 +3850,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:carpet/blue/legacy
 - chisel:carpet/blue/llama
 - minecraft:blue_carpet
-
-#architects_palette:twisted_logs
-- architects_palette:twisted_log
-- architects_palette:stripped_twisted_log
-- architects_palette:twisted_wood
-- architects_palette:stripped_twisted_wood
 
 #minecraft:tall_flowers
 - minecraft:sunflower
@@ -4074,10 +3888,8 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - inspirations:red_carpeted_pressure_plate
 - inspirations:black_carpeted_pressure_plate
 
-#druidcraft:fiery_glass_ores
-- druidcraft:fiery_glass_ore
-
 #forge:bookshelves
+- endergetic:poise_bookshelf
 - quark:acacia_bookshelf
 - quark:birch_bookshelf
 - quark:dark_oak_bookshelf
@@ -4209,6 +4021,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:concrete/green/prism
 - chisel:concrete/green/cuts
 - minecraft:green_concrete
+
+#backpacked:funnelling
+- #forge:ores
 
 #chisel:factory
 - chisel:factory/dots
@@ -4408,6 +4223,12 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:concrete/light_blue/cuts
 - minecraft:light_blue_concrete
 
+#cataclysm:netherite_monstrosity_break
+- minecraft:basalt
+- minecraft:blackstone
+- minecraft:bone_block
+- minecraft:netherrack
+
 #chisel:wool/cyan
 - chisel:wool/cyan/legacy
 - chisel:wool/cyan/llama
@@ -4439,7 +4260,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:green_wool
 - minecraft:red_wool
 - minecraft:black_wool
-- restored_earth:rainbow_wool
 - quark:white_quilted_wool
 - quark:orange_quilted_wool
 - quark:magenta_quilted_wool
@@ -4491,10 +4311,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_beehive
 - enhanced_mushrooms:glowshroom_beehive
 - bayou_blues:cypress_beehive
-- outer_end:azure_beehive?
+- endergetic:poise_beehive
 - upgrade_aquatic:driftwood_beehive
 - upgrade_aquatic:river_beehive
-- endergetic:poise_beehive
 - atmospheric:rosewood_beehive
 - atmospheric:morado_beehive
 - atmospheric:yucca_beehive
@@ -4570,9 +4389,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:carpet/black/llama
 - minecraft:black_carpet
 
-#forge:storage_blocks/amber
-- druidcraft:amber_block
-
 #minecraft:warped_stems
 - minecraft:warped_stem
 - minecraft:stripped_warped_stem
@@ -4608,6 +4424,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_ladder
 - enhanced_mushrooms:glowshroom_ladder
 - bayou_blues:cypress_ladder
+- endergetic:poise_ladder
 - upgrade_aquatic:driftwood_ladder
 - upgrade_aquatic:river_ladder
 - atmospheric:passion_vine
@@ -4652,9 +4469,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_ladder
 - enhanced_mushrooms:glowshroom_ladder
 - bayou_blues:cypress_ladder
+- endergetic:poise_ladder
 - upgrade_aquatic:driftwood_ladder
 - upgrade_aquatic:river_ladder
-- endergetic:poise_ladder
 - atmospheric:rosewood_ladder
 - atmospheric:morado_ladder
 - atmospheric:yucca_ladder
@@ -4873,9 +4690,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:jungle_sapling
 - minecraft:acacia_sapling
 - minecraft:dark_oak_sapling
-- architects_palette:twisted_sapling
-- druidcraft:darkwood_sapling
-- druidcraft:elder_sapling
 - fruitful:flowering_oak_sapling
 - environmental:willow_sapling
 - environmental:cherry_sapling
@@ -4995,10 +4809,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:jungle_fence
 - minecraft:crimson_fence
 - minecraft:warped_fence
-- architects_palette:twisted_fence
 - cataclysm:chorus_fence
-- druidcraft:darkwood_fence
-- druidcraft:elder_fence
 - environmental:willow_fence
 - environmental:cherry_fence
 - environmental:wisteria_fence
@@ -5007,10 +4818,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_fence
 - enhanced_mushrooms:glowshroom_fence
 - bayou_blues:cypress_fence
-- outer_end:azure_fence
+- endergetic:poise_fence
 - upgrade_aquatic:driftwood_fence
 - upgrade_aquatic:river_fence
-- endergetic:poise_fence
 - atmospheric:rosewood_fence
 - atmospheric:morado_fence
 - atmospheric:yucca_fence
@@ -5027,7 +4837,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #minecraft:signs
 - #minecraft:banners
 - #minecraft:pressure_plates
-- #architects_palette:cage_lanterns
 - supplementaries:sconce
 - supplementaries:sconce_soul
 - supplementaries:sconce_ender
@@ -5135,7 +4944,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:limestone/twisted
 - chisel:limestone/prism
 - chisel:limestone/cuts
-- #forge:stone/limestone?
+- forge:stone/limestone?
 
 #supplementaries:pouring_tank
 - tconstruct:channel?
@@ -5238,9 +5047,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_wall_sign
 - enhanced_mushrooms:glowshroom_wall_sign
 - bayou_blues:cypress_wall_sign
+- endergetic:poise_wall_sign
 - upgrade_aquatic:driftwood_wall_sign
 - upgrade_aquatic:river_wall_sign
-- endergetic:poise_wall_sign
 - atmospheric:rosewood_wall_sign
 - atmospheric:morado_wall_sign
 - atmospheric:yucca_wall_sign
@@ -5281,13 +5090,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - buzzier_bees:honeycomb_brick_vertical_slab
 - buzzier_bees:honeycomb_tile_vertical_slab
 - bayou_blues:algae_thatch_vertical_slab
-- outer_end:azure_vertical_slab
-- outer_end:himmel_vertical_slab
-- outer_end:violite_vertical_slab
-- outer_end:violite_brick_vertical_slab
-- outer_end:mossy_violite_brick_vertical_slab
-- outer_end:violite_tile_vertical_slab
-- outer_end:mossy_violite_tile_vertical_slab
+- endergetic:eumus_brick_vertical_slab
 - upgrade_aquatic:kelpy_cobblestone_vertical_slab
 - upgrade_aquatic:polar_kelpy_cobblestone_vertical_slab
 - upgrade_aquatic:thorny_kelpy_cobblestone_vertical_slab
@@ -5381,19 +5184,11 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:planks/birch/log_cabin
 - minecraft:birch_planks
 
-#druidcraft:elder_logs
-- druidcraft:elder_log
-- druidcraft:elder_wood
-- druidcraft:stripped_elder_log
-- druidcraft:stripped_elder_wood
-
 #minecraft:trapdoors
 - #minecraft:wooden_trapdoors
 - minecraft:iron_trapdoor
 - supplementaries:gold_trapdoor
 - supplementaries:netherite_trapdoor
-- druidcraft:darkwood_trapdoor
-- druidcraft:elder_trapdoor
 - buzzier_bees:honeycomb_trapdoor
 - upgrade_aquatic:tooth_trapdoor
 - upgrade_aquatic:glass_trapdoor
@@ -5458,9 +5253,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_leaves
 - minecraft:acacia_leaves
 - minecraft:birch_leaves
-- architects_palette:twisted_leaves
-- druidcraft:darkwood_leaves
-- druidcraft:elder_leaves
 - fruitful:apple_oak_leaves
 - fruitful:flowering_oak_leaves
 - fruitful:blossoming_oak_leaves
@@ -5472,7 +5264,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - environmental:purple_wisteria_leaves
 - environmental:white_wisteria_leaves
 - bayou_blues:cypress_leaves
-- outer_end:azure_leaves
 - upgrade_aquatic:river_leaves
 - atmospheric:rosewood_leaves
 - atmospheric:morado_leaves
@@ -5637,7 +5428,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #minecraft:birch_logs
 - #minecraft:jungle_logs
 - #minecraft:spruce_logs
-- #architects_palette:twisted_logs
 - #environmental:willow_logs
 - #environmental:cherry_logs
 - #environmental:wisteria_logs
@@ -5645,9 +5435,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #enhanced_mushrooms:brown_mushroom_stems
 - #enhanced_mushrooms:glowshroom_stems
 - #bayou_blues:cypress_logs
+- #endergetic:poise_stems
 - #upgrade_aquatic:driftwood_logs
 - #upgrade_aquatic:river_logs
-- #endergetic:poise_stems
 - #atmospheric:rosewood_logs
 - #atmospheric:morado_logs
 - #atmospheric:yucca_logs
@@ -5727,10 +5517,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_slab
 - minecraft:crimson_slab
 - minecraft:warped_slab
-- architects_palette:twisted_slab
 - cataclysm:chorus_slab
-- druidcraft:darkwood_slab
-- druidcraft:elder_slab
 - environmental:willow_slab
 - environmental:cherry_slab
 - environmental:wisteria_slab
@@ -5745,9 +5532,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - crumbs:jungle_tile_slab
 - crumbs:acacia_tile_slab
 - crumbs:dark_oak_tile_slab
+- endergetic:poise_slab
 - upgrade_aquatic:driftwood_slab
 - upgrade_aquatic:river_slab
-- endergetic:poise_slab
 - atmospheric:rosewood_slab
 - atmospheric:morado_slab
 - atmospheric:yucca_slab
@@ -5776,7 +5563,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:cornflower
 - minecraft:lily_of_the_valley
 - minecraft:wither_rose
-- druidcraft:lavender
 - environmental:cartwheel
 - environmental:bluebell
 - environmental:violet
@@ -5800,8 +5586,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - bayou_blues:magenta_lily
 - bayou_blues:pink_lily
 - bayou_blues:purple_lily
-- outer_end:azure_bud
-- restored_earth:buttercup
 - upgrade_aquatic:white_searocket
 - upgrade_aquatic:pink_searocket
 - atmospheric:warm_monkey_brush
@@ -5816,12 +5600,8 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:black_stained_glass_pane
 
 #infernalexp:anger_warped_shroomloin_blocks
-- minecraft:warped_nylium
-- minecraft:warped_stem
-- minecraft:stripped_warped_stem
-- minecraft:twisting_vines
-- minecraft:twisting_vines_plant
-- minecraft:warped_wart_block
+- minecraft:warped_roots
+- minecraft:warped_fungus
 - infernalexp:warped_fungus_cap
 
 #chisel:andesite
@@ -5860,11 +5640,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:andesite/cuts
 - minecraft:andesite
 - minecraft:polished_andesite
-
-#outer_end:azure_foliage
-- outer_end:ender_roots
-- outer_end:tall_ender_roots
-- outer_end:azure_sprouts
 
 #supplementaries:rope_support
 - supplementaries:rope
@@ -5924,11 +5699,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - farmersdelight:basket?
 - #adorn:kitchen_sinks?
 
-#forge:ores/amber
-- druidcraft:amber_ore
-
 #forge:stone
-- architects_palette:limestone
 - minecraft:andesite
 - minecraft:diorite
 - minecraft:granite
@@ -5981,9 +5752,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - enhanced_mushrooms:brown_mushroom_sign
 - enhanced_mushrooms:glowshroom_sign
 - bayou_blues:cypress_sign
+- endergetic:poise_sign
 - upgrade_aquatic:driftwood_sign
 - upgrade_aquatic:river_sign
-- endergetic:poise_sign
 - atmospheric:rosewood_sign
 - atmospheric:morado_sign
 - atmospheric:yucca_sign
@@ -5997,19 +5768,12 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:bedrock
 
 #infernalexp:anger_crimson_shroomloin_blocks
-- minecraft:crimson_nylium
-- minecraft:crimson_stem
-- minecraft:stripped_crimson_stem
-- minecraft:weeping_vines
-- minecraft:weeping_vines_plant
-- minecraft:nether_wart_block
+- minecraft:crimson_roots
+- minecraft:crimson_fungus
 - infernalexp:crimson_fungus_cap
 
 #forge:glass_panes/yellow
 - minecraft:yellow_stained_glass_pane
-
-#druidcraft:fiery_glass_blocks
-- druidcraft:fiery_glass_block
 
 #chisel:carpet/yellow
 - chisel:carpet/yellow/legacy
@@ -6051,9 +5815,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #minecraft:beds
 - minecraft:slime_block
 
-#forge:storage_blocks/ender_pearls
-- architects_palette:ender_pearl_block
-
 #alexsmobs:seal_spawns
 - #minecraft:sand
 - #forge:gravel
@@ -6092,11 +5853,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:birch_wood
 - minecraft:stripped_birch_log
 - minecraft:stripped_birch_wood
-
-#wild_update_unofficial:sculk_blocks
-- wild_update_unofficial:sculk_vein
-- wild_update_unofficial:sculk_catalyst
-- wild_update_unofficial:sculk
 
 #inspirations:carpeted_trapdoors
 - inspirations:white_carpeted_trapdoor
@@ -6138,12 +5894,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:mycelium
 - quark:glowcelium?
 - atmospheric:crustose?
-
-#forge:ices/packedice
-- architects_palette:polished_packed_ice
-
-#druidcraft:rockroot_ores
-- druidcraft:rockroot_ore
 
 #minecraft:piglin_repellants
 - decorative_blocks:soul_chandelier
@@ -6261,10 +6011,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:coal/twisted
 - chisel:coal/prism
 - chisel:coal/cuts
-- #forge:storage_blocks/coal?
+- forge:storage_blocks/coal?
 
 #forge:dirt
-- minecraft:sand
 - environmental:mud
 - minecraft:dirt
 - minecraft:grass_block
@@ -6334,24 +6083,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - #minecraft:wooden_pressure_plates
 - #minecraft:stone_pressure_plates
 
-#druidcraft:beams
-- druidcraft:oak_beam
-- druidcraft:birch_beam
-- druidcraft:spruce_beam
-- druidcraft:jungle_beam
-- druidcraft:acacia_beam
-- druidcraft:dark_oak_beam
-- druidcraft:darkwood_beam
-- druidcraft:elder_beam
-- druidcraft:oak_small_beam
-- druidcraft:birch_small_beam
-- druidcraft:spruce_small_beam
-- druidcraft:jungle_small_beam
-- druidcraft:acacia_small_beam
-- druidcraft:dark_oak_small_beam
-- druidcraft:darkwood_small_beam
-- druidcraft:elder_small_beam
-
 #buzzier_bees:scented_candles
 - buzzier_bees:dandelion_scented_candle
 - buzzier_bees:poppy_scented_candle
@@ -6398,7 +6129,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:stripped_jungle_wood
 
 #infernalexp:anger_luminous_shroomloin_blocks
-- infernalexp:luminous_wart_block
+- infernalexp:luminous_fungus
 - infernalexp:luminous_fungus_cap
 - infernalexp:dullthorns
 - infernalexp:dullthorns_block
@@ -6413,8 +6144,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:stripped_spruce_wood
 
 #forge:fence_gates/wooden
-- druidcraft:darkwood_fence_gate
-- druidcraft:elder_fence_gate
 - environmental:willow_fence_gate
 - environmental:cherry_fence_gate
 - environmental:wisteria_fence_gate
@@ -6431,9 +6160,9 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_fence_gate
 - minecraft:crimson_fence_gate
 - minecraft:warped_fence_gate
+- endergetic:poise_fence_gate
 - upgrade_aquatic:driftwood_fence_gate
 - upgrade_aquatic:river_fence_gate
-- endergetic:poise_fence_gate
 - atmospheric:rosewood_fence_gate
 - atmospheric:morado_fence_gate
 - atmospheric:yucca_fence_gate
@@ -6473,11 +6202,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - endergetic:mystical_obsidian_activation_rune
 - endergetic:activated_mystical_obsidian_activation_rune
 
-#outer_end:crystal_blocks
-- outer_end:rose_crystal
-- outer_end:mint_crystal
-- outer_end:cobalt_crystal
-
 #chisel:wool/pink
 - chisel:wool/pink/legacy
 - chisel:wool/pink/llama
@@ -6510,11 +6234,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:dark_oak_planks
 - minecraft:crimson_planks
 - minecraft:warped_planks
-- architects_palette:twisted_planks
-- wild_update_unofficial:mangrove_planks
 - cataclysm:chorus_planks
-- druidcraft:darkwood_planks
-- druidcraft:elder_planks
 - environmental:willow_planks
 - environmental:vertical_willow_planks
 - environmental:cherry_planks
@@ -6547,11 +6267,12 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - crumbs:reinforced_dark_oak_planks
 - crumbs:reinforced_crimson_planks
 - crumbs:reinforced_warped_planks
+- endergetic:poise_planks
+- endergetic:vertical_poise_planks
 - upgrade_aquatic:driftwood_planks
 - upgrade_aquatic:vertical_driftwood_planks
 - upgrade_aquatic:river_planks
 - upgrade_aquatic:vertical_river_planks
-- endergetic:poise_planks
 - atmospheric:rosewood_planks
 - atmospheric:morado_planks
 - atmospheric:yucca_planks
@@ -6741,11 +6462,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:cracked_stone_bricks
 - minecraft:stone_bricks
 
-#outer_end:crystal_crag_foliage
-- outer_end:rose_roots
-- outer_end:mint_roots
-- outer_end:cobalt_roots
-
 #chisel:quartz
 - chisel:quartz/cracked
 - chisel:quartz/solid_bricks
@@ -6783,7 +6499,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:chiseled_quartz_block
 - minecraft:quartz_pillar
 - minecraft:smooth_quartz
-- #forge:storage_blocks/quartz?
+- forge:storage_blocks/quartz?
 
 #alexsmobs:soul_vulture_perches
 - minecraft:bone_block
@@ -6863,7 +6579,7 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - chisel:basalt/twisted
 - chisel:basalt/prism
 - chisel:basalt/cuts
-- #forge:stone/basalt?
+- forge:stone/basalt?
 
 #forge:storage_blocks/gold
 - minecraft:gold_block
@@ -6877,17 +6593,13 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:spruce_fence_gate
 - minecraft:crimson_fence_gate
 - minecraft:warped_fence_gate
-- architects_palette:twisted_fence_gate
 - environmental:willow_fence_gate
 - environmental:cherry_fence_gate
 - environmental:wisteria_fence_gate
 - bayou_blues:cypress_fence_gate
-- outer_end:azure_fence_gate
 
 #forge:ores
 - endrem:end_crystal_ore
-- #forge:ores/amber
-- #forge:ores/moonstone
 - #forge:ores/coal
 - #forge:ores/diamond
 - #forge:ores/emerald
@@ -6957,7 +6669,6 @@ To refresh this file, delete it and run /reload command again! Last updated: May
 - minecraft:pink_concrete
 
 #forge:fences
-- #forge:fences/wooden
 - #forge:fences/nether_brick
 - #forge:fences/wooden
 

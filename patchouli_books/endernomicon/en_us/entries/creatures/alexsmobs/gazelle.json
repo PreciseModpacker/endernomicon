@@ -7,14 +7,14 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Gazelles are passive creatures that can be found in the Savanna.$(br)$(li)If just one Gazelle is attacked, the whole herd flees.$(br)$(li)Gazelles are very fast, so you will not be able to catch it easily.$(br)$(li)Gazelles may drop Gazelle Horn on death."
+            "text": "$(li)Gazelles are passive creatures that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l).$(br)$(li)If just one Gazelle is attacked, the whole herd flees.$(br)$(li)Gazelles are very fast, so you will not be able to catch it easily.$(br)$(li)Gazelles may drop a $(l:patchouli:miscellaneous/alexsmobs/gazelle_horn)Gazelle Horn$(/l) on death."
         },
         {
             "type": "patchouli:entity",
             "entity": "alexsmobs:gazelle",
             "scale": 0.7,
             "offset": 0.4,
-            "text": "You can use an $(l:patchouli:creatures/alexsmobs/cachalot_whale)Echolocator$(/l) to attract Gazelles"
+            "text": "You can use an $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l) to attract these creatures."
         }
              ]
 }

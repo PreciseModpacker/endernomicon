@@ -2,8 +2,8 @@
     "name": "Depth Star",
     "icon": "meetyourfight:depth_star",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 9,
+    "advancement": "endernomicon:mossy_tooth",
     "pages": [
         {
             "type": "patchouli:crafting",

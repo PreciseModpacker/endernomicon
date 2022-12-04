@@ -3,7 +3,7 @@
     "icon": "supplementaries:faucet",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -24,7 +24,7 @@
         {
             "type": "patchouli:text",
             "title": "Fluid Containers",
-            "text": "$(li)Jars$(li)Goblets$(li)Cauldrons$(li)Beehives"
+            "text": "$(li)$(l:patchouli:utility/supplementaries/jar)Jars$(/l)$(li)$(l:patchouli:utility/supplementaries/goblets)Goblets$(/l)$(li)$(l:patchouli:utility/vanilla/cauldron)Cauldrons$(/l)$(li)$(l:patchouli:utility/vanilla/beehive)Beehives$(/l)"
         },
         {
             "type": "patchouli:small_pictures",
@@ -34,7 +34,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/faucet_4.png",
-            "text": "$(li)Faucets can dump fluids in sponges effectively voiding them."
+            "text": "$(li)Faucets can dump fluids in $(l:patchouli:utility/vanilla/sponge)Sponges$(/l) effectively voiding them."
         }
              ]
 }

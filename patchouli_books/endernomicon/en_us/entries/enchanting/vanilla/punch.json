@@ -7,12 +7,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:punch',lvl:1}]}",
-            "text": "$(li)The Punch enchantment can be applied in any Bow.$(br)$(li)This enchantment increases the knockback strenght inflicted of your enemies of the Arrows fires from the enchanted Bow, pushing them further.",
+            "text": "$(li)The Punch enchantment can be applied in a $(l:patchouli:weapons/bow)Bow$(/l) and $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bow$(/l).$(br)$(li)This enchantment increases the knockback strenght inflicted of your enemies of the $(l:patchouli:weapons/arrows)Arrows$(/l) fires from the enchanted bow, pushing them further.",
             "title": "Punch"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an Ancient Tome (Punch)."
+            "text": "$(li)By default, it can be upgrade just until level II.$(br)$(li)You can raise the level III of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_punch)Ancient Tome (Punch)$(/l)."
         }
              ]
 }

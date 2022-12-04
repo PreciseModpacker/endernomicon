@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Blaze are floating hostile creatures that can be found in the Nether Fortresses of the Nether.$(br)$(li)They throw you Fireballs, if one of these hits you, it will burns you, inflincting an extra damage for a few seconds.$(br)$(li)They may drop Blaze Rods on death."
+            "text": "$(li)Blaze are floating hostile creatures that can be found in the $(l:patchouli:structures/fortress)Nether Fortresses$(/l) of the Nether.$(br)$(li)They throw you fireballs, if one of these hits you, it will burns you, inflincting an extra damage for a few seconds.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rods$(/l) on death."
         },
         {
             "type": "patchouli:entity",

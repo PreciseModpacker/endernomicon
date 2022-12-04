@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find animals like Shoebills, Squids, or a lot of different kind of fishes.$(br)$(li)You can search this biome introducing the word $(l)Bayou$() in the search box of the Nature's Compass."
+            "text": "$(li)You can find animals like $(l:patchouli:creatures/alexsmobs/shoebill)Shoebills$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), or a lot of different kind of fishes in this place.$(br)$(li)You can search this biome introducing the word $(l)Bayou$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

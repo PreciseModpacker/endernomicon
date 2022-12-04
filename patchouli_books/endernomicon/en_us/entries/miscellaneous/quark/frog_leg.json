@@ -1,0 +1,20 @@
+{    
+    "name": "Frog Leg",
+    "icon": "quark:frog_leg",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:frog_leg",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:frog_leg",
+            "text": "$(li)The Frog Leg is an eatable item that can be used to craft $(l:patchouli:miscellaneous/quark/golden_frog_leg)Golden Frog Leg$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "quark:world/smelting/cooked_frog_leg",
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Cooked Salmon satisfies five times more than a Raw Frog Leg."
+        }
+             ]
+}

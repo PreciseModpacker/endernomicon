@@ -1,0 +1,20 @@
+{    
+    "name": "Witch",
+    "icon": "minecraft:potion",
+    "category": "patchouli:illagers",
+    "sortnum": 0,
+#    "advancement": "endrem:main/nether_eye",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Witch is a creature that can be found in the $(l:patchouli:structures/witch_house)Swamp Witch Hut$(/l), $(l:patchouli:structures/maple_witch_house)Maple Witch Hut$(/l), and in the $(l:patchouli:structures/witch_tower)Witch Tower$(/l).$(br)$(li)They are able to brew $(l:patchouli:potions/vanilla/poison)Poison Potions$(/l) and throw them to you.$(br)$(li)When they have low health, they will drink a $(l:patchouli:potions/vanilla/healing)Healing Potion$(/l), don't let them do it."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:witch",
+            "scale": 0.9,
+            "offset": 0.3,
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l), $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l), $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l), $(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l), $(l:patchouli:potions/buzzier_bees/luck)Luck$(/l) or $(l:patchouli:potions/vanilla/healing)Healing Potions$(/l), $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottles$(/l), and $(l:patchouli:miscellaneous/vanilla/stick)Sticks$(/l) on death."
+        }
+             ]
+}

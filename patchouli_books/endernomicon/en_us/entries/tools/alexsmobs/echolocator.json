@@ -3,13 +3,17 @@
     "icon": "alexsmobs:echolocator",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "alexsmobs:alexsmobs/save_cachalot_whale",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:echolocator",
             "text": "$(li)The Echolocator is a compass sized machine that can be used to find nearby caves.$(br)$(li)Once a cave has been found it will release a sound wave in the direction of the cave.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to attract $(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) too."
         }
              ]
 }

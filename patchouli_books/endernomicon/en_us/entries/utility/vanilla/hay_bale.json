@@ -1,0 +1,19 @@
+{    
+    "name": "Block (Hay)",
+    "icon": "minecraft:hay_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:wheat",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:hay_block",
+            "text": "$(li)The Hay Block is a new decorative block that can be used to save $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l) in a more efficient way.$(br)$(li)It can be used to craft a $(l:patchouli:redstone/vanilla/target)Target$(/l), or $(l:patchouli:pets/supplementaries/fodder)Fodder$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) too.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Fall damage is greatly reduced when falling on this block."
+        }
+             ]
+}

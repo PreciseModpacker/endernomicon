@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Vindicators are very strong opponents. They are armed with an Iron Axe.$(br)$(li)It can be found in the Mansion, Illager Fort, Illager Archer Tower and in a Raid too.$(br)$(li)On death they may drop Emeralds"
+            "text": "$(li)The Vindicators are very strong opponents. They are armed with an $(l:patchouli:weapons/iron_axe)Iron Axe$(/l).$(br)$(li)They can be found in the $(l:patchouli:illagers/mansion)Mansions$(/l), $(l:patchouli:illagers/illager_fort)Illager Forts$(/l), $(l:patchouli:illagers/illager_archer_tower)Illager Archer Towers$(/l), and in a $(l:patchouli:illagers/raid)Raid$(/l) too.$(br)$(li)On death they may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:vindicator{HandItems:[{Count:1,id:iron_axe}]}",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

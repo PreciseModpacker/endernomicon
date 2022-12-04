@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Tasmanian Devils are small marsupials found in temperate or roofed forest biomes.$(br)$(li)When attacking their preis (rabbits or chickens), all nearby Tasmanian Devils will join in on the hunt.$(br)$(li)They will unleash a howl that turns their eyes red and can scare away all nearby monsters for a short time."
+            "text": "$(li)Tasmanian Devils are small marsupials found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l).$(br)$(li)When attacking their preis $(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) or $(l:patchouli:creatures/vanilla/chicken)Chickens$(/l), all nearby Tasmanian Devils will join in on the hunt.$(br)$(li)They will unleash a howl that turns their eyes red and can scare away all nearby monsters for a short time."
         },
         {
             "type": "patchouli:entity",

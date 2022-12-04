@@ -3,12 +3,12 @@
     "icon": "minecraft:redstone_torch",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:redstone_torch",
-            "text": "$(li)The Redstone Torch is a variant of the common Torchs.$(br)$(li)It works as a toggeable redstone power source and it can be used to craft multiple items in a Crafting Table."
+            "text": "$(li)The Redstone Torch is a variant of the $(l:patchouli:redstone/vanilla/redstone_torch)Torchs$(/l).$(br)$(li)It works as a toggeable redstone power source and it can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
             "type": "patchouli:small_pictures",
@@ -18,7 +18,7 @@
         {
             "type": "patchouli:text",
             "title": "Crafting Table Recipes",
-            "text": "$(li)Lit Redstone Lamps$(li)Redstone Comparators$(li)Redstone Repeater$(li)Redstone Randomizer$(li)Large Redstone Jack o'Lantern Slice$(li)Activator Rail$(li)Redstone Lantern$(li)Redstone Jack o'Lantern"
+            "text": "$(li)$(l:patchouli:redstone/quark/lit_redstone_lamp)Lit Redstone Lamp$(/l)s$(li)$(l:patchouli:redstone/vanilla/comparator)Redstone Comparators$(/l)$(li)$(l:patchouli:redstone/vanilla/repeater)Redstone Repeater$(/l)$(li)$(l:patchouli:redstone/quark/redstone_randomizer)Redstone Randomizer$(/l)$(li)$(l:patchouli:redstone/autumnity/large_redstone_jack_o_lantern_slice)Large Redstone Jack'o Lantern$(/l)$(li)$(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l)$(li)$(l:patchouli:redstone/charm/redstone_lantern)Redstone Lantern$(/l)$(li)$(l:patchouli:redstone/autumnity/redstone_jack_o_lantern)Redstone Jack'o Lantern$(/l)"
         }
              ]
 }    

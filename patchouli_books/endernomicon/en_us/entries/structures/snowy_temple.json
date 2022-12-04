@@ -1,0 +1,18 @@
+{    
+    "name": "Temple (Snowy)",
+    "icon": "minecraft:snow_block",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_snowy_temple",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Snowy Temples are a variant of the $(l:patchouli:structures/desert_temple)Desert Temples$(/l) that can be found in the $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l).$(br)$(li)Multiple treasures are hidden in their interior.$(br)$(li)Be careful, $(l:patchouli:creatures/vanilla/stray)Strays$(/l) will try to take you down.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/snowy_temple.png"
+        }
+             ]
+}

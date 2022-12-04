@@ -1,0 +1,17 @@
+{    
+    "name": "Dungeon (Bigger)",
+    "icon": "minecraft:mossy_cobblestone",
+    "category": "patchouli:structures",
+    "sortnum": 0,
+    "advancement": "dungeons_plus:adventure/find_bigger_dungeon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Bigger Dungeon is the direct bigger version of the Small Dungeon that can be found deeper of the caves of the Overworld.$(br)$(li)Here, you can find Chests and Barrels with loot and a Skeleton, Zombies, $(l:patchouli:creatures/vanilla/husk)Husks$(/l), or Spiders Spawners."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/structures/bigger_dungeon.png"
+        }
+             ]
+}

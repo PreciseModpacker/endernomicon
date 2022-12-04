@@ -2,8 +2,8 @@
     "name": "Lapis Armor",
     "icon": "extraarmor:lapis_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 5,
+    "advancement": "endernomicon:lapis_lazuli",
     "pages": [
        {
             "type": "patchouli:text",

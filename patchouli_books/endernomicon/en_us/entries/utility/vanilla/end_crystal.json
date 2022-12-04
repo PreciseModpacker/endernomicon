@@ -1,0 +1,18 @@
+{    
+    "name": "End Crystal",
+    "icon": "minecraft:end_crystal",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:end_crystal",
+            "text": "$(li)The End Crystal is a placable block that can be found atop each obsidian pillar on the central island of the End.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This block creates a big explosion when is broken, inflicting a lot of damage in a near area.$(br)$(li)Their primary function is to regenerate the health of the $(l)Ender Dragon$().$(br)$(li)You can place four of these blocks on the $(l:patchouli:structures/end_fountain)End Fountain$(/l) to respawn the $(l)Ender Dragon$()."
+        }
+             ]
+}

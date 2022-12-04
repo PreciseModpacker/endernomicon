@@ -6,13 +6,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Wood Lanterns are a good alternative of the common Redstone Lantern.$(br)$(li)Unlike the last one, the Wood Lanterns are not be affected by nearby redstone signals.",
+            "text": "$(li)Wood Lanterns are a variant of the $(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamps$(/l).$(br)$(li)Unlike the last one, the Wood Lanterns are not be affected by nearby redstone signals.$(br)$(li)You can turn on or off the Wood Lanterns right clicking while you are pointing on them.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/wood_lanterns.png",
-            "text": "$(li)You can turn on or off the Wood Lanterns right clicking while you are pointing on them."
+            "picture": "endermonicon:textures/book/entries/redstone/wood_lanterns.png"
         },
         {
             "type": "patchouli:crafting",

@@ -7,13 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Executioner is a very strong bloodthristy Illager who will not hesitate to decapitate the heads of the Villagers with its great sword.$(br)$(li)It only can be found in a Raid.$(br)$(li)Oh Death, rarely it drops its great weapon, Cleaver of Beheading."
+            "text": "$(li)The Executioner is a very strong bloodthristy Illager who will not hesitate to decapitate the heads of the $(l:patchouli:villagers/villager)Villagers$(/l) or yours with its great sword.$(br)$(li)It only can be found in a $(l:patchouli:illagers/raid)Raid$(/l).$(br)$(li)Oh Death, rarely it drops its great weapon, the $(l:patchouli:weapons/cleaver_of_beheading)Cleaver of Beheading$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "savageandravage:executioner",
-            "scale": 1,
-            "text": ""
+            "scale": 1
         }
              ]
 }

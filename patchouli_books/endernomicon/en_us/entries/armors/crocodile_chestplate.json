@@ -2,13 +2,13 @@
     "name": "Crocodile Chestplate",
     "icon": "alexsmobs:crocodile_chestplate",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 17,
+    "advancement": "endernomicon:crocodile_scute",
     "pages": [
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:crocodile_chestplate",
-            "text": "$(li)The Crocodile Chestplate has Armour Toughness giving you an extra protection from strong attacks.",
+            "text": "$(li)The Crocodile Chestplate has a quiet more durability than the $(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l).$(br)$(li)It has Armour Toughness too, giving you an extra protection from strong attacks.",
             "link_recipe": "true"
         },
         {

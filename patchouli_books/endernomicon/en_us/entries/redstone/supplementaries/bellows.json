@@ -3,7 +3,7 @@
     "icon": "supplementaries:bellows",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:leather",
     "pages": [
         {
             "type": "patchouli:crafting",

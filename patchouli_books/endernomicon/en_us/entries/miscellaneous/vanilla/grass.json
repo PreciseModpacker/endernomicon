@@ -1,0 +1,19 @@
+{    
+    "name": "Grass",
+    "icon": "minecraft:grass",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:grass",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:grass",
+            "text": "$(li)The Grass is a placeable block that grows naturally in grassy biomes like $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) or $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l).$(br)$(li)This item can be used to breed $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can only be obtained breaking Grass while you are holding a pair of $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand."
+        }
+             ]
+}

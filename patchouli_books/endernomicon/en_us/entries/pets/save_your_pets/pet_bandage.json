@@ -5,14 +5,10 @@
     "sortnum": 0,
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "syp:pet_bandage",
-            "text": "$(li)When a tamed Cat, Horse, Wolf or Foxhound dies, you will a time to save it.$(br)$(li)Just right click your diying pet while you are holding the Pet Bandage on your hand to revive it with half of one heart of life.",
+            "type": "patchouli:crafting",
+            "recipe": "syp:pet_bandage",
+            "text": "$(li)When a tamed $(l:patchouli:pets/vanilla/cat)Cat$(/l), $(l:patchouli:pets/vanilla/horse)Horse$(/l), $(l:patchouli:pets/revamped_wolf/wolf)Wolf$(/l), or $(l:patchouli:pets/quark/foxhound)Fouxhound$(/l) dies, you will a time to save it.$(br)$(li)Just right click your diying pet while you are holding this item in your hand to revive it with half of one heart of life.",
             "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)This item can be crafted placing Wool and Paper in a Crafting Table.$(br2)Insert a picture of a Flute"
         }
              ]
 }

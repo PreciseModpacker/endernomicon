@@ -2,18 +2,18 @@
     "name": "Carrot",
     "icon": "minecraft:carrot",
     "category": "patchouli:miscellaneous",
-    "sorrnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:cactus",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:carrot",
-            "text": "$(li)Carrots can be plant in Farmland to generate more Carrots.$(br)$(li)Carrots can be used to feed Pigs.$(br)$(li)You can put Carrots in a Composter to generate Bone Meal.",
+            "text": "$(li)Carrots can be planted in farmland to obtain more Carrots.$(br)$(li)They can be used to feed $(l:patchouli:creatures/vanilla/pig)Pigs$(/l).$(br)$(li)You can put Carrots in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Farmers will exchange your Carrots by Emeralds.$(br)$(li)You can use Carrots to craft a Seed Pouch, Carrot Crate, Snowman Lanterns, Carrot on a Stick, Golden Carrot, Adzuki Stew, Adzuki Curry or Rabbit Stew in a Crafting Table too."
+            "text": "$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Carrots by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)You can use Carrots to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:utility/quark/carrot_crate)Carrot Crate$(/l), $(l:patchouli:decoration/charm/lanterns)Snowman Lanterns$(/l), $(l:patchouli:pets/vanilla/carrot_on_a_stick)Carrot on a Stick$(/l), $(l:patchouli:creatures/vanilla/golden_carrot)Golden Carrots$(/l), $(l)Adzuki Stew$(), $(l)Adzuki Curry$() and $(l)Rabbit Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too."
         }
              ]
 }

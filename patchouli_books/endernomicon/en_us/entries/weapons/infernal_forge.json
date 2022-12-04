@@ -8,12 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "cataclysm:infernal_forge",
-            "text": "$(li)The Infernal Forge is the strongest melee weapon, but this one is not only a weapoin, it works like a Pickaxe too.$(br)$(li)With right click you can invoke a short range area that inflicts 7 hearts of damage.",
+            "text": "$(li)The Infernal Forge is the strongest melee weapon, but this one is not only a weapon, it is a Pickaxe too.$(br)$(li)With right click you can invoke a short range area that inflicts 7 hearts of damage.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Bow",
+            "name": "Infernal Forge",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:infernal_forge\",Count:1}],HandDropChances:[0f]}",
             "scale": 0.8,
             "text": "The Infernal Forge can only be obtained defeating the $(l:patchouli:weapons/blood_sprayer)Netherite Monstrosity$(/l)."

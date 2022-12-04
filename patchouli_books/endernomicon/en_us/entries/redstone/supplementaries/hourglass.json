@@ -3,26 +3,26 @@
     "icon": "supplementaries:hourglass",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:hourglass",
-            "text": "$(li)The Hourglass can be filled with any kind Sand, Redstone Powder, Slime, or Honey.",
+            "text": "$(li)The Hourglass can be filled with multiple kind of Sand, Dust and Liquids.$(br)$(li)Once filled, the material inside will slowly start falling with a time depends of the material used.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Once filled, the material inside will slowly start falling with a time depends of the material used.$(br)$(li)Hourglass can be resetted by rotating twice with a $(l:patchouli:redstone/supplementaries/turn_table)Turn Table$(/l) or by shift clicking of it.$(br)$(li)You can recover the item placed in the Hourglass, right clicking on it."
+            "text": "$(li)Hourglass can be resetted by rotating twice with a $(l:patchouli:redstone/supplementaries/turn_table)Turn Table$(/l) or by shift clicking of it.$(br)$(li)You can recover the item placed in the Hourglass, right clicking on it."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/hourglass_1.png",
-            "text":"$(li)You can place a Comparator next to a Hourglass. The strong of this redstone signal depends of the remaining time of the Hourglass."
+            "text":"$(li)You can place a $(l:patchouli:redstone/vanilla/comparator)$(l:patchouli:redstone/vanilla/comparator)Comparator$(/l)$(/l) next to a Hourglass."
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Material time list$()$(br)$(li)Sugar: 40 ticks $(li)Sand: 70 ticks $(li)Concrete: 105 ticks $(li)Glowstone: 190 ticks $(li)Blaze Powder: 277 ticks  $(li)Redstone: 400 ticks $(li)Slime: 1750 ticks $(li)Honey 2000 ticks"
+            "text": "$(li)The strong of this redstone signal depends of the remaining time of the Hourglass.$(br2)$(l)  Material time list$()$(br)$(li)$(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l): 40 ticks $(li)Sand: 70 ticks $(li)Concrete: 105 ticks $(li)$(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l): 190 ticks $(li)$(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l): 277 ticks  $(li)$(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l): 400 ticks $(li)$(l:patchouli:miscellaneous/vanilla/slimeball)Slime$(/l): 1750 ticks $(li)$(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l) 2000 ticks"
         },
         {
             "type": "patchouli:pictures",
