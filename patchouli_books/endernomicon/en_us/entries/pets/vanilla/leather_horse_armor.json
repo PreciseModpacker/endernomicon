@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:leather_horse_armor",
-            "text": "$(li)The Leather Horse Armor is the most basic armor that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
+            "text": "$(li)The Leather Horse Armor is the most basic armor that you can give your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {

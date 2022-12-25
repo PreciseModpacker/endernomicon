@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "kubejs:kjs_9o0pbzerp01al3v0pp9xycpau",
-            "text": "$(li)The Diamond Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/golden_horse_armor)Golden Horse Armor$(/l) that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
+            "text": "$(li)The Diamond Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/golden_horse_armor)Golden Horse Armor$(/l) that you can give your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {

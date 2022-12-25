@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)In the Nether we can find five different variants of the $(l:patchouli:structures/desert_temple)Desert Temples$(/l):$(br)$(li)Basalt Temple$(li)Crimson Temple$(li)Warped Temple$(li)Soul Temple$(li)Wasteland Temple",
+            "text": "$(li)In the Nether we can find five different variants of the $(l:patchouli:structures/desert_temple)Desert Temples$(/l):$(br)$(li)Basalt Temple$(li)Crimson Temple$(li)Warped Temple$(li)Soul Temple$(li)Wasteland Temple.",
             "link_recipe": "true"
         },
         {

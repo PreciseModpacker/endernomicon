@@ -11,7 +11,7 @@
             "input": "minecraft:shulker_box",
             "input2": "minecraft:netherite_ingot",
             "output": "supplementaries:safe",
-            "text": "$(li)Safes can be used to save items in a safe way.$(br)$(li)They are inmune to fire and they have two different modes.",
+            "text": "$(li)Safes can be used to save items in a safe way.$(br)$(li)They are immune to fire and they have two different modes.",
             "link_recipe": "true"
         },
         {

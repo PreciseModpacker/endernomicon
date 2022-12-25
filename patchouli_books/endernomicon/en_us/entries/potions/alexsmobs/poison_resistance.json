@@ -8,7 +8,7 @@
             "type": "patchouli:spotlight",
             "title": "Poison Resistance",
             "item": "minecraft:potion{Potion:'alexsmobs:poison_resistance'}",
-            "text": "$(li)Poison Resistance potions makes you inmune to any kind of poison damage.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Leg$(/l) and $(l:patchouli:potions/alexsmobs/poisonous_essence)Poisonous Essence$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+            "text": "$(li)Poison Resistance potions makes you immune to any kind of poison damage.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Leg$(/l) and $(l:patchouli:potions/alexsmobs/poisonous_essence)Poisonous Essence$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "patchouli:text",
