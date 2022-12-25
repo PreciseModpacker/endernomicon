@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Cactus Armor is a quiet better than $(l:patchouli:armors/wood_armor)Wood Armor$(/l), Leather Armor and $(l:patchouli:armors/snow_armor)Snow Armor$(/l)$(br)$(li)If you wear the complete set, you will get the Thorns I effect.$(br)$(li)This effect cause damage to any creature that attacks you."
+            "text": "$(li)The Cactus Armor is a bit better than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l), Leather Armor and $(l:patchouli:armors/snow_armor)Snow Armor$(/l)$(br)$(li)If you wear a complete set, you will get the Thorns I effect.$(br)$(li)This effect will cause damage to any creature that attacks you."
         },
         {
             "type": "patchouli:entity",

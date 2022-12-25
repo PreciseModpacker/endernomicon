@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Iron Armor is quiet better than the $(l:patchouli:armors/phantom_armor)Phantom Armor$(/l).$(br)$(li)This armor will not give to you any special effect."
+            "text": "$(li)The Iron Armor is a bit better than the $(l:patchouli:armors/phantom_armor)Phantom Armor$(/l).$(br)$(li)This armor will not give you any special effect."
         },
         {
             "type": "patchouli:entity",

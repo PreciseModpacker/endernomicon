@@ -8,7 +8,7 @@
        {
             "type": "patchouli:spotlight",
             "item": "outvoted:wildfire_helmet",
-            "text": "$(li)The Wildifre Helmet has Armour Toughness giving you extra protection from strong attacks.$(br)$(li)It gives to you the Fire Resistance effect when you are wearing it too, making you totally inmune to Fire damage.",
+            "text": "$(li)The Wildifre Helmet has Armour Toughness giving you extra protection from strong attacks.$(br)$(li)It gives to you the Fire Resistance effect when you are wearing it too, making you totally immune to Fire damage.",
             "link_recipe": "true"
         },
         {

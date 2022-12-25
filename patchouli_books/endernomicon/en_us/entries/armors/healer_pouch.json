@@ -8,18 +8,18 @@
         {
             "type": "patchouli:spotlight",
             "item": "environmental:healer_pouch",
-            "text": "$(li)Everytime that you receive damage from other creature, the Healer's Pouch gives to you the Renegeration effect, regenerating your life and the Panic effect, increasing your walking movement.$(br)$(li)Both effects have a coldown of a few seconds.",
+            "text": "$(li)Every time when you receive damage from another creature, the Healer's Pouch gives you the Renegeration effect, regenerating your life, and the Panic effect, increasing your walking movement.$(br)$(li)Both effects have a coldown of a few seconds.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
             "name": "Healer's Pouch",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{id:\"environmental:healer_pouch\",Count:1},{}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "The Healer's Pouch effects can be upgraded receiving damage for other creatures."
+            "text": "The Healer's Pouch effects can be upgraded by receiving damage for other creatures."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Healer's Pouch only can be drop rarely by mobs and be found in Mineshaft chests.$(br2)$(l)Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
+            "text": "$(li)The Healer's Pouch can be found in Mineshaft chests or as a rare drop from mobs.$(br2)$(l)Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
         },
         {
             "type": "patchouli:text",

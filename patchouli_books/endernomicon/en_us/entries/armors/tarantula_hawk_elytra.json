@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:tarantula_hawk_elytra",
-            "text": "$(li)The Tarantula Hawk Elytra is an upgraded version of the common $(l:patchouli:armors/elytra)Elytra$(/l).$(br)$(li)It gives more armor and durability than this last one.",
+            "text": "$(li)The Tarantula Hawk Elytra is an upgraded version of the common $(l:patchouli:armors/elytra)Elytra$(/l).$(br)$(li)It gives more armor and durability compared to the regular one.",
             "link_recipe": "true"
         },
         {

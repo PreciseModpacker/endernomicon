@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Molten Armor is a quiet better than the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l).$(br)$(li)If you wear the complete set, you will get the Fire Resistance II effect, giving to you inmunity to damage from fire, blaze fireballs, fire charges, magma blocks and lava."
+            "text": "$(li)The Molten Armor is a bit better than the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Fire Resistance II effect, giving to you immunity to damage from fire, blaze fireballs, fire charges, magma blocks and lava."
         },
         {
             "type": "patchouli:entity",

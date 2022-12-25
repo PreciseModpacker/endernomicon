@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "environmental:thief_hood",
-            "text": "$(li)The Thief's Hood has the Stealth effect, making harder for other creatures to detect you.$(br)$(li)This effect can be upgraded slaying other creatures.$(br)$(li)It only can be found in Dungeon Chests.",
+            "text": "$(li)The Thief's Hood has the Stealth effect, making it harder for other creatures to detect you.$(br)$(li)This effect can be upgraded by slaying other creatures.$(br)$(li)It can only be found in Dungeon Chests.",
             "link_recipe": "true"
         },
         {

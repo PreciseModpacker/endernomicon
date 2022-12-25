@@ -9,7 +9,7 @@
             "type": "patchouli:spotlight",
             "name": "Architect's Belt",
             "item": "environmental:architect_belt",
-            "text": "$(li)Architect's Belt increases your reach distance when you place or break blocks.$(br)$(li)This Architect Belt effect can be upgrade placing blocks until the item level up.$(br)$(li)It can only be traded by the Mason, Ceramist and Carpenter villagers.",
+            "text": "$(li)Architect's Belt increases your reach distance when you place or break blocks.$(br)$(li)This effect can be upgraded by placing blocks until the item levels up.$(br)$(li)It can only be traded by the Mason, Ceramist and Carpenter villagers.",
             "link_recipe": "true"
         },
         {

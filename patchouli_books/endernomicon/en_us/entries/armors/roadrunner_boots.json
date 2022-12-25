@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:roadrunner_boots",
-            "text": "$(li)The Roadrunner Boots gives you extra speed when you are running in Sand.",
+            "text": "$(li)Roadrunner Boots give you extra speed when you are running on Sand.",
             "link_recipe": "true"
         },
         {

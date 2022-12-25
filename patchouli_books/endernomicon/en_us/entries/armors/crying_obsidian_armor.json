@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Crying Obsidian Armor is a quite better than the $(l:patchouli:armors/prismarine_shard_armor)Prismarine Shard Armor$(/l) and $(l:patchouli:armors/prismarine_crystal_armor)Primsarine Crystal Armor$(/l).$(br)$(li)If you wear the complete set, you will get Blast Protection IV effect reducing the explosion damage that you receive."
+            "text": "$(li)The Crying Obsidian Armor is a bit better than the $(l:patchouli:armors/prismarine_shard_armor)Prismarine Shard Armor$(/l) and $(l:patchouli:armors/prismarine_crystal_armor)Primsarine Crystal Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Blast Protection IV effect reducing the explosion damage that you receive."
         },
         {
             "type": "patchouli:entity",

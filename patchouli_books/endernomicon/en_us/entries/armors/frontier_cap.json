@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:frontier_cap",
-            "text": "$(li)The Frontierman's Cap can be weared on the head.$(br)$(li)It gives you an extra speed of while you are sneaking.",
+            "text": "$(li)The Frontierman's Cap can be worn on the head.$(br)$(li)It gives you additional speed while you are sneaking.",
             "link_recipe": "true"
         },
         {

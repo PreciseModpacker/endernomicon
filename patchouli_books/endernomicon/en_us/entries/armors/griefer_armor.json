@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Griefer Armor is a quiet better than $(l:patchouli:armors/emerald_armor)Emerald Armor$(/l).$(br)$(li)This armor has Armor Toughtness giving you extra protection from strong attacks.$(br)$(li)It has Explosive Damage reduction too, giving you an extra protection from explosions."
+            "text": "$(li)The Griefer Armor is a bit better than the $(l:patchouli:armors/emerald_armor)Emerald Armor$(/l).$(br)$(li)This armor has Armor Toughness giving you extra protection from strong attacks.$(br)$(li)It has Explosive Damage reduction too, giving you an extra protection from explosions."
         },
         {
             "type": "patchouli:entity",

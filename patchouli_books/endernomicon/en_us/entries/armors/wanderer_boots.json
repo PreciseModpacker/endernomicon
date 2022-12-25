@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "environmental:wanderer_boots",
-            "text": "$(li)Wanderer's Boots increases your movement speed.$(br)$(li)This effect can be upgrade walking over the world.$(br)$(li)It only can be found in Dungeon Chests.",
+            "text": "$(li)Wanderer's Boots increase your movement speed.$(br)$(li)This effect can be upgrade walking around the world.$(br)$(li)It only can be found in Dungeon Chests.",
             "link_recipe": "true"
         },
         {
