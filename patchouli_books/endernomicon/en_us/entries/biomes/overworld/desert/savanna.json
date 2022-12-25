@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Savanna is a warm biome composed mostly by Grass.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find some vegetation, like Acacia trees, $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l), Poppies, Dandelions, Alliums, Grass and sometimes Spruce or Oak trees."
+            "text": "$(li)The Savanna is a warm biome composed of mostly Grass.$(br)$(li)It can be found in the Overworld.$(br)$(li)You can find some vegetation, like Acacia trees, $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l), Poppies, Dandelions, Alliums, Grass and sometimes Spruce or Oak trees."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l), $(l:patchouli:creatures/alexsmobs/emus)Emus$(/l), $(l:patchouli:pets/alexsmobs/elephant)Elephants$(/l), and $(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) can be found here.$(br)$(li)On the night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome introducing the word $(l)Savanna$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l), $(l:patchouli:creatures/alexsmobs/emus)Emus$(/l), $(l:patchouli:pets/alexsmobs/elephant)Elephants$(/l) and $(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) can be found here.$(br)$(li)On the night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome introducing the word $(l)Savanna$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

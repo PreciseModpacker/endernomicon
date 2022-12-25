@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Zombified Piglins are neutral creatures that can be found over the Nether.$(br)$(li)These creatures will become hostile to you when it or another nearby Zombified Piglin is attacked.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l), $(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nuggets$(/l), or $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l)."
+            "text": "$(li)Zombified Piglin are neutral creatures that can be found over the Nether.$(br)$(li)These creatures will become hostile to you when it or another nearby Zombified Piglin is attacked.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l), $(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nuggets$(/l), or $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l)."
         },
         {
             "type": "patchouli:entity",

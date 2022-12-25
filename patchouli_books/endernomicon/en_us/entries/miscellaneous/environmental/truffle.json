@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "environmental:truffle",
-            "text": "$(li)The Truffle is an eatable item that can be used to craft a $(l)Truffle Crate$(), $(l)Truffle Mash$(), and $(l)Truffle Pie$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can be used to brew a $(l:patchouli:potions/environmental/vitality)Potion of Vitaly$(/l) too.",
+            "text": "$(li)The Truffle is an eatable item that can be used to craft a $(l)Truffle Crate$(), $(l)Truffle Mash$() and $(l)Truffle Pie$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can be used to brew a $(l:patchouli:potions/environmental/vitality)Potion of Vitaly$(/l) too.",
             "link_recipe": "true"
         },
         {

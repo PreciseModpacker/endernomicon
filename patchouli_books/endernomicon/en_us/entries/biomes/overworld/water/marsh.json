@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Marsh is a biome composed mostly by Water, $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay$(/l) and $(l:patchouli:miscellaneous/environmental/mud_ball)Mud$(/l).$(br)$(li)In this wet place you can find some water vegetation, like Lilypads, Seagrass, Duckweed, and Tall Cattail.$(br)$(li)Some aquatic animals like Perchs, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:pets/environmental/slabfish)Slabfishes$(/l), and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found here too."
+            "text": "$(li)The Marsh is a biome composed of mostly Water, $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay$(/l) and $(l:patchouli:miscellaneous/environmental/mud_ball)Mud$(/l).$(br)$(li)In this wet place you can find some water vegetation, like Lilypads, Seagrass, Duckweed, and Tall Cattail.$(br)$(li)Some aquatic animals like Perchs, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:pets/environmental/slabfish)Slabfishes$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found here too."
         },
         {
             "type": "patchouli:text",

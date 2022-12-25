@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:snowball",
-            "text": "$(li)The Snowballs can be thrown to other creatures right clicking while you are holding them in your hand.$(br)$(li)The most creatures will not receive any damage, except fire creatures like $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l).$(br)$(li)They can be used to craft $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l) and $(l:patchouli:miscellaneous/charm/glowballs)Glowballs$(/l) too.",
+            "text": "$(li)The Snowballs can be thrown to other creatures right clicking while you are holding them in your hand.$(br)$(li)The most creatures will not receive any damage, except fire creatures such as $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l).$(br)$(li)They can be used to craft $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l) and $(l:patchouli:miscellaneous/charm/glowballs)Glowballs$(/l) too.",
             "link_recipe": "true"
         },
         {

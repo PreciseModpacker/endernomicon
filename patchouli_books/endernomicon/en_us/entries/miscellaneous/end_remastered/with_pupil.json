@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be found inside of the $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/witch_tower)Witch Tower$(/l), $(l:patchouli:structures/witch_house)Witch Hut$(/l), and $(l:patchouli:structures/witch_tower)Maple Witch Hut$(/l).",
+            "text": "$(li)This item can be found inside of the $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/witch_tower)Witch Tower$(/l), $(l:patchouli:structures/witch_house)Witch Hut$(/l) and $(l:patchouli:structures/witch_tower)Maple Witch Hut$(/l).",
             "link_recipe": "true"
         }
              ]

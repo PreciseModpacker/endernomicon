@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ice Armor is a bit better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l), and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Frost Walker effect.$(br)$(li)This effect makes you to turn the water into Frosted Ice when you walk near it."
+            "text": "$(li)The Ice Armor is a bit better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l) and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Frost Walker effect.$(br)$(li)This effect makes you to turn the water into Frosted Ice when you walk near it."
         },
         {
             "type": "patchouli:entity",

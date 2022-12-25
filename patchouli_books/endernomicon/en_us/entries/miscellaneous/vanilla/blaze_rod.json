@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:blaze_rod",
-            "text": "$(li)The Blaze Rod is a hot item that has diverses uses.$(br)$(li)It can be used to craft multiple items like $(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l), $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l), $(l:patchouli:decoration/vanilla/paintings)Infernal Paintings$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Blaze Lanterns$(/l), and $(l:patchouli:decoration/vanilla/end_rod)End Rods$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) may drop it on death.",
+            "text": "$(li)The Blaze Rod is a hot item that has diverses uses.$(br)$(li)It can be used to craft multiple items like $(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l), $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l), $(l:patchouli:decoration/vanilla/paintings)Infernal Paintings$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Blaze Lanterns$(/l) and $(l:patchouli:decoration/vanilla/end_rod)End Rods$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) may drop it on death.",
             "link_recipe": "true"
         },
         {

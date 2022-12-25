@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Rattlesnakes are little creatures that can be foud in the $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l), $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), and $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) but sometimes they may hunt other tiny animals.$(br)$(li)If you get close to a Rattlesnake, it is going to make a rattle warning sound.$(br)$(li)If you gets close enought to it, it will attack you with its $(l:patchouli:potions/vanilla/poison)poison$(/l)."
+            "text": "$(li)Rattlesnakes are little creatures that can be foud in the $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l), $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) and $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) but sometimes they may hunt other tiny animals.$(br)$(li)If you get close to a Rattlesnake, it is going to make a rattle warning sound.$(br)$(li)If you gets close enought to it, it will attack you with its $(l:patchouli:potions/vanilla/poison)poison$(/l)."
         },
         {
             "type": "patchouli:entity",

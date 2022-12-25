@@ -8,7 +8,7 @@
         {
             "type": "patchouli:smelting",
             "recipe": "minecraft:gold_ingot",
-            "text": "$(li)The Gold Ingot is a shiny metal that can be obtained smelting a Gold Ore.$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.$(br)$(li)You can use it to trade with the $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l) too.",
+            "text": "$(li)The Gold Ingot is a shiny metal that can be obtained smelting a Gold Ore.$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.$(br)$(li)You can use it to trade with the $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) too.",
             "link_recipe": "true"
         },
         {

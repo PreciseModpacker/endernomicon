@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Gunpowder can be obtained in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l)Dungeons$(), $(l:patchouli:structures/desert_temple)Desert Temples$(/l), $(l:patchouli:illagers/mansion)Mansions$(/l) and $(l:patchouli:structures/shipwreck)Shipwrecks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/goblins_and_dungeons/goom)Gooms$(/l), $(l:patchouli:illagers/griefer)Griefers$(/l), and $(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death.",
+            "text": "$(li)The Gunpowder can be obtained in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l)Dungeons$(), $(l:patchouli:structures/desert_temple)Desert Temples$(/l), $(l:patchouli:illagers/mansion)Mansions$(/l) and $(l:patchouli:structures/shipwreck)Shipwrecks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/goblins_and_dungeons/goom)Gooms$(/l), $(l:patchouli:illagers/griefer)Griefers$(/l) and $(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death.",
             "link_recipe": "true"
         }
 

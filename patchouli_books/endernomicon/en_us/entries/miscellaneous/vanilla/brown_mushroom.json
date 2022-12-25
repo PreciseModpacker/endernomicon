@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:brown_mushroom",
-            "text": "$(li)The Brown Mushroom is a fungus that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/snow/giant_taiga)Giant Taigas$(/l), $(l:patchouli:biomes/overworld/snow/taiga)Taigas$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/snow/taiga_mountains)Taiga Mountains$(/l), $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forests$(/l), $(l:patchouli:biomes/overworld/grass/pumpkin_fields)Pumpkin Fields$(/l), and $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)You can feed a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l) with this item to make Brown Mushrooms grow on its body.",
+            "text": "$(li)The Brown Mushroom is a fungus that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/snow/giant_taiga)Giant Taigas$(/l), $(l:patchouli:biomes/overworld/snow/taiga)Taigas$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/snow/taiga_mountains)Taiga Mountains$(/l), $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forests$(/l), $(l:patchouli:biomes/overworld/grass/pumpkin_fields)Pumpkin Fields$(/l) and $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)You can feed a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l) with this item to make Brown Mushrooms grow on its body.",
             "link_recipe": "true"
         },
         {

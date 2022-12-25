@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:apple",
-            "text": "$(li)The Apple is an eatable item that can be used to craft a $(l:patchouli:utility/quark/apple_crate)Apple Crate$(/l), $(l)Apple Pie$(), $(l)Honey Apple$(), and $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Leaves rarely drop this item when they are broken.",
+            "text": "$(li)The Apple is an eatable item that can be used to craft a $(l:patchouli:utility/quark/apple_crate)Apple Crate$(/l), $(l)Apple Pie$(), $(l)Honey Apple$() and $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Leaves rarely drop this item when they are broken.",
             "link_recipe": "true"
         },
         {

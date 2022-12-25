@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/illagers/illager_mine.png",
-            "text": "$(li)The Illager Mine can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), and $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) of the Overworld."
+            "text": "$(li)The Illager Mine can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l) and $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) of the Overworld."
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:diamond_pickaxe",
-            "text": "$(li)The Diamond Pickaxe is the upgrade of the $(l:patchouli:tools/vanilla/iron_pickaxe)Iron Pickaxe$(/l).$(br)$(li)This pickaxe opens the possibility of mine $(l:patchouli:miscellaneous/vanilla/obsidian)Obsidian$(/l), $(l:patchouli:miscellaneous/vanilla/crying_obsidian)Crying Obsidian$(/l), and $(l:patchouli:miscellaneous/vanilla/ancient_debris)Ancient Debris$(/l)." ,
+            "text": "$(li)The Diamond Pickaxe is the upgrade of the $(l:patchouli:tools/vanilla/iron_pickaxe)Iron Pickaxe$(/l).$(br)$(li)This pickaxe opens the possibility of mine $(l:patchouli:miscellaneous/vanilla/obsidian)Obsidian$(/l), $(l:patchouli:miscellaneous/vanilla/crying_obsidian)Crying Obsidian$(/l) and $(l:patchouli:miscellaneous/vanilla/ancient_debris)Ancient Debris$(/l)." ,
             "link_recipe": "true"
         },
         {

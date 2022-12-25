@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:smite',lvl:1}]}",
-            "text": "$(li)The Smite enchantment can be applied in any kind of $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) or $(l:patchouli:tools/quark/flamarang)Flamarang$(/l).$(br)$(li)This enchantment increase the damage inflicted of undead creatures like $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) or $(l:patchouli:creatures/vanilla/skeleton)Skeleton$(/l).",
+            "text": "$(li)The Smite enchantment can be applied in any kind of $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) or $(l:patchouli:tools/quark/flamarang)Flamarang$(/l).$(br)$(li)This enchantment increase the damage inflicted of undead creatures such as $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) or $(l:patchouli:creatures/vanilla/skeleton)Skeleton$(/l).",
             "title": "Smite"
         },
         {

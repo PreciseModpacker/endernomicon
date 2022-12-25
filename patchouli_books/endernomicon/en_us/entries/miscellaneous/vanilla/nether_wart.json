@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used to craft $(l)Crimson Wart Blocks$(), $(l)Red Nether Bricks$(), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), and $(l:patchouli:utility/quark/nether_wart_sack)Nether Wart Sack$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can use this item as ingredient to brew an $(l:patchouli:potions/vanilla/awkward)Awkward Potion$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will change your Nether Wart by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too."
+            "text": "$(li)This item can be used to craft $(l)Crimson Wart Blocks$(), $(l)Red Nether Bricks$(), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) and $(l:patchouli:utility/quark/nether_wart_sack)Nether Wart Sack$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can use this item as ingredient to brew an $(l:patchouli:potions/vanilla/awkward)Awkward Potion$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will change your Nether Wart by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too."
         }
              ]
 }

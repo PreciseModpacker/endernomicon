@@ -14,7 +14,7 @@
         { 
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/saddle.png",
-            "text": "$(li)$(l:patchouli:villagers/leatherworker)Leatherworkers$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Saddles, they can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l), and $(l:patchouli:illagers/ravager)Ravagers$(/l) drops them on death."
+            "text": "$(li)$(l:patchouli:villagers/leatherworker)Leatherworkers$(/l) will exchange your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by Saddles, they can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) and $(l:patchouli:illagers/ravager)Ravagers$(/l) drops them on death."
         }
              ]
 }

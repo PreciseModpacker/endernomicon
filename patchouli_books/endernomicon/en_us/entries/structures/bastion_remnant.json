@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Bastion Remnant is a large structure that can be found in the Nether.$(br)$(li)This place is inhabited by $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), and $(l:patchouli:creatures/vanilla/piglin_brute)Piglin Brutes$(/l).$(br)$(li)An useful mineral can be found in this place, the $(l:patchouli:miscellaneous/end_remastered/end_crystal_fragment)End Crystal Ore$(/l)."
+            "text": "$(li)The Bastion Remnant is a large structure that can be found in the Nether.$(br)$(li)This place is inhabited by $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l) and $(l:patchouli:creatures/vanilla/piglin_brute)Piglin Brutes$(/l).$(br)$(li)An useful mineral can be found in this place, the $(l:patchouli:miscellaneous/end_remastered/end_crystal_fragment)End Crystal Ore$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

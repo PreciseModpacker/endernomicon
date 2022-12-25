@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:coal",
-            "text": "$(li)The Coal is an item that can be found and mined in the caves over the Overworld.$(br)$(li)Some creatures as the $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l), $(l:patchouli:pets/quark/foxhound)Foxhounds$(/l), and $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item on death.$(br)$(li)You can find Coal in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.",
+            "text": "$(li)The Coal is an item that can be found and mined in the caves over the Overworld.$(br)$(li)Some creatures as the $(l:patchouli:creatures/vanilla/wither_skeleton)Wither Skeletons$(/l), $(l:patchouli:pets/quark/foxhound)Foxhounds$(/l) and $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item on death.$(br)$(li)You can find Coal in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) too.",
             "link_recipe": "true"
         },
         {

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Beach is a small biome composed of mostly of Sand and Water.$(br)$(li)In this place you can find some aquatic vegetation, like Seagrass and animals like $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l), $(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l), $(l:patchouli:creatures/quark/crab)Crabs$(/l), and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) too."
+            "text": "$(li)The Beach is a small biome composed of mostly of Sand and Water.$(br)$(li)In this place you can find some aquatic vegetation, like Seagrass and animals like $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l), $(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l), $(l:patchouli:creatures/quark/crab)Crabs$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) too."
         },
         {
             "type": "patchouli:text",

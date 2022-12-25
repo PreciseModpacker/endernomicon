@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cachalot Whales are neutral, massive mammals creatures found in the $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l), and $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l).$(br)$(li)They detect their preys, $(l:patchouli:creatures/vanilla/squid)Squids$(/l) sending out a moaning noise to echolocate them."
+            "text": "$(li)Cachalot Whales are neutral, massive mammals creatures found in the $(l:patchouli:biomes/overworld/water/lukewarm_ocean)Lukewarm Oceans$(/l), $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) and $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l).$(br)$(li)They detect their preys, $(l:patchouli:creatures/vanilla/squid)Squids$(/l) sending out a moaning noise to echolocate them."
         },
         {
             "type": "patchouli:small_pictures",
