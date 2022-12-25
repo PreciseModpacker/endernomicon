@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Glowstone Canyon is a biome composed of mostly by Shimmer and $(l:patchouli:utility/vanilla/glowstone_block)Glowstone$(/l).$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Brown Mushrooms and Luminous Fungus here."
+            "text": "$(li)The Glowstone Canyon is a biome composed of mostly of Shimmer and $(l:patchouli:utility/vanilla/glowstone_block)Glowstone$(/l).$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Brown Mushrooms and Luminous Fungus here."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures like $(l:patchouli:creatures/infernal_expansion/blindsight)Blindsights$(/l) and $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Glowstone Canyon$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/blindsight)Blindsights$(/l) and $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Glowstone Canyon$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

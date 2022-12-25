@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Basalt Deltas is a volcanic biome covered by ashes.$(br)$(li)It can be found in the Nether.$(br)$(li)This biome is composed of mostly of Basalt, Blackstone and $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Blocks$(/l)."
+            "text": "$(li)Basalt Deltas are a volcanic biome covered in ashes.$(br)$(li)They can be found in the Nether.$(br)$(li)This biome is composed of mostly of Basalt, Blackstone and $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Blocks$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Not too many creatures can survive in this habitat, just $(l:patchouli:creatures/infernal_expansion/basalt_giant)Basalt Giants$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) and $(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l).$(br)$(li)You can search this biome introducing the words $(l)Basalt Deltas$() in the search box of the Nature's Compass."
+            "text": "$(li)Not too many creatures can survive in this habitat, only $(l:patchouli:creatures/infernal_expansion/basalt_giant)Basalt Giants$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) and $(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l).$(br)$(li)You can search this biome by typing the words $(l)Basalt Deltas$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",
