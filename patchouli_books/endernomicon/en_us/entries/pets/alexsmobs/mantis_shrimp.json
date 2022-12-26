@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Mantis Shrimp can be tamed by feeding them 10 to 30 $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fishes$(/l).$(br)$(li)Tamed Mantis Shrimp can be made to follow, sit, wander and break blocks.$(br)$(li)When sneak-interacted with while holding a block, one can give this block to the Mantis Shrimp."
+            "text": "$(li)Mantis Shrimp can be tamed by feeding them 10 to 30 $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fish$(/l).$(br)$(li)Tamed Mantis Shrimp can be made to follow, sit, wander and break blocks.$(br)$(li)When sneak-interacted with while holding a block, one can give this block to the Mantis Shrimp."
         },
         {
             "type": "patchouli:text",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Nautilus are passive creatures that can be found underwater caves and ravines, except in $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) or $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)When a $(l:patchouli:creatures/vanilla/drowned)Drowned$(/l), $(l:patchouli:creatures/vanilla/squid)Squid$(/l) or you are near of one of these creatures or if they are hitted, they will perform a few dashes to escape."
+            "text": "$(li)Nautilus are passive creatures that can be found underwater caves and ravines, except in $(l:patchouli:biomes/overworld/water/cold_ocean)Cold Oceans$(/l) or $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)When a $(l:patchouli:creatures/vanilla/drowned)Drowned$(/l), $(l:patchouli:creatures/vanilla/squid)Squid$(/l) or you are near one of these creatures or if they are hitted, they will perform a few dashes to escape."
         },
         {
             "type": "patchouli:entity",

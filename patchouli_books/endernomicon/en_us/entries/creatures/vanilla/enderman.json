@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:enderman",
             "scale": 1,
-            "text": "If an Enderman detects a $(l:patchouli:creatures/vanilla/endermite)Endermite$(/l) near of it, it will not hesitate to attack this tiny creature."
+            "text": "If an Enderman detects a $(l:patchouli:creatures/vanilla/endermite)Endermite$(/l) near it, it will not hesitate to attack this tiny creature."
         }
              ]
 }

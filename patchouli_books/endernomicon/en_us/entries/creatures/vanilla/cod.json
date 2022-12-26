@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cod are fishes that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l), $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) and $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cod$(/l) and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death."
+            "text": "$(li)Cod are fish that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l), $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) and $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cod$(/l) and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death."
         },
         {
             "type": "patchouli:entity",

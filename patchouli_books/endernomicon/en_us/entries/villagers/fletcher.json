@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Fletcher aim is unrivaled.$(br)$(li)It will trade you $(l:patchouli:weapons/arrows)Arrows$(/l), $(l:patchouli:weapons/bow)Bows$(/l), $(l:patchouli:weapons/crossbow)Crossbows$(/l), and Bananarrows for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Fletcher profession if is near of a $(l:patchouli:utility/vanilla/fletching_table)Fletching Table$(/l)."
+            "text": "$(li)The Fletcher aim is unrivaled.$(br)$(li)It will trade you $(l:patchouli:weapons/arrows)Arrows$(/l), $(l:patchouli:weapons/bow)Bows$(/l), $(l:patchouli:weapons/crossbow)Crossbows$(/l), and Bananarrows for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Fletcher profession if is near a $(l:patchouli:utility/vanilla/fletching_table)Fletching Table$(/l)."
         },
         {
             "type": "patchouli:entity",

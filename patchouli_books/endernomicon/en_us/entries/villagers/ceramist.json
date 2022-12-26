@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ceramist really treat and shape the ceramic.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/brick)Bricks$(/l), Terracotta Blocks, $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l) and even an $(l:patchouli:armors/architect_belt)Architect's Belt$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Ceramist profession if it is near of a $(l:patchouli:utility/environmental/kiln)Kiln$(/l)."
+            "text": "$(li)The Ceramist really treat and shape the ceramic.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/brick)Bricks$(/l), Terracotta Blocks, $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l) and even an $(l:patchouli:armors/architect_belt)Architect's Belt$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Ceramist profession if it is near a $(l:patchouli:utility/environmental/kiln)Kiln$(/l)."
         },
         {
             "type": "patchouli:entity",

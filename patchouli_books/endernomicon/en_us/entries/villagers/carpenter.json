@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Carpenter really love to treat and processes the wood.$(br)$(li)It will trade you $(l:patchouli:decoration/others/doors)Doors$(/l), $(l:patchouli:decoration/others/trapdoors)Trapdoors$(/l), $(l:patchouli:decoration/vanilla/signs)Signs$(/l), other wood blocks, and even an $(l:patchouli:armors/architect_belt)Architect's Belt$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Carpenter profession if is near of a $(l:patchouli:utility/charm/woodcutter)Sawmill$(/l)."
+            "text": "$(li)The Carpenter really love to treat and processes the wood.$(br)$(li)It will trade you $(l:patchouli:decoration/others/doors)Doors$(/l), $(l:patchouli:decoration/others/trapdoors)Trapdoors$(/l), $(l:patchouli:decoration/vanilla/signs)Signs$(/l), other wood blocks, and even an $(l:patchouli:armors/architect_belt)Architect's Belt$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Carpenter profession if is near a $(l:patchouli:utility/charm/woodcutter)Sawmill$(/l)."
         },
         {
             "type": "patchouli:entity",

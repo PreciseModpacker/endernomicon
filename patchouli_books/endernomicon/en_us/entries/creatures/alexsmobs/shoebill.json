@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Shoebills are passive birds that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)These creatures sometimes stand in the water, and fish for fishes.$(br)$(li)Shoebills can be feed up to 10 $(l:patchouli:miscellaneous/alexsmobs/emu_egg)Emu Eggs$(/l) to increase their lunk or 10 $(l:patchouli:miscellaneous/alexsmobs/crocodile_egg)Crocodile Eggs$(/l) to increase their lure to improve their fishing."
+            "text": "$(li)Shoebills are passive birds that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)These creatures sometimes stand in the water, and fish for fish.$(br)$(li)Shoebills can be feed up to 10 $(l:patchouli:miscellaneous/alexsmobs/emu_egg)Emu Eggs$(/l) to increase their lunk or 10 $(l:patchouli:miscellaneous/alexsmobs/crocodile_egg)Crocodile Eggs$(/l) to increase their lure to improve their fishing."
         },
         {
             "type": "patchouli:entity",

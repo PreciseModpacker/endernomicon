@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Some $(l:patchouli:villagers/fisherman)Fishermans$(/l) can be found sailing the seas in their Fishing Ships in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)Maybe you should talk to them, they may want to trade Fishes for your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
+            "text": "$(li)Some $(l:patchouli:villagers/fisherman)Fishermans$(/l) can be found sailing the seas in their Fishing Ships in the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)Maybe you should talk to them, they may want to trade Fish for your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Nether Wastes are a barren biome composed of mostly Netherrack.$(br)$(li)They can be found in the Nether,$(br)$(li)You can find Planted Quartz and Netherrack Speleothem here."
+            "text": "$(li)Nether Wastes are a barren biome composed mostly of Netherrack.$(br)$(li)They can be found in the Nether,$(br)$(li)You can find Planted Quartz and Netherrack Speleothem here."
         },
         {
             "type": "patchouli:text",

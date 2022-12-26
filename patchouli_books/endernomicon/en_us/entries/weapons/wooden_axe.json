@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:wooden_axe",
-            "text": "$(li)The Wooden Axe is the most basic Axe that you can create.$(br)$(li)They are known like slow but powerful weapons compared with $(l:patchouli:weapons/wooden_sword)Swords$(/l)." ,
+            "text": "$(li)The Wooden Axe is the most basic Axe that you can create.$(br)$(li)They are known as slow but powerful weapons compared with $(l:patchouli:weapons/wooden_sword)Swords$(/l)." ,
             "link_recipe": "true"
         },
         {

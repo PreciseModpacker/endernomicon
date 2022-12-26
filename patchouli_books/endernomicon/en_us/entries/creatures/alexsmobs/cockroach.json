@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cockroaches are tiny brown passive insects that can be attracted with $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l).$(br)$(li)They will free if near light or players are near of them.$(br)$(li)Cockroaches may drop their $(l:patchouli:miscellaneous/alexsmobs/cockroach_wing_fragment)Cockroach Wing Frament$(/l) on death.$(br)$(li)They will eat any food item dropped on the ground."
+            "text": "$(li)Cockroaches are tiny brown passive insects that can be attracted with $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l).$(br)$(li)They will free if near light or players are near them.$(br)$(li)Cockroaches may drop their $(l:patchouli:miscellaneous/alexsmobs/cockroach_wing_fragment)Cockroach Wing Frament$(/l) on death.$(br)$(li)They will eat any food item dropped on the ground."
         },
         {
             "type": "patchouli:small_pictures",

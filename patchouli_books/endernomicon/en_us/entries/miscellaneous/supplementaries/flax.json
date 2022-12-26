@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:wild_flax",
-            "text": "$(li)Flax can spawn near of the water in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)Like other crops, when you harvest the Wild Flax left clicking on it you will receive Flax Seeds and Flax.",
+            "text": "$(li)Flax can spawn near the water in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)Like other crops, when you harvest the Wild Flax left clicking on it you will receive Flax Seeds and Flax.",
             "link_recipe": "true"
         },
         {

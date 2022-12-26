@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Deers can be found in $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forests$(/l) and rarely in other biomes of the Overworld.$(br)$(li)If you are close of one of them, it will try desperately run away from you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) or Raw Venison on death."
+            "text": "$(li)Deer can be found in $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forests$(/l) and rarely in other biomes of the Overworld.$(br)$(li)If you are close of one of them, it will try desperately run away from you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) or Raw Venison on death."
         },
         {
             "type": "patchouli:entity",

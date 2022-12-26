@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Up to three gunpowder can be used.$(br)$(li)Up ti five firework stars can be used with three gunpowder.$(br)$(li)Up to seven firework stars can be used by using firework stars insteat of additional gunpowder.$(br)$(li)All firework stars explote almost simultaneously when the rocket detonates.",
+            "text": "$(li)Up to three gunpowder can be used.$(br)$(li)Up ti five firework stars can be used with three gunpowder.$(br)$(li)Up to seven firework stars can be used by using firework stars instead of additional gunpowder.$(br)$(li)All firework stars explode almost simultaneously when the rocket detonates.",
             "link_recipe": "true"
         },
         {

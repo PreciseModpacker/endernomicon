@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Villagers are passive creatures that can be found in the $(l:patchouli:villagers/villagers)Villages$(/l) of the Overworld.$(br)$(li)By default they will not want to trade with you.$(br)$(li)They can learn a profession when are near of specific blocks."
+            "text": "$(li)Villagers are passive creatures that can be found in the $(l:patchouli:villagers/villagers)Villages$(/l) of the Overworld.$(br)$(li)By default they will not want to trade with you.$(br)$(li)They can learn a profession when are near specific blocks."
         },
         {
             "type": "patchouli:entity",

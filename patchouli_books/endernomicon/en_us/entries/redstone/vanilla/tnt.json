@@ -13,7 +13,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/tnt.png",
-            "text": "$(li)When it explotes inflicts explosive damage to any near creature and damage the environment."
+            "text": "$(li)When it explodes inflicts explosive damage to any near creature and damage the environment."
         }
 
              ]

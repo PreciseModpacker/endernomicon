@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/structures/ocean_monument.png",
-            "text": "$(li)When you are near of this structure, you will receive the Mining Fatigue III, making imposible to you to break any block."
+            "text": "$(li)When you are near this structure, you will receive the Mining Fatigue III, making imposible to you to break any block."
         }
              ]
 }

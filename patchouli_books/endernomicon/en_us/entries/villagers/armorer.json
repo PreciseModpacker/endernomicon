@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Armorer is a skilled blacksmith.$(br)$(li)It will trade you Armors, $(l:patchouli:weapons/shield)Shields$(/l) and even a $(l:patchouli:decoration/vanilla/bell)Bell$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can obtain the Armorer profession if is near of a $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l)."
+            "text": "$(li)The Armorer is a skilled blacksmith.$(br)$(li)It will trade you Armors, $(l:patchouli:weapons/shield)Shields$(/l) and even a $(l:patchouli:decoration/vanilla/bell)Bell$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can obtain the Armorer profession if is near a $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l)."
         },
         {
             "type": "patchouli:entity",

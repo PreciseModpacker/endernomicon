@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cave centipedes are hostile, slow but strong creatures.$(br)$(li)If they bite you, you will be afflicted by a powerfull $(l:patchouli:potions/vanilla/poison)Poison$(/l) II effect for a few seconds.$(br)$(li)Cave Centipedes will not doubt to attack $(l:patchouli:creatures/alexsmobs/cockroach)Cockroaches$(/l) or players if they are near of them."
+            "text": "$(li)Cave centipedes are hostile, slow but strong creatures.$(br)$(li)If they bite you, you will be afflicted by a powerfull $(l:patchouli:potions/vanilla/poison)Poison$(/l) II effect for a few seconds.$(br)$(li)Cave Centipedes will not doubt to attack $(l:patchouli:creatures/alexsmobs/cockroach)Cockroaches$(/l) or players if they are near them."
         },
         {
             "type": "patchouli:small_pictures",

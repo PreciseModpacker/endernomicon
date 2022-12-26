@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Bees are flying neutral creatures that can be found near of $(l:patchouli:utility/vanilla/bee_nest)Bee Nests$(/l) and $(l:patchouli:utility/vanilla/beehive)Beehives$(/l).$(br)$(li)They fly around their nests, and are attracted to flowers, collecting their pollen, except if they are on $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l).$(br)$(li)Finally Bees fly back into their nests to generate honey."
+            "text": "$(li)Bees are flying neutral creatures that can be found near $(l:patchouli:utility/vanilla/bee_nest)Bee Nests$(/l) and $(l:patchouli:utility/vanilla/beehive)Beehives$(/l).$(br)$(li)They fly around their nests, and are attracted to flowers, collecting their pollen, except if they are on $(l:patchouli:decoration/vanilla/flower_pot)Flower Pots$(/l).$(br)$(li)Finally Bees fly back into their nests to generate honey."
         },
         {
             "type": "patchouli:entity",

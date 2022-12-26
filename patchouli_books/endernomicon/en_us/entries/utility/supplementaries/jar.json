@@ -44,7 +44,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/jar_7.png",
-            "text": "$(li)You can capture small aquatic creatures in a Jar like fishes while you are holding a Jar in your hand."
+            "text": "$(li)You can capture small aquatic creatures in a Jar like fish while you are holding a Jar in your hand."
         },
         {
             "type": "patchouli:small_pictures",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mineshaft is a structure that can be found deeper of the caves or $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)They can be found over the Nether and the End too.$(br)$(li)They are mainly composed by a old interconnection of $(l:patchouli:redstone/vanilla/rail)Rails$(/l), $(l:patchouli:redstone/vanilla/minecart)Minecarts$(/l) and even $(l:patchouli:redstone/vanilla/chest_minecart)Minecart with Chests$(/l) that works as $(l:patchouli:perks/loot_chest)Loot Chests$(/l).",
+            "text": "$(li)The Mineshaft is a structure that can be found deeper of the caves or $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) of the Overworld.$(br)$(li)They can be found over the Nether and the End too.$(br)$(li)They are mainly composed of a old interconnection of $(l:patchouli:redstone/vanilla/rail)Rails$(/l), $(l:patchouli:redstone/vanilla/minecart)Minecarts$(/l) and even $(l:patchouli:redstone/vanilla/chest_minecart)Minecart with Chests$(/l) that works as $(l:patchouli:perks/loot_chest)Loot Chests$(/l).",
             "link_recipe": "true"
         },
         {

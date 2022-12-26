@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)These tiny creatures will follow you and they will follow and explote to the creature that you attack.$(br)$(li)This item can be used to craft $(l)Mischief Arrows$(), $(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast Proof Platings$(/l), $(l:patchouli:redstone/savage_and_ravage/spore_bomb)Spore Bombs$(/l), or $(l:patchouli:utility/savage_and_ravage/creeper_spore_sack)Creeper Spore Sacks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l) may drop this item if you kill them with an explosion of a $(l:patchouli:redstone/vanilla/tnt)TNT$(/l).",
+            "text": "$(li)These tiny creatures will follow you and they will follow and explode to the creature that you attack.$(br)$(li)This item can be used to craft $(l)Mischief Arrows$(), $(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast Proof Platings$(/l), $(l:patchouli:redstone/savage_and_ravage/spore_bomb)Spore Bombs$(/l), or $(l:patchouli:utility/savage_and_ravage/creeper_spore_sack)Creeper Spore Sacks$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/creeper)Creepers$(/l) may drop this item if you kill them with an explosion of a $(l:patchouli:redstone/vanilla/tnt)TNT$(/l).",
             "link_recipe": "true"
         }
              ]

@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you hit a creature with this shooted hat, it will start to wear that hat.$(br)$(li)If the hat falls to the ground, it will appear like an static entity.$(br)$(li)When any creature walks very near of this hat, it will weat it."
+            "text": "$(li)If you hit a creature with this shooted hat, it will start to wear that hat.$(br)$(li)If the hat falls to the ground, it will appear like an static entity.$(br)$(li)When any creature walks very near this hat, it will weat it."
         },
         {
             "type": "patchouli:pictures",

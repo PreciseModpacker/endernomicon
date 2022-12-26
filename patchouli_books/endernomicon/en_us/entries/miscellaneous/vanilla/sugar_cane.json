@@ -8,12 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:sugar_cane",
-            "text": "$(li)Sugar Cane are a kind of tall grass that can be found near of sources of water of the Overworld.$(br)$(li)You can use Sugar Canes to craft $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:miscellaneous/vanilla/paper)Paper$(/l), $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l), $(l)Reed Thatch$(), or $(l)Sugar Cane Bundle$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)Sugar Cane are a kind of tall grass that can be found near sources of water of the Overworld.$(br)$(li)You can use Sugar Canes to craft $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:miscellaneous/vanilla/paper)Paper$(/l), $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l), $(l)Reed Thatch$(), or $(l)Sugar Cane Bundle$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can plant it in any Sand or Dirt block while there is a water block near of it.$(br)$(li)There is no difference in groth rate using one of those blocks.$(br)$(li)This block will be able to grow up to 3 blocks high. "
+            "text": "$(li)You can plant it in any Sand or Dirt block while there is a water block near it.$(br)$(li)There is no difference in groth rate using one of those blocks.$(br)$(li)This block will be able to grow up to 3 blocks high. "
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Soul Sand Valley is a biome composed of mostly Soul Sand and Soul Soil.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find here Buried Bones and Bone Blocks.$(br)$(li)Some dangerous creatures such as $(l:patchouli:creatures/infernal_expansion/embody)Embodies$(/l) and $(l:patchouli:creatures/quark/wraith)Wraiths$(/l) can be found here too."
+            "text": "$(li)The Soul Sand Valley is a biome composed mostly of Soul Sand and Soul Soil.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find here Buried Bones and Bone Blocks.$(br)$(li)Some dangerous creatures such as $(l:patchouli:creatures/infernal_expansion/embody)Embodies$(/l) and $(l:patchouli:creatures/quark/wraith)Wraiths$(/l) can be found here too."
         },
         {
             "type": "patchouli:text",

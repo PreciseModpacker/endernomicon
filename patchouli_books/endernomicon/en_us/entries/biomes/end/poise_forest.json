@@ -8,7 +8,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Poise Forest is a biome composed of mostly Poismoss and Eumus.$(br)$(li)It can be found in the End.$(br)$(li)You can find Poise trees, Bolloom Buds, $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruits$(/l), Poise Bushes and Poise Beehives in this biome."
+            "text": "$(li)The Poise Forest is a biome composed mostly of Poismoss and Eumus.$(br)$(li)It can be found in the End.$(br)$(li)You can find Poise trees, Bolloom Buds, $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruits$(/l), Poise Bushes and Poise Beehives in this biome."
         },
         {
             "type": "patchouli:text",

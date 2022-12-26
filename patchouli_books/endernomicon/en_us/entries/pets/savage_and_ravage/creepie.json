@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Creepies are the smaller version of the $(l:patchouli:creatures/vanilla/creeper)Creepers$(/l).$(br)$(li)They can be summoned in an area with green particles produced by the explosion of the $(l:patchouli:redstone/savage_and_ravage/spore_bomb)Spore Bomb$(/l).$(br)$(li)The Creepiers summoned of this way, will chase an explote to nearby creatures."
+            "text": "$(li)Creepies are the smaller version of the $(l:patchouli:creatures/vanilla/creeper)Creepers$(/l).$(br)$(li)They can be summoned in an area with green particles produced by the explosion of the $(l:patchouli:redstone/savage_and_ravage/spore_bomb)Spore Bomb$(/l).$(br)$(li)The Creepiers summoned of this way, will chase an explode to nearby creatures."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They can be summoned with $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) too.$(br)$(li)In this case, if you are near of the area with green particles, the Creepies will follow you, until you attack some creature.$(br)$(li)Then, those creatures will chase the attacked creature until they are close enough to explote."
+            "text": "$(li)They can be summoned with $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) too.$(br)$(li)In this case, if you are near the area with green particles, the Creepies will follow you, until you attack some creature.$(br)$(li)Then, those creatures will chase the attacked creature until they are close enough to explode."
         },
         {
             "type": "patchouli:text",

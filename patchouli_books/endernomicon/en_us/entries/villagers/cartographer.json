@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Cartographer gather data from its surroundings and creates $(l:patchouli:tools/vanilla/map)Maps$(/l) that can be useful in your journey.$(br)$(li)It will give them to you in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Cartographer profession if is near of a $(l:patchouli:utility/vanilla/cartography_table)Cartography Table$(/l)."
+            "text": "$(li)The Cartographer gather data from its surroundings and creates $(l:patchouli:tools/vanilla/map)Maps$(/l) that can be useful in your journey.$(br)$(li)It will give them to you in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Cartographer profession if is near a $(l:patchouli:utility/vanilla/cartography_table)Cartography Table$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:blobfish",
-            "text": "$(li)The Blobfish is an item that can be used to craft $(l:patchouli:miscellaneous/alexsmobs/fish_oil)Fish Oil$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Blobfishes may drop this item on death.$(br)$(li)Do not try to eat it!$(br)It can be $(l:patchouli:potions/vanilla/poison)poisonous$(/l).",
+            "text": "$(li)The Blobfish is an item that can be used to craft $(l:patchouli:miscellaneous/alexsmobs/fish_oil)Fish Oil$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Blobfish may drop this item on death.$(br)$(li)Do not try to eat it!$(br)It can be $(l:patchouli:potions/vanilla/poison)poisonous$(/l).",
             "link_recipe": "true"
         }
              ]
