@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snowy Tundra is a cold biome composed of mostly Dirt covered with a layer of snow and water lakes turned into ice lakes.$(br)$(li)It can be found in the Overworld.$(br)$(li)Not too many vegetation can survive in these hard conditions, just the Spruce trees and Poppies."
+            "text": "$(li)The Snowy Tundra is a cold biome composed mostly of Dirt covered with a layer of snow and water lakes turned into ice lakes.$(br)$(li)It can be found in the Overworld.$(br)$(li)Not many types of vegetation can survive in these hard conditions, just the Spruce trees and Poppies."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/alexsmobs/moose)Mooses$(/l) can be found walking around this biome too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Tundra$() in the search box of the Nature's Compass."
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/moose)Moose$(/l) can be found walking around this biome too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Tundra$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

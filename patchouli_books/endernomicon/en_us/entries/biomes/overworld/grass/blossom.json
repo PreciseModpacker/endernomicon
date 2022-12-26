@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Blossom Wood Forest is a biome composed of Cherry trees and Cherry Leaf Carpets on the ground that can be found in the Overworld.$(br)$(li)In this wet place you can find some vegetation, like Cherry and Birch Trees, $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), Red Lotus Flowers and Lilies of the Valley."
+            "text": "$(li)The Blossom Wood Forest is a biome composed of Cherry trees and Cherry Leaf Carpets on the ground and can be found in the Overworld.$(br)$(li)In this wet place you can find some vegetation, like Cherry and Birch Trees, $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), Red Lotus Flowers and Lilies of the Valley."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/vanilla/fox)Foxes$(/l), $(l:patchouli:creatures/vanilla/panda)Pandas$(/l), or $(l:patchouli:creatures/environmental/koi)Kois$(/l) can be found here.$(br)$(li)You can search this biome introducing the word $(l)Blossom$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/vanilla/fox)Foxes$(/l), $(l:patchouli:creatures/vanilla/panda)Pandas$(/l), or $(l:patchouli:creatures/environmental/koi)Kois$(/l) can be found here.$(br)$(li)You can search this biome by typing the word $(l)Blossom$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

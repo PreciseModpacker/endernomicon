@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ice Spikes is a cold biome which is composed mainly by $(l:patchouli:miscellaneous/vanilla/snow)Snow$(/l) and $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This is a good place to recolect $(l:patchouli:miscellaneous/vanilla/packet_ice)Packet Ice$(/l) and $(l:patchouli:miscellaneous/vanilla/snow)Snow$(/l) for your constructions, but you will not find any creature or vegetation here."
+            "text": "$(li)The Ice Spikes is a cold biome which is composed mainly of $(l:patchouli:miscellaneous/vanilla/snow)Snow$(/l) and $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This is a good place to collect $(l:patchouli:miscellaneous/vanilla/packet_ice)Packet Ice$(/l) and $(l:patchouli:miscellaneous/vanilla/snow)Snow$(/l) for your constructions, but you will not find any creature or vegetation here."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can search this biome introducing the word $(l)Ice Spikes$() in the search box of the Nature's Compass."
+            "text": "$(li)You can search this biome by typing the word $(l)Ice Spikes$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

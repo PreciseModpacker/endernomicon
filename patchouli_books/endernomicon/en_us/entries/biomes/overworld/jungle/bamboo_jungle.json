@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Bamboo Jungle is a humid climate composed of mostly of $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) and Podzol that can be found over the Overworld.$(br)$(li)Because the climate of this place, you can find a lot vegetation, like $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), $(l:patchouli:miscellaneous/vanilla/melon_slice)Melons$(/l), Bird of Paradise, Jungle and Oak Trees, Vines, $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa$(/l) and Banana Bundles."
+            "text": "$(li)The Bamboo Jungle is a biome with a humid climate composed mostly of $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) and Podzol and can be found in the Overworld.$(br)$(li)Due to the climate of this place, you can find a lot vegetation, such as $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l), $(l:patchouli:miscellaneous/vanilla/melon_slice)Melons$(/l), Bird of Paradise, Jungle and Oak Trees, Vines, $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa$(/l) and Banana Bundles."
         },
         {
             "type": "patchouli:text",

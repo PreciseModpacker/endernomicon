@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Frozen River is a variant of the River biome in which its surface is composed by $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed by Clay, Sand, and rarely Driftwood logs."
+            "text": "$(li)The Frozen River is a variant of the River biome in which its surface is composed of $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed of Clay, Sand, and rarely, Driftwood logs."
         },
         {
             "type": "patchouli:text",

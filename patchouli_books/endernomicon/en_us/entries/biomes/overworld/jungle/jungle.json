@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Jungle is a humid climate composed of mostly very big Jungle Trees, Leaves and Vines that can be found in the Overworld.$(br)$(li)Here you can find vegetation like Bananas Bundles, $(l:patchouli:miscellaneous/vanilla/melon_slice)Melons$(/l), Oak trees, Jungle trees, $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa$(/l), Poppies, Dandelions, Bird of Paradise and Vines."
+            "text": "$(li)The Jungle is a biome with a humid climate composed mostly of very tall Jungle Trees, Leaves and Vines that can be found in the Overworld.$(br)$(li)Here you can find vegetation such as Bananas Bundles, $(l:patchouli:miscellaneous/vanilla/melon_slice)Melons$(/l), Oak trees, Jungle trees, $(l:patchouli:miscellaneous/vanilla/cocoa_beans)Cocoa$(/l), Poppies, Dandelions, Bird of Paradise and Vines."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzees$(/l), $(l:patchouli:pets/alexsmobs/gorilla)Gorillas$(/l), $(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/cat)Cats$(/l) and $(l:patchouli:pets/vanilla/ocelot)Ocelots$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Jungle$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzees$(/l), $(l:patchouli:pets/alexsmobs/gorilla)Gorillas$(/l), $(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/cat)Cats$(/l) and $(l:patchouli:pets/vanilla/ocelot)Ocelots$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Jungle$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

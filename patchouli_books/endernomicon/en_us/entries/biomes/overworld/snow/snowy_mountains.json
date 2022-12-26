@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snowy Mountains is a variant of the $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This biome is composed of mostly Stone, Dirt and, snow layers, convering the whole area."
+            "text": "$(li)The Snowy Mountains is a variant of the $(l:patchouli:biomes/overworld/grass/mountains)Mountains$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This biome is composed mostly of Stone, Dirt and, snow layers convering the whole area."
         },
         {
             "type": "patchouli:text",

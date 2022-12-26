@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snowy Beach is variant of the $(l:patchouli:biomes/overworld/water/beach)Beach$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is composed of mostly Sand and Water, but but is covered on top with a layer of snow and water were turned into $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l)."
+            "text": "$(li)The Snowy Beach is a variant of the $(l:patchouli:biomes/overworld/water/beach)Beach$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is composed mostly of Sand and Water, but but is covered with a layer of snow and water was turned into $(l:patchouli:miscellaneous/vanilla/ice)Ice$(/l)."
         },
         {
             "type": "patchouli:text",

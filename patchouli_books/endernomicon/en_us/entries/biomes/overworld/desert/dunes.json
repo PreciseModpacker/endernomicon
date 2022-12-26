@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Dunes is a dry biome composed mainly of Arid Sand and Red Sand.$(br)$(li)It can be found in the Overworld.$(br)$(li)Even being a desert place without much life, you can find some vegetation like Yuccas Trees, Aloe Vera plants and $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l)."
+            "text": "$(li)Dunes are a dry biome composed mainly of Arid Sand and Red Sand.$(br)$(li)They can be found in the Overworld.$(br)$(li)Even being a deserted place without much life, you can find some vegetation like Yuccas Trees, Aloe Vera plants and $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)There are even animals that can withstand these harsh conditions, like the $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:creatures/alexsmobs/fly)Flies$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emu$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l) and $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hawks$(/l).$(br)$(li)On the night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Dunes too.$(br)$(li)You can search this biome introducing the word $(l)Dunes$() in the search box of the Nature's Compass."
+            "text": "$(li)There are even animals that can withstand these harsh conditions, like the $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:creatures/alexsmobs/fly)Flies$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emu$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l) and $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hawks$(/l).$(br)$(li)At night, the $(l:patchouli:creatures/vanilla/husk)Husks$(/l) will be around the Dunes too.$(br)$(li)You can search this biome by typing the word $(l)Dunes$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

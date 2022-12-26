@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Cold Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l) that can be found in the Overworld.$(br)$(li)The surface of this place is composed mainly by Gravel blocks.$(br)$(li)You can find some water vegetation too, like Seagrass and Kelp Plants."
+            "text": "$(li)Cold Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l) and can be found in the Overworld.$(br)$(li)The surface of this place is composed mainly of Gravel blocks.$(br)$(li)You can find some water vegetation too, like Seagrass and Kelp Plants."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic creatures survives in this cold waters, like $(l:patchouli:creatures/alexsmobs/orca)Orcas$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), Salmons, Cods and $(l:patchouli:creatures/vanilla/squid)Squids$(/l).$(br)$(li)You can search this biome by typing the words $(l)Cold Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic creatures survive in these cold waters, like $(l:patchouli:creatures/alexsmobs/orca)Orcas$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), Salmons, Cods and $(l:patchouli:creatures/vanilla/squid)Squids$(/l).$(br)$(li)You can search this biome by typing the words $(l)Cold Ocean$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Birch Forest is a temperate forested biome composed mainly by Birch trees that can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Birch Trees, Peonies, Pink Clovers, Oyexe Daisies, Poppies, Dandelions, Lilacs and Rose Bushes."
+            "text": "$(li)The Birch Forest is a temperate forested biome composed mainly of Birch trees that can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Birch Trees, Peonies, Pink Clovers, Oyexe Daisies, Poppies, Dandelions, Lilacs and Rose Bushes."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) and $(l:patchouli:creatures/environmental/deer)Deers$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals such as $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) and $(l:patchouli:creatures/environmental/deer)Deer$(/l) can be found here.$(br)$(li)You can search this biome by typing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

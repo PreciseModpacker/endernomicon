@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Warm Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed by Sand.$(br)$(li)You can find some water vegetation, like Corals Reefs and Sea Pickles."
+            "text": "$(li)Warm Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this place is mainly composed of Sand.$(br)$(li)You can find some water vegetation, like Corals Reefs and Sea Pickles."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfishes$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfishes$(/l), Tropical Fishes and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here.$(br)$(li)You can find $(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) swimming around of the Coral Reefs too.$(br)$(li)You can search this biome introducing the word $(l)Warm Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l), Tropical Fish and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here.$(br)$(li)You can find $(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) swimming around of the Coral Reefs too.$(br)$(li)You can search this biome by typing the word $(l)Warm Ocean$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

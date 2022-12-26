@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Red Spotted Taiga is variant of the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l).$(br)$(li)It can be found over the Overworld.$(br)$(li)In this place you can find some vegetation like Dandelions, Violets, Taiga and Maple trees.$(br)$(li)$(l:patchouli:pets/vanilla/fox)Foxes$(/l) likes to walk around this place too."
+            "text": "$(li)The Red Spotted Taiga is a variant of the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation such as Dandelions, Violets, Taiga and Maple trees.$(br)$(li)$(l:patchouli:pets/vanilla/fox)Foxes$(/l) like to walk around this place too."
         },
         {
             "type": "patchouli:text",

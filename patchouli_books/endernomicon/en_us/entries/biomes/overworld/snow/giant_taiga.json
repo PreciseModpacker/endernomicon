@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Giant Taiga is a variant of the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l) with a surface composed of mostly Podzol and Coarse Dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
+            "text": "$(li)The Giant Taiga is a variant of the $(l:patchouli:biomes/overworld/snow/taiga)Taiga$(/l) with a surface composed mostly of Podzol and Coarse Dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l) and $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) can be found here.$(br)$(li)You can search this biome introducing the word $(l)Giant$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l) and $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) can be found here.$(br)$(li)You can search this biome by typing the word $(l)Giant$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

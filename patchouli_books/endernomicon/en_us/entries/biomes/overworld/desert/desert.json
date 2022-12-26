@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Desert is a dry biome mainly composed by Sand.$(br)$(li)It can be found in the Overworld.$(br)$(li)Even being a desert place without much life, you can find some vegetation, like $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l), Poppies, Dandelions, Grass, Dead Bushes and, sometimes, Yucca trees."
+            "text": "$(li)The Desert is a dry biome mainly composed of Sand.$(br)$(li)It can be found in the Overworld.$(br)$(li)Even being a desert place without much life, you can find some vegetation, like $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l), Poppies, Dandelions, Grass, Dead Bushes and, sometimes, Yucca trees."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals can withstand these harsh conditions, like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hasks$(/l).$(br)$(li)On the night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome introducing the word $(l)Desert$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals can withstand these harsh conditions, such as $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hasks$(/l).$(br)$(li)At night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome by typing the word $(l)Desert$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

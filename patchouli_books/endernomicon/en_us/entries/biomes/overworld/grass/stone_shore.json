@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Stone Shores is a simple small biome with often appears when a Mountainous biome is generated near of an Ocean.$(br)$(li)They are composed of mostly Stone, Limestone, Scoria, Marble, Diorite and Andesite.$(br)$(li)This biome can be found in the Overworld."
+            "text": "$(li)Stone Shores are a simple small biome which often appear when a Mountainous biome is generated near an Ocean.$(br)$(li)They are composed mostly of Stone, Limestone, Scoria, Marble, Diorite and Andesite.$(br)$(li)This biome can be found in the Overworld."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can search this biome introducing the word $(l)Stone Shores$() in the search box of the Nature's Compass."
+            "text": "$(li)You can search this biome by typing the word $(l)Stone Shores$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",
