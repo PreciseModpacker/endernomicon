@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/vanilla/panda)Panda Bears$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l), and $(l:patchouli:creatures/alexsmobs/tiger)Tigers$(/l).$(br)$(li)You can search this biome introducing the words $(l)Bamboo Jungle$() in the search box of the Nature's Compass."
+            "text": "$(li)You can find animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/vanilla/panda)Panda Bears$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l) and $(l:patchouli:creatures/alexsmobs/tiger)Tigers$(/l).$(br)$(li)You can search this biome by typing the words $(l)Bamboo Jungle$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

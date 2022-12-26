@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:imbued_hide',lvl:1}]}",
-            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:tools/backpacked/backpack)$(l:patchouli:perks/backpack)Backpack$(/l)$(/l).$(br)$(li)The Imbued Hide enchantment prevents the $(l:patchouli:perks/backpack)Backpack$(/l) to be burn for Lava or Fire. ",
+            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:tools/backpacked/backpack)$(l:patchouli:perks/backpack)Backpack$(/l)$(/l).$(br)$(li)The Imbued Hide enchantment prevents the $(l:patchouli:perks/backpack)Backpack$(/l) to be burn for Lava or Fire.",
             "title": "Imbued Hide"
         }
              ]

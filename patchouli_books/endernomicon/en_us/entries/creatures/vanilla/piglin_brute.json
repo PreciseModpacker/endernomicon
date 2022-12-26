@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Piglins Brutes are a hostile and stronger variant of $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l) that can be found in the $(l:patchouli:structures/bastion_remnant)Bastion Remnants$(/l) in the Nether.$(br)$(li)They can not be distracted with gold.$(br)$(li)They will attack you even if you are wearing a piece of $(l:patchouli:armors/golden_armor)Golden Armor$(/l)."
+            "text": "$(li)Piglin Brutes are a hostile and stronger variant of $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) that can be found in the $(l:patchouli:structures/bastion_remnant)Bastion Remnants$(/l) in the Nether.$(br)$(li)They can not be distracted with gold.$(br)$(li)They will attack you even if you are wearing a piece of $(l:patchouli:armors/golden_armor)Golden Armor$(/l)."
         },
         {
             "type": "patchouli:entity",

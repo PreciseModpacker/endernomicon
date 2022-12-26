@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:creatures/environmental/deer)Deers$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l), and $(l:patchouli:pets/revamped_wolf/wolf)Wolfs$(/l) can be found walking around here.$(br)$(li)You can search this biome introducing the word $(l)Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/environmental/deer)Deers$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) and $(l:patchouli:pets/revamped_wolf/wolf)Wolfs$(/l) can be found walking around here.$(br)$(li)You can search this biome introducing the word $(l)Forest$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

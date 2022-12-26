@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Embodies are hostile creatures that can be found in the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valley$(/l) of The Nether.$(br)$(li)They will attack $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l), $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l) and you too.$(br)$(li)They may drop $(l:patchouli:miscellaneous/infernalexp/soul_salt_clump)Soul Salt Clumps$(/l) on death."
+            "text": "$(li)Embodies are hostile creatures that can be found in the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valley$(/l) of The Nether.$(br)$(li)They will attack $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l), $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) and you too.$(br)$(li)They may drop $(l:patchouli:miscellaneous/infernalexp/soul_salt_clump)Soul Salt Clumps$(/l) on death."
         },
         {
             "type": "patchouli:entity",

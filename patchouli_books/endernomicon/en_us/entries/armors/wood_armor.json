@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Wood Armor is an armor with low durability and protection. You need Wood to craft it, that makes it perfect for the beginning of your adventure.$(br2)$(l)Wood Armor variants$()$(li)Oak Wood Armor $(li)Birch Wood Armor $(li)Jungle Wood Armor $(li)Spruce Wood Armor $(li)Dark Oak Armor $(li)Acacia Wood Armor"
+            "text": "The Wood Armor is an armor with low durability and protection. You need Wood to craft it, which makes it perfect for the beginning of your adventure.$(br2)$(l)Wood Armor variants$()$(li)Oak Wood Armor $(li)Birch Wood Armor $(li)Jungle Wood Armor $(li)Spruce Wood Armor $(li)Dark Oak Armor $(li)Acacia Wood Armor"
         },
         {
             "type": "patchouli:entity",

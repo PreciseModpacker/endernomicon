@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fire_protection',lvl:1}]}",
-            "text": "$(li)The Fire Protection enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, $(l:patchouli:weapons/shield)$(l:patchouli:weapons/shield)Shields$(/l)$(/l), $(l:patchouli:pets/vanilla/leather_horse_armor)$(l:patchouli:pets/vanilla/leather_horse_armor)Horse Armors$(/l)$(/l), and $(l:patchouli:pets/revamped_wolf/leather_wolf_armor)$(l:patchouli:pets/revamped_wolf/leather_wolf_armor)Wolf Armors$(/l)$(/l).$(br)$(li)This enchantment reduces the burn damage receives and the duration when you receives the burn effect.",
+            "text": "$(li)The Fire Protection enchantment can be applied in any kind of Helmet, Chestplate, Leggins, Boots, $(l:patchouli:weapons/shield)$(l:patchouli:weapons/shield)Shields$(/l)$(/l), $(l:patchouli:pets/vanilla/leather_horse_armor)$(l:patchouli:pets/vanilla/leather_horse_armor)Horse Armors$(/l)$(/l) and $(l:patchouli:pets/revamped_wolf/leather_wolf_armor)$(l:patchouli:pets/revamped_wolf/leather_wolf_armor)Wolf Armors$(/l)$(/l).$(br)$(li)This enchantment reduces the burn damage receives and the duration when you receives the burn effect.",
             "title": "Fire Protection"
         },
         {

@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Nether Wastes is a barren biome composed of mostly Netherrack.$(br)$(li)It can be found in the Nether,$(br)$(li)You can find Planted Quartz and Netherrack Speleothem here."
+            "text": "$(li)Nether Wastes are a barren biome composed of mostly Netherrack.$(br)$(li)They can be found in the Nether,$(br)$(li)You can find Planted Quartz and Netherrack Speleothem here."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures like $(l:patchouli:creatures/vanilla/zombified_piglin)Zombified Piglins$(/l), $(l:patchouli:creatures/vanilla/piglin)Piglins$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l), $(l:patchouli:creatures/vanilla/enderman)Endermans$(/l), and $(l:patchouli:pets/vanilla/strider)Striders$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Nether Wastes$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures such as $(l:patchouli:creatures/vanilla/zombified_piglin)Zombified Piglin$(/l), $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l), $(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l), $(l:patchouli:creatures/vanilla/enderman)Endermen$(/l) and $(l:patchouli:pets/vanilla/strider)Striders$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Nether Wastes$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

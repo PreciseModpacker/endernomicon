@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l), and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/fisherman)Fishermans$(/l) will exchange their $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by this item."
+            "text": "$(li)$(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/fisherman)Fishermans$(/l) will exchange their $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) by this item."
         }
              ]
 }

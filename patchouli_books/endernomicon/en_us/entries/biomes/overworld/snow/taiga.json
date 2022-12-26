@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Taiga is a cold biome composed of mostly by grass.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets and Taiga trees."
+            "text": "$(li)The Taiga is a cold biome composed of mostly grass.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets and Taiga trees."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l), $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Taiga$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l), $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l) and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Taiga$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

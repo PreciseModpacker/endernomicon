@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Quartz Armor is quiet better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) and $(l:patchouli:armors/honeycomb_armor)Honeycomb Armor$(/l).$(br)$(li)This armor doesn't give to you any special effect."
+            "text": "$(li)The Quartz Armor is a bit better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) and $(l:patchouli:armors/honeycomb_armor)Honeycomb Armor$(/l).$(br)$(li)This armor doesn't give you any special effect."
         },
         {
             "type": "patchouli:entity",

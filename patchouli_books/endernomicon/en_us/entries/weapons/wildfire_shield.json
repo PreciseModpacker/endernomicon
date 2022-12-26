@@ -11,7 +11,7 @@
             "input": "minecraft:shield",
             "input2": "outvoted:wildfire_shield_part",
             "output": "outvoted:wildfire_shield",
-            "text": "$(li)The Wildfire Shield is a quiet better of the $(l:patchouli:weapons/iron_shield)Iron Shield $(/l)because this one has more durability than the last one.",
+            "text": "$(li)The Wildfire Shield is a bit better than the $(l:patchouli:weapons/iron_shield)Iron Shield $(/l)because this one has more durability than the last one.",
             "link_recipe": "true"
         },
         {

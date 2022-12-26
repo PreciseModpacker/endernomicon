@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Taiga Mountains are a variant of the Taiga biome composed of mostly by Podzol and Coarse dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
+            "text": "$(li)The Taiga Mountains are a variant of the Taiga biome composed of mostly Podzol and Coarse dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l), and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Taiga Mountains$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l) and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Taiga Mountains$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

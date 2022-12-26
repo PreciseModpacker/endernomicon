@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "goblinsanddungeons:goblin_crown",
-            "text": "$(li)The Goblin Crown once equipped inflicts the effect Weakness II to any Goblin or Ogre near of you and Weakness I to other creatures, reducing their damage in their attacks.$(br)$(li)It can only be found in Loot Chests of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).",
+            "text": "$(li)The Goblin Crown once equipped inflicts the effect Weakness II to any Goblin or Ogre near of you and Weakness I to other creatures, reducing the damage of their attacks.$(br)$(li)It can only be found in Loot Chests of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).",
             "link_recipe": "true"
         },
         {

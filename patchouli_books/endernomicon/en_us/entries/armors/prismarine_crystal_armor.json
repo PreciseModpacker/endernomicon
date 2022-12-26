@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Prismarine Crystal Armor has less protection than the $(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l) and $(l:patchouli:armors/molten_armor)Molten Armor$(/l) but it has more durability.$(br)$(li)If you wear the complete set, you will get the Dolphin's Grace II effect allowing you to swim faster underwater."
+            "text": "$(li)The Prismarine Crystal Armor has less protection than the $(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l) and $(l:patchouli:armors/molten_armor)Molten Armor$(/l) but it has more durability.$(br)$(li)If you wear a complete set, you will get the Dolphin's Grace II effect allowing you to swim faster underwater."
         },
         {
             "type": "patchouli:entity",

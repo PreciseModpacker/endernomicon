@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "ironchest:chests/diamond_obsidian_chest",
-            "text": "$(li)The Obsidian Chest is the direct upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l)",
+            "text": "$(li)The Obsidian Chest is the direct upgrade of the $(l:patchouli:utility/iron_chest/diamond_chest)Diamond Chest$(/l).",
             "link_recipe": "true"
         },
         {

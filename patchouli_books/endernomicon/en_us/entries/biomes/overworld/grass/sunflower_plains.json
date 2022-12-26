@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can search this biome introducing the words $(l)Sunflower Plains$() in the search box of the Nature's Compass."
+            "text": "$(li)You can search this biome by typing the words $(l)Sunflower Plains$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

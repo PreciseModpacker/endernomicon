@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Flowers like Tall Purple Pickerelweed, Tulips, Oxeye Daisies, Delphiniums, Cornflowers, Cartwheels, Lilly of the Valley, Poppies, Rose Bushs and Dandelions can be found here too.$(br)$(li)$(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) like to live this place because they have a lot of flowers to polinice.$(br)$(li)You can search this biome introducing the words $(l)Flower Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Flowers like Tall Purple Pickerelweed, Tulips, Oxeye Daisies, Delphiniums, Cornflowers, Cartwheels, Lilly of the Valley, Poppies, Rose Bushs and Dandelions can be found here too.$(br)$(li)$(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) like to live this place because they have a lot of flowers to polinice.$(br)$(li)You can search this biome by typing the words $(l)Flower Forest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

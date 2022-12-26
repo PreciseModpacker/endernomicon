@@ -8,14 +8,14 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:spiked_turtle_shell",
-            "text": "$(li)The Spiked Turtle Shell is a quiet better of $(l:patchouli:armors/glowstone_armor)Glowstone Helmet$(/l) and $(l:patchouli:armors/molten_armor)Molten Helmet$(/l).$(br)$(li)It has Armour Toughness giving you an extra protection from strong attacks.",
+            "text": "$(li)The Spiked Turtle Shell is a bit better than the $(l:patchouli:armors/glowstone_armor)Glowstone Helmet$(/l) and $(l:patchouli:armors/molten_armor)Molten Helmet$(/l).$(br)$(li)It has Armour Toughness giving you an extra protection from strong attacks.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
             "name": "Spiked Turtle Shell",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"alexsmobs:spiked_turtle_shell\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "It has Knockback Resistance too, avoiding than other creatures push you away."
+            "text": "It has Knockback Resistance too, avoiding that other creatures would push you away."
         }
              ]
 }

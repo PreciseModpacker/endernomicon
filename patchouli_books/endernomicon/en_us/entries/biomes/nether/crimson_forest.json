@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Crimson Forest is a red-like biome.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Crimson trees, $(l:patchouli:decoration/vanilla/shroomlight)Shroomlights$(/l), Crimson Roots and Crimson Fungus here."
+            "text": "$(li)The Crimson Forest is a vibrant red biome.$(br)$(li)It can be found in the Nether.$(br)$(li)You can find Crimson trees, $(l:patchouli:decoration/vanilla/shroomlight)Shroomlights$(/l), Crimson Roots and Crimson Fungus here."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures like $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l), and $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) can be found here too.$(br)$(li)You can search this biome introducing the words $(l)Crimson Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l) and $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Crimson Forest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

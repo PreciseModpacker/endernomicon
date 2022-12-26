@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:bee_nest",
-            "text": "$(li)Bee Nest are naturally generated blocks in the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/grass/sunflower_plains)Sunflower Plains$(/l), $(l:patchouli:biomes/overworld/grass/forest)Forest$(/l), $(l:patchouli:biomes/overworld/grass/birch_forest)Birch Forest$(/l), and $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forest$(/l), of the Overworld where $(l:patchouli:creatures/vanilla/bee)Bees$(/l) live.$(br)$(li)To harvest $(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l), you have to right click on the Bee Nest while you are holding a $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottle$(/l) in your hand.",  
+            "text": "$(li)Bee Nest are naturally generated blocks in the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/grass/sunflower_plains)Sunflower Plains$(/l), $(l:patchouli:biomes/overworld/grass/forest)Forest$(/l), $(l:patchouli:biomes/overworld/grass/birch_forest)Birch Forest$(/l) and $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forest$(/l), of the Overworld where $(l:patchouli:creatures/vanilla/bee)Bees$(/l) live.$(br)$(li)To harvest $(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l), you have to right click on the Bee Nest while you are holding a $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottle$(/l) in your hand.",  
             "link_recipe": "true"
         },
         {

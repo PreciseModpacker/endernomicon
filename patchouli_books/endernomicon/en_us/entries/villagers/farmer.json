@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Farmer is a expert of the agriculture.$(br)$(li)It will trade you Pumpkin Pie, Gooseberry Jam Cookies, Bananas, Passionfruit, Banana Cakes, Suspicious Stew, $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l), and $(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Farmer profession if is near of a $(l:patchouli:utility/vanilla/composter)Composter$(/l)."
+            "text": "$(li)The Farmer is a expert of the agriculture.$(br)$(li)It will trade you Pumpkin Pie, Gooseberry Jam Cookies, Bananas, Passionfruit, Banana Cakes, Suspicious Stew, $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l) and $(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Farmer profession if is near of a $(l:patchouli:utility/vanilla/composter)Composter$(/l)."
         },
         {
             "type": "patchouli:entity",

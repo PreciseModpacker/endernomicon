@@ -15,7 +15,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/scented/allium_scented_candle",
-            "text": "$(li)Allium Scented Candle gives the nearby creatures Fire Resistance effect.$(br)$(li)This effect gives you inmunity of any kind of Fire Damage."
+            "text": "$(li)Allium Scented Candle gives the nearby creatures Fire Resistance effect.$(br)$(li)This effect gives you immunity of any kind of Fire Damage."
         },
         {
             "type": "patchouli:crafting",

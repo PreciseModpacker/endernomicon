@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/illagers/mansion.png",
-            "text": "$(li)Here can be found $(l:patchouli:illagers/vindicator)Vindicators$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), and $(l:patchouli:illagers/evoker)Evokers$(/l), who will not be happy about your visit."
+            "text": "$(li)Here can be found $(l:patchouli:illagers/vindicator)Vindicators$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l) and $(l:patchouli:illagers/evoker)Evokers$(/l), who will not be happy about your visit."
         }
              ]
 }

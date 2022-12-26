@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The River is a common biome that can serve as borders between various other biomes, and usually lead to $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This place is composed mostly by $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay$(/l), Sand, and rarely Driftwood logs."
+            "text": "$(li)The River is a common biome that can serve as borders between various other biomes, and usually lead to $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)This place is composed of mostly $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay$(/l), Sand, and rarely Driftwood logs."
         },
         {
             "type": "patchouli:text",

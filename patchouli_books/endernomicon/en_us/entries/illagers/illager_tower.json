@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/illagers/illager_tower.png",
-            "text": "$(li)The Illager Tower can be found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l), and $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l) biomes."
+            "text": "$(li)The Illager Tower can be found in the $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) and $(l:patchouli:biomes/overworld/swamp/swamp)Swamp$(/l) biomes."
         }
              ]
 }

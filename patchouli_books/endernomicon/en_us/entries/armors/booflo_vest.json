@@ -9,7 +9,7 @@
             "type": "patchouli:crafting",
             "name": "Booflo Vest",
             "recipe": "endergetic:booflo_vest",
-            "text": "$(li)The Booble Vest is a Chestplate that allows you to double jump pressing the Space key.$(br)$(li)Be careful, because this one has a coldown after using it a couple of times in a row.",
+            "text": "$(li)The Booflo Vest is a Chestplate that allows you to double jump pressing the Space key.$(br)$(li)Be careful, because this one has a coldown after using it a couple of times in a row.",
             "link_recipe": "true"
         },
         {

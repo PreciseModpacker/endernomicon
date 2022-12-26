@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Magma Armor is quiet better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)This armor doesn't give to you any special effect."
+            "text": "$(li)The Magma Armor is a bit better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)This armor doesn't give you any special effect."
         },
         {
             "type": "patchouli:entity",

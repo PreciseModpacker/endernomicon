@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Feather Armor is quiet better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)If you wear the complete set, you will get Jump Boost II effect, allowing you jump higher than normal."
+            "text": "$(li)The Feather Armor is a bit better in durability than the $(l:patchouli:armors/quartz_armor)Quartz Armor$(/l) but the Chestplate gives 1 less point of protection.$(br)$(li)If you wear a complete set, you will get the Jump Boost II effect, allowing you jump higher than normal."
         },
         {
             "type": "patchouli:entity",

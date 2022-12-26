@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "autumnity:snail_shell_chestplate",
-            "text": "$(li)The Snail Shell Chestplate has more durability than the $(l:patchouli:armors/crocodile_chestplate)Crocodile Chestplate$(/l), but it offers less protection.$(br)$(li)When Sneaking while you are wearing this chestplate, you will receive very little damage",
+            "text": "$(li)The Snail Shell Chestplate has more durability than the $(l:patchouli:armors/crocodile_chestplate)Crocodile Chestplate$(/l), but it offers less protection.$(br)$(li)When Sneaking while you are wearing this chestplate, you will receive very little damage.",
             "link_recipe": "true"
         },
         {

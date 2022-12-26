@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Chainmail Armor is quiet better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l).$(br)$(li)$(l:patchouli:villagers/armorer)Armorers$(/l) will exchange pieces of this armor by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)."
+            "text": "$(li)The Chainmail Armor is a bit better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l).$(br)$(li)$(l:patchouli:villagers/armorer)Armorers$(/l) will exchange pieces of this armor for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)."
         },
         {
             "type": "patchouli:entity",

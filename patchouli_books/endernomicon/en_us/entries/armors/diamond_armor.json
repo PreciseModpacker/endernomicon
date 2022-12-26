@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Diamond Armor is quiet better than Ghost Armor.$(br)$(li)This armor will not give to you any special effect."
+            "text": "$(li)The Diamond Armor is a bit better than Ghost Armor.$(br)$(li)This armor will not give you any special effect."
         },
         {
             "type": "patchouli:entity",

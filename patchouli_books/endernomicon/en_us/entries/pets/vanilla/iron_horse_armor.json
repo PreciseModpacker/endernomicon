@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "kubejs:kjs_82ywv245mgspesi53u4cg7b9a",
-            "text": "$(li)The Iron Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l) that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
+            "text": "$(li)The Iron Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l) that you can give your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {

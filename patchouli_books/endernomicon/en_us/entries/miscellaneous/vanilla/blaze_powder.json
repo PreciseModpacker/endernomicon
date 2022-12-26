@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Finally, the Blaze Powder can be used to craft a $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Blaze Lantern$(/l), $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Creams$(/l), $(l:patchouli:decoration/charm/lanterns)Copper Lanterns$(/l), and $(l:patchouli:miscellaneous/vanilla/eye_of_ender)Eye of Enders$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
+            "text": "$(li)Finally, the Blaze Powder can be used to craft a $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Blaze Lantern$(/l), $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Creams$(/l), $(l:patchouli:decoration/charm/lanterns)Copper Lanterns$(/l) and $(l:patchouli:miscellaneous/vanilla/eye_of_ender)Eye of Enders$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

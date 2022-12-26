@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Hobgobs will attack passive or neutral creatures like animals or you.$(br)$(li)These creatures may drop $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l) or $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) on death."
+            "text": "$(li)Hobgobs will attack passive or neutral creatures such as animals or you.$(br)$(li)These creatures may drop $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l) or $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) on death."
         },
         {
             "type": "patchouli:entity",

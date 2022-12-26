@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Tropical Fish are common passive creatures that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fish$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death.",
+            "text": "$(li)Tropical Fish are common passive creatures that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fish$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death.",
             "link_recipe": "true"
         },
         {

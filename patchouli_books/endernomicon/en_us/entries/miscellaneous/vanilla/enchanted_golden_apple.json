@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It gives the $(l)Absorption$() effect, adding to you for two minutes two extra hearts of life or when they are broken by receiving damage.$(br)$(li)It gives five minutes of $(l)Resistance$(), making you receive less damage for any kind of damage and other five minutes of $(l:patchouli:potions/vanilla/fire_resistance)Fire Resistance$(/l) making your inmune to fire damage or burn in lava."
+            "text": "$(li)It gives the $(l)Absorption$() effect, adding to you for two minutes two extra hearts of life or when they are broken by receiving damage.$(br)$(li)It gives five minutes of $(l)Resistance$(), making you receive less damage for any kind of damage and other five minutes of $(l:patchouli:potions/vanilla/fire_resistance)Fire Resistance$(/l) making your immune to fire damage or burn in lava."
         }
              ]
 }

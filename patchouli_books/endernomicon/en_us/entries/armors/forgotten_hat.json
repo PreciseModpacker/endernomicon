@@ -8,7 +8,7 @@
        {
             "type": "patchouli:spotlight",
             "item": "quark:forgotten_hat",
-            "text": "$(li)The Forgotten Hat may be drop by a $(l:patchouli:creatures/quark/forgotten)Forgotten$(/l) and it increases your reach distance, allowing you to break and place blocks in a higher distance.$(br)$(li)It applies the Luck 1 effect too, increasing the probability of finding good loot in the naturally generated chests.",
+            "text": "$(li)The Forgotten Hat may be dropped by a $(l:patchouli:creatures/quark/forgotten)Forgotten$(/l) and it increases your reach distance, allowing you to break and place blocks at a higher distance.$(br)$(li)It applies the Luck 1 effect too, increasing the probability of finding good loot in naturally generated chests.",
             "link_recipe": "true"
         },
         {

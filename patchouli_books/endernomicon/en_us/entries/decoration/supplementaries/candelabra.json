@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/decoration/candelabra.png",
-            "text": "$(li)This block can be turned off with water and $(l:patchouli:potions/vanilla/splash_water_bottle)Splash Water Bottles$(/l) and lit up with $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l), flaming $(l:patchouli:weapons/arrows)Arrows$(/l), and $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)."
+            "text": "$(li)This block can be turned off with water and $(l:patchouli:potions/vanilla/splash_water_bottle)Splash Water Bottles$(/l) and lit up with $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l), flaming $(l:patchouli:weapons/arrows)Arrows$(/l) and $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l)."
         }
              ]
 }

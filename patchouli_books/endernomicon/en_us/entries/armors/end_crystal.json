@@ -16,12 +16,12 @@
         {
             "type": "patchouli:text",
             "name": "End Crystal Armor",
-            "text": "$(li)This armor has Armour Toughness too, giving you an extra protection from strong attacks.$(br)$(li)It has Knockback Resistance too, helping you to resist that other enemies push you far away.$(br)$(li)If you are wearing any piece of this suite, the Pigmans will not be aggressive towards you."
+            "text": "$(li)This armor has Armour Toughness, giving you an extra protection from strong attacks.$(br)$(li)It has Knockback Resistance too, helping you to resist that other enemies push you far away.$(br)$(li)If you are wearing any piece of this suit, the Pigmen will not be aggressive towards you."
         },
         {
             "type": "patchouli:text",
             "name": "End Crystal Armor",
-            "text": "$(li)The End Crystal Armor can be made placing the specific $(l:patchouli:armors/diamond_armor)Diamond Armor$(/l) piece and an $(l:patchouli:miscellaneous/end_remastered/end_crystal_ingot)End Crystal Ingot$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)."
+            "text": "$(li)The End Crystal Armor can be made by placing the specific $(l:patchouli:armors/diamond_armor)Diamond Armor$(/l) piece and an $(l:patchouli:miscellaneous/end_remastered/end_crystal_ingot)End Crystal Ingot$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)."
         },
         {
             "type": "smithing_table_multiple",

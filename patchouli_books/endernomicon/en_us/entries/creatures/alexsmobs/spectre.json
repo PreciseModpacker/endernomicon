@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Spectres are ethereal peaceful creatures that can be found over the End.$(br)$(li)They can phase throught blocks and only take magic damage.$(br)$(li)Spectres may be attracted holding a $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Heart$(/l)."
+            "text": "$(li)Spectre are ethereal peaceful creatures that can be found over the End.$(br)$(li)They can phase throught blocks and only take magic damage.$(br)$(li)Spectre may be attracted holding a $(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Heart$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Warped Forest is green-like biome.$(br)$(li)It can be found in the Nether.$(br)$(li)No hostile creatures can appears in this biome.$(br)$(li)You can find Warped trees, $(l:patchouli:decoration/vanilla/shroomlight)Shroomlight$(/l), Warped and Crimson Roots, $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l), and Crimson Fungus here."
+            "text": "$(li)The Warped Forest is vibrant green biome.$(br)$(li)It can be found in the Nether.$(br)$(li)No hostile creatures can appear in this biome.$(br)$(li)You can find Warped trees, $(l:patchouli:decoration/vanilla/shroomlight)Shroomlight$(/l), Warped and Crimson Roots, $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l) and Crimson Fungus here."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures like $(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetles$(/l), and $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloings$(/l) can be found here.$(br)$(li)You can search this biome introducing the words $(l)Warped Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetles$(/l) and $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloings$(/l) can be found here.$(br)$(li)You can search this biome by typing the words $(l)Warped Forest$() in the search box of the Nature's Compass."
         },
 #        {
 #            "type": "patchouli:text",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:flower_banner_pattern",
-            "text": "$(li)Patterns can be used to customize your $(l:patchouli:decoration/vanilla/banners)$(l:patchouli:decoration/vanilla/banners)Banners$(/l)$(/l), $(l:patchouli:decoration/supplementaries/flag)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l)$(/l), and $(l:patchouli:armors/elytra)$(l:patchouli:armors/elytra)Elytras$(/l)$(/l).$(br)$(li)To apply a Pattern in one of those items, you will need a Pattern, a Dye and the Loom.$(br)$(li)The Loom is used to apply Patterns on $(l:patchouli:decoration/vanilla/banners)$(l:patchouli:decoration/vanilla/banners)Banners$(/l)$(/l), $(l:patchouli:decoration/supplementaries/flag)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l)$(/l), and $(l:patchouli:armors/elytra)$(l:patchouli:armors/elytra)Elytras$(/l)$(/l).",
+            "text": "$(li)Patterns can be used to customize your $(l:patchouli:decoration/vanilla/banners)$(l:patchouli:decoration/vanilla/banners)Banners$(/l)$(/l), $(l:patchouli:decoration/supplementaries/flag)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l)$(/l) and $(l:patchouli:armors/elytra)$(l:patchouli:armors/elytra)Elytras$(/l)$(/l).$(br)$(li)To apply a Pattern in one of those items, you will need a Pattern, a Dye and the Loom.$(br)$(li)The Loom is used to apply Patterns on $(l:patchouli:decoration/vanilla/banners)$(l:patchouli:decoration/vanilla/banners)Banners$(/l)$(/l), $(l:patchouli:decoration/supplementaries/flag)$(l:patchouli:decoration/supplementaries/flag)Flags$(/l)$(/l) and $(l:patchouli:armors/elytra)$(l:patchouli:armors/elytra)Elytras$(/l)$(/l).",
             "link_recipe": "false",
             "title": "Patterns"
         },

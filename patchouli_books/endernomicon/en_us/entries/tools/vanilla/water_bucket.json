@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can release the interior of the Water Bucket, just right click pointing in the specific block where do you want to release it while you are holding the Water Bucket on your hand.$(br)$(li)The Water will be evaporate instantly in the Nether.$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermans$(/l) really hate this liquid, you can take advantage of this against these creatures."
+            "text": "$(li)You can release the interior of the Water Bucket, just right click pointing in the specific block where do you want to release it while you are holding the Water Bucket on your hand.$(br)$(li)The Water will be evaporate instantly in the Nether.$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermen$(/l) really hate this liquid, you can take advantage of this against these creatures."
         },
         {
             "type": "patchouli:text",

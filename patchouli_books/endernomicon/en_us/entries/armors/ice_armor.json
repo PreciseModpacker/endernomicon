@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ice Armor is quiet better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l), and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear the complete set, you will get Frost Walker effect.$(br)$(li)This effect makes you to turn the water into Frosted Ice when you walk near of it."
+            "text": "$(li)The Ice Armor is a bit better than the $(l:patchouli:armors/cactus_armor)Cactus Armor$(/l), $(l:patchouli:armors/melon_armor)Melon Armor$(/l) and $(l:patchouli:armors/pumpkin_armor)Pumpkin Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Frost Walker effect.$(br)$(li)This effect makes you to turn the water into Frosted Ice when you walk near it."
         },
         {
             "type": "patchouli:entity",
             "name": "Ice Armor",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:ice_boots\",Count:1},{id:\"extraarmor:ice_leggings\",Count:1},{id:\"extraarmor:ice_chestplate\",Count:1},{id:\"extraarmor:ice_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "You will be inmune to damage of Magma Blocks and Campfires when you are stepped on of them too."
+            "text": "You will be immune to damage caused by Magma Blocks and Campfires when you step on them."
         },
         {
             "type": "patchouli:crafting",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "kubejs:kjs_eymq68au9ji6yudnwld1yptwd",
-            "text": "$(li)The Golden Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/iron_horse_armor)Iron Horse Armor$(/l) that you can give to your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
+            "text": "$(li)The Golden Horse Armor is the upgrade of the $(l:patchouli:pets/vanilla/iron_horse_armor)Iron Horse Armor$(/l) that you can give your tamed $(l:patchouli:pets/vanilla/horse)Horse$(/l).",
             "link_recipe": "true"
         },
         {
