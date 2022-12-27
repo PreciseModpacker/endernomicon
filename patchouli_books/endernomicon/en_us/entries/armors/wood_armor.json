@@ -3,7 +3,7 @@
     "icon": "extraarmor:oak_wood_helmet",
     "category": "patchouli:armors",
     "sortnum": 0,
-    "advancement": "endernomicon:planks"
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:text",

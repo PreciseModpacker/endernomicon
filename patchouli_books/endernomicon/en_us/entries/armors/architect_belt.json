@@ -3,7 +3,7 @@
     "icon": "environmental:architect_belt",
     "category": "patchouli:armors",
     "sortnum": 30,
-    "advancement": "endernomicon:architect_belt
+    "advancement": "endernomicon:architect_belt",
     "pages": [
         {
             "type": "patchouli:spotlight",

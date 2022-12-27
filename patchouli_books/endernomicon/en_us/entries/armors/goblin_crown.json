@@ -3,7 +3,7 @@
     "icon": "goblinsanddungeons:goblin_crown",
     "category": "patchouli:armors",
     "sortnum": 42,
-    "advancement": "endernomicon:goblin_crown"
+    "advancement": "endernomicon:goblin_crown",
     "pages": [
         {
             "type": "patchouli:spotlight",

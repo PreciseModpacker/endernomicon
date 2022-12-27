@@ -3,7 +3,7 @@
     "icon": "alexsmobs:banana",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:alexsmobs/banana",
+    "advancement": "alexsmobs:alexsmobs/banana",
     "pages": [
         {
             "type": "patchouli:spotlight",

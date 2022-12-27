@@ -3,7 +3,7 @@
     "icon": "goblinsanddungeons:ring_of_glory",
     "category": "patchouli:armors",
     "sortnum": 42,
-    "advancement": "endernomicon:ring_of_glory"
+    "advancement": "endernomicon:ring_of_glory",
     "pages": [
         {
             "type": "patchouli:spotlight",

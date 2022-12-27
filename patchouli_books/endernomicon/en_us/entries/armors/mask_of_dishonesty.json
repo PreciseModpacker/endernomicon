@@ -3,7 +3,7 @@
     "icon": "savageandravage:mask_of_dishonesty",
     "category": "patchouli:armors",
     "sortnum": 42,
-    "advancement": "endernomicon:mask_of_dishonesty"
+    "advancement": "endernomicon:mask_of_dishonesty",
     "pages": [
         {
             "type": "patchouli:text",

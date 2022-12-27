@@ -3,7 +3,7 @@
     "icon": "minecraft:fire_coral",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:coral_reef",
+    "advancement": "endernomicon:warm_ocean",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -3,7 +3,7 @@
     "icon": "minecraft:stone_bricks",
     "category": "patchouli:structures",
     "sortnum": 0,
-    "advancement": "dungeons_enhanced:hidden_under_the_root",
+    "advancement": "dungeons_enhanced:hidden_under_the_roots",
     "pages": [
         {
             "type": "patchouli:text",

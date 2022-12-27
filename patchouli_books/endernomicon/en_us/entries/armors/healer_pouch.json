@@ -3,7 +3,7 @@
     "icon": "environmental:healer_pouch",
     "category": "patchouli:armors",
     "sortnum": 31,
-    "advancement": "endernomicon:healer_pouch"
+    "advancement": "endernomicon:healer_pouch",
     "pages": [
         {
             "type": "patchouli:spotlight",

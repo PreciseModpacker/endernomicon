@@ -3,7 +3,7 @@
     "icon": "savageandravage:griefer_helmet",
     "category": "patchouli:armors",
     "sortnum": 14,
-    "advancement": "endernomicon:griefer_armor"
+    "advancement": "endernomicon:griefer_armor",
     "pages": [
        {
             "type": "patchouli:text",
