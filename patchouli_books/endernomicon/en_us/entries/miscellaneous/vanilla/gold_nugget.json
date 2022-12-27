@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some mobs like $(l:patchouli:creatures/infernal_expansion/voline)Volines$(/l) and $(l:patchouli:creatures/vanilla/zombified_piglin)Zombified Piglins$(/l) may drop this item on death.$(br)$(li)You can trade with the $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) using your $(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nuggets$(/l)."
+            "text": "$(li)Some mobs like $(l:patchouli:creatures/infernal_expansion/voline)Volines$(/l) and $(l:patchouli:creatures/vanilla/zombified_piglin)Zombified Piglin$(/l) may drop this item on death.$(br)$(li)You can trade with the $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) using your $(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nuggets$(/l)."
         }
              ]
 }
