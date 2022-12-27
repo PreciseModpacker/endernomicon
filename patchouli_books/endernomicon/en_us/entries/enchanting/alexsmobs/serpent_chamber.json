@@ -2,7 +2,7 @@
     "name": "Serpent Charmer",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:serpentfriend',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:serpent_chamber",
     "pages": [
         {
             "type": "patchouli:spotlight",

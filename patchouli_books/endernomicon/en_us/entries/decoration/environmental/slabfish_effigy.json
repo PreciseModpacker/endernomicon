@@ -3,6 +3,7 @@
     "icon": "environmental:slabfish_effigy",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:mud_brick",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -2,7 +2,8 @@
     "name": "A.T. Sharpness VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:sharpness',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "sortnum": 1,
+    "advancement": "endernomicon:ancient_tome_sharpness",
     "pages": [
         {
             "type": "patchouli:spotlight",

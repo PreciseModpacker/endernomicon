@@ -2,7 +2,7 @@
     "name": "Holy Water",
     "icon": "minecraft:potion{CustomPotionColor: 16764462}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "illagers_plus:find_centre",
     "pages": [
         {
             "type": "patchouli:spotlight",

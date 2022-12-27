@@ -3,7 +3,7 @@
     "icon": "minecraft:end_stone",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:booflo",
     "pages": [
         {
             "type": "patchouli:text",

@@ -3,6 +3,7 @@
     "icon": "minecraft:end_crystal",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:ender_eye",
     "pages": [
         {
             "type": "patchouli:crafting",

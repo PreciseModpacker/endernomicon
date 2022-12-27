@@ -2,7 +2,6 @@
     "name": "Poise Forest",
     "icon": "endergetic:poismoss",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
     "advancement": "endergetic:poise_forest",
     "pages": [

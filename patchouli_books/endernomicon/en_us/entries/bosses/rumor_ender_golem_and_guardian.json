@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "cataclysm:find_ruined_citadel",
     "pages": [
         {
             "type": "patchouli:text",

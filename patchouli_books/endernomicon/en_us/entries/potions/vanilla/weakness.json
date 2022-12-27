@@ -2,7 +2,7 @@
     "name": "Weakness",
     "icon": "minecraft:potion{Potion:'minecraft:weakness'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:fermented_spider_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",

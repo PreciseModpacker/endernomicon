@@ -1,9 +1,9 @@
 {    
     "name": "End Fountain",
-    "icon": "minecraft:sand",
+    "icon": "minecraft:end_stone",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "minecraft:end/kill_dragon",
     "pages": [
         {
             "type": "patchouli:text",

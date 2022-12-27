@@ -3,7 +3,7 @@
     "icon": "minecraft:water_bucket",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:mimic_octopus",
     "pages": [
         {
             "type": "patchouli:text",

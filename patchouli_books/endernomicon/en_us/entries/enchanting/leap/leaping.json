@@ -2,7 +2,7 @@
     "name": "Leaping",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:leaping",
     "pages": [
         {
             "type": "patchouli:spotlight",

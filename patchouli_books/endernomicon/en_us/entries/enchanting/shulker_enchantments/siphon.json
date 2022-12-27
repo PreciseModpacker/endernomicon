@@ -2,7 +2,7 @@
     "name": "Siphon",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:siphon",
     "pages": [
         {
             "type": "patchouli:spotlight",

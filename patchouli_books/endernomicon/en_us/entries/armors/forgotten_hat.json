@@ -2,8 +2,8 @@
     "name": "Forgotten Hat",
     "icon": "quark:forgotten_hat",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 1,
+    "advancement": "endernomicon:forgotten_hat"
     "pages": [
        {
             "type": "patchouli:spotlight",

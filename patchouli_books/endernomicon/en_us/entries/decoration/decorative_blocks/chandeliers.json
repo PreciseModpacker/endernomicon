@@ -3,6 +3,7 @@
     "icon": "decorative_blocks:chandelier",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:torch",
     "pages": [
         {
             "type": "patchouli:crafting",

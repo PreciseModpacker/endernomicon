@@ -3,11 +3,12 @@
     "icon": "decorative_blocks:oak_seat",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:fences",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "decorative_blocks:oak_seat",
-            "text": "$(li)Seats are new wood decorative block, with a interesting feature.$(br)$(li)You can right click on them while you are not holding any item on your hand to sit in them.",
+            "text": "$(li)Seats are new wood decorative block, with an interesting feature.$(br)$(li)You can right click on them while you are not holding any item on your hand to sit in them.",
             "link_recipe": "true"
         },
         {

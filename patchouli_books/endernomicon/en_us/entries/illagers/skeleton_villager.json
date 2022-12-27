@@ -3,7 +3,7 @@
     "icon": "minecraft:bone",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:skeleton_villager",
     "pages": [
         {
             "type": "patchouli:text",

@@ -2,8 +2,8 @@
     "name": "Warped Forest",
     "icon": "minecraft:warped_stem",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:warped_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetles$(/l) and $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloings$(/l) can be found here.$(br)$(li)You can search this biome by typing the words $(l)Warped Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:warped_forest"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/warped_forest.png"

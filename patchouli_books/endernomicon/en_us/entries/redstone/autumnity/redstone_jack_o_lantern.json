@@ -3,6 +3,7 @@
     "icon": "autumnity:redstone_jack_o_lantern",
     "category": "patchouli:redstone",
     "sortnum": 0,
+    "advancement": "endernomicon:redstone_jack_o_lantern",
     "pages": [
         {
             "type": "patchouli:crafting",

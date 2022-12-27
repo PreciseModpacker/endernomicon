@@ -2,8 +2,8 @@
     "name": "Jungle",
     "icon": "neapolitan:banana",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:jungle",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/leafcutter)Leftcutter Ants$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzees$(/l), $(l:patchouli:pets/alexsmobs/gorilla)Gorillas$(/l), $(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkeys$(/l), $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l), $(l:patchouli:pets/vanilla/cat)Cats$(/l) and $(l:patchouli:pets/vanilla/ocelot)Ocelots$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Jungle$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:jungle,minecraft:jungle_edge,minecraft:jungle_hills,minecraft:modified_jungle,minecraft:modified_jungle_edge"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/jungle.png"

@@ -3,7 +3,7 @@
     "icon": "minecraft:end_portal_frame",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:end_gate",
     "pages": [
         {
             "type": "patchouli:text",

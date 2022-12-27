@@ -3,7 +3,7 @@
     "icon": "alexsmobs:maraca",
     "category": "patchouli:tools",
     "sortnum": 0,
-    #"advancement": "endernomicon:rattlesnake_rattle",
+    "advancement": "endernomicon:rattlesnake_rattle",
     "pages": [
         {
             "type": "patchouli:crafting",

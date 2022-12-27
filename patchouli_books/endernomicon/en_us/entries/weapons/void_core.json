@@ -3,7 +3,7 @@
     "icon": "cataclysm:void_core",
     "category": "patchouli:weapons",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:void_core",
     "pages": [
         {
             "type": "patchouli:spotlight",

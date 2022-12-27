@@ -3,6 +3,7 @@
     "icon": "supplementaries:globe",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:globe",
     "pages": [
         {
             "type": "patchouli:spotlight",

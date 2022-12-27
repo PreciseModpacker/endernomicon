@@ -2,7 +2,7 @@
     "name": "Aqua Affinity",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:aqua_affinity',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:aqua_affinity",
     "pages": [
         {
             "type": "patchouli:spotlight",

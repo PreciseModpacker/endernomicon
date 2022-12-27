@@ -3,7 +3,7 @@
     "icon": "minecraft:lava_bucket",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "minecraft:story/lava_bucket",
+    "advancement": "endernomicon:bucket",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -3,6 +3,7 @@
     "icon": "minecraft:armor_stand",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:armor_stand",
     "pages": [
         {
             "type": "patchouli:crafting",

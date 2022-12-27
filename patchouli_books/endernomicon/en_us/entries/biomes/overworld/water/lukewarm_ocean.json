@@ -2,7 +2,7 @@
     "name": "Lukewarm Ocean",
     "icon": "minecraft:water_bucket",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:lukewarm_ocean",
     "sortnum": 0,
     "pages": [
         {

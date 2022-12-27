@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_sword",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:furantur",
     "pages": [
         {
             "type": "patchouli:text",

@@ -3,7 +3,7 @@
     "icon": "savageandravage:mask_of_dishonesty",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:trickster",
     "pages": [
         {
             "type": "patchouli:text",

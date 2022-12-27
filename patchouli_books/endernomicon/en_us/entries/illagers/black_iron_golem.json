@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_block",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:black_iron_golem",
     "pages": [
         {
             "type": "patchouli:text",

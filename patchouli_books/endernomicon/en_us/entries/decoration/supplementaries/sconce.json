@@ -3,6 +3,7 @@
     "icon": "supplementaries:sconce",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:iron_nugget",
     "pages": [
         {
             "type": "patchouli:crafting",

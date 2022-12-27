@@ -2,8 +2,8 @@
     "name": "Giant Taiga",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:giant_taiga",
     "pages": [
         {
             "type": "patchouli:text",

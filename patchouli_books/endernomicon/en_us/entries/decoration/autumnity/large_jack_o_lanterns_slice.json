@@ -3,6 +3,7 @@
     "icon": "autumnity:large_jack_o_lantern_slice",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:large_jack_o_lantern_slice",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -2,7 +2,7 @@
     "name": "Piercing",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:piercing',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:piercing",
     "pages": [
         {
             "type": "patchouli:spotlight",

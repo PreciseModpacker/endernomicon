@@ -3,7 +3,7 @@
     "icon": "voidtotem:totem_of_void_undying",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:totem_of_void",
     "pages": [
         {
             "type": "patchouli:crafting",

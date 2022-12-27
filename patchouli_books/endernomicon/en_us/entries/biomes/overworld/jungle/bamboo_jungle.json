@@ -2,8 +2,8 @@
     "name": "Bamboo Jungle",
     "icon": "neapolitan:banana",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:bamboo_jungle",
     "pages": [
         {
             "type": "patchouli:text",

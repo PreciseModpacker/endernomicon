@@ -3,7 +3,7 @@
     "icon": "minecraft:totem_of_undying",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:evoker",
     "pages": [
         {
             "type": "patchouli:text",

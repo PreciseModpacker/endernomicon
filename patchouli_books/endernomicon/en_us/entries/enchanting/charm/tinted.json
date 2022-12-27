@@ -2,7 +2,7 @@
     "name": "Tinted",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:tinted",
     "pages": [
         {
             "type": "patchouli:spotlight",

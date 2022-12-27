@@ -2,7 +2,7 @@
     "name": "Marsh",
     "icon": "minecraft:water_bucket",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:marsh",
     "sortnum": 0,
     "pages": [
         {

@@ -2,8 +2,8 @@
     "name": "Goblin Crown",
     "icon": "goblinsanddungeons:goblin_crown",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:goblin_crown"
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -2,7 +2,7 @@
     "name": "Bayou",
     "icon": "minecraft:mossy_cobblestone",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:bayou",
     "sortnum": 0,
     "pages": [
         {
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can find animals like $(l:patchouli:creatures/alexsmobs/shoebill)Shoebills$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), or a lot of different kind of fishes in this place.$(br)$(li)You can search this biome introducing the word $(l)Bayou$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)bayou_blues:bayou,bayou_blues_bayou_hills"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/bayou_blues.png"

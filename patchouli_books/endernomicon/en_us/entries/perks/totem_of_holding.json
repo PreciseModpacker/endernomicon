@@ -1,9 +1,8 @@
 {
     "name": "Totem of Holding",
-    "icon": "waystones:waystone",
+    "icon": "endermonicon:textures/book/entries/perks/totem_of_holding.png",
     "category": "patchouli:perks",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:text",
@@ -21,7 +20,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/perks/totem_of_holding_2.png",
-            "text": "$(li)The Totem of Holding can't be destroyed by lava, explosions or any kind of creature."
+            "text": "$(li)The Totem of Holding can not be destroyed by lava, explosions or any kind of creature."
         }
              ]
 }

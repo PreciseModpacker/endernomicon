@@ -1,9 +1,9 @@
 {    
-    "name": "Bookshelf",
+    "name": "Bookshelf PDT DOCUMENTAR",
     "icon": "minecraft:bookshelf",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:book",
+    "advancement": "endernomicon:bookshelfs",
     "pages": [
         {
             "type": "patchouli:spotlight",

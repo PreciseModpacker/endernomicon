@@ -3,7 +3,7 @@
     "icon": "inspirations:barometer",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_dust",
     "pages": [
         {
             "type": "patchouli:crafting",

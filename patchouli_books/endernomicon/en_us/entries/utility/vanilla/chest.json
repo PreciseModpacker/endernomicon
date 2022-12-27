@@ -3,6 +3,7 @@
     "icon": "minecraft:chest",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -3,6 +3,7 @@
     "icon": "minecraft:bell",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:bell",
     "pages": [
         {
             "type": "patchouli:spotlight",

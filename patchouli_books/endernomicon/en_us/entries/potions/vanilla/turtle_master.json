@@ -2,7 +2,7 @@
     "name": "Turtle Master",
     "icon": "minecraft:potion{Potion:'minecraft:turtle_master'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:turtle_shell",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Potion of Turtle Master Extended has the same effects but its durations is 40 seconds.$(br)$(li)The Turtle Master II decreases the movement speed by 90% but reduces the damage taken by 80% too.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+            "text": "$(li)The Potion of Turtle Master Extended has the same effects but its durations is 40 seconds.$(br)$(li)The Turtle Master II decreases the movement speed by 90% but reduces the damage taken by 80% too.$(br)$(li)They can be brewed using a $(l:patchouli:armors/turtle_shell)Turtle Shell$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

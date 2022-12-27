@@ -2,7 +2,7 @@
     "name": "Lumbering",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:lumbering',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:lumbering",
     "pages": [
         {
             "type": "patchouli:spotlight",

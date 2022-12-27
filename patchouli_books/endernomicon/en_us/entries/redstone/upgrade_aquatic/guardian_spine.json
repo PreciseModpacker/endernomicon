@@ -3,7 +3,7 @@
     "icon": "upgrade_aquatic:guardian_spine",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:guardian_spine",
     "pages": [
         {
             "type": "patchouli:spotlight",

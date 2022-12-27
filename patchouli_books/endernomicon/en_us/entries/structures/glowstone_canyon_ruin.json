@@ -3,7 +3,7 @@
     "icon": "minecraft:glowstone",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:glowstone_canyon_ruin",
     "pages": [
         {
             "type": "patchouli:text",

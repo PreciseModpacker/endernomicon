@@ -2,7 +2,8 @@
     "name": "A.T. Feather Falling V",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:feather_falling',lvl:4s}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "sortnum": 1,
+    "advancement": "endernomicon:ancient_tome_feather_falling",
     "pages": [
         {
             "type": "patchouli:spotlight",

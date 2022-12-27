@@ -2,7 +2,7 @@
     "name": "Returning Board",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:board_return',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:returning_board",
     "pages": [
         {
             "type": "patchouli:spotlight",

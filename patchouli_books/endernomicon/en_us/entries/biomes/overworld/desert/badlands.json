@@ -2,8 +2,8 @@
     "name": "Badlands",
     "icon": "minecraft:sand",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:badlands",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)There are even animals that can withstand these harsh conditions, like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:creatures/alexsmobs/sunbird)Sunbirds$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroo$(/l) and $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l)$(br)$(li)Dangerous creatures such as the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) can be found in this biome too.$(br)$(li)You can search this biome introducing the word $(l)Badlands$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:badlands,minecraft:badlands_plateau,minecraft:eroded_badlands,minecraft:modified_badlands_plateau,minecraft:modified_wooded_badlands_plateau,minecraft:wooded_badlands_plateau"
-#        },
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/badlands.png"

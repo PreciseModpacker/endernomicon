@@ -2,8 +2,8 @@
     "name": "Ender Watcher",
     "icon": "quark:ender_watcher",
     "category": "patchouli:redstone",
-    "sortnum": 3,
-    "advancement": "endrem:main/end_crystal_eye",
+    "sortnum": 0,
+    "advancement": "endernomicon:biotite",
     "pages": [
         {
             "type": "patchouli:crafting",

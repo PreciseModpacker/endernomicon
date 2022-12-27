@@ -2,7 +2,7 @@
     "name": "Soul Speed",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:soul_speed',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:soul_speed",
     "pages": [
         {
             "type": "patchouli:spotlight",

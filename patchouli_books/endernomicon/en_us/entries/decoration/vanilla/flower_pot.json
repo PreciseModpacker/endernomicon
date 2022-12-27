@@ -3,6 +3,7 @@
     "icon": "minecraft:flower_pot",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:clay_ball",
     "pages": [
         {
             "type": "patchouli:crafting",

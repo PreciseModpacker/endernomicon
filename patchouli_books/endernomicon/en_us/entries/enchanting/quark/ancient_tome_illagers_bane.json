@@ -2,7 +2,8 @@
     "name": "A.T. Illagers Bane IX",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:4s}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "sortnum": 1,
+    "advancement": "endernomicon:ancient_tome_illagers_bane",
     "pages": [
         {
             "type": "patchouli:spotlight",

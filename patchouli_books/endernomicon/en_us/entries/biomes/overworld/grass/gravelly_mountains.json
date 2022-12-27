@@ -2,8 +2,8 @@
     "name": "Gravelly Mountains",
     "icon": "minecraft:gravel",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:gravelly_mountains",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can search this biome by typing the words $(l)Gravelly Mountains$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:gravelly_mountains, minecraft:modified_gravelly_mountains"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/gravelly_mountains.png"

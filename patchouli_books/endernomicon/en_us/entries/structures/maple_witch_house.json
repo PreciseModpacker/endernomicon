@@ -3,7 +3,7 @@
     "icon": "minecraft:carved_pumpkin",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:maple_forest",
     "pages": [
         {
             "type": "patchouli:text",

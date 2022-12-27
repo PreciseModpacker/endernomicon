@@ -3,6 +3,7 @@
     "icon": "minecraft:smoker",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:smoker",
     "pages": [
         {
             "type": "patchouli:crafting",

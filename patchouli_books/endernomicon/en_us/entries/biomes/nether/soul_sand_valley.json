@@ -2,8 +2,8 @@
     "name": "Soul Sand Valley",
     "icon": "minecraft:soul_sand",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:soul_sand_valley",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can search this biome by typing the words $(l)Soul Sand Valley$() in the search box of the Nature's Compass."
         },
-#       {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:soul_sand_valley"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/soul_sand_valley.png"

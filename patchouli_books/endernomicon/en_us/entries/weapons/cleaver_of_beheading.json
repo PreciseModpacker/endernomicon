@@ -2,8 +2,8 @@
     "name": "Cleaver of Beheading",
     "icon": "savageandravage:cleaver_of_beheading",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 4,
+    "advancement": "endernomicon:cleaver_of_beheading",
     "pages": [
         {
             "type": "patchouli:spotlight",

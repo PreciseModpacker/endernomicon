@@ -2,8 +2,8 @@
     "name": "Small End Islands",
     "icon": "minecraft:end_stone",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:small_end_islands",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,11 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can search this biome by typing the words $(l)Small End Islands$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:small_end_islands"
-#        }
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/small_end_islands.png"

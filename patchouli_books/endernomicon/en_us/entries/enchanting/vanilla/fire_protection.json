@@ -2,7 +2,7 @@
     "name": "Fire Protection",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fire_protection',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:fire_protection",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_fire_protection)Ancient Tome (Fire Protection)$(/l)"
+            "text": "$(li)By default, it can be upgrade just until level IV.$(br)$(li)You can raise the level V of this enchantment using an $(l:patchouli:enchanting/quark/ancient_tome_fire_protection)Ancient Tome (Fire Protection)$(/l)."
         }
              ]
 }

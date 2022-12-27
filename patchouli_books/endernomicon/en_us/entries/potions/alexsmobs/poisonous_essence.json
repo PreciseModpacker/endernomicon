@@ -2,7 +2,7 @@
     "name": "Poisonous Essence",
     "icon": "alexsmobs:poison_bottle",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:rattlesnake_rattle",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -2,8 +2,8 @@
     "name": "Molten Armor",
     "icon": "extraarmor:molten_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 15,
+    "advancement": "minecraft:story/lava_bucket"
     "pages": [
        {
             "type": "patchouli:text",

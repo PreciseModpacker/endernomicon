@@ -2,7 +2,7 @@
     "name": "Slowness",
     "icon": "minecraft:potion{Potion:'minecraft:slowness'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:fermented_spider_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The level II reduces the movement speed 60% during 20 seconds.$(br)$(li)They can be brewed using $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eye$(/l) and $(l:patchouli:potions/vanilla/leaping)Leaping Potions$(/l) or $(l:patchouli:potions/vanilla/swiftness)Swiftness$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+            "text": "$(li)The level II reduces the movement speed 60% during 20 seconds.$(br)$(li)They can be brewed using $(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l) and $(l:patchouli:potions/vanilla/leaping)Leaping Potions$(/l) or $(l:patchouli:potions/vanilla/swiftness)Swiftness$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",

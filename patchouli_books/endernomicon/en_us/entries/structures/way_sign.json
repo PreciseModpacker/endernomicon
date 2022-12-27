@@ -3,7 +3,7 @@
     "icon": "supplementaries:sign_post_oak",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:way_sign",
     "pages": [
         {
             "type": "patchouli:text",

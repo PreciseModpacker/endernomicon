@@ -2,8 +2,8 @@
     "name": "Infernal Forge",
     "icon": "cataclysm:infernal_forge",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 11,
+    "advancement": "endernomicon:infernal_forge",
     "pages": [
         {
             "type": "patchouli:spotlight",

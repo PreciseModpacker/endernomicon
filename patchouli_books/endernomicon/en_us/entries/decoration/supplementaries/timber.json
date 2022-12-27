@@ -3,6 +3,7 @@
     "icon": "supplementaries:timber_cross_brace",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:stick",
     "pages": [
         {
             "type": "patchouli:text",

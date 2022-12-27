@@ -2,7 +2,7 @@
     "name": "Loyalty",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:loyalty',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:loyalty",
     "pages": [
         {
             "type": "patchouli:spotlight",

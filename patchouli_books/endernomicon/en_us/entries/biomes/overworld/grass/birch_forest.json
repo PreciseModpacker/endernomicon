@@ -2,8 +2,8 @@
     "name": "Birch Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:birch_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) and $(l:patchouli:creatures/environmental/deer)Deers$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Birch Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:birch_forest,minecraft:birch_forest_hills,minecraft:tall_birch_forest,minecraft:tall_birch_hills"
-#        },
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/birch_forest.png"
