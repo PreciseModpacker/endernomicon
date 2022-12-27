@@ -2,8 +2,8 @@
     "name": "Wanderer's Boots",
     "icon": "environmental:wanderer_boots",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 31,
+    "advancement": "endernomicon:wanderer_boots"
     "pages": [
         {
             "type": "patchouli:spotlight",

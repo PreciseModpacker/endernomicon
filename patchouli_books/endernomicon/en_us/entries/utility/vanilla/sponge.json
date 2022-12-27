@@ -3,6 +3,7 @@
     "icon": "minecraft:sponge",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:sponge",
     "pages": [
         {
             "type": "patchouli:smelting",

@@ -3,6 +3,7 @@
     "icon": "minecraft:shroomlight",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:shroomlight",
     "pages": [
         {
             "type": "patchouli:spotlight",

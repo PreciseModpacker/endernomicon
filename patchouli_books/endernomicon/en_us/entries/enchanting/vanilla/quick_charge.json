@@ -2,7 +2,7 @@
     "name": "Quick Charge",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:quick_charge',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:quick_charge",
     "pages": [
         {
             "type": "patchouli:spotlight",

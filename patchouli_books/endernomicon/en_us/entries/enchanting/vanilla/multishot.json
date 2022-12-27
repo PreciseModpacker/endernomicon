@@ -2,7 +2,7 @@
     "name": "Multishot",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:multishot',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:multishot",
     "pages": [
         {
             "type": "patchouli:spotlight",

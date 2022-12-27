@@ -1,9 +1,10 @@
+# Disabled entry because can't filter correctly in the advancement datapack
 {    
     "name": "Dungeon (Small)",
     "icon": "minecraft:mossy_cobblestone",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:small_dungeon",
     "pages": [
         {
             "type": "patchouli:text",

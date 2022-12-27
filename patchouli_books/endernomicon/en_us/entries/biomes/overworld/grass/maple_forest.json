@@ -2,8 +2,8 @@
     "name": "Maple Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:maple_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) and $(l:patchouli:creatures/autumnity/snail)Snails$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Maple Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)autumnity:maple_forest, autumnity:maple_forest_hills"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/maple_forest.png"

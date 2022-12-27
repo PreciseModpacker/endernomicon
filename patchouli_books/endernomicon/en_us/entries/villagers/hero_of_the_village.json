@@ -3,7 +3,7 @@
     "icon": "minecraft:emerald",
     "category": "patchouli:villagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "minecraft:adventure/hero_of_the_village",
     "pages": [
         {
             "type": "patchouli:text",

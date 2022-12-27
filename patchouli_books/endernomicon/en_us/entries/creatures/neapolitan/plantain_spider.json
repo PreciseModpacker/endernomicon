@@ -3,7 +3,7 @@
     "icon": "neapolitan:banana",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:plantain_spider",
     "pages": [
         {
             "type": "patchouli:text",

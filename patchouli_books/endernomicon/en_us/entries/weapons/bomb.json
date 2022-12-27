@@ -3,6 +3,7 @@
     "icon": "supplementaries:bomb",
     "category": "patchouli:weapons",
     "sortnum": 0,
+    "advancement": "endernomicon:tnt",
     "pages": [
         {
             "type": "patchouli:crafting",

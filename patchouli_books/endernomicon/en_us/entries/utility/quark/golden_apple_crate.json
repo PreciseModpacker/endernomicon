@@ -3,6 +3,7 @@
     "icon": "quark:golden_apple_crate",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:golden_apple",
     "pages": [
         {
             "type": "patchouli:crafting",

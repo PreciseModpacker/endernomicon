@@ -2,7 +2,7 @@
     "name": "Impaling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:impaling',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:impaling",
     "pages": [
         {
             "type": "patchouli:spotlight",

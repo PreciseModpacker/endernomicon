@@ -3,6 +3,7 @@
     "icon": "syp:pet_bandage",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:pet_bandage",
     "pages": [
         {
             "type": "patchouli:crafting",

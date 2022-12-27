@@ -2,8 +2,8 @@
     "name": "Architect's Belt",
     "icon": "environmental:architect_belt",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 30,
+    "advancement": "endernomicon:architect_belt
     "pages": [
         {
             "type": "patchouli:spotlight",

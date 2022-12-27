@@ -3,7 +3,7 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:strider",
     "pages": [
         {
             "type": "patchouli:text",

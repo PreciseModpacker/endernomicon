@@ -2,8 +2,8 @@
     "name": "Ring of Stealth",
     "icon": "goblinsanddungeons:ring_of_stealth",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:ring_of_stealth",
     "pages": [
         {
             "type": "patchouli:spotlight",

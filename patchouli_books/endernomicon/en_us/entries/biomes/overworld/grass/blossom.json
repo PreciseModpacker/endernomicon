@@ -2,7 +2,7 @@
     "name": "Blossom Wood Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:blossom",
     "sortnum": 0,
     "pages": [
         {
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:pets/vanilla/fox)Foxes$(/l), $(l:patchouli:creatures/vanilla/panda)Pandas$(/l), or $(l:patchouli:creatures/environmental/koi)Kois$(/l) can be found here.$(br)$(li)You can search this biome introducing the word $(l)Blossom$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)environmental:blossom_highlands, environmental:blossom_hills, environmental:blossom_valleys, environmental:blossom_woods"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/blossom_forest.png"

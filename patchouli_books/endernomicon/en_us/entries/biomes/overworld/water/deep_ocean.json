@@ -2,7 +2,7 @@
     "name": "Deep Ocean",
     "icon": "minecraft:water_bucket",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:deep_ocean",
     "sortnum": 0,
     "pages": [
         {

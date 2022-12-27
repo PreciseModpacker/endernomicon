@@ -3,7 +3,7 @@
     "icon": "charm:redstone_lantern",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:redstone_torch",
     "pages": [
         {
             "type": "patchouli:crafting",

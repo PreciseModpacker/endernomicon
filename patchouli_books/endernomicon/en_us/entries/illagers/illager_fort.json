@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illagers, unlike the $(l:patchouli:villagers/villager)Villagers$(/l) don't live quietly in a small $(l:patchouli:villagers/villagers)Village$(/l). They live in walled big camps with water wells, crops, bedrooms, stables and even a shooting range.$(br)$(li)Be careful, $(l:patchouli:illagers/archer)Archers$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/vindicator)Vindicators$(/l), and the $(l:patchouli:illagers/illager_general)Generals$(/l) will not hesitate to defend their fort for intruders like you."
+            "text": "$(li)The Illagers, unlike the $(l:patchouli:villagers/villager)Villagers$(/l) don't live quietly in a small $(l:patchouli:villagers/villagers)Village$(/l). They live in walled big camps with water wells, crops, bedrooms, stables and even a shooting range.$(br)$(li)Be careful, $(l:patchouli:illagers/archer)Archers$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/vindicator)Vindicators$(/l) and the $(l:patchouli:illagers/illager_general)Generals$(/l) will not hesitate to defend their fort for intruders like you."
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/illagers/illager_fort.png",
-            "text": "$(li)The Illager Fort can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) and $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) biomes."
+            "text": "$(li)The Illager Fort can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/grass/forest)Forests$(/l), $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l), $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l), $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l), and $(l:patchouli:biomes/overworld/desert/savanna)Savanna$(/l) biomes."
         }
              ]
 }

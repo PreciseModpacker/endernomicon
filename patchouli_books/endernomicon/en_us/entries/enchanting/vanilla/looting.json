@@ -2,7 +2,7 @@
     "name": "Looting",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:looting',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:looting",
     "pages": [
         {
             "type": "patchouli:spotlight",

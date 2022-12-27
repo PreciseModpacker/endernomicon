@@ -3,7 +3,7 @@
     "icon": "quark:oak_trapped_chest",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:tripwire_hook",
     "pages": [
         {
             "type": "patchouli:crafting",

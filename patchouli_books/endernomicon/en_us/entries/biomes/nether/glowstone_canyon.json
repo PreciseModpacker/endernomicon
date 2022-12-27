@@ -2,8 +2,8 @@
     "name": "Glowstone Canyon",
     "icon": "minecraft:glowstone",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:glowstone_canyon",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/blindsight)Blindsights$(/l) and $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Glowstone Canyon$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)infernalexp:glowstone_canyon"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/glowstone_canyon.png"

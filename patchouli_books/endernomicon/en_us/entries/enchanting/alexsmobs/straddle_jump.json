@@ -2,7 +2,7 @@
     "name": "Straddle Jump",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:straddle_jump',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:straddle_jump",
     "pages": [
         {
             "type": "patchouli:spotlight",

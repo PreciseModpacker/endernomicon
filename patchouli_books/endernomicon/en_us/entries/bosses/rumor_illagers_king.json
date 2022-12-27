@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_tower",
     "pages": [
         {
             "type": "patchouli:text",

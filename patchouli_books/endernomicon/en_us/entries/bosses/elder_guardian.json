@@ -3,7 +3,7 @@
     "icon": "minecraft:sea_lantern",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:elder_guardian",
     "pages": [
         {
             "type": "patchouli:text",

@@ -2,8 +2,8 @@
     "name": "Healer's Pouch",
     "icon": "environmental:healer_pouch",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 31,
+    "advancement": "endernomicon:healer_pouch"
     "pages": [
         {
             "type": "patchouli:spotlight",

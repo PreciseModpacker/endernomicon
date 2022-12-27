@@ -3,6 +3,7 @@
     "icon": "minecraft:cobblestone_wall",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:cobblestone",
     "pages": [
         {
             "type": "patchouli:crafting",

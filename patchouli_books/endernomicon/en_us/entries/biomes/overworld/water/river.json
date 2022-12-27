@@ -2,7 +2,7 @@
     "name": "River",
     "icon": "minecraft:water_bucket",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:river",
     "sortnum": 0,
     "pages": [
         {
@@ -21,9 +21,5 @@
             "type": "patchouli:empty",
             "draw_filler": false
         }
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:river"
-#        }
              ]
 }

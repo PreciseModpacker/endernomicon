@@ -2,8 +2,8 @@
     "name": "Ring of Glory",
     "icon": "goblinsanddungeons:ring_of_glory",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:ring_of_glory"
     "pages": [
         {
             "type": "patchouli:spotlight",

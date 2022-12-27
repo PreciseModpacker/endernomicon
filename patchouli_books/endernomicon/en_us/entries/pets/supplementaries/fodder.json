@@ -3,6 +3,7 @@
     "icon": "supplementaries:fodder",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:fodder",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -2,8 +2,8 @@
     "name": "Frozen River",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:frozen_river",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)You can find some water vegetation like Seagrass or Tall Purle Pickerelweed.$(br)$(li)Some aquatic animals can like Salmons, Cods, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found inside of the water of this place.$(br)$(li)You can search this biome by typing the words $(l)Frozen River$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:frozen_river"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/frozen_river.png"

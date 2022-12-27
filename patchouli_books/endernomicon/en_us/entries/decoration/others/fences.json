@@ -3,6 +3,7 @@
     "icon": "minecraft:oak_fence",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:stick",
     "pages": [
         {
             "type": "patchouli:crafting",

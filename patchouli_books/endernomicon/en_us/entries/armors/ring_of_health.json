@@ -2,8 +2,8 @@
     "name": "Ring of Health",
     "icon": "goblinsanddungeons:ring_of_health",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:ring_of_health",
     "pages": [
         {
             "type": "patchouli:spotlight",

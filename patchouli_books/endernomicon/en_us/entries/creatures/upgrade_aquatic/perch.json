@@ -3,7 +3,7 @@
     "icon": "upgrade_aquatic:perch",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:perch",
     "pages": [
         {
             "type": "patchouli:text",

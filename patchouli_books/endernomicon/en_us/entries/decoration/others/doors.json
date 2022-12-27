@@ -3,6 +3,7 @@
     "icon": "minecraft:oak_door",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:spotlight",

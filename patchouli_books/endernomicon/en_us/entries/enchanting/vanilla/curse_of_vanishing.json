@@ -2,7 +2,7 @@
     "name": "Curse of Vanishing",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:vanishing_curse',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:curse_of_vanishing",
     "pages": [
         {
             "type": "patchouli:spotlight",

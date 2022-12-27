@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_axe",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:vindicator",
     "pages": [
         {
             "type": "patchouli:text",

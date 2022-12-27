@@ -2,8 +2,8 @@
     "name": "Mask of Dishonesty",
     "icon": "savageandravage:mask_of_dishonesty",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:mask_of_dishonesty"
     "pages": [
         {
             "type": "patchouli:text",

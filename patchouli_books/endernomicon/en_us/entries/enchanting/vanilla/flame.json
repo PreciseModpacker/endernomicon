@@ -2,7 +2,7 @@
     "name": "Flame",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:flame',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:flame",
     "pages": [
         {
             "type": "patchouli:spotlight",

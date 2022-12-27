@@ -1,8 +1,9 @@
 {    
     "name": "Backpack Shelf",
     "icon": "backpacked:oak_backpack_shelf",
-    "category": "patchouli:decoration",
+    "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:backpack_shelf",
     "pages": [
         {
             "type": "patchouli:spotlight",

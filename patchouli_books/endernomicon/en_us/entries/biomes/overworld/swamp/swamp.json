@@ -2,7 +2,7 @@
     "name": "Swamp",
     "icon": "environmental:mud",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:swamp",
     "sortnum": 0,
     "pages": [
         {
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:creatures/supplementaries/firefly)Fireflies$(/l), $(l:patchouli:creatures/quark/frog)Frogs$(/l), Perchs, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Swamp$() in the search box of the Nature's Compass."
         },
-#       {
-#           "type": "patchouli:text",
-#           "text": "$(li)minecraft:swamp,minecraft:swamp_hills."
-#       }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/swamp.png"

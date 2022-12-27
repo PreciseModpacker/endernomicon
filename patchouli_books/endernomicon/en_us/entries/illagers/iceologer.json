@@ -3,7 +3,7 @@
     "icon": "savageandravage:wand_of_freezing",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:iceologer",
     "pages": [
         {
             "type": "patchouli:text",

@@ -2,7 +2,7 @@
     "name": "Respiration",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:respiration',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:respiration",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -2,7 +2,7 @@
     "name": "Dashing",
     "icon": "minecraft:enchanted_book",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:dashing",
     "pages": [
         {
             "type": "patchouli:spotlight",

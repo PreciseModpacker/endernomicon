@@ -3,7 +3,7 @@
     "icon": "minecraft:saddle",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:ravager",
     "pages": [
         {
             "type": "patchouli:text",

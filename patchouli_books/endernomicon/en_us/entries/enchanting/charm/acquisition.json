@@ -2,7 +2,7 @@
     "name": "Acquisition",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:acquisition',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:acquisition",
     "pages": [
         {
             "type": "patchouli:spotlight",

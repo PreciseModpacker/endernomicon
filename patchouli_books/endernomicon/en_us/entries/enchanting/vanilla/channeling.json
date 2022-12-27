@@ -2,7 +2,7 @@
     "name": "Channeling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:channeling",
     "pages": [
         {
             "type": "patchouli:spotlight",

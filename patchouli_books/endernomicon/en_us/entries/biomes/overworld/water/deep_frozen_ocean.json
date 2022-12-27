@@ -2,7 +2,7 @@
     "name": "Deep Frozen Ocean",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:deep_frozen_ocean",
     "sortnum": 0,
     "pages": [
         {
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)No too many aquatic animals can withstand the hard conditions of this sea.$(br)$(li)Only $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/alexsmobs/blobfish)Blobfishes$(/l) and $(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Sharks$(/l) can be found here.$(br)$(li)You can search this biome by typing the words $(l)Deep Frozen Ocean$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:deep_frozen_ocean"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/deep_frozen_ocean.png"

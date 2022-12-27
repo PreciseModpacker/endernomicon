@@ -2,8 +2,8 @@
     "name": "Crimson Forest",
     "icon": "minecraft:crimson_stem",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:crimson_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l) and $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Crimson Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:crimson_forest"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/crimson_forest.png"

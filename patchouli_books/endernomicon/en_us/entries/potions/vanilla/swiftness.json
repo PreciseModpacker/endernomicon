@@ -2,7 +2,7 @@
     "name": "Swiftness",
     "icon": "minecraft:potion{Potion:'minecraft:swiftness'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:sugar",
     "pages": [
         {
             "type": "patchouli:spotlight",

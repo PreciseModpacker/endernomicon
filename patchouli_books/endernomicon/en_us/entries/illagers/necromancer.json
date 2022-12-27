@@ -3,7 +3,7 @@
     "icon": "inspirations:black_book",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:necromancer",
     "pages": [
         {
             "type": "patchouli:text",

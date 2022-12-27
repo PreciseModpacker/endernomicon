@@ -2,7 +2,7 @@
     "name": "Mountains",
     "icon": "minecraft:stone",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:mountains",
     "sortnum": 0,
     "pages": [
         {

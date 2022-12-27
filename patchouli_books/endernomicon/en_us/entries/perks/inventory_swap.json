@@ -1,9 +1,8 @@
 {
     "name": "Inventory Swap",
-    "icon": "minecraft:chest",
+    "icon": "endermonicon:textures/book/entries/perks/inventory_swap.png",
     "category": "patchouli:perks",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:text",
@@ -11,7 +10,7 @@
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/perks/inventory_swap.png"
+            "picture": "endermonicon:textures/book/entries/perks/inventory_swap_1.png"
         }
              ]
 }

@@ -2,8 +2,8 @@
     "name": "Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:forest",
     "pages": [
         {
             "type": "patchouli:text",

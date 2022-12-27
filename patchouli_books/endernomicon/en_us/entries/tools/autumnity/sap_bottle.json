@@ -3,7 +3,7 @@
     "icon": "autumnity:sap_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:sap_bottle",
     "pages": [
         {
             "type": "patchouli:spotlight",

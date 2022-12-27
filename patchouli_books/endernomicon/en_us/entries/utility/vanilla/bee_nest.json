@@ -3,6 +3,7 @@
     "icon": "minecraft:bee_nest",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:bee",
     "pages": [
         {
             "type": "patchouli:spotlight",

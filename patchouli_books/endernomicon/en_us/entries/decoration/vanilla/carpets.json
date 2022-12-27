@@ -3,6 +3,7 @@
     "icon": "minecraft:white_carpet",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:wool",
     "pages": [
         {
             "type": "patchouli:spotlight",

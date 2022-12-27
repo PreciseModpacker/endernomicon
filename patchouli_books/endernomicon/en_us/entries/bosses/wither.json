@@ -3,7 +3,7 @@
     "icon": "minecraft:wither_skeleton_skull",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:wither",
     "pages": [
         {
             "type": "patchouli:text",

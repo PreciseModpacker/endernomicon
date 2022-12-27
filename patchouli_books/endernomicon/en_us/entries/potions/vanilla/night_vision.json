@@ -2,7 +2,7 @@
     "name": "Night Vision",
     "icon": "minecraft:potion{Potion:'minecraft:night_vision'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:golden_carrot",
     "pages": [
         {
             "type": "patchouli:spotlight",

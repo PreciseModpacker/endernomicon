@@ -3,13 +3,13 @@
     "icon": "minecraft:filled_map",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:buried_treasure_map",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:filled_map",
             "title": "Buried Treasure Map",
-            "text": "$(li)The Buried Treasure Map is a item that can be found in the $(l:patchouli:structures/tower)Towers$(/l) or $(l:patchouli:structures/shipwreck)Shipwrecks$(/l).$(br)$(li)$(l:patchouli:villagers/cartographer)Cartographers$(/l) will trade you their maps by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds.$(/l)$(br)$(li)They will indicate you the route to a place with a hidden $(l:patchouli:perks/loot_chest)Loot Chest$(/l).",
+            "text": "$(li)The Buried Treasure Map can be found in the $(l:patchouli:structures/tower)Towers$(/l), $(l:patchouli:structures/shipwreck)Shipwrecks$(/l) or $(l:patchouli:structures/ocean_ruin)Ocean Ruins$(/l).$(br)$(li)$(l:patchouli:villagers/cartographer)Cartographers$(/l) will trade you their maps by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds.$(/l)$(br)$(li)They will indicate you the route to a place with a hidden $(l:patchouli:perks/loot_chest)Loot Chest$(/l).",
             "link_recipe": "true"
         },
         {

@@ -2,7 +2,7 @@
     "name": "Worsening",
     "icon": "minecraft:potion{Potion:'atmospheric:worsening'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:fermented_spider_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -2,8 +2,8 @@
     "name": "Shield (Wildfire)",
     "icon": "outvoted:wildfire_shield",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 16,
+    "advancement": "endernomicon:wildfire_shield_part",
     "pages": [
         {
             "type": "smithing_table",

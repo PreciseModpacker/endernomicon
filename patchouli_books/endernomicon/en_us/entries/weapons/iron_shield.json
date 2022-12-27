@@ -2,8 +2,8 @@
     "name": "Shield (Iron)",
     "icon": "bettershields:iron_shield",
     "category": "patchouli:weapons",
-    "advancement": "minecraft:story/smelt_iron",
     "sortnum": 15,
+    "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {
             "type": "patchouli:crafting",

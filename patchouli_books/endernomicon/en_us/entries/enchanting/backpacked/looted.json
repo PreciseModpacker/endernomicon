@@ -2,7 +2,7 @@
     "name": "Looted",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:looted',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:looted",
     "pages": [
         {
             "type": "patchouli:spotlight",

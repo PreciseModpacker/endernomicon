@@ -2,7 +2,7 @@
     "name": "Imbued Hide",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:imbued_hide',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:imbued_hide",
     "pages": [
         {
             "type": "patchouli:spotlight",

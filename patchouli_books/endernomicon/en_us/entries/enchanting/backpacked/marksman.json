@@ -2,7 +2,7 @@
     "name": "Marksman",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:marksman',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:marksman",
     "pages": [
         {
             "type": "patchouli:spotlight",

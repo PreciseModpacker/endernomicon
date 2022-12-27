@@ -2,7 +2,8 @@
     "name": "A.T. Respiration IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:respiration',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "sortnum": 1,
+    "advancement": "endernomicon:ancient_tome_respiration",
     "pages": [
         {
             "type": "patchouli:spotlight",

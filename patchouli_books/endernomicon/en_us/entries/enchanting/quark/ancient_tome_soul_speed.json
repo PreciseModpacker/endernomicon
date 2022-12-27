@@ -2,7 +2,8 @@
     "name": "A.T. Soul Speed IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:soul_speed',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "sortnum": 1,
+    "advancement": "endernomicon:ancient_tome_soul_speed",
     "pages": [
         {
             "type": "patchouli:spotlight",
