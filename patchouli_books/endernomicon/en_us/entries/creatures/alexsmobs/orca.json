@@ -3,7 +3,7 @@
     "icon": "minecraft:water_bucket",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/orcas_might",
     "pages": [
         {
             "type": "patchouli:text",
