@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "autumnity:snail_slime",
-            "text": "$(li)The gluey Snail Slime can be used to craft a $(l:patchouli:utility/autumnity/snail_slime_block)Snail Slime Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to brew a $(l:patchouli:potions/autumnity/extension)Potion of Extension$(/l) too.$(br)$(li)$(l:patchouli:creatures/autumnity/snail)Snails$(/l) may drop this item on death.",
+            "text": "$(li)The gluey Snail Slime can be used to craft a $(l:patchouli:utility/autumnity/snail_slime_block)Snail Slime Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to brew a $(l:patchouli:potions/autumnity/extension)Potion of Extension$(/l) too.$(br)$(li)$(l:patchouli:creatures/autumnity/snail)Snails$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

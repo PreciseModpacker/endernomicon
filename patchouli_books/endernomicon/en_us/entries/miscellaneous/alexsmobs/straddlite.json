@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:straddlite",
-            "text": "$(li)The Straddlite is an item that can be combined with $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingots$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create a $(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l) may drop this item on death.",
+            "text": "$(li)The Straddlite is an item that can be combined with $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingots$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create a $(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

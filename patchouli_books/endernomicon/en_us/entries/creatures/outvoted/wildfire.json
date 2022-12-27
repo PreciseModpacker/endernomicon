@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "outvoted:wildfire",
             "scale": 1,
-            "text": "It may drops a $(l:patchouli:armors/wildfire_helmet)Wildfire Helmet$(/l) or a $(l:patchouli:miscellaneous/outvoted/shattered_wildfire_piece)Shattered Blaze Piece$(/l) on death."
+            "text": "It may drops a $(l:patchouli:armors/wildfire_helmet)Wildfire Helmet$(/l) or a $(l:patchouli:miscellaneous/outvoted/shattered_wildfire_piece)Shattered Blaze Piece$(/l) upon death."
         }
              ]
 }

@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/cave_centipede.png",
-            "text": "$(li)Cave Centipedes may drop $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Legs$(/l) on death."
+            "text": "$(li)Cave Centipedes may drop $(l:patchouli:miscellaneous/alexsmobs/cave_centipede_leg)Cave Centipede Legs$(/l) upon death."
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Slimes are bouncy, cube-shaped hostile creatures that can be found in particular places of the Overworld, or at night in $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)They will jump until arrives you and hits you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/slimeball)Slimeballs$(/l) on death."
+            "text": "$(li)Slimes are bouncy, cube-shaped hostile creatures that can be found in particular places of the Overworld, or at night in $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)They will jump until arrives you and hits you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/slimeball)Slimeballs$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

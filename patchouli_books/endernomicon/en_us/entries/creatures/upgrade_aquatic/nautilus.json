@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:nautilus",
             "scale": 1,
-            "text": "Nautilis may drop a $(l:patchouli:miscellaneous/vanilla/nautilus_shell)Nautilus Shell$(/l) on death."
+            "text": "Nautilis may drop a $(l:patchouli:miscellaneous/vanilla/nautilus_shell)Nautilus Shell$(/l) upon death."
         },
         {
             "type": "patchouli:text",

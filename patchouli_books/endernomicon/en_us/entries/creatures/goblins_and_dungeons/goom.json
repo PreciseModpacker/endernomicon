@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Gooms will explode the smoke bomb from their heads in order to blind you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) on death."
+            "text": "$(li)Gooms will explode the smoke bomb from their heads in order to blind you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

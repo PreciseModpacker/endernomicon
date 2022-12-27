@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "environmental:misc/cattails/string_from_cattail_seeds",
-            "text": "$(li)The String are long and flexible material that may be dropped by $(l:patchouli:pets/vanilla/cat)Cats$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/vanilla/spider)Spiders$(/l), or $(l:patchouli:pets/vanilla/strider)Striders$(/l) on death.",
+            "text": "$(li)The String are long and flexible material that may be dropped by $(l:patchouli:pets/vanilla/cat)Cats$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spiders$(/l), $(l:patchouli:creatures/vanilla/spider)Spiders$(/l), or $(l:patchouli:pets/vanilla/strider)Striders$(/l) upon death.",
             "link_recipe": "true"
         },
         {

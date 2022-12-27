@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Strays are a variant of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l) that can be found in the snow biomes like the $(l:patchouli:biomes/overworld/snow/snowy_mountain)Snowy Mountains$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l) and $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:weapons/arrows)Arrows$(/l) and $(l)Arrows of Slowness$() on death."
+            "text": "$(li)Strays are a variant of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l) that can be found in the snow biomes like the $(l:patchouli:biomes/overworld/snow/snowy_mountain)Snowy Mountains$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l) and $(l:patchouli:biomes/overworld/snow/snowy_tundra)Snowy Tundras$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:weapons/arrows)Arrows$(/l) and $(l)Arrows of Slowness$() upon death."
         },
         {
             "type": "patchouli:entity",

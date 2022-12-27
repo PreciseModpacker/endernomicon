@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Endermen are tallest neutral creatures that can appears at night or in places with low illumination over the Overworld, in the Nether or in the End.$(br)$(li)If you see them directly to their eyes, they will turn aggressive towards you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ender_pearl)Ender Pearls$(/l) on death."
+            "text": "$(li)Endermen are tallest neutral creatures that can appears at night or in places with low illumination over the Overworld, in the Nether or in the End.$(br)$(li)If you see them directly to their eyes, they will turn aggressive towards you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ender_pearl)Ender Pearls$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

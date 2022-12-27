@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Guster are hostiles creatures that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)They uses sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br)$(li)They may drop sand blocks or a $(l:patchouli:miscellaneous/alexsmobs/guster_eye)Guster Eye$(/l) on death."
+            "text": "$(li)Guster are hostiles creatures that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l).$(br)$(li)They uses sand like short distance projectile and if a entity or you are too close to them, they will carry it and eject it, like a tornado.$(br)$(li)They may drop sand blocks or a $(l:patchouli:miscellaneous/alexsmobs/guster_eye)Guster Eye$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

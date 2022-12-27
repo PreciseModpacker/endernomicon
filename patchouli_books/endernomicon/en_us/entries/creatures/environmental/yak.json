@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Yaks may drop Raw Beef and $(l:patchouli:miscellaneous/environmental/yak_hair)Yak Hair$(/l) on death."
+            "text": "$(li)Yaks may drop Raw Beef and $(l:patchouli:miscellaneous/environmental/yak_hair)Yak Hair$(/l) upon death."
         }
              ]
 }

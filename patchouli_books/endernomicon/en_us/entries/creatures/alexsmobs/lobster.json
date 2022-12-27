@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Lobsters are small, neutral aquatic crustaceans that can be found in $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l).$(br)$(li)If attacked, lobsters pinch any mob nearby aggressively.$(br)$(li)Lobsters may drop $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tails$(/l) on death.$(br)$(li)You can capture these creatures in $(l:patchouli:tools/vanilla/water_bucket)Water Buckets$(/l)."
+            "text": "$(li)Lobsters are small, neutral aquatic crustaceans that can be found in $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l).$(br)$(li)If attacked, lobsters pinch any mob nearby aggressively.$(br)$(li)Lobsters may drop $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tails$(/l) upon death.$(br)$(li)You can capture these creatures in $(l:patchouli:tools/vanilla/water_bucket)Water Buckets$(/l)."
         },
         {
             "type": "patchouli:entity",

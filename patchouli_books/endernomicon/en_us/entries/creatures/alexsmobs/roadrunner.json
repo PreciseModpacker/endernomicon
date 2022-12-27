@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Roadrunner is a small brown and yellow bird with blue feathers on their tail, wings and head.$(br)$(li)They run around the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) at high speed searching their preis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br)$(li)Roadrunners may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l:patchouli:miscellaneous/alexsmobs/roadrunner_feather)Roadrunner Feathers$(/l) on death."
+            "text": "$(li)The Roadrunner is a small brown and yellow bird with blue feathers on their tail, wings and head.$(br)$(li)They run around the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l) at high speed searching their preis, $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l).$(br)$(li)Roadrunners may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l:patchouli:miscellaneous/alexsmobs/roadrunner_feather)Roadrunner Feathers$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

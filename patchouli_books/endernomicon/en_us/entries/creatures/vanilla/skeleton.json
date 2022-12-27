@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Skeletons are common undead hostile creatures that can be found over the Overworld when the night arrives or in places with low illuminance.$(br)$(li)They will fire $(l:patchouli:weapons/arrows)Arrows$(/l) using their $(l:patchouli:weapons/bow)Bows$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) on death."
+            "text": "$(li)Skeletons are common undead hostile creatures that can be found over the Overworld when the night arrives or in places with low illuminance.$(br)$(li)They will fire $(l:patchouli:weapons/arrows)Arrows$(/l) using their $(l:patchouli:weapons/bow)Bows$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) upon death."
         },
         {
             "type": "patchouli:entity",
@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tiny Skeletons are a cute variant of the Skeletons and they can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They are faster than Skeletons.$(br)$(li)They will fire $(l:patchouli:weapons/arrows)Arrows$(/l) using their $(l:patchouli:weapons/arrows)Bows$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) on death."
+            "text": "$(li)Tiny Skeletons are a cute variant of the Skeletons and they can be found over the Overworld when the night arrives or in places with low lighting.$(br)$(li)They are faster than Skeletons.$(br)$(li)They will fire $(l:patchouli:weapons/arrows)Arrows$(/l) using their $(l:patchouli:weapons/arrows)Bows$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

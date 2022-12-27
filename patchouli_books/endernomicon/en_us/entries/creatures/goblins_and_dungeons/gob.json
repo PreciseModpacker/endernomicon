@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Gobs are the smallest and weakest Goblins.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l) and $(l:patchouli:weapons/stone_sword)Stone Swords$(/l) on death."
+            "text": "$(li)Gobs are the smallest and weakest Goblins.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nuggets$(/l) and $(l:patchouli:weapons/stone_sword)Stone Swords$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

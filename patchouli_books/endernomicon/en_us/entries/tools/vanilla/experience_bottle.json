@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Those Bottles can be found in Loot Chests.$(br)$(li)$(l:patchouli:creatures/outvoted/hunger)Hungers$(/l) may drop them on death.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange them by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too."
+            "text": "$(li)Those Bottles can be found in Loot Chests.$(br)$(li)$(l:patchouli:creatures/outvoted/hunger)Hungers$(/l) may drop them upon death.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange them by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too."
         }
              ]
 }

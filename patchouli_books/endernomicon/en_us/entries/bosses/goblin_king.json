@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You will notice that he always tries to keep his distance from you.$(br)$(li)Then he will attack you with his magic staff to deal damage and inflict the $(l:patchouli:potions/vanilla/slowness)Slowness$(/l) II effect to you, reducing your movement speed dramatically for a few seconds.$(br)$(li)This King will drop his $(l:patchouli:armors/goblin_crown)Crown$(/l) and $(l:patchouli:weapons/magic_staff)Magic Staff$(/l) on death."
+            "text": "$(li)You will notice that he always tries to keep his distance from you.$(br)$(li)Then he will attack you with his magic staff to deal damage and inflict the $(l:patchouli:potions/vanilla/slowness)Slowness$(/l) II effect to you, reducing your movement speed dramatically for a few seconds.$(br)$(li)This King will drop his $(l:patchouli:armors/goblin_crown)Crown$(/l) and $(l:patchouli:weapons/magic_staff)Magic Staff$(/l) upon death."
         }  
              ]
 }

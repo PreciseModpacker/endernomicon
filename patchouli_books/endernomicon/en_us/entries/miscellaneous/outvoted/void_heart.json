@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "outvoted:void_heart",
-            "text": "$(li)The Void Heart is an item that can be placed with any kind of $(l)Tool$() or $(l)Armor$() in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l) to prevent the $(l)Too Expensive!$() message and be able to repair that item with any experience cost.$(br)$(li)$(l:patchouli:creatures/outvoted/hunger)Hungers$(/l) may drop this item on death.",
+            "text": "$(li)The Void Heart is an item that can be placed with any kind of $(l)Tool$() or $(l)Armor$() in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l) to prevent the $(l)Too Expensive!$() message and be able to repair that item with any experience cost.$(br)$(li)$(l:patchouli:creatures/outvoted/hunger)Hungers$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

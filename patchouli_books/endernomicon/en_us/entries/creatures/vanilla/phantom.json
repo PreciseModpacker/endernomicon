@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:phantom",
             "scale": 0.4,
-            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membrane$(/l) on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membrane$(/l) upon death."
         }
              ]
 }

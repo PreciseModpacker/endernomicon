@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:rabbit_foot",
-            "text": "$(li)The Rabbit Foot is an item that can be used to brew a $(l:patchouli:potions/vanilla/leaping)Potion of Jump Boost$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange your Rabbit's Foot by $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) may drop this item on death.",
+            "text": "$(li)The Rabbit Foot is an item that can be used to brew a $(l:patchouli:potions/vanilla/leaping)Potion of Jump Boost$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange your Rabbit's Foot by $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

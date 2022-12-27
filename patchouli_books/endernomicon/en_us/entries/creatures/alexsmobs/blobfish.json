@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Blobfish are fish that are located in the $(l:patchouli:biomes/overworld/water/deep_ocean)$(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l)$(/l).$(br)$(li)They becomes pink if they are under less than 10 blocks of water pressure.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/alexsmobs/blobfish)Blobfish (Item)$(/l) on death.$(br)$(li)Blobfish can be trapped inside of a $(l:patchouli:tools/vanilla/water_bucket)Water Bucket$(/l)."
+            "text": "$(li)Blobfish are fish that are located in the $(l:patchouli:biomes/overworld/water/deep_ocean)$(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l)$(/l).$(br)$(li)They becomes pink if they are under less than 10 blocks of water pressure.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/alexsmobs/blobfish)Blobfish (Item)$(/l) upon death.$(br)$(li)Blobfish can be trapped inside of a $(l:patchouli:tools/vanilla/water_bucket)Water Bucket$(/l)."
         },
         {
             "type": "patchouli:entity",

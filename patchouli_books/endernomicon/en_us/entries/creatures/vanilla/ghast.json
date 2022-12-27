@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Ghast are large white floating host-like hostile creatures that can be found in the Nether.$(br)$(li)They shoot explosive fireballs to you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) and $(l:patchouli:miscellaneous/vanilla/ghast_tear)Ghast Tears$(/l) on death."
+            "text": "$(li)Ghast are large white floating host-like hostile creatures that can be found in the Nether.$(br)$(li)They shoot explosive fireballs to you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) and $(l:patchouli:miscellaneous/vanilla/ghast_tear)Ghast Tears$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

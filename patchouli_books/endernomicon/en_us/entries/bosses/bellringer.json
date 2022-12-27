@@ -14,7 +14,7 @@
             "entity": "meetyourfight:bellringer",
             "scale": 1,
             "offset": 0.1,
-            "text": "The Bellringer drops $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) and $(l:patchouli:miscellaneous/meet_your_fight/phantoplasm)Phantoplasm$(/l) on death."
+            "text": "The Bellringer drops $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) and $(l:patchouli:miscellaneous/meet_your_fight/phantoplasm)Phantoplasm$(/l) upon death."
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:rabbit_hide",
-            "text": "$(li)The Rabbit Hide is an item that can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), $(l:patchouli:tools/supplementaries/slingshot)Slingshots$(/l), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) and a $(l:patchouli:perks/backpack)Backpack$(/l).$(br)$(li)$(l:patchouli:villagers/leatherworker)Leatherworkers$(/l) will change this material by $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) may drop this item on death.",
+            "text": "$(li)The Rabbit Hide is an item that can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), $(l:patchouli:tools/supplementaries/slingshot)Slingshots$(/l), $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) and a $(l:patchouli:perks/backpack)Backpack$(/l).$(br)$(li)$(l:patchouli:villagers/leatherworker)Leatherworkers$(/l) will change this material by $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbits$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

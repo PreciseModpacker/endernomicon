@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Hoglins are hostil creatures that can be found in the Nether.$(br)$(li)They may drop Raw Porkchop and $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) on death.$(br)$(li)They can be breed giving them a $(l:patchouli:miscellaneous/vanilla/crimson_fungi)Crimson Fungi$(/l).$(br)$(li)They are afraid of the $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l) and the Nether Portal."
+            "text": "$(li)Hoglins are hostil creatures that can be found in the Nether.$(br)$(li)They may drop Raw Porkchop and $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) upon death.$(br)$(li)They can be breed giving them a $(l:patchouli:miscellaneous/vanilla/crimson_fungi)Crimson Fungi$(/l).$(br)$(li)They are afraid of the $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l) and the Nether Portal."
         },
         {
             "type": "patchouli:entity",
@@ -19,7 +19,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:zoglin",
             "scale": 0.45,
-            "text": "The Zoglin is a variant of the common Hoglin than drops $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l) on death. It will even attack $(l:patchouli:utility/vanilla/armor_stand)Armor Stands$(/l)."
+            "text": "The Zoglin is a variant of the common Hoglin than drops $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l) upon death. It will even attack $(l:patchouli:utility/vanilla/armor_stand)Armor Stands$(/l)."
         }
              ]
 }

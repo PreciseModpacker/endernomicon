@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Elder Guardian is a dangerous creature that can be found in the $(l:patchouli:structures/ocean_monument)Ocean Monuments$(/l) of the Overworld.$(br)$(li)This creature will attack you with a charge beam.$(br)$(li)It may drops a $(l:patchouli:utility/vanilla/sponge)Sponge$(/l), $(l:patchouli:redstone/upgrade_aquatic/elder_guardian_spine)Elder Guardian Spine$(/l), Cods, $(l:patchouli:miscellaneous/vanilla/prismarine_shard)Prismarine Shards$(/l), $(l:patchouli:miscellaneous/vanilla/prismarine_crystals)Prismarine Crystals$(/l), an $(l:patchouli:miscellaneous/upgrade_aquatic/elder_eye)Elder Eye$(/l), and the $(l:patchouli:enders_journey/ender_eyes)Guardian Eye$(/l) on death."
+            "text": "$(li)The Elder Guardian is a dangerous creature that can be found in the $(l:patchouli:structures/ocean_monument)Ocean Monuments$(/l) of the Overworld.$(br)$(li)This creature will attack you with a charge beam.$(br)$(li)It may drop a $(l:patchouli:utility/vanilla/sponge)Sponge$(/l), $(l:patchouli:redstone/upgrade_aquatic/elder_guardian_spine)Elder Guardian Spine$(/l), Cods, $(l:patchouli:miscellaneous/vanilla/prismarine_shard)Prismarine Shards$(/l), $(l:patchouli:miscellaneous/vanilla/prismarine_crystals)Prismarine Crystals$(/l), an $(l:patchouli:miscellaneous/upgrade_aquatic/elder_eye)Elder Eye$(/l), and the $(l:patchouli:enders_journey/ender_eyes)Guardian Eye$(/l) upon death."
         },
         {
             "type": "patchouli:small_pictures",

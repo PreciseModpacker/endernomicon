@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)These small windged insects known as Flies are around over the Overworld.$(br)$(li)They are attracted to dead dying things, like for example, $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l).$(br)$(li)Flies can be bred with $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l) on death."
+            "text": "$(li)These small windged insects known as Flies are around over the Overworld.$(br)$(li)They are attracted to dead dying things, like for example, $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l).$(br)$(li)Flies can be bred with $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

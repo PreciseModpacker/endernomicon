@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l) or $(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death."
+            "text": "$(li)$(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l), $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l) or $(l:patchouli:illagers/witch)Witches$(/l) may drop this item upon death."
         }
              ]
 }

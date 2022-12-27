@@ -14,7 +14,7 @@
             "entity": "charm:coral_squid",
             "scale": 1,
             "offset": -0.6,
-            "text": "They may drop their corresponding coral color on death."
+            "text": "They may drop their corresponding coral color upon death."
         }
              ]
 }

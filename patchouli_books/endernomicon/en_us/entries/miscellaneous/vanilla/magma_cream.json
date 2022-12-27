@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to craft a $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Block$(/l), $(l:patchouli:redstone/supplementaries/magma_cream_block)Magma Cream Block$(/l), or a $(l:patchouli:redstone/quark/redstone_inductor)Redstone Inductor$(/l).$(br)$(li)It can be rarely found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/bastion_remnant)Bastion Remnant$(/l) too.$(br)$(li)$(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) may drop this item on death."
+            "text": "$(li)It can be used to craft a $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Block$(/l), $(l:patchouli:redstone/supplementaries/magma_cream_block)Magma Cream Block$(/l), or a $(l:patchouli:redstone/quark/redstone_inductor)Redstone Inductor$(/l).$(br)$(li)It can be rarely found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) in the $(l:patchouli:structures/bastion_remnant)Bastion Remnant$(/l) too.$(br)$(li)$(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) may drop this item upon death."
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Thrashers are hostile creatures that can be found in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)They detect their preys using echolocation.$(br)$(li)When detects one prey, they quicks attack it.$(br)$(li)They may drop $(l:patchouli:miscellaneous/upgrade_aquatic/thrasher_tooth)Thrasher Tooths$(/l) on death."
+            "text": "$(li)Thrashers are hostile creatures that can be found in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)They detect their preys using echolocation.$(br)$(li)When detects one prey, they quicks attack it.$(br)$(li)They may drop $(l:patchouli:miscellaneous/upgrade_aquatic/thrasher_tooth)Thrasher Tooths$(/l) upon death."
         },
         {
             "type": "patchouli:small_pictures",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "outvoted:wildfire_piece",
-            "text": "$(li)The Shattered Wildfire Piece is an item that can be used to craft a $(l:patchouli:miscellaneous/outvoted/wildfire_shield_part)Wildfire Shield Part$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) may drop this item on death.",
+            "text": "$(li)The Shattered Wildfire Piece is an item that can be used to craft a $(l:patchouli:miscellaneous/outvoted/wildfire_shield_part)Wildfire Shield Part$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
              ]

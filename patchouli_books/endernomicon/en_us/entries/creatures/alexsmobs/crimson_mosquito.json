@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Crimson Mosquito is a very big flying hostile creature that likes to suck the blood of their preys.$(br)$(li)They live in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)These creatures may be drop a $(l:patchouli:miscellaneous/alexsmobs/blood_sac)Blood Sac$(/l) or $(l:patchouli:miscellaneous/alexsmobs/mosquito_proboscis)Crimson Mosquito Proboscis$(/l) on death."
+            "text": "$(li)The Crimson Mosquito is a very big flying hostile creature that likes to suck the blood of their preys.$(br)$(li)They live in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)These creatures may be drop a $(l:patchouli:miscellaneous/alexsmobs/blood_sac)Blood Sac$(/l) or $(l:patchouli:miscellaneous/alexsmobs/mosquito_proboscis)Crimson Mosquito Proboscis$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

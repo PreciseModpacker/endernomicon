@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Dame Fortuna, or aslo known as the Lucky Demon, is a dangerous creature that can be summoned using the $(l:patchouli:bosses/rumor_dame_fortuna)Devil's Ante$(/l).$(br)$(li)It will attack you with spectral blocks, either throwing them at you, or forming squares that you must dodge if you don't want to take a lot of damage."
+            "text": "$(li)The Dame Fortuna, or also known as the Lucky Demon, is a dangerous creature that can be summoned using the $(l:patchouli:bosses/rumor_dame_fortuna)Devil's Ante$(/l).$(br)$(li)It will attack you with spectral blocks, either throwing them at you, or forming squares that you must dodge if you don't want to take a lot of damage."
         },
         {
             "type": "patchouli:entity",
             "entity": "meetyourfight:dame_fortuna",
             "scale": 1,
-            "text": "It drops enchanted books, $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and the $(l:patchouli:miscellaneous/meet_your_fight/fortunes_favor)Fortune's Favor$(/l) on death."
+            "text": "It drops enchanted books, $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and the $(l:patchouli:miscellaneous/meet_your_fight/fortunes_favor)Fortune's Favor$(/l) upon death."
         }
              ]
 }

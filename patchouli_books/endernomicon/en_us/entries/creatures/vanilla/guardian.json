@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/guardian.png",
-            "text": "$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cods$(/l) or $(l:patchouli:miscellaneous/vanilla/prismarine_crystals)Prismarine Crystals$(/l) on death."
+            "text": "$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cods$(/l) or $(l:patchouli:miscellaneous/vanilla/prismarine_crystals)Prismarine Crystals$(/l) upon death."
         }
              ]
 }

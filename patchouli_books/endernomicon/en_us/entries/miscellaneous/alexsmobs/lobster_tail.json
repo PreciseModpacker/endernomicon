@@ -14,7 +14,7 @@
         {
             "type": "patchouli:smelting",
             "recipe": "alexsmobs:cooked_lobster_tail",
-            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Cooked Lobster Tail satisfies three times more than a Lobster Tail.$(br)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l) may drop this item on death."
+            "text": "$(li)This item may be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), or $(l:patchouli:utility/vanilla/campfire)Campfire$(/l).$(br)$(li)Cooked Lobster Tail satisfies three times more than a Lobster Tail.$(br)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l) may drop this item upon death."
         }
              ]
 }

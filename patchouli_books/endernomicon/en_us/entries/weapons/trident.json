@@ -16,7 +16,7 @@
             "name": "Trident",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:trident,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "Drowneds may drop it on death."
+            "text": "Drowneds may drop it upon death."
         },
         {
             "type": "patchouli:crafting",

@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "quark:forgotten",
             "scale": 1,
-            "text": "$(li)They may drop a $(l:patchouli:armors/forgotten_hat)Forgotten Hat$(/l) on death."
+            "text": "$(li)They may drop a $(l:patchouli:armors/forgotten_hat)Forgotten Hat$(/l) upon death."
         }
              ]
 }

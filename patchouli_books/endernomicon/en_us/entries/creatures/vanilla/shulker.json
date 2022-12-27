@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:shulker",
             "scale": 0.6,
-            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/shulker_shell)Shulker Shells$(/l) on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/shulker_shell)Shulker Shells$(/l) upon death."
         }
              ]
 }

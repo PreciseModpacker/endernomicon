@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Lionfish are hostile aquatic creatures that can be found near corals in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l).$(br)$(li)If you are near them, they will inflict Nausea and $(l:patchouli:potions/vanilla/poison)Poison$(/l) effects to you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/upgrade_aquatic/raw_lionfish)Raw Lionfish$(/l) or $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death."
+            "text": "$(li)Lionfish are hostile aquatic creatures that can be found near corals in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l).$(br)$(li)If you are near them, they will inflict Nausea and $(l:patchouli:potions/vanilla/poison)Poison$(/l) effects to you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/upgrade_aquatic/raw_lionfish)Raw Lionfish$(/l) or $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "alexsmobs:mimicube",
             "scale": 0.7,
-            "text":"Mimicubes may drop $(l:patchouli:miscellaneous/alexsmobs/mimicream)Mimicreams$(/l) on death."
+            "text":"Mimicubes may drop $(l:patchouli:miscellaneous/alexsmobs/mimicream)Mimicreams$(/l) upon death."
         }
              ]
 }

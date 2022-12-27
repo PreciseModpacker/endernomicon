@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:piglin",
             "scale": 1,
-            "text": "They will held a $(l:patchouli:weapons/gold_sword)Golden Sword$(/l) or a $(l:patchouli:weapons/crossbow)Crossbow$(/l). They may drop their held weapon on death."
+            "text": "They will held a $(l:patchouli:weapons/gold_sword)Golden Sword$(/l) or a $(l:patchouli:weapons/crossbow)Crossbow$(/l). They may drop their held weapon upon death."
         }
              ]
 }

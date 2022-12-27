@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:warped_fungus",
-            "text": "$(li)The Warped Fungus is a type of fungus that is commonly generated in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) and rarely in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)$(l:patchouli:creatures/infernalexp/warpbeetle)Warpbeetles$(/l) may drop this item on death too.",
+            "text": "$(li)The Warped Fungus is a type of fungus that is commonly generated in the $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l) and rarely in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) of the Nether.$(br)$(li)$(l:patchouli:creatures/infernalexp/warpbeetle)Warpbeetles$(/l) may drop this item upon death too.",
             "link_recipe": "true"
         },
         {

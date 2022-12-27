@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Blackstone Dwarfs are hostile creatures that can be found in $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyons$(/l) of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apples$(/l) on death."
+            "text": "$(li)Blackstone Dwarfs are hostile creatures that can be found in $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyons$(/l) of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apples$(/l) upon death."
         },
         {
             "type": "patchouli:entity",
