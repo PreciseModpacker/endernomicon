@@ -3,7 +3,7 @@
     "icon": "goblinsanddungeons:ring_of_experience",
     "category": "patchouli:armors",
     "sortnum": 42,
-    "advancement": "endernomicon:ring_of_experience"
+    "advancement": "endernomicon:ring_of_experience",
     "pages": [
         {
             "type": "patchouli:spotlight",

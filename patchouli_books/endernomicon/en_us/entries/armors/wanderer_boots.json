@@ -3,7 +3,7 @@
     "icon": "environmental:wanderer_boots",
     "category": "patchouli:armors",
     "sortnum": 31,
-    "advancement": "endernomicon:wanderer_boots"
+    "advancement": "endernomicon:wanderer_boots",
     "pages": [
         {
             "type": "patchouli:spotlight",

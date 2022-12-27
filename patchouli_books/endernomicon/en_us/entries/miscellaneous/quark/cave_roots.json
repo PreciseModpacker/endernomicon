@@ -3,7 +3,7 @@
     "icon": "quark:root_item",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "quark:cave_root",
+    "advancement": "endernomicon:cave_root",
     "pages": [
         {
             "type": "patchouli:spotlight",

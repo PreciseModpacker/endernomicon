@@ -3,7 +3,7 @@
     "icon": "environmental:thief_hood",
     "category": "patchouli:armors",
     "sortnum": 28,
-    "advancement": "endernomicon:thief_hood"
+    "advancement": "endernomicon:thief_hood",
     "pages": [
         {
             "type": "patchouli:spotlight",
