@@ -10,6 +10,9 @@
             "item": "alexsmobs:spiked_scute",
             "text": "$(li)The Spiked Scute is a hard item that can be used to craft the $(l:patchouli:armors/spiked_turtle_shell)Spiked Turtle Shell$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can only be obtained by shearing an $(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l) covered in $(l:patchouli:miscellaneous/vanilla/kelp)Kelp$(/l) after staying underwated for too long.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

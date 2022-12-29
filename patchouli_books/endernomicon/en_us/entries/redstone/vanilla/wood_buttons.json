@@ -2,7 +2,7 @@
     "name": "Button (Wood)",
     "icon": "minecraft:oak_button",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:planks",
     "pages": [
         {
@@ -93,6 +93,9 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_button",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

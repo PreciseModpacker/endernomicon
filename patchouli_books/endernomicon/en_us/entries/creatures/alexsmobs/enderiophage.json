@@ -17,6 +17,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)When this creature finds an $(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l), it with infect it with Ender Flu.$(br)$(li)If you attack them, they will infect you as well.$(br)$(li)This effect makes the victim to receive a lot of instant damage after 10 minutes.$(br)$(li)This effect can be healed eating a $(l:patchouli:miscellaneous/vanilla/chorus_fruit)Chorus Fruit$(/l) before time runs out."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

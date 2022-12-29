@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find way signs over the Overworld.$(br)$(li)These will point the way to the nearest $(l:patchouli:villagers/villagers)Villages$(/l)."
+            "text": "$(li)You can find way signs over the Overworld.$(br)$(li)These will point the way to the nearest $(l:patchouli:villagers/village)Villages$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

@@ -8,8 +8,11 @@
         {
             "type": "patchouli:spotlight",
             "item": "meetyourfight:fortunes_favor",
-            "text": "$(li)The Fortune's Favor is an item that can only be dropped by $(l:patchouli:bosses/dame_fortuna)Dame Fortuna$(/l).$(br)$(li)It can be used to craft the $(l:patchouli:tools/meet_your_fight/ace_of_iron)Ace of Iron$(/l), a $(l)Velvet Fortune$(), the $(l:patchouli:weapons/cocktail_cutlass)Cocktail Cutlass$(/l), a Music Disc and the $(l:patchouli:tools/meet_your_fight/slicers_dice)Slicer's Dice$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
+            "text": "$(li)The Fortune's Favor is an item that can only be dropped by $(l:patchouli:bosses/dame_fortuna)Dame Fortuna$(/l) on death.$(br)$(li)It can be used to craft the $(l:patchouli:tools/meet_your_fight/ace_of_iron)Ace of Iron$(/l), a $(l)Velvet Fortune$(), the $(l:patchouli:weapons/cocktail_cutlass)Cocktail Cutlass$(/l), a Music Disc and the $(l:patchouli:tools/meet_your_fight/slicers_dice)Slicer's Dice$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

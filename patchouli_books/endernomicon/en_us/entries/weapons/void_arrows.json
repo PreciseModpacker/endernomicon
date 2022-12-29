@@ -9,6 +9,9 @@
             "type": "patchouli:crafting",
             "recipe": "cataclysm:void_scatter_arrow",
             "text": "$(li)These arrows makes more damage than regular $(l:patchouli:weapons/arrows)Arrows$(/l)."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
             ]
 }

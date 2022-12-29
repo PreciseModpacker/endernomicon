@@ -10,6 +10,9 @@
             "item": "minecraft:ancient_debris",
             "text": "$(li)The Ancient Debris is a hard and very rare material that can be found and mine in the Nether.$(br)$(li)It can be found rarely in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the Nether too.$(br)$(li)Ancient Debris can be used in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast Furnace$(/l) to create $(l:patchouli:miscellaneous/vanilla/netherite_scrap)Netherite Scrap$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

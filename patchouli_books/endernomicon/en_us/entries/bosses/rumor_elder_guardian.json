@@ -8,6 +8,9 @@
         {
             "type": "patchouli:text",
             "text": "$(o)Even now, we don't know too much about all the secrets that the ocean hides from us.$(br2)$(o)There is a rumor that a temple with multiple treasures is hidden in the depths of the ocean above the Overworld.$(br2)$(o)All these treasures are safeguarded by a guardian directing its subjects."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

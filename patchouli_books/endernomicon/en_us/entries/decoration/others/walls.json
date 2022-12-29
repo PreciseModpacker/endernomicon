@@ -573,6 +573,9 @@
             "type": "patchouli:crafting",
             "recipe": "quark:world/crafting/walls/myalite_bricks_wall",
             "recipe2": "lepton:crafting/polished_myalite_wall"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

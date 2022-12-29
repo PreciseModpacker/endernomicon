@@ -2,7 +2,7 @@
     "name": "Pressure Plate (Iron)",
     "icon": "minecraft:heavy_weighted_pressure_plate",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {

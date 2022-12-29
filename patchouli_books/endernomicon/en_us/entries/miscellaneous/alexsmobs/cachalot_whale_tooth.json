@@ -10,6 +10,9 @@
             "item": "alexsmobs:cachalot_whale_tooth",
             "text": "$(li)The Cachalot Whale Tooth can be used to craft a $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)When a $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whale$(/l) attacks a $(l:patchouli:creatures/vanilla/squid)Squid$(/l), it exists a chance to drop this item.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

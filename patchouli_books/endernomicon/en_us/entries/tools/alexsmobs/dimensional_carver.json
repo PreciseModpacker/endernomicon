@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:dimensional_carver",
-            "text": "$(li)The Dimensional Carver allows you to create a temporary portal.$(br)$(li)It connects your currect position to the your Spawn.",
+            "text": "$(li)The Dimensional Carver allows you to create a temporary portal.$(br)$(li)It connects your currect position to the your spawnpoint in the Overworld.",
             "link_recipe": "true"
         },
         {

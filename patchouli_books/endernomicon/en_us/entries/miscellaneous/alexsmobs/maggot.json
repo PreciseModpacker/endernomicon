@@ -12,8 +12,7 @@
             "link_recipe": "true"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of a Maraca and Cockroach dancing"
+            "type": "patchouli:empty_page"
         }
              ]
 }

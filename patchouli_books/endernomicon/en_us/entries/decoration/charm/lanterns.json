@@ -319,6 +319,9 @@
         {
             "type": "patchouli:crafting",
             "recipe": "skinnedlanterns:jack_o_lantern_ender_lantern_block"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -26,7 +26,7 @@
         {
             "type": "potion",
             "title": "Stability II",
-            "input": "minecraft:glowstone",
+            "input": "minecraft:glowstone_dust",
             "input2": "minecraft:potion{Potion:'quark:resilience'}",
             "output": "minecraft:potion{Potion:'quark:strong_resilience'}"
         },

@@ -10,6 +10,9 @@
             "item": "alexsmobs:lava_bottle",
             "text": "$(li)Lava Bottles contains Lava in their interior.$(br)$(li)They can be used to brew a $(l:patchouli:potions/alexsmobs/lava_vision)Potion of Lava Vision$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

@@ -9,7 +9,7 @@
             "type": "patchouli:spotlight",
             "name": "Architect's Belt",
             "item": "environmental:architect_belt",
-            "text": "$(li)Architect's Belt increases your reach distance when you place or break blocks.$(br)$(li)This effect can be upgraded by placing blocks until the item levels up.$(br)$(li)It can only be traded by the Mason, Ceramist and Carpenter villagers.",
+            "text": "$(li)Architect's Belt increases your reach distance when you place or break blocks.$(br)$(li)This effect can be upgraded by placing blocks until the item levels up.$(br)$(li)It can only be traded by $(l:patchouli:villagers/mason)Masons$(/l), $(l:patchouli:villagers/ceramist)Ceramists$(/l) and $(l:patchouli:villagers/carpenter)Carpenters$(/l).",
             "link_recipe": "true"
         },
         {
@@ -18,7 +18,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Reach Distance Levels$()$(br)$(li)Level 1 Reach Distance +1$(br)   0/100 - Blocks Placed$(br)$(li)Level 2 Reach Distance +2$(br)   100/500 - Blocks Placed$(br)$(li)Level 3 Reach Distance +3$(br)   500/1000 - Blocks Placed$(br)$(li)Level 4 Reach Distance +4$(br)   1000/2500 - Blocks Placed$(br)$(li)Level 5 Reach Distance +5$(br)   2500/2500 - Blocks Placed"
+            "title": "Reach Distance Levels",
+            "text": "$(li)Level 1 Reach Distance +1$(br)   0/100 - Blocks Placed$(br)$(li)Level 2 Reach Distance +2$(br)   100/500 - Blocks Placed$(br)$(li)Level 3 Reach Distance +3$(br)   500/1000 - Blocks Placed$(br)$(li)Level 4 Reach Distance +4$(br)   1000/2500 - Blocks Placed$(br)$(li)Level 5 Reach Distance +5$(br)   2500/2500 - Blocks Placed"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

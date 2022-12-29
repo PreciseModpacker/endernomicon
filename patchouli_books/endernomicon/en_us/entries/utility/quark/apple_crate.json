@@ -10,6 +10,9 @@
             "recipe": "quark:building/crafting/compressed/apple_crate",
             "text": "$(li)The Apple Crate is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/vanilla/apple)Apples$(/l) in a more efficient way.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -14,7 +14,7 @@
             "type": "patchouli:entity",
             "name": "Outback Leggings",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"alexsmobs:emu_leggings\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "This piece of armor offers a small probability of avoiding projectile attacks such as Arrows."
+            "text": "This piece of armor offers a small probability of avoiding projectile attacks such as $(l:patchouli:weapons/arrows)Arrows$(/l)."
         }
              ]
 }

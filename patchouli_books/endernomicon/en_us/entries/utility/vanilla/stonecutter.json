@@ -20,6 +20,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/stonecutter_2.png",
             "text": "$(li)Just insert the stone block that you want to transform inside, select the block that do you want and save it in your inventory."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -8,6 +8,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)The Hero of the Village is a status effect granted when you defeat a $(l:patchouli:illagers/raid)Raid$(/l).$(br)$(li)While this effect is active, $(l:patchouli:villagers/villager)Villagers$(/l) will offer you discounts in their trades.$(br)$(li)This effect does not work with the $(l:patchouli:villagers/wandering_trader)Wandering Trader$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

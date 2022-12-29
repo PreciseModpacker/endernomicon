@@ -11,6 +11,9 @@
             "text": "$(li)The Cockroach Wing Fragment is an item that can only be used to craft a $(l:patchouli:miscellaneous/alexsmobs/cockroach_wing)Cockroach Wing$(/l).$(br)$(li)It can only be dropped by a $(l:patchouli:creatures/alexsmobs/cockroach)Cockroach$(/l).",
             "link_recipe": "true",
             "title": "Cockroach Wing Frag..."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

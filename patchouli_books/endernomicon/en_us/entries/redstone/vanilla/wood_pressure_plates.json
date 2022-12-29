@@ -2,7 +2,7 @@
     "name": "Pressure Plate (Wood)",
     "icon": "minecraft:oak_pressure_plate",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:planks",
     "pages": [
         {
@@ -94,6 +94,9 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_pressure_plate",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

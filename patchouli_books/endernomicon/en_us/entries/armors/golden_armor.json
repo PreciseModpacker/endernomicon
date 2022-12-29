@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Golden Armor is a bit better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l).$(br)$(li)Anyway, this Armor is not the best choice because of its durability.$(br)$(li)You should spent your $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) in other things."
+            "text": "$(li)The Golden Armor is a bit better than the $(l:patchouli:armors/ice_armor)Ice Armor$(/l).$(br)$(li)Anyway, this Armor is not the best choice because of its durability.$(br)$(li)If you wear any piece of this armor, $(l:patchouli:creatures/vanilla/piglin)Piglin$(/l) will not hurt you."
         },
         {
             "type": "patchouli:entity",

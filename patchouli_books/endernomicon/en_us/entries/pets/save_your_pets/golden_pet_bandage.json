@@ -10,6 +10,9 @@
             "recipe": "syp:golden_pet_bandage",
             "text": "$(li)The Golden Pet Bandage is a upgrade of the $(l:patchouli:pets/save_your_pets/pet_bandage)Pet Bandage$(/l).$(br)$(li)Just right click your diying pet while you are holding this item in your hand to revive it with with regeneration effect during 20 seconds.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

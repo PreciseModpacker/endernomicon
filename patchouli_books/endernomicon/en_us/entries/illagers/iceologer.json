@@ -18,6 +18,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)They can inflict you the Frostbite effect too, slowing your walking speed in 80% and damaging you every second.$(br)$(li)They can summon big ice block on you, when those hit you, inflicts a lot of damage."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

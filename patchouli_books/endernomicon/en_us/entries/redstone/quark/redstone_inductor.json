@@ -2,7 +2,7 @@
     "name": "Redstone Inductor",
     "icon": "quark:redstone_inductor",
     "category": "patchouli:redstone",
-    "sortnum": 2,
+    "sortnum": 0,
     "advancement": "endernomicon:magma_cream",
     "pages": [
         {

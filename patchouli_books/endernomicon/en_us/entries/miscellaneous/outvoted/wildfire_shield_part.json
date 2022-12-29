@@ -10,6 +10,9 @@
             "recipe": "outvoted:wildfire_shield_part",
             "text": "$(li)The Wildfire Shield Part is an item that can be used to craft a $(l:patchouli:weapons/wildfire_shield)Wildfire Shield$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

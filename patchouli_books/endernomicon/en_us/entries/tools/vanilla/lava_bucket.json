@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can release the interior of the Lava Bucket, just right click pointing in the specific block where do you want to release it while you are holding the Lava Bucket on your hand.$(br)$(li)The Lava flows very slow in the Overworld, but very fast in the Nether.$(br)$(li)You can use this item as a fuel in a Furnace that allows you to smelt up to 100 items."
+            "text": "$(li)You can release the interior of the Lava Bucket, just right click pointing in the specific block where do you want to release it while you are holding the Lava Bucket on your hand.$(br)$(li)The Lava flows very slow in the Overworld, but very fast in the Nether.$(br)$(li)You can use this item as a fuel in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) that allows you to smelt up to 100 items."
         },
         {
             "type": "patchouli:text",
@@ -26,7 +26,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Most of creatures that fall into the Lava will start to burn and receive a lot of damage due to it.$(br)$(li)If any item, falls into the Lava, it will be totally burned, except Netherite items.$(br)$(li)This item works as a Trash Can too.$(br)$(li)To use it, first open your inventory."
+            "text": "$(li)Most of creatures that fall into the Lava will start to burn and receive a lot of damage due to it.$(br)$(li)If any item, falls into the Lava, it will be totally burned, except Netherite items.$(br)$(li)This item works as a $(l)Trash Can$() too.$(br)$(li)To use it, first open your inventory."
         },
         {
             "type": "patchouli:small_pictures",

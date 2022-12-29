@@ -10,6 +10,9 @@
             "recipe": "alexsmobs:pocket_sand",
             "text": "$(li)The Pocket of Sand fling sand at enemies, consuming sand in your inventory as ammo.$(br)$(li)It makes 2.5 hearts of damage and inflicts Blindness during 4 seconds.",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
              ]
 }

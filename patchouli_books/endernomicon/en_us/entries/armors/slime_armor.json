@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Slime Armor is a bit better than the $(l:patchouli:armors/lapis_armor)Lapis Armor$(/l), $(l:patchouli:armors/feather_armor)Feather Armor$(/l) and $(l:patchouli:armors/magma_armor)Magma Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Projectile Protection II effect, reducing all the projectile damage that you receive such as Arrows, thrown Tridents, Shulker bullets or Blaze fireballs."
+            "text": "$(li)The Slime Armor is a bit better than the $(l:patchouli:armors/lapis_armor)Lapis Armor$(/l), $(l:patchouli:armors/feather_armor)Feather Armor$(/l) and $(l:patchouli:armors/magma_armor)Magma Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:enchanting/vanilla/projectile_protection)Projectile Protection$(/l) II effect, reducing all the projectile damage that you receive such as $(l:patchouli:weapons/arrows)Arrows$(/l), thrown $(l:patchouli:weapons/trident)Tridents$(/l), $(l:patchouli:creatures/vanilla/shulker)Shulker$(/l) bullets or $(l:patchouli:creatures/vanilla/blaze)Blaze$(/l) fireballs."
         },
         {
             "type": "patchouli:entity",

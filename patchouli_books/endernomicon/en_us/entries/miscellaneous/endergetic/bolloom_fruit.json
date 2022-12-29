@@ -10,6 +10,9 @@
             "item": "endergetic:bolloom_fruit",
             "text": "$(li)Bolloom Fruits can be obtained in the $(l:patchouli:biomes/end/poise_forest)Poise Forests$(/l).$(br)$(li)They can be ate to gain $(l)Levitation$() effect making you to float during five seconds.$(br)$(li)They can be used to craft a $(l:patchouli:tools/the_endergetic_expansion/bolloom_balloon)Bolloom Balloon$(/l) and $(l:patchouli:utility/endergetic/bolloom_crate)Bolloom Crates$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

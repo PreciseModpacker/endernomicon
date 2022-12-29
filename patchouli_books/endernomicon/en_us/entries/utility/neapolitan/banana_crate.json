@@ -10,6 +10,9 @@
             "recipe": "neapolitan:banana/banana_crate",
             "text": "$(li)The Banana Crate is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/neapolitan/banana_bunch)Banana Bunches$(/l) in a more efficient way.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

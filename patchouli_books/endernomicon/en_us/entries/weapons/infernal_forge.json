@@ -16,7 +16,7 @@
             "name": "Infernal Forge",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:infernal_forge\",Count:1}],HandDropChances:[0f]}",
             "scale": 0.8,
-            "text": "The Infernal Forge can only be obtained defeating the $(l:patchouli:weapons/blood_sprayer)Netherite Monstrosity$(/l)."
+            "text": "The Infernal Forge can only be obtained defeating the $(l:patchouli:bosses/netherite_monstrosity)Netherite Monstrosity$(/l)."
         }
              ]
 }

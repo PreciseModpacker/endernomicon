@@ -10,6 +10,9 @@
             "item": "alexsmobs:moose_antler",
             "text": "$(li)The Moose Antler can be used to craft the $(l:patchouli:armors/moose_headgear)Antler Headdress$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)This item can be only be dropped by a $(l:patchouli:creatures/alexsmobs/moose)Moose$(/l) after three to five days.$(br)$(li)Maybe it is a good idea following it until this creature drops this item.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

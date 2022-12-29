@@ -10,6 +10,9 @@
             "item": "alexsmobs:emu_feather",
             "text": "$(li)Emu Feathers can be used to craft a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l), or the $(l:patchouli:armors/outback_leggings)Outback Leggings$(/l).$(br)$(li)This item can only be dropped by a $(l:patchouli:creatures/alexsmobs/emu)Emu$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

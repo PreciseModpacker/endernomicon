@@ -13,7 +13,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l) Chicken Egg Craft Recipes$()$(br)$(li)$(l:patchouli:utility/environmental/chicken_egg_crate)Chicken Egg Crate$(/l)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
+            "title": "Chicken Egg Recipes",
+            "text": "$(li)$(l:patchouli:utility/environmental/chicken_egg_crate)Chicken Egg Crate$(/l)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
         }
              ]
 }

@@ -30,6 +30,9 @@
             "type": "patchouli:text",
             "title": "Smithing Table Recipes",
             "text": "$(li)$(l:patchouli:tools/end_remastered/end_crystal_shovel)End Crystal Shovel$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_hoe)End Crystal Hoe$(/l)$(li)$(l:patchouli:tools/end_remastered/end_crystal_pickaxe)End Crystal Pickaxe$(/l)$(li)$(l:patchouli:weapons/end_crystal_sword)End Crystal Sword$(/l)$(li)$(l:patchouli:weapons/end_crystal_axe)End Crystal Axe$(/l)$(li)$(l:patchouli:armors/end_crystal)End Crystal Armor$(/l)$(li)$(l:patchouli:armors/monstrous_helm)Monstrous Helm$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

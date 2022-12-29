@@ -17,6 +17,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Be careful, these creatures will attack you if you dare to damage their biome.$(br)$(li)This includes breaking any of the blocks found withit it besides Crimson Nylium and $(l:patchouli:decoration/vanilla/shroomlight)Shroomlights$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

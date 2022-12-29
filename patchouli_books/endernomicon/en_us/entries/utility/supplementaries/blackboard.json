@@ -8,12 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:blackboard",
-            "text": "$(li)The Blackboard is a block that allows to you to make custom pixel art draws using Black and White colors.$(br)$(li)Like Banners you can join a Blackboard with a pattern and get a copy of this pattern.",
+            "text": "$(li)The Blackboard is a block that allows to you to make custom pixel art draws using Black and White colors.$(br)$(li)Like $(l:patchouli:decoration/alexsmobs/banner_patterns)Banners$(/l) you can join a Blackboard with a pattern and get a copy of this pattern.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can clean the Blackboard right clicking a Cauldron with Water in its interior while you are holding the Blackboard that you want to clean in your hand."
+            "text": "$(li)You can clean the Blackboard right clicking a $(l:patchouli:utility/vanilla/cauldron)Cauldron$(/l) with water in its interior while you are holding the Blackboard that you want to clean in your hand."
         },
         {
             "type": "patchouli:pictures",

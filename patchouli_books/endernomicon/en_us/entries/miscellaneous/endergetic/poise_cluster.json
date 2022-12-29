@@ -10,6 +10,9 @@
             "item": "endergetic:poise_cluster",
             "text": "$(li)Poise Clusters are leaves that can be found in the Poise Trees of the $(l:patchouli:biomes/end/poise_forest)Poise Forests$(/l) in the End.$(br)$(li)These can be used to breed $(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

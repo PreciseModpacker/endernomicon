@@ -8,8 +8,11 @@
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:shroomlight_fungus",
-            "text": "$(li)The Shroomlight Tear is a fungus that can be found in the $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyon$(/l).$(br)$(li)This item can be used to breed $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l).$(br)$(li)It can be used to craft $(l:patchouli:utility/vanilla/glowstone_block)Glowstone Blocks$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)The Shroomlight Tear is a fungus that can be found in the $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyon$(/l).$(br)$(li)This item can be used to breed $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l).$(br)$(li)It can be used to craft $(l:patchouli:decoration/vanilla/shroomlight)Shroomlight$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:elder_eye",
-            "text": "$(li)The Elder Eye is a block that can be placed in any direction and underwater.$(br)$(li)When any entity, except $(l:patchouli:decoration/vanilla/painting)Paintings$(/l) and $(l:patchouli:decoration/quark/item_frame)Item Frames$(/l) is within 15 blocks of where it is facing, it will create a strong redstone signal from all sides.",
+            "text": "$(li)The Elder Eye is a block that can be placed in any direction and underwater.$(br)$(li)When any entity, except $(l:patchouli:decoration/vanilla/paintings)Paintings$(/l) and $(l:patchouli:decoration/quark/item_frame)Item Frames$(/l) is within 15 blocks of where it is facing, it will create a strong redstone signal from all sides.",
             "link_recipe": "true"
         },
         {

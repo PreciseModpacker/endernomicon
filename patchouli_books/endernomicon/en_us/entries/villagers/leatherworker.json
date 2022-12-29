@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Leatherworker is a master processing the $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) of multiple creatures.$(br)$(li)It will trade you $(l:patchouli:armors/leather_armor)Leather Armor$(/l), $(l:patchouli:utility/upgrade_aquatic/bedroll)Bedrolls$(/l), $(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l) and, $(l:patchouli:pets/vanilla/saddle)Saddles$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Leatherworker profession if it is near of a $(l:patchouli:utility/vanilla/cauldron)Cauldron$(/l)."
+            "text": "$(li)The Leatherworker is a master processing the $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) of multiple creatures.$(br)$(li)It will trade you $(l:patchouli:armors/leather_armor)Leather Armor$(/l), $(l:patchouli:tools/upgrade_aquatic/bedroll)Bedrolls$(/l), $(l:patchouli:pets/vanilla/leather_horse_armor)Leather Horse Armor$(/l) and, $(l:patchouli:pets/vanilla/saddle)Saddles$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Leatherworker profession if it is near of a $(l:patchouli:utility/vanilla/cauldron)Cauldron$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -15,7 +15,7 @@
             "type": "patchouli:entity",
             "name": "Spiked Turtle Shell",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"alexsmobs:spiked_turtle_shell\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "It has Knockback Resistance too, avoiding that other creatures would push you away."
+            "text": "It has $(l:patchouli:potions/alexsmobs/knockback_resistance)Knockback Resistance$(/l) too, avoiding that other creatures would push you away."
         }
              ]
 }

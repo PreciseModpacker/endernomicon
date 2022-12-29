@@ -25,6 +25,9 @@
             "recipe": "infernalexp:crafting/crafting_shaped/glowsilk_bow",
             "text": "$(li)If the arrow hits an enemy, it will light up by the Luminance effect.$(br)$(li)A $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l) or $(l:patchouli:creatures/vanilla/skeleton)Skeleton$(/l) hit with an $(l:patchouli:weapons/arrows)Arrow$(/l) fired with this bow, the light of Luminance effect will burn it.",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
              ]
 }

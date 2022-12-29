@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:centipede_leggings",
-            "text": "$(li)The Cave Centipede Leggings have Armor Toughness, giving you an extra protection from strong attacks.$(br)$(li)These leggings allow you to climb walls like a Spider too.",
+            "text": "$(li)The Cave Centipede Leggings have Armor Toughness, giving you an extra protection from strong attacks.$(br)$(li)These leggings allow you to climb walls like a $(l:patchouli:creatures/vanilla/spider)Spider$(/l) too.",
             "link_recipe": "true"
         },
         {

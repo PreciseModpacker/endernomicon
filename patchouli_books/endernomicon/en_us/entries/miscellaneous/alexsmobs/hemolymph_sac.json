@@ -8,8 +8,11 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:hemolymph_sac",
-            "text": "$(li)The Hemolymph Sac is an item that can be used to craft a powerfull weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l).$(br)$(li)This item can only be dropped by the $(l:patchouli:bosses/warped_mosco)Warped Mosco$(/l).",
+            "text": "$(li)The Hemolymph Sac is an item that can be used to craft a powerfull weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l).$(br)$(li)This item can only be dropped by the $(l:patchouli:bosses/warped_mosco)Warped Mosco$(/l) on death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

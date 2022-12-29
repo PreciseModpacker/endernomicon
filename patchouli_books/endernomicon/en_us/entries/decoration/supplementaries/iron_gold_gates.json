@@ -20,6 +20,9 @@
             "recipe": "supplementaries:gold_gate",
             "text": "$(li)The Gold Gate is a variant of the Iron Gate.$(br)$(li)It works like the last one.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -8,9 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:mosquito_proboscis",
-            "text": "$(li)The Crimson Mosquito Proboscis can be used to craft multiple weapons known as $(l:patchouli:weapons/blood_sprayer)Blood Sprayer$(/l), $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l), or the $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l) item in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be rarely dropped by a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l).",
+            "text": "$(li)The Crimson Mosquito Proboscis can be used to craft multiple weapons known as $(l:patchouli:weapons/blood_sprayer)Blood Sprayer$(/l), $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l), or the $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l) item in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be rarely dropped by a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) on death.",
             "link_recipe": "true",
             "title": "Mosquito Proboscis"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

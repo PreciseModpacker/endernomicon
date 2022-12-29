@@ -18,6 +18,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)They are immune to buble columns and are unaffected by their pull.$(br)$(li)You can capture these creatures with $(l:patchouli:tools/vanilla/water_bucket)Water Buckets$(/l). If you release one from this bucket, it will not despawn."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

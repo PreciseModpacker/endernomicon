@@ -10,6 +10,9 @@
             "recipe": "minecraft:stick",
             "text": "$(li)The Stick is a material that is used in multiple craft recipes.$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) may drop this item and they can be crafted placing Wood Planks, $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) or Dullthorns in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -2,7 +2,7 @@
     "name": "Iron Rod",
     "icon": "quark:iron_rod",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {

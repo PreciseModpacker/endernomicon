@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)It can be used to craft a $(l:patchouli:perks/natures_compass)Nature's Compass$(/l), $(l)Potato Soup$(), $(l)Mushroom Stew$(), $(l)Rabbit Stew$(), $(l)Paper Wall$(), $(l:patchouli:miscellaneous/vanilla/paper)Paper$(/l), $(l:patchouli:decoration/charm/lanterns)Lanterns$(/l), $(br)$(li)$(l:patchouli:villagers/carpenter)Carpenters$(/l) will exchange your Brown Mushrooms by $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l). and a $(l)Suspicious Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:villagers/carpenter)Carpenters$(/l) will exchange your Red Mushrooms by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
+            "text": "$(li)It can be used to craft a $(l:patchouli:perks/natures_compass)Nature's Compass$(/l), $(l)Potato Soup$(), $(l)Mushroom Stew$(), $(l)Rabbit Stew$(), $(l)Paper Wall$(), $(l:patchouli:miscellaneous/vanilla/paper)Paper$(/l), $(l:patchouli:decoration/charm/lanterns)Lanterns$(/l), $(br)$(li)$(l:patchouli:villagers/carpenter)Carpenters$(/l) will exchange your Brown Mushrooms by $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) and a $(l)Suspicious Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:villagers/carpenter)Carpenters$(/l) will exchange your Red Mushrooms by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         }
              ]

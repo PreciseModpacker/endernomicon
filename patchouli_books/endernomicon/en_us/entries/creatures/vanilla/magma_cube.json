@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Magma Cubes are creatures that can be found in the $(l:patchouli:biomes/nether/nether_waste)Nether Wastes$(/l), $(l:patchouli:structures/fortress)Nether Fortresses$(/l), $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l) and spawners that can be found in the $(l:patchouli:structures/bastion_remnant)Bastion Remnants$(/l) in the Nether.$(br)$(li)They will jump until arrives you and hits you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Creams$(/l) on death."
+            "text": "$(li)Magma Cubes are creatures that can be found in the $(l:patchouli:biomes/nether/nether_wastes)Nether Wastes$(/l), $(l:patchouli:structures/fortress)Nether Fortresses$(/l), $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l) and spawners that can be found in the $(l:patchouli:structures/bastion_remnant)Bastion Remnants$(/l) in the Nether.$(br)$(li)They will jump until arrives you and hits you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Creams$(/l) on death."
         },
         {
             "type": "patchouli:entity",

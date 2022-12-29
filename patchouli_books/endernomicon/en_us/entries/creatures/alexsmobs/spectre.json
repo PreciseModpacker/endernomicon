@@ -3,7 +3,7 @@
     "icon": "minecraft:end_stone",
     "category": "patchouli:creatures",
     "sortnum": 0,
-    #"advancement": "endernomicon:spectre",
+    "advancement": "minecraft:end/kill_dragon",
     "pages": [
         {
             "type": "patchouli:text",

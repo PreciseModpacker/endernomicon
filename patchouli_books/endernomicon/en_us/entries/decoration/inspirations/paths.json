@@ -20,6 +20,9 @@
             "type": "patchouli:crafting",
             "recipe": "inspirations:building/path/tile_crafting",
             "recipe2": "inspirations:building/path/brick_crafting"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

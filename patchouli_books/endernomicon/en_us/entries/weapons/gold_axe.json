@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:golden_axe",
-            "text": "$(li)The Golden Axe is the direct upgrade of the Wooden Axe.$(br)$(li)It inflicts more damage, has more durability and cut down trees more quickly than the Wood Axe." ,
+            "text": "$(li)The Golden Axe is the woest Axe that you can craft.$(br)$(li)This one has even less durability than a $(l:patchouli:weapons/wooden_sword)Wooden Axe$(/l)." ,
             "link_recipe": "true"
         },
         {

@@ -10,6 +10,9 @@
             "recipe": "minecraft:cauldron",
             "text": "$(li)The Cauldron is a placeable block that can be used to save liquids like Water, Lava, Soups, and Potions.",
             "link_recipe": "true"
+       },
+       {
+            "type": "patchouli:empty_page"
        }
              ]
 }

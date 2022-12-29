@@ -10,6 +10,9 @@
             "item": "alexsmobs:raccoon_tail",
             "text": "$(li)The Raccoon Tail can used to craft the $(l:patchouli:armors/frontier_cap)Frontiersman's Cap$(/l).$(br)$(li)This item may be dropped by a $(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l) on death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

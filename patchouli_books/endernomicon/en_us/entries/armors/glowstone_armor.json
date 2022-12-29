@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Glowstone Armor has a bit more durability than the $(l:patchouli:armors/molten_armor)Molten Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Night Vision II effect allowing you to see everything crealy in the darkness or underwater."
+            "text": "$(li)The Glowstone Armor has a bit more durability than the $(l:patchouli:armors/molten_armor)Molten Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:potions/vanilla/night_vision)Night Vision$(/l) II effect.$(br)$(li)This effect allows you to see everything crealy in the darkness or underwater."
         },
         {
             "type": "patchouli:entity",

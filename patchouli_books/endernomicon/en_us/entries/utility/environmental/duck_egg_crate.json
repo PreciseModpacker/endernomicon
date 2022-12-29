@@ -10,6 +10,9 @@
             "recipe": "environmental:misc/duck/duck_egg_crate",
             "text": "$(li)The Duck Egg Crate is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/environmental/duck_egg)Duck Eggs$(/l) in a more efficient way.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "naturescompass:natures_compass",
-            "text": "$(li)The Nature's Compass is a new variant of the $(l:patchouli:tools/vanilla/compass)Compass$(/l) that can be used to find different Biomes.$(br)$(li)This will help you to find Creatures or Places which only exists in an specific Biome."
+            "text": "$(li)The Nature's Compass is a new variant of the $(l:patchouli:tools/vanilla/compass)Compass$(/l) that can be used to find different Biomes.$(br)$(li)This will help you to find Creatures or Structures."
         },
         { 
             "type": "patchouli:small_pictures",

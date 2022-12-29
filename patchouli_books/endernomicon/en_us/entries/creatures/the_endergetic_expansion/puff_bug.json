@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Puff Bugs are tiny neutral creatures that can be found in the $(l:patchouli:creatures/the_endergetic_expansion/poise_forest)Poise Forests$(/l) of the End.$(br)$(li)When they find an unpollinated Bolloom Bud, they will polizate it and obtain the Levitation effect for a few minutes.$(br)$(li)After that, if you give a $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruit$(/l) to a Puff Bug, it will drop a Baloom Bud."
+            "text": "$(li)Puff Bugs are tiny neutral creatures that can be found in the $(l:patchouli:biomes/end/poise_forest)Poise Forests$(/l) of the End.$(br)$(li)When they find an unpollinated Bolloom Bud, they will polizate it and obtain the Levitation effect for a few minutes.$(br)$(li)After that, if you give a $(l:patchouli:miscellaneous/endergetic/bolloom_fruit)Bolloom Fruit$(/l) to a Puff Bug, it will drop a Baloom Bud."
         },
         {
             "type": "patchouli:entity",

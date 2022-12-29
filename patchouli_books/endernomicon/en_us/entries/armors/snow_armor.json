@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Snow Armor has the same durability and resistance than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l).$(br)$(li)This armor can be crafted with Snow Blocks.$(br)$(li)That makes it perfect for the beginning of your adventure if you are situated in a Snowy biome."
+            "text": "$(li)The Snow Armor has the same durability and resistance than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l).$(br)$(li)This armor can be crafted with $(l:patchouli:miscellaneous/vanilla/snow)Snow Blocks$(/l).$(br)$(li)That makes it perfect for the beginning of your adventure if you are situated in a Snowy biome."
         },
         {
             "type": "patchouli:entity",

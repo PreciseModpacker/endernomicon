@@ -20,6 +20,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)A lock can be removed by shift right clicking on the $(l:patchouli:utility/vanilla/chest)Chest$(/l) with a Key that has the same name as the lock."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

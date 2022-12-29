@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Carrots by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)You can use Carrots to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:utility/quark/carrot_crate)Carrot Crate$(/l), $(l:patchouli:decoration/charm/lanterns)Snowman Lanterns$(/l), $(l:patchouli:pets/vanilla/carrot_on_a_stick)Carrot on a Stick$(/l), $(l:patchouli:creatures/vanilla/golden_carrot)Golden Carrots$(/l), $(l)Adzuki Stew$(), $(l)Adzuki Curry$() and $(l)Rabbit Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too."
+            "text": "$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Carrots by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)You can use Carrots to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l), $(l:patchouli:utility/quark/carrot_crate)Carrot Crate$(/l), $(l:patchouli:decoration/charm/lanterns)Snowman Lanterns$(/l), $(l:patchouli:pets/vanilla/carrot_on_a_stick)Carrot on a Stick$(/l), $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l), $(l)Adzuki Stew$(), $(l)Adzuki Curry$() and $(l)Rabbit Stew$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too."
         }
              ]
 }

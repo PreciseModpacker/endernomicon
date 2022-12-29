@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "kubejs:kjs_eocjwhh34ctjhtyg95f0vcww3",
-            "text": "$(li)The Backpack allows to you to have an extra inventory.$(br)$(li)It can be enchanted with $(l:patchouli:enchanting/backpacked/looted)Looted$(/l), $(l:patchouli:enchanting/backpacked/repairman)Repairman$(/l), $(l:patchouli:enchanting/backpacked/imbued_hide)Imbued Hide$(/l), $(l:patchouli:enchanting/backpacked/funneling)Funneling$(/l), $(l:patchouli:enchanting/backpacked/marksman)Marksman$(/l).",
+            "text": "$(li)The Backpack allows to you to have an extra inventory.$(br)$(li)It can be enchanted with $(l:patchouli:enchanting/backpacked/looted)Looted$(/l), $(l:patchouli:enchanting/backpacked/repairman)Repairman$(/l), $(l:patchouli:enchanting/backpacked/imbued_hide)Imbued Hide$(/l), $(l:patchouli:enchanting/backpacked/funnelling)Funnelling$(/l), $(l:patchouli:enchanting/backpacked/marksman)Marksman$(/l).",
             "link_recipe": "true"
         },
         {

@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "name": "Ice Armor",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"extraarmor:ice_boots\",Count:1},{id:\"extraarmor:ice_leggings\",Count:1},{id:\"extraarmor:ice_chestplate\",Count:1},{id:\"extraarmor:ice_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "You will be immune to damage caused by Magma Blocks and Campfires when you step on them."
+            "text": "You will be immune to damage caused by $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Blocks$(/l) and $(l:patchouli:utility/vanilla/campfire)Campfires$(/l) when you step on them."
         },
         {
             "type": "patchouli:crafting",
