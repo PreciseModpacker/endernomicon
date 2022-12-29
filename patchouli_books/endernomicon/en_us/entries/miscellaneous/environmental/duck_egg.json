@@ -13,7 +13,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l) Duck Eggs Craft Recipes$()$(br)$(li)$(l:patchouli:utility/environmental/duck_egg_crate)Duck Egg Crate$(/l)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
+            "title": "Duck Egg Recipes",
+            "text": "$(li)$(l:patchouli:utility/environmental/duck_egg_crate)Duck Egg Crate$(/l)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
         }
              ]
 }

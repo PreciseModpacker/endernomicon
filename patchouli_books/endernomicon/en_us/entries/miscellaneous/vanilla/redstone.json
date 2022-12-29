@@ -1,5 +1,5 @@
 {    
-    "name": "Redstone Dust",
+    "name": "Redstone Dust PDT DOCUMENTAR",
     "icon": "minecraft:redstone",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
@@ -29,6 +29,9 @@
             "type": "patchouli:text",
             "title": "Tools & Utility",
             "text": "$(br)$(l)        Tools$()$(br)$(li)Barometer$(li)Clock$(li)Compass$(li)iChisel$(li)Photometer$(br2)$(l)        Utility$()$(br)$(li)Lock Block"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

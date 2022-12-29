@@ -9,6 +9,9 @@
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
             "text": "$(li)The Channeling enchantment can be applied in a $(l:patchouli:weapons/trident)$(l:patchouli:weapons/trident)Trident$(/l)$(/l).$(br)$(li)This enchantment allows tridents to summon Lightning Bolts during Thunderstorms.",
             "title": "Channeling"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

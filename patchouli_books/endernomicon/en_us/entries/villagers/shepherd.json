@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Shepherd is a master of the $(l:patchouli:decoration/vanilla/wool)Wool$(/l).$(br)$(li)It will trade you Wool Blocks, Wool Carpets, $(l:patchouli:utility/vanilla/beds)Beds$(/l), $(l:patchouli:decoration/vanilla/banners)Banners$(/l) and $(l:patchouli:decoration/vanilla/paintings)Paintings$(/l). $(br)$(li)A Villager can get the Shepherd profession if is near of a $(l:patchouli:utility/vanilla/loom)Loom$(/l)."
+            "text": "$(li)The Shepherd is a master of the $(l:patchouli:decoration/vanilla/wool)Wool$(/l).$(br)$(li)It will trade you Wool Blocks, Wool Carpets, $(l:patchouli:utility/vanilla/beds)Beds$(/l), $(l:patchouli:decoration/vanilla/banners)Banners$(/l) and $(l:patchouli:decoration/vanilla/paintings)Paintings$(/l). $(br)$(li)A Villager can get the Shepherd profession if is near of a $(l:patchouli:decoration/alexsmobs/banner_patterns)Loom$(/l)."
         },
         {
             "type": "patchouli:entity",

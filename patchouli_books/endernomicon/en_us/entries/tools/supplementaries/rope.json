@@ -19,6 +19,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)You can pull up a rope by clicking with another one or pull it down by clicking with an empty hand. If they pull up or down a cauldron they will actually fill it up.$(br)$(li)Ropes can be instantly broken by hand, fire or by an arrow.$(br)$(li)Finally, like chains, they can connect to bells and offer the same functionality that chains do."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

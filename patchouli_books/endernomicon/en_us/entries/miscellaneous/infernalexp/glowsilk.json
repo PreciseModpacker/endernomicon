@@ -10,6 +10,9 @@
             "recipe": "kubejs:kjs_5f2jrs6491lqzkr8vjtlbbetp",
             "text": "$(li)Glowsilk is a hard and shiny item that can be used to craft a $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bow$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

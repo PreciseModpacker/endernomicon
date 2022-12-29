@@ -8,7 +8,7 @@
        {
             "type": "patchouli:spotlight",
             "item": "minecraft:elytra",
-            "text": "$(li)Elytra is a rare wing item found in End Ships in the $(l:patchouli:structures/end_city)End City$(/l) over the End.$(br)$(li)They can be equipped in your Chestplate slot and used to fly.$(br)$(li)You can use them to craft a better version known as the Tarantula Hawk Elytra.",
+            "text": "$(li)Elytra is a rare wing item found in End Ships in the $(l:patchouli:structures/end_city)End City$(/l) over the End.$(br)$(li)They can be equipped in your Chestplate slot and used to fly.$(br)$(li)You can use them to craft a better version known as the $(l:patchouli:armors/tarantula_hawk_elytra)Tarantula Hawk Elytra$(/l).",
             "link_recipe": "true"
         },
         {

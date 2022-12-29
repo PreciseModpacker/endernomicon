@@ -10,6 +10,9 @@
             "recipe": "supplementaries:flint_block",
             "text": "$(li)The Flint Block is a new decoration block.$(br)$(li)It can be used to storage $(l:patchouli:miscellaneous/vanilla/flint)Flint$(/l) in a more efficient way.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

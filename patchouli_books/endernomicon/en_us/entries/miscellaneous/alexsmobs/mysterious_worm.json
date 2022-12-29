@@ -10,6 +10,9 @@
             "item": "alexsmobs:mysterious_worm",
             "text": "$(li)The rumours were true! The $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l) become into that... thing!$(br)$(li)Maybe you should throw it into the abyssal void of the End.$(br)$(li)Be careful, we are not sure what consequences such an act like that could have...",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

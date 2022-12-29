@@ -79,6 +79,9 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_fence_gate",
             "recipe2": "cataclysm:chorus_fence_gate"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

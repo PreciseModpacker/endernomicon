@@ -10,6 +10,10 @@
             "recipe": "endergetic:boof_block",
             "text": "$(li)The Boof Block can be used to craft a $(l:patchouli:armors/booflo_vest)Booflo Vest$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)If any creature or even an item fall on the Booflo Block, it will bounce on it.",
             "link_recipe": "true"
+       },
+       {
+            "type": "patchouli:empty_page"
        }
+       
              ]
 }

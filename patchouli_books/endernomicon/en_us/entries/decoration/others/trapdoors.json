@@ -186,6 +186,9 @@
         {
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_trapdoor"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -221,6 +221,9 @@
             "recipe": "quark:building/crafting/chests/purpur_chest",
             "recipe2": "endergetic:poise_chest",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

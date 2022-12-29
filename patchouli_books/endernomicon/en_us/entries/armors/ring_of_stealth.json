@@ -10,6 +10,9 @@
             "item": "goblinsanddungeons:ring_of_stealth",
             "text": "$(li)The Ring of Stealth reduces the range detection for other creatures while you are sneaking.$(br)$(li)$(l:patchouli:creatures/goblins_and_dungeons/mimic)Mimics$(/l) may drop it on death.$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

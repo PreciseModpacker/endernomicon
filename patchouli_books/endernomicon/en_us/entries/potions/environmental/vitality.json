@@ -78,6 +78,9 @@
             "input": "minecraft:dragon_breath",
             "input2": "minecraft:splash_potion{Potion:'environmental:vitality_strong'}",
             "output": "minecraft:lingering_potion{Potion:'environmental:vitality_strong'}"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

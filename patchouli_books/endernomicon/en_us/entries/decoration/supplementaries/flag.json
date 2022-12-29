@@ -60,6 +60,9 @@
             "type": "patchouli:crafting",
             "recipe": "supplementaries:flags/flag_red",
             "recipe2":"supplementaries:flags/flag_black"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

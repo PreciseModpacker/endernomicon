@@ -9,6 +9,9 @@
             "type": "patchouli:spotlight",
             "item": "minecraft:dead_bush",
             "text": "$(li)The Dead Bush is a block that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/desert/dunes)Dunes$(/l) and $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l).$(br)$(li)It can be used to breed $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l).$(br)$(li)This item can only be obtained breaking this block while you are holding a pair of $(l:patchouli:tools/vanilla/shears)Shears$(/l) in your hand.",            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

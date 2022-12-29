@@ -13,25 +13,28 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)To use a Glass Bottle, just right click pointing the specific liquid while you are holding a Glass Bottle on your hand.$(br)$(li)Depending of the liquid, you will obtain a Water Bottle, Lava Bottle, Honey Bottle, or Ink Bottle."
+            "text": "$(li)To use a Glass Bottle, just right click pointing the specific liquid while you are holding a Glass Bottle on your hand.$(br)$(li)Depending of the liquid, you will obtain a $(l:patchouli:tools/vanilla/water_bottle)Water Bottle$(/l), $(l:patchouli:tools/alexsmobs/lava_bottle)Lava Bottle$(/l), $(l:patchouli:tools/vanilla/honey_bottle)Honey Bottle$(/l), or Ink Bottle."
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:bee_bottle",
-            "text": "$(li)You can trap Bees with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "text": "$(li)You can trap $(l:patchouli:creatures/vanilla/bee)Bees$(/l) with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:silverfish_bottle",
-            "text": "$(li)You can trap Silverfish with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "text": "$(li)You can trap $(l:patchouli:creatures/vanilla/silverfish)Silverfish$(/l) with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:spotlight",
             "item": "buzzier_bees:endermite_bottle",
-            "text": "$(li)You can trap Endermite with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
+            "text": "$(li)You can trap $(l:patchouli:creatures/vanilla/endermite)Endermite$(/l) with a Glass Bottle.$(br)$(li)Just right click while you are pointing one of these creatures and you are holding a Glass Bottle on your hand.",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

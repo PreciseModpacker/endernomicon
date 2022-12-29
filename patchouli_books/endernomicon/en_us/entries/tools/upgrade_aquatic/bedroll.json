@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "upgrade_aquatic:bedroll",
-            "text": "$(li)Bedrolls are a new variant of the common $(l:patchouli:utility/vanilla/beds)Beds$(/l).$(br)$(li)Bedrolls can be used to sleep in the night, but they don't set the Spaintpoint.",
+            "text": "$(li)Bedrolls are a new variant of the common $(l:patchouli:utility/vanilla/beds)Beds$(/l).$(br)$(li)Bedrolls can be used to sleep in the night, but they don't set the Spawnpoint.",
             "link_recipe": "true"
         },
         {

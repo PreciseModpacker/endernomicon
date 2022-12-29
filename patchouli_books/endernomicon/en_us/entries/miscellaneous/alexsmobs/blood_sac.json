@@ -10,6 +10,9 @@
             "item": "alexsmobs:blood_sac",
             "text": "$(li)The Blood Sac is an item that can be used to craft a $(l:patchouli:weapons/blood_sprayer)Blood Sprayer$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can only be dropped by a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) that first has stung a creature filling its blood sac.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

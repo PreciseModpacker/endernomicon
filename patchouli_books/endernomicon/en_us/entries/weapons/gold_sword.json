@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:golden_sword",
-            "text": "$(li)The Gold Sword is the worst Sword that you can craft.$(br)$(li)This one has even less durability than a Wooden Sword and the same damage than this last one." ,
+            "text": "$(li)The Golden Sword is the worst Sword that you can craft.$(br)$(li)This one has even less durability than a $(l:patchouli:weapons/wooden_sword)Wooden Sword$(/l) and the same damage than this last one." ,
             "link_recipe": "true"
         },
         {

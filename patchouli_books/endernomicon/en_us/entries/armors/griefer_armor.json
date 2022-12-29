@@ -3,7 +3,7 @@
     "icon": "savageandravage:griefer_helmet",
     "category": "patchouli:armors",
     "sortnum": 14,
-    "advancement": "endernomicon:griefer_armor",
+    "advancement": "savageandravage:adventure/creeper_spores",
     "pages": [
        {
             "type": "patchouli:text",

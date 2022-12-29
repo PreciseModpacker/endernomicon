@@ -218,6 +218,9 @@
             "recipe": "buzzier_bees:candles/scented/blue_orchid_scented_candle",
             "text": "$(li)Blue Orchid Scented Candle doesn't give any effect to nearby creatures.",
             "title": "B. O. Scented Candle"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

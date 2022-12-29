@@ -29,6 +29,9 @@
             "type": "patchouli:crafting",
             "recipe": "inspirations:building/bookshelves/rainbow_grb",
             "recipe2": "inspirations:building/bookshelves/tomes"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

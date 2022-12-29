@@ -2,7 +2,7 @@
     "name": "Pressure Plate (Stone)",
     "icon": "minecraft:stone_pressure_plate",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:stone",
     "pages": [
         {

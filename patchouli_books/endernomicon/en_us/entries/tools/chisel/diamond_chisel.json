@@ -40,6 +40,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/tools/diamond_chisel_6.png",
             "text": "$(li)These modes allows to you to Chisel more blocks when you left click in one block."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

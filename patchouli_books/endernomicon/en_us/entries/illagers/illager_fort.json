@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Illagers, unlike the $(l:patchouli:villagers/villager)Villagers$(/l) don't live quietly in a small $(l:patchouli:villagers/villagers)Village$(/l). They live in walled big camps with water wells, crops, bedrooms, stables and even a shooting range.$(br)$(li)Be careful, $(l:patchouli:illagers/archer)Archers$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/vindicator)Vindicators$(/l) and the $(l:patchouli:illagers/illager_general)Generals$(/l) will not hesitate to defend their fort for intruders like you."
+            "text": "$(li)The Illagers, unlike the $(l:patchouli:villagers/villager)Villagers$(/l) don't live quietly in a small $(l:patchouli:villagers/village)Village$(/l). They live in walled big camps with water wells, crops, bedrooms, stables and even a shooting range.$(br)$(li)Be careful, $(l:patchouli:illagers/archer)Archers$(/l), $(l:patchouli:illagers/pillager)Pillagers$(/l), $(l:patchouli:illagers/vindicator)Vindicators$(/l) and the $(l:patchouli:illagers/illager_general)Generals$(/l) will not hesitate to defend their fort for intruders like you."
         },
         {
             "type": "patchouli:small_pictures",

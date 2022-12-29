@@ -10,6 +10,9 @@
             "recipe": "minecraft:golden_carrot",
             "text": "$(li)The Golden Carrot is a shiny item that can be used to brew a $(l:patchouli:potions/vanilla/night_vision)Potion of Night Vision$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)It gives too much saturation when is eaten.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

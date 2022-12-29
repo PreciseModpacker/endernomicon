@@ -15,7 +15,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/tools/buried_treasure_map.png",
-            "text": "$(li)If you have this map in your offhand slot and give a $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tail$(/l) to a $(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l), it will indicate the localization of the $(l)Buried Treasure$()."
+            "text": "$(li)If you have this map in your offhand slot and give a $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tail$(/l) to a $(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l), it will indicate the localization of the $(l:patchouli:structures/buried_treasure)Buried Treasure$(/l)."
         }  
              ]
 }

@@ -18,6 +18,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)After that, it will start to throw you wither skulls projectiles that makes you damage and inflicts you the wither effect.$(br)$(li)This effect inflicts you an extra damage every second.$(br)$(li)This creature slowly regenerates its life over time.$(br)$(li)On death it always drops the $(l:patchouli:miscellaneous/vanilla/nether_star)Nether Star$(/l) and the $(l:patchouli:enders_journey/ender_eyes)Wither Eye$(/l)."
-        }  
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
              ]
 }

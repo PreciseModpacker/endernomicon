@@ -8,9 +8,12 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:tarantula_hawk_wing_fragment",
-            "text": "$(li)The Tarantula Hawk Wing Fragment is an item that can be used to craft a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l) or a $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing)Tarantula Hawk Wing$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)The Tarantula Hawk Wing Fragment is an item that can be used to craft a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern Sun Symbol$(/l) or a $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing)Tarantula Hawk Wing$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true",
             "title": "T. Tarantula Hawk Wing"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -19,6 +19,9 @@
         {
             "type": "patchouli:crafting",
             "recipe": "upgrade_aquatic:scute_block"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

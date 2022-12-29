@@ -18,6 +18,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Gorillas are tamed with $(l:patchouli:miscellaneous/alexsmobs/banana)Bananas$(/l), just drop them on the ground.$(br)$(li)Tamed Gorillas do not follow you, however they can be commanded to sit by right-clicking on them and transportable with a $(l:patchouli:pets/vanilla/lead)Lead$(/l).$(br)$(li)If attacked, Gorillas with help you with your enemies especially Silverbacks, are efficient at defending you due to their sheer strength."
-        }  
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
              ]
 }

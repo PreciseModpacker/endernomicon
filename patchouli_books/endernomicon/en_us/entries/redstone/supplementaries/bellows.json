@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:bellows",
-            "text": "$(li)Bellows can be powered with a redstone signal.$(br)$(li)If you place Bellows powered with redstone next to a Furnace, the Smelting process will be accelerated.",
+            "text": "$(li)Bellows can be powered with a redstone signal.$(br)$(li)If you place Bellows powered with redstone next to a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), the Smelting process will be accelerated.",
             "link_recipe": "true"
         },
         {

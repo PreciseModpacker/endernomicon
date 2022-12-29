@@ -117,6 +117,9 @@
             "input": "minecraft:dragon_breath",
             "input2": "minecraft:splash_potion{Potion:'infernalexp:strong_infection'}",
             "output": "minecraft:lingering_potion{Potion:'infernalexp:strong_infection'}"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

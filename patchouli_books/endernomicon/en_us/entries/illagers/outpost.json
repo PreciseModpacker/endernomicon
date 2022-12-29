@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Outpost is a variation of the $(l:patchouli:illagers_archer_tower)Illager Archer Tower$(/l) that can be found in multiple variations over the Overworld.$(br)$(li)$(l:patchouli:illagers/pillager)Pillagers$(/l) will attack any intruder who comes near their tower."
+            "text": "$(li)The Outpost is a variation of the $(l:patchouli:illagers/illager_archer_tower)Illager Archer Tower$(/l) that can be found in multiple variations over the Overworld.$(br)$(li)$(l:patchouli:illagers/pillager)Pillagers$(/l) will attack any intruder who comes near their tower."
         },
         {
             "type": "patchouli:small_pictures",

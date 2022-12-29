@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Leather Armor is an armor with low protection.$(br)$(li)This one has a bit more durability than the Wood Armor and Snow Armor."
+            "text": "$(li)The Leather Armor is an armor with low protection.$(br)$(li)This one has a bit more durability than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l) and $(l:patchouli:armors/snow_armor)Snow Armor$(/l).$(br)$(li)This armor can be dyed placing the specific color dye and a piece of Leather Armor in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
             "type": "patchouli:entity",

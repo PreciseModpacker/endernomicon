@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Ender Armor is a bit better than the $(l:patchouli:armors/slime_armor)Slime Armor$(/l).$(br)$(li)If you wear a complete set, you will obtain the Speed II effect, increasing your movement speed considerably."
+            "text": "$(li)The Ender Armor is a bit better than the $(l:patchouli:armors/slime_armor)Slime Armor$(/l).$(br)$(li)If you wear a complete set, you will obtain the $(l:patchouli:potions/vanilla/swiftness)Speed$(/l) II effect, increasing your movement speed considerably."
         },
         {
             "type": "patchouli:entity",

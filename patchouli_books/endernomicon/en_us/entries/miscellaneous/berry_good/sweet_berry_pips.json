@@ -10,6 +10,9 @@
             "item": "berry_good:sweet_berry_pips",
             "text": "$(li)Sweet Berry Pips can be plant in farmland to generate $(l:patchouli:miscellaneous/vanilla/sweet_berries)Sweet Berries$(/l).$(br)$(li)You can use Sweet Berry Pips to craft a $(l:patchouli:tools/quark/seed_pouch)$(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l)$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)Finally you can put Sweet Berry Pips in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -27,6 +27,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)For example, you can throw a Sword with an Looting 1 enchantment applied and other Sword without any kind of enchantment applied.$(br)$(li)Then, this creature will expel from its mouth the new enchanted item.$(br)$(li)This can be used to apply enchants to items using enchanted books and the specific item to enchant."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

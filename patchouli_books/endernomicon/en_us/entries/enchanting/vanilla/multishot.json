@@ -9,6 +9,9 @@
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:multishot',lvl:1}]}",
             "text": "$(li)The Multishot enchantment can be applied in a $(l:patchouli:weapons/crossbow)Crossbow$(/l).$(br)$(li)This enchantment makes the $(l:patchouli:weapons/crossbow)Crossbow$(/l) to fire additional $(l:patchouli:weapons/arrows)Arrows$(/l) in similar directions.",
             "title": "Multishot"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

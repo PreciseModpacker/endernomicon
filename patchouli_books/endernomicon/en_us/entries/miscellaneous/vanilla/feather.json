@@ -13,8 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures such as $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:creatures/vanilla/chicken)Chickens$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/environmental/duck)Ducks$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l), $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l), $(l:patchouli:creatures/alexsmobs/shoebill)Shoebills$(/l), and $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) may drop Feathers on death.",
-            "link_recipe": "true"
+            "text": "$(li)Some creatures such as $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l), $(l:patchouli:creatures/vanilla/chicken)Chickens$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/environmental/duck)Ducks$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:pets/vanilla/parrot)Parrots$(/l), $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/seagull)Seagulls$(/l), $(l:patchouli:creatures/alexsmobs/shoebill)Shoebills$(/l), and $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) may drop this item on death."
         }
              ]
 }

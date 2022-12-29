@@ -20,6 +20,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/fodder_2.png",
             "text": "$(li)The Fodder can be placed down with dispensers."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

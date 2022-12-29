@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Crabs can be found in $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/quark/crab_legs)Crab Legs$(/l) or $(l:patchouli:miscellaneous/quark/crab_shells)Crab Shells$(/l) on death.$(br)$(li)Crabs can be bred with $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l), Raw Chicken, or any kind of fish. "
+            "text": "$(li)Crabs can be found in $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/quark/crab_legs)Crab Legs$(/l) or $(l:patchouli:miscellaneous/quark/crab_shell)Crab Shells$(/l) on death.$(br)$(li)Crabs can be bred with $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l), Raw Chicken, or any kind of fish. "
         },
         {
             "type": "patchouli:entity",
@@ -18,6 +18,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/crab.png",
             "text": "$(li)If a near $(l:patchouli:utility/vanilla/jukebox)Jukebox$(/l) it is playing a music disc near of a Crab, it will start dancing to the rhythm of the music."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

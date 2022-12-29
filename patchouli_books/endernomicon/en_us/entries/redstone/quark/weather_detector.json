@@ -2,7 +2,7 @@
     "name": "Weather Detector",
     "icon": "quark:weather_sensor",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:biotite",
     "pages": [
         {

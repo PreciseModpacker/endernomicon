@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/snow_leopard.png",
-            "text": "$(li)They can't be tamed but they still can be bred giving them $(l:patchouli:miscellaneous/alexsmobs/raw_moose_ribs)Raw Moose Ribs$(/l)"
+            "text": "$(li)They can't be tamed but they still can be bred giving them $(l:patchouli:miscellaneous/alexsmobs/moose_ribs)Raw Moose Ribs$(/l)"
         }
              ]
 }

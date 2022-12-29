@@ -10,6 +10,9 @@
             "recipe": "quark:oddities/crafting/soul_compass",
             "text": "$(li)The Soul Compass is a variant of the common $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)It's always pointing into the $(l:patchouli:perks/totem_of_holding)Totem of Holding$(/l).",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

@@ -11,22 +11,16 @@
             "text": "$(li)The Book and Quill will help you to take notes in all your journey.$(br)$(li)You can use it to craft an $(l:patchouli:tools/charm/atlas)Atlas$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)To use the Book and Quill, first you have to right click while you are holding the item on your hand.$(br)$(li)To save changes, just click in the Done button.$(br)$(li)Finally, if you want to make your book uneditable, click the Sign button, add a title and click the Sign and Close Button to confirm it."
-        },
-        {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/tools/book_and_quill_1.png",
-            "text": "$(li)Right click while you are holding this item in your hand to write on it. Use the Done button to save the changes."
+            "text": "$(li)To use the Book and Quill, first you have to right click while you are holding the item on your hand."
         },
         {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/book_and_quill_2.png",
-            "text": "$(li)Finally, if you want to make your book uneditable, click the Sign button, add a title and click the Sign and Close Button to confirm it."
+            "type": "patchouli:text",
+            "text": "$(li)To save changes, just click in the $(l)Done$() button.$(br)$(li)Finally, if you want to make your book uneditable, click the $(l)Sign$() button, add a title and click the $(l)Sign and Close$() button to confirm it."
         },
         {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        }
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

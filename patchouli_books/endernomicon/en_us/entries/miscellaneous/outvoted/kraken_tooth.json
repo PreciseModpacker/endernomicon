@@ -10,6 +10,9 @@
             "item": "outvoted:kraken_tooth",
             "text": "$(li)The Kraken Tooth can be used to craft a $(l:patchouli:weapons/trident)Trident$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/outvoted/kraken)Krakens$(/l) may drop this item on death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

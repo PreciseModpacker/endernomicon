@@ -10,6 +10,9 @@
             "recipe": "alexsmobs:enderiophage_rocket",
             "text": "$(li)The Enderiophage Rocket is a variant of the $(l:patchouli:miscellaneous/vanilla/firework)Firework Rockets$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

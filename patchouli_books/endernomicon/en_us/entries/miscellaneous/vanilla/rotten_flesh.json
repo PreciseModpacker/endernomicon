@@ -8,8 +8,11 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:rotten_flesh",
-            "text": "$(li)The Rotten Flesh is an item that can be used to craft $(l:patchouli:miscellaneous/infernalexp/cured_jerky)Cured Jerky$(/l) and the $(l)Fossil Bait$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can eat it, but you will end up even more hungry than at the beggining.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange your Rotten Flesh by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
+            "text": "$(li)The Rotten Flesh is an item that can be used to craft $(l:patchouli:miscellaneous/infernalexp/cured_jerky)Cured Jerky$(/l) and the $(l:patchouli:bosses/rumor_swampjaw)Fossil Bait$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can eat it, but you will end up even more hungry than at the beggining.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) will exchange your Rotten Flesh by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

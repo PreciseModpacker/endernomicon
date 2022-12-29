@@ -11,9 +11,7 @@
             "text": "$(li)The Omnious Banner is the Illager's Flag which symbolizing the nation of the Illagers.$(br)$(li)This item can only be dropped by the leader of the $(l:patchouli:illagers/pillager)Pillagers$(/l) on death which can be found in a $(l:patchouli:illagers/patrol)Patrol$(/l)."
         },
         {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/illagers/raid.png",
-            "text": "$(li)Defend the village from various waves of Illagers and you will become the $(l)Hero of the Village$()."
-        }  
+            "type": "patchouli:empty_page"
+        }
              ]
 }

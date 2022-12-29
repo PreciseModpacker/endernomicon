@@ -10,6 +10,9 @@
             "recipe": "quark:world/smelting/cooked_crab_leg",
             "text": "$(li)Crab Legs can be eaten, but they is not very satiating.$(br)$(li)They can be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to obtain Cooked Crab Legs which is a more satiating food than the previous one.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

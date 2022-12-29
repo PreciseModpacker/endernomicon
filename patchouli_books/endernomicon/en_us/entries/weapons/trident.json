@@ -16,12 +16,15 @@
             "name": "Trident",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:trident,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "Drowneds may drop it on death."
+            "text": "$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop this item on death."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "upgrade_aquatic:trident",
             "recipe2": "charm:extra_recipes/trident"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

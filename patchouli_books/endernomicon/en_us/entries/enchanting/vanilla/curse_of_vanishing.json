@@ -9,6 +9,9 @@
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:vanishing_curse',lvl:1}]}",
             "text": "$(li)The Curse of Vanishing enchantment can be applied in any kind of item.$(br)$(li)The item with this enchantment applied will be destroyed if you die with it inside of your inventory.",
             "title": "Curse of Vanishing"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

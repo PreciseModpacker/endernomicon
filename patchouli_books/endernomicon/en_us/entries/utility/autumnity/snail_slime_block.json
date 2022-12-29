@@ -10,6 +10,9 @@
             "recipe": "autumnity:snail_slime_block",
             "text": "$(li)The Snail Slime Block is a new variant of the $(l:patchouli:redstone/vanilla/slime_block)Slime$(/l) block which reduce the movement speed of any creature that is situated on it.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

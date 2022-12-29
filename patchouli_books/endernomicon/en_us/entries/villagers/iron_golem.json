@@ -30,6 +30,9 @@
                  },
                  "symmetrical": true
             }
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -10,6 +10,9 @@
             "item": "alexsmobs:leafcutter_ant_pupa",
             "text": "$(li)Leafcutter Ant Pupas can be used on a grass or dirt blocks to start a new $(l)Leafcutter Ant Colony$().$(br)$(li)The new Anthill would not be able to expand unless a $(l)Queen$() is present.$(br)$(li)It can be only obtained breaking an $(l)Anthill Chamber$().",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -19,6 +19,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)The Abacus will count up to 48 blocks, drawing an outline of the counted blocks.$(br)$(li)The texture of the item will change according to how many blocks are counted.$(br)$(li)Right click again to unbind."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

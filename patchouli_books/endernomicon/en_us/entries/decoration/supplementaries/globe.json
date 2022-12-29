@@ -19,6 +19,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)It can also interact with $(l:patchouli:redstone/vanilla/comparator)Comparator$(/l)s.$(br)$(li)Those receive a redstone signal that depends on it's current face and a full strength one while it's spinning."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

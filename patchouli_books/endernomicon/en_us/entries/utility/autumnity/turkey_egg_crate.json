@@ -10,6 +10,9 @@
             "recipe": "autumnity:turkey_egg_crate",
             "text": "$(li)The Turkey Egg Crate is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/autumnity/turkey_egg)Turkey Eggs$(/l) in a more efficient way.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -10,6 +10,9 @@
             "item": "alexsmobs:acacia_blossom",
             "text": "$(li)The Acacia Blossom are a beautiful flower that can be obtained from Acacia Leaves.$(br)$(li)It can be used to tame $(l:patchouli:pets/alexsmobs/elephant)Elephants$(/l) and breed $(l:patchouli:creatures/alexsmobs/tiger)Tigers$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

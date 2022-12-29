@@ -32,7 +32,10 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/perks/nether_portal.png",
-            "text": "$(li)Finally, just right click inside of the Nether Portal with the Flint and Steel or a Fire Charge to generate fire and turn it on."
+            "text": "$(li)Finally, just right click inside of the Nether Portal with the $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l) or a $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l) to generate fire and turn it on."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
     ]
 }

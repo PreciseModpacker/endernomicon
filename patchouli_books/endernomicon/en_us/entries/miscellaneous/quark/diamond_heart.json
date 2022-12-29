@@ -10,6 +10,9 @@
             "item": "quark:diamond_heart",
             "text": "$(li)The Heart of Diamond is a item that can be used to craft a $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to summon tamed $(l:patchouli:pets/quark/stoneling)Stonelings$(/l) too.$(br)$(li)$(l:patchouli:pets/quark/stoneling)Stoneling$(/l) may drop this item on death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

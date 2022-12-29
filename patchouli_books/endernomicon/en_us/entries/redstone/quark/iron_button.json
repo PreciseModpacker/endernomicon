@@ -2,7 +2,7 @@
     "name": "Button (Iron)",
     "icon": "quark:iron_button",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {

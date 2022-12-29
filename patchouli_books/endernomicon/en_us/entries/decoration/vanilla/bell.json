@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/decoration/bell.png",
-            "text": "$(li)You can find Bells placed in the center of the $(l:patchouli:villagers/villagers)Villages$(/l)."
+            "text": "$(li)You can find Bells placed in the center of the $(l:patchouli:villagers/village)Villages$(/l)."
         }
              ]
 }

@@ -11,7 +11,7 @@
             "input": "minecraft:netherite_helmet",
             "input2": "cataclysm:monstrous_horn",
             "output": "cataclysm:monstrous_helm",
-            "text": "$(li)The Monstrous Helm can be worn on your head.$(br)$(li)When equipped, if you fall below half of your life, you will pushing nearby monster and gain multiple buffs like Resisance, Knockback Resistance and Regeneration.",
+            "text": "$(li)The Monstrous Helm can be worn on your head.$(br)$(li)When equipped, if you fall below half of your life, you will pushing nearby monster and gain multiple buffs like $(l:patchouli:potions/quark/fortitude)Resistance$(/l), $(l:patchouli:potions/alexsmobs/knockback_resistance)Knockback Resistance$(/l) and $(l:patchouli:potions/vanilla/regeneration)Regeneration$(/l).",
             "link_recipe": "true"
         },
         {

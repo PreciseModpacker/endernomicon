@@ -10,6 +10,9 @@
             "item": "alexsmobs:komodo_spit",
             "text": "$(li)The Komodo Dragon Spit can be used to craft $(l:patchouli:miscellaneous/vanilla/slimeball)Slimeballs$(/l) or $(l:patchouli:tools/alexsmobs/komodo_spit_bottle)Komodo Dragon Spit Bottles$(/l).$(br)$(li)It can be used to brew a $(l:patchouli:potions/alexsmobs/poison_resistance)Potion of Poison Resistance$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l) too.$(br)$(li)Tamed $(l:patchouli:pets/alexsmobs/komodo_dragon)Komodo Dragon$(/l) sometimes drops this item.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

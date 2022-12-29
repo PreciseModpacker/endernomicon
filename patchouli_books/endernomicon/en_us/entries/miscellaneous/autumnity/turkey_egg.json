@@ -13,7 +13,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l) Turkey Eggs Food Recipes$() $(br)$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
+            "title": "Turkey Egg Recipes",
+            "text": "$(li)Pie$(li)Cake$(li)Tart$(li)Pancake$(li)Pudding$(li)Scrambled Egg$(li)Fried egg$(li)Aether-Glazed Cupcake"
         }
              ]
 }

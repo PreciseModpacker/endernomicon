@@ -99,6 +99,9 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_sign",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

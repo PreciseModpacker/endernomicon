@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)For example, in the Nether dimension, the Dimension Compass will be always pointing to the Nether Portal."
+            "text": "$(li)For example, in the Nether dimension, the Dimension Compass will be always pointing to the $(l:patchouli:perks/nether_portal)Nether Portal$(/l)."
         }
              ]
 }

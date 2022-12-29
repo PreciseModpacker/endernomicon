@@ -9,6 +9,9 @@
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:acquisition',lvl:1}]}",
             "text": "$(li)The Acquisition enchantment can be applied in a $(l:patchouli:tools/vanilla/wooden_pickaxe)$(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l)$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)$(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l)$(/l), $(l:patchouli:weapons/wooden_axe)$(l:patchouli:weapons/wooden_axe)Axe$(/l)$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)$(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l)$(/l) and $(l:patchouli:tools/vanilla/shears)$(l:patchouli:tools/vanilla/shears)Shears$(/l)$(/l).$(br)$(li)This enchantment makes tools automatically pick up drops into your inventory.",
             "title": "Acquisition"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

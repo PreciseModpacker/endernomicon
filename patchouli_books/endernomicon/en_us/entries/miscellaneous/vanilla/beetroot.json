@@ -10,6 +10,9 @@
             "item": "minecraft:beetroot",
             "text": "$(li)Beetroot are a fruit tan can be eaten.$(br)$(li)You can use Beetroots to craft $(l)Red Dye$(), $(l:patchouli:utility/quark/beetroot_crate)Beetroot Crate$(/l), $(l)Adzuki Stew$(), or $(l)Beetroot Soup$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange Beetroots by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

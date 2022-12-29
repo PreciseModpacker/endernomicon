@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "environmental:healer_pouch",
-            "text": "$(li)Every time when you receive damage from another creature, the Healer's Pouch gives you the Renegeration effect, regenerating your life, and the Panic effect, increasing your walking movement.$(br)$(li)Both effects have a coldown of a few seconds.",
+            "text": "$(li)Every time when you receive damage from another creature, the Healer's Pouch gives you the $(l:patchouli:potions/vanilla/regeneration)Regeneration$(/l) effect, regenerating your life, and the Panic effect, increasing your walking movement.$(br)$(li)Both effects have a coldown of a few seconds.",
             "link_recipe": "true"
         },
         {
@@ -19,11 +19,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Healer's Pouch can be found in Mineshaft chests or as a rare drop from mobs.$(br2)$(l)Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
+            "text": "$(li)The Healer's Pouch can be found in $(l:patchouli:villagers/carpenter)Loot Chests$(/l) inside of the $(l:patchouli:structures/mineshaft)Mineshafts$(/l).$(br2)$(l)     Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Lvl 3 Regeneration II &$(br) Panic during 11 Seconds$(br)   50/100 - Adrenaline Boost$(br)$(li)Lvl 4 Regeneration 2 &$(br) Panic during 15 Seconds$(br)   100/250 - Adrenaline Boost$(br)$(li)Lvl 5 Regeneration II &$(br) Panic during 19 Seconds$(br)   250/250 - Adrenaline Boost$(br)"
+            "text": "$(br2)$(br2)$(li)Lvl 3 Regeneration II &$(br) Panic during 11 Seconds$(br)   50/100 - Adrenaline Boost$(br)$(li)Lvl 4 Regeneration 2 &$(br) Panic during 15 Seconds$(br)   100/250 - Adrenaline Boost$(br)$(li)Lvl 5 Regeneration II &$(br) Panic during 19 Seconds$(br)   250/250 - Adrenaline Boost$(br)"
         }
              ]
 }

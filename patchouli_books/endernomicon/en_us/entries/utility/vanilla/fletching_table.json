@@ -8,7 +8,10 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:fletching_table",
-            "text": "$(li)The Fletching Table  is a placeable block that does not have any kind of right-click functionality.$(br)$(li)If a $(l:patchouli:villagers/villager)Villager$(/l) is located near of a Honey Pot, it will turn into an $(l:patchouli:villagers/fletcher)Fletcher$(/l)."
+            "text": "$(li)The Fletching Table is a placeable block that does not have any kind of right-click functionality.$(br)$(li)If a $(l:patchouli:villagers/villager)Villager$(/l) is located near of a Honey Pot, it will turn into an $(l:patchouli:villagers/fletcher)Fletcher$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

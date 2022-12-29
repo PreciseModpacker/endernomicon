@@ -16,11 +16,16 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Simple mode: By default, Safes will be bound to the first person that places it / opens and unbound one.$(br)$(li)Other persons won't be able to open a safe and they will not be able to break it."
+            "title": "Simple Mode",
+            "text": "$(li)By default, Safes will be bound to the first person that places it / opens and unbound one.$(br)$(li)Other persons won't be able to open a safe and they will not be able to break it."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Key mode: You can craft a $(l:patchouli:tools/supplementaries/key)Key$(/l) and change it's name in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Then, if you click on a Safe with this key, the safe will be bound to this key name and will only be able to be oppened when you have a key with the same name in the inventory."
+            "title": "Key Mode",
+            "text": "$(li)You can craft a $(l:patchouli:tools/supplementaries/key)Key$(/l) and change it's name in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Then, if you click on a Safe with this key, the safe will be bound to this key name and will only be able to be oppened when you have a key with the same name in the inventory."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

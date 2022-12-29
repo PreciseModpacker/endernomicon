@@ -10,6 +10,9 @@
             "recipe": "environmental:misc/cattails/cattail_seed_sack",
             "text": "$(li)The Cattail Seed Sack is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/environmental/cattail_seeds)Cattail Seeds$(/l) in a more efficient way.",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
