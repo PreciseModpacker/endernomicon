@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Fisherman masters the art of fishing.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), a lot of variants of fishes and $(l:patchouli:miscellaneous/alexsmobs/ambergris)Ambergris$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Fisherman profession if it is near a $(l:patchouli:utility/vanilla/barrels)Barrel$(/l)."
+            "text": "$(li)The Fisherman masters the art of fishing.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), a lot of variants of fish and $(l:patchouli:miscellaneous/alexsmobs/ambergris)Ambergris$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Fisherman profession if it is near a $(l:patchouli:utility/vanilla/barrels)Barrel$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "savageandravage:creeper_spores",
-            "text": "$(li)You can use Creeper Spores right clicking while are holding them in your hand to create an area with green particles.$(br)$(li)In this area, it will appears multiple $(l:patchouli:pets/savage_and_ravage/creepie)Creepiers$(/l).",
+            "text": "$(li)You can use Creeper Spores right clicking while are holding them in your hand to create an area with green particles.$(br)$(li)In this area, it will appear multiple $(l:patchouli:pets/savage_and_ravage/creepie)Creepiers$(/l).",
             "link_recipe": "true"
         },
         {

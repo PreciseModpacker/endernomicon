@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Now, to ride the tamed Horse, you have to right click on it while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to equip it.$(br)$(li)After that right click on it again, to start to ride it.$(br)$(li)You can walk with it normally, and use the spacebar key in your keyboard to jump.$(br)$(li)Tamed Horsers can be bred giving them $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apples$(/l) or $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l)."
+            "text": "$(li)Now, to ride the tamed Horse, you have to right click on it while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) to equip it.$(br)$(li)After that right click on it again, to start to ride it.$(br)$(li)You can walk with it normally, and use the spacebar key in your keyboard to jump.$(br)$(li)Tamed Horsers can be bred by giving them $(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apples$(/l) or $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

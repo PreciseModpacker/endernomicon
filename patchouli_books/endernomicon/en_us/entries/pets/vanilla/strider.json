@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Striders are passive creatures that can be found walking over the lava of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) upon death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l).$(br)$(li)Striders can be equipped with a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l)."
+            "text": "$(li)Striders are passive creatures that can be found walking over the lava of the Nether.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) upon death.$(br)$(li)They can be bred by giving them $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l).$(br)$(li)Striders can be equipped with a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:funnelling',lvl:1}]}",
-            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:perks/backpack)$(l:patchouli:perks/backpack)Backpack$(/l)$(/l).$(br)$(li)The Funneling enchantment makes it so that every drop got for mining or harvesting will be place directly into the $(l:patchouli:perks/backpack)Backpack$(/l) instead of your main inventory.",
+            "text": "$(li)This Enchantment can only be applied in a $(l:patchouli:perks/backpack)$(l:patchouli:perks/backpack)Backpack$(/l)$(/l).$(br)$(li)The Funneling enchantment makes it so that every drop got for mining or harvesting will be placed directly into the $(l:patchouli:perks/backpack)Backpack$(/l) instead of your main inventory.",
             "title": "Funneling"
         },
         {

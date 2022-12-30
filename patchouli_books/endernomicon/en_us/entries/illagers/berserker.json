@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Berserker is a really strong Illager that only appears during $(l:patchouli:illagers/raid)Raids$(/l).$(br)$(li)It will destroy blocks in its path until it reaches you.$(br)$(li)On death it may drops $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l)."
+            "text": "$(li)The Berserker is a really strong Illager that only appears during $(l:patchouli:illagers/raid)Raids$(/l).$(br)$(li)It will destroy blocks in its path until it reaches you.$(br)$(li)On death it may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l)."
         },
         {
             "type": "patchouli:entity",

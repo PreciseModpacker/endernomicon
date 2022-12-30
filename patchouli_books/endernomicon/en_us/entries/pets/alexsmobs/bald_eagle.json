@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "alexsmobs:bald_eagle",
             "scale": 0.65,
-            "text": "Tamed Bald Eagles can be healed with any fish and bred giving them $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l)."
+            "text": "Tamed Bald Eagles can be healed with any fish and bred by giving them $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l)."
         }
              ]
 }

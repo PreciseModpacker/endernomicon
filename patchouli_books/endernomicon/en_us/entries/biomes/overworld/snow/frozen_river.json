@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can find some water vegetation like Seagrass or Tall Purle Pickerelweed.$(br)$(li)Some aquatic animals can like Salmons, Cods, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found inside of the water of this place.$(br)$(li)You can search this biome by typing the words $(l)Frozen River$() in the search box of the Nature's Compass."
+            "text": "$(li)You can find some water vegetation like Seagrass or Tall Purple Pickerelweed.$(br)$(li)Some aquatic animals can like Salmons, Cods, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found inside of the water of this place.$(br)$(li)You can search this biome by typing the words $(l)Frozen River$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

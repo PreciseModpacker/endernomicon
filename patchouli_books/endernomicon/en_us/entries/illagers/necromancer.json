@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Necromander really knows how to use dark magic very well.$(br)$(li)If it detects any nearby $(l:patchouli:villagers/villager)Villager$(/l) or you, it will not hesitate to use it to summon $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) to make them attack.$(br)$(li)On death it may drops $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) or a $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l)."
+            "text": "$(li)The Necromander really knows how to use dark magic very well.$(br)$(li)If it detects any nearby $(l:patchouli:villagers/villager)Villager$(/l) or you, it will not hesitate to use it to summon $(l:patchouli:creatures/vanilla/zombie)Zombies$(/l) to make them attack.$(br)$(li)On death it may drop $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) or a $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l)."
         },
         {
             "type": "patchouli:entity",

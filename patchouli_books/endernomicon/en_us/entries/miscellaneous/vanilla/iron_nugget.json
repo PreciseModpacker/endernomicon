@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Candle Holder$(li)Iron Gate$(br)$(li)Some mobs like Garches, Gobs, or Hobgobs may drops it too."
+            "text": "$(li)Candle Holder$(li)Iron Gate$(br)$(li)Some mobs like Garches, Gobs, or Hobgobs may drop it too."
         }
              ]
 }

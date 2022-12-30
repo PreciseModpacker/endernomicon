@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Turtles are common passive animals that can be found in the $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/seagrass)Seagrass$(/l) upon death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/seagrass)Seagrass$(/l), then, this animal dig in a nearby sand block which to lay its eggs."
+            "text": "$(li)Turtles are common passive animals that can be found in the $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/seagrass)Seagrass$(/l) upon death.$(br)$(li)They can be bred by giving them $(l:patchouli:miscellaneous/vanilla/seagrass)Seagrass$(/l), then, this animal dig in a nearby sand block which to lay its eggs."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:turtle",
             "scale": 0.5,
-            "text": "When the baby turtle borns from the turtle egg, it may drops a $(l:patchouli:miscellaneous/vanilla/scute)Scute$(/l)."
+            "text": "When the baby turtle borns from the turtle egg, it may drop a $(l:patchouli:miscellaneous/vanilla/scute)Scute$(/l)."
         }
              ]
 }

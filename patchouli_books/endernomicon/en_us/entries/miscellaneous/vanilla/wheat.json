@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:wheat",
-            "text": "$(li)Wheat can be obtained from $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l). $(l:patchouli:creatures/vanilla/cow)Cows$(/l) can be bred giving this item to them.$(br)$(li)You can put Wheat in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Wheat by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
+            "text": "$(li)Wheat can be obtained from $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l). $(l:patchouli:creatures/vanilla/cow)Cows$(/l) can be bred by giving this item to them.$(br)$(li)You can put Wheat in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).$(br)$(li)$(l:patchouli:villagers/farmer)Farmers$(/l) will exchange your Wheat by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {

@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If you break a leafcutter anthill the Leafcutter Ant Queen will appears.$(br)$(li)This is a bigger and stronger version of the worker Leafcutter Ant.$(br)$(li)Ant Queens may drop a $(l:patchouli:miscellaneous/alexsmobs/leafcutter_ant_pupa)Leafcutter Ant Pupa$(/l) upon death."
+            "text": "$(li)If you break a leafcutter anthill the Leafcutter Ant Queen will appear.$(br)$(li)This is a bigger and stronger version of the worker Leafcutter Ant.$(br)$(li)Ant Queens may drop a $(l:patchouli:miscellaneous/alexsmobs/leafcutter_ant_pupa)Leafcutter Ant Pupa$(/l) upon death."
         },
         {
             "type": "patchouli:empty_page"
