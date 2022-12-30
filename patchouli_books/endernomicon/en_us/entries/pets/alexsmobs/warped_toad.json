@@ -3,7 +3,7 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:warped_toad",
     "pages": [
         {
             "type": "patchouli:text",
@@ -17,6 +17,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Warped Toads can be tamed with $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larvas$(/l).$(br)$(li)Once tamed, you can command a Warped Toad to sit, follow or wander. These creatures will defend their owner from another creatures.$(br)$(li)Tamed Warped Toads can be bred giving to them $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larvas$(/l).$(br)$(li)They may drop $(l:patchouli:decoration/vanilla/shroomlight)Shroomlight$(/l) or $(l:patchouli:miscellaneous/vanilla/nether_wart)Nether Wart$(/l) upon death."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

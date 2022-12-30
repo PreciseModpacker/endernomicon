@@ -53,8 +53,7 @@
             "recipe2": "inspirations:building/books/black"
         },
         {
-            "type": "patchouli:text",
-            "text": "Insert a picture of different Books"
+            "type": "patchouli:empty_page"
         }
              ]
 }

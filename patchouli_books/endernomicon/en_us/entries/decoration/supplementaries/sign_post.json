@@ -3,6 +3,7 @@
     "icon": "supplementaries:sign_post_oak",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:signs",
     "pages": [
         {
             "type": "patchouli:spotlight",

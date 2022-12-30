@@ -10,6 +10,9 @@
             "recipe": "outvoted:prismarine_rod",
             "text": "$(li)The Prismarine Rod is a hard material that can be used to craft a $(l:patchouli:weapons/trident)Trident$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

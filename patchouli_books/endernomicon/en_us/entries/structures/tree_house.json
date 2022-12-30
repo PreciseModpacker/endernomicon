@@ -3,7 +3,7 @@
     "icon": "alexsmobs:banana",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:tree_house",
     "pages": [
         {
             "type": "patchouli:text",

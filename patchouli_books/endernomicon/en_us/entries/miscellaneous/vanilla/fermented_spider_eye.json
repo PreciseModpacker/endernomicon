@@ -8,8 +8,12 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:fermented_spider_eye",
-            "text": "$(li)The Fermented Spider Eye is an item that can be used to brew a $(l:patchouli:potions/vanilla/weakness)Potion of Weakness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)It can be used to craft $(l)Magic Beans$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)The Fermented Spider Eye is an item that can be used to brew a $(l:patchouli:potions/vanilla/weakness)Potion of Weakness$(/l), $(l:patchouli:potions/vanilla/harming)Harming$(/l), $(l:patchouli:potions/buzzier_bees/bad_luck)Bad Luck$(/l), $(l:patchouli:potions/vanilla/slowness)Slowness$(/l), $(l:patchouli:potions/atmospheric/worsening)Worsening$(/l), $(l:patchouli:potions/upgrade_aquatic/insomnia)Insomnia$(/l), $(l:patchouli:potions/vanilla/invisibility)Invisibility$(/l) and $(l:patchouli:potions/upgrade_aquatic/vibing)Vibing$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)It can be used to craft $(l)Magic Beans$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

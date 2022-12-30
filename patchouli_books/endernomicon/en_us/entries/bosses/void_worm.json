@@ -16,6 +16,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)This creature is able to control the space, creating portals that allow it to teleporting between two points.$(br)$(li)You or any other creature can be teleported by these portals too.$(br)$(li)It drops two $(l:patchouli:miscellaneous/alexsmobs/void_worm_mandible)Void Worm Mandibles$(/l) and one $(l:patchouli:miscellaneous/alexsmobs/void_worm_eye)Void Worm Eye$(/l) upon death.$(br)$(li)These items don't have gravity, so you will have to figure out how reach them."
-        }  
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
              ]
 }

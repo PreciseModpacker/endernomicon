@@ -2,7 +2,7 @@
     "name": "Healing",
     "icon": "minecraft:potion{Potion:'minecraft:healing'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:glistering_melon_slice",
     "pages": [
         {
             "type": "patchouli:spotlight",

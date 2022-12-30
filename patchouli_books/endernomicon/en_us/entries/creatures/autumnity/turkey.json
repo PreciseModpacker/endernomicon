@@ -3,11 +3,11 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:turkey",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Turkey is a large bird that can be found in the $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forest$(/l).$(br)$(li)You can bred them giving $(l:patchouli:miscellaneous/autumnity/foul_berry)Foul Berries$(/l) to them.$(br)$(li)It may drops Feathers and Raw Turkey upon death."
+            "text": "$(li)The Turkey is a large bird that can be found in the $(l:patchouli:biomes/overworld/grass/maple_forest)Maple Forest$(/l).$(br)$(li)You can bred them giving $(l:patchouli:miscellaneous/autumnity/foul_berries)Foul Berries$(/l) to them.$(br)$(li)It may drops $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and Raw Turkey upon death."
         },
         {
             "type": "patchouli:entity",

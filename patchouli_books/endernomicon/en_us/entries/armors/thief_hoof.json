@@ -2,13 +2,13 @@
     "name": "Thief's Hood",
     "icon": "environmental:thief_hood",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
-    "sortnum": 28,
+    "sortnum": 29,
+    "advancement": "endernomicon:thief_hood",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "environmental:thief_hood",
-            "text": "$(li)The Thief's Hood has the Stealth effect, making it harder for other creatures to detect you.$(br)$(li)This effect can be upgraded by slaying other creatures.$(br)$(li)It can only be found in Dungeon Chests.",
+            "text": "$(li)The Thief's Hood has the Stealth effect, making it harder for other creatures to detect you.$(br)$(li)This effect can be upgraded by slaying other creatures.$(br)$(li)It can only be found inside of $(l:patchouli:perks/loot_chest)Loot Chests$(/l) over the Overworld.",
             "link_recipe": "true"
         },
         {
@@ -18,7 +18,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Stealth Levels$()$(br)$(li)Level 1   +0.15 Stealth$(br)   0/10 - Creatures Slain$(br)$(li)Level 2   +0.3 Stealth$(br)   10/50 - Creatures Slain$(br)$(li)Level 3   +0.45 Stealth$(br)   50/100 - Creatures Slain$(br)$(li)Level 4   +0.6 Stealth$(br)   100/500 - Creatures Slain$(br)$(li)Level 5   +0.75 Stealth$(br)   500/500 - Creatures Slain"
+            "title": "Stealth Levels",
+            "text": "$(li)Level 1   +0.15 Stealth$(br)   0/10 - Creatures Slain$(br)$(li)Level 2   +0.3 Stealth$(br)   10/50 - Creatures Slain$(br)$(li)Level 3   +0.45 Stealth$(br)   50/100 - Creatures Slain$(br)$(li)Level 4   +0.6 Stealth$(br)   100/500 - Creatures Slain$(br)$(li)Level 5   +0.75 Stealth$(br)   500/500 - Creatures Slain"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

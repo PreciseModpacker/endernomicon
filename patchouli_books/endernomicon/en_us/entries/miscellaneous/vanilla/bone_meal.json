@@ -24,7 +24,7 @@
         {
             "type": "patchouli:smelting",
             "recipe": "quark:tweaks/smelting/bone_meal_utility",
-            "text": "$(li)You can obtain $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) Smelting the Bones in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) too.$(br)$(li)Finally, $(l:patchouli:creatures/alexsmobs/blobfish)Blobfish$(/l), $(l:patchouli:creatures/vanilla/cod)Cods$(/l), $(l:patchouli:creatures/environmental/koi)Kois$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l), $(l:patchouli:creatures/vanilla/perch)Perch$(/l), $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/vanilla/salmon)Salmons$(/l), or $(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fish$(/l) may drop this item too."
+            "text": "$(li)You can obtain $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) Smelting the Bones in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) too.$(br)$(li)Finally, $(l:patchouli:creatures/alexsmobs/blobfish)Blobfish$(/l), $(l:patchouli:creatures/vanilla/cod)Cods$(/l), $(l:patchouli:creatures/environmental/koi)Kois$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l), $(l:patchouli:creatures/upgrade_aquatic/perch)Perch$(/l), $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/vanilla/salmon)Salmons$(/l), or $(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fish$(/l) may drop this item on death too."
         }
              ]
 }

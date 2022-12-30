@@ -3,7 +3,7 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:illager_general",
     "pages": [
         {
             "type": "patchouli:text",

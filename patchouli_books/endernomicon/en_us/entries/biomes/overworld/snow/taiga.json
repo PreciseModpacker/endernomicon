@@ -2,8 +2,8 @@
     "name": "Taiga",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:taiga",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l), $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l), $(l:patchouli:pets/alexsmobs/crow)Crows$(/l) and $(l:patchouli:pets/vanilla/fox)Foxes$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Taiga$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:taiga, minecraft:taiga_hills"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/taiga.png"

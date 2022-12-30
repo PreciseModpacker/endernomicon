@@ -3,7 +3,7 @@
     "icon": "minecraft:tnt_minecart",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:minecart",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -18,6 +18,9 @@
             "type": "patchouli:text",
             "title": "Ways to explode TNT",
             "text": "$(li)If it moves over a $(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l).$(br)$(li)If it is destroyed while in motion.$(br)$(li)If it is hitted by fire, lava, or an explosion.$(br)$(li)If it is hit by a $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

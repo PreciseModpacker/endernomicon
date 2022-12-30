@@ -2,7 +2,7 @@
     "name": "Unbreaking",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:unbreaking',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:unbreaking",
     "pages": [
         {
             "type": "patchouli:spotlight",

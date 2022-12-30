@@ -2,7 +2,7 @@
     "name": "Rain Forest",
     "icon": "minecraft:mossy_cobblestone",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:rainforest",
     "sortnum": 0,
     "pages": [
         {
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals such as $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) can be found here too.$(br)$(li)You can find an exclusive kind of $(l:patchouli:creatures/vanilla/spider)Spider$(/l) in this biome known as the $(l:patchouli:creatures/neapolitan/plantain_spider)Plantain Spider$(/l).$(br)$(li)You can search this biome by typing the word $(l)Rainforest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)atmospheric:rainforest,atmospheric:rainforest_basin,atmospheric:rainforest_mountains,atmospheric:rainforest_plateau,atmospheric:sparse_rainforest_basin,atmospheric:sparse_rainforest_plateau,"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/rain_forest.png"

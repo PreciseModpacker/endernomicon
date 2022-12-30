@@ -1,6 +1,6 @@
 {    
     "name": "Snow",
-    "icon": "minecraft:snow",
+    "icon": "minecraft:snow_block",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
     "advancement": "endernomicon:snowball",

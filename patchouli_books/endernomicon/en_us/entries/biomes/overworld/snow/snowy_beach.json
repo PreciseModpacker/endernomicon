@@ -1,9 +1,9 @@
 {    
     "name": "Snowy Beach",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:snowy_beach",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)$(l:patchouli:creatures/alexsmobs/seal)Seals$(/l) can be found lying on the ice of these beaches.$(br)$(li)You can search this biome by typing the words $(l)Snowy Beach$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "minecraft:snowy_beach"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/snowy_beach.png"

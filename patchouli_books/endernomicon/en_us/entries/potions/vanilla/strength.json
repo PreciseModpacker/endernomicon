@@ -2,7 +2,7 @@
     "name": "Strength",
     "icon": "minecraft:potion{Potion:'minecraft:strength'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:blaze_powder",
     "pages": [
         {
             "type": "patchouli:spotlight",

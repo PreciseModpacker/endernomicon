@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_block",
     "category": "patchouli:villagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:iron_golem",
     "pages": [
         {
             "type": "patchouli:text",
@@ -30,6 +30,9 @@
                  },
                  "symmetrical": true
             }
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

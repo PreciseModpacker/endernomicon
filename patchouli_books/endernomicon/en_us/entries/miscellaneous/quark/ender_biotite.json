@@ -10,6 +10,9 @@
             "recipe": "quark:world/smelting/biotite",
             "text": "$(li)The Ender Biotite is an item that you can use to craft a $(l:patchouli:utility/quark/biotite_block)Block of Biotite$(/l), a $(l:patchouli:redstone/quark/redstone_randomizer)Redstone Randomizer$(/l), or a $(l:patchouli:redstone/quark/weather_detector)Weather Detector$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can obtain this item Smelting Biotite Ore in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

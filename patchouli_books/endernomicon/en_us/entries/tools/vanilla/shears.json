@@ -47,13 +47,11 @@
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/shears_9.png",
-            "text": "$(li)$(l:patchouli:creatures/vanilla/bee)Bees$(/l) will be aggresive to you after do this."
-        },
-        {
-            "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/tools/shears_8.png",
             "text": "$(li)You can use Shears to harvest tree leaves too."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

@@ -1,9 +1,9 @@
 {    
     "name": "Coral Squid",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:coral_squid",
     "pages": [
         {
             "type": "patchouli:text",

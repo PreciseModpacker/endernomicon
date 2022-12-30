@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:sugar_from_sugar_cane",
-            "text": "$(li)Sugar is a sweet flavour that can be obtained placing a $(l:patchouli:miscallenous/vanilla/sugar_cane)Sugar Cane$(/l), $(l:patchouli:tools/autumnity/sap_bottle)Sap Bottle$(/l), or $(l:patchouli:tools/vanilla/honey_bottle)Honey Bottle$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)Sugar is a sweet flavour that can be obtained placing a $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l), $(l:patchouli:tools/autumnity/sap_bottle)Sap Bottle$(/l), or $(l:patchouli:tools/vanilla/honey_bottle)Honey Bottle$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {
@@ -29,6 +29,9 @@
             "type": "patchouli:text",
             "title": "Other Items",
             "text": "$(li)$(l:patchouli:utility/charm/block_of_sugar)Sugar Block$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/fermented_spider_eye)Fermented Spider Eye$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

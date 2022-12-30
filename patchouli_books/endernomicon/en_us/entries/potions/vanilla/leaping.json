@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'minecraft:leaping'}",
-            "text": "$(li)Leaping potions will increase your jump height for a couple of time.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/vanilla/golden_frog_leg)Golden Frog Leg$(/l) or $(l:patchouli:miscellaneous/vanilla/rabbit_foot)Rabbit's Foot$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
+            "text": "$(li)Leaping potions will increase your jump height for a couple of time.$(br)$(li)They can be brewed using a $(l:patchouli:miscellaneous/quark/golden_frog_leg)Golden Frog Leg$(/l) or $(l:patchouli:miscellaneous/vanilla/rabbit_foot)Rabbit's Foot$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)."
         },
         {
             "type": "potion",
@@ -134,6 +134,9 @@
             "input": "minecraft:dragon_breath",
             "input2": "minecraft:splash_potion{Potion:'minecraft:strong_leaping'}",
             "output": "minecraft:lingering_potion{Potion:'minecraft:strong_leaping'}"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

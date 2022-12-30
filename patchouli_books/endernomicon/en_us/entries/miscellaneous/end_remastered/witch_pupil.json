@@ -3,7 +3,7 @@
     "icon": "endrem:witch_pupil",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:witch_pupil",
     "pages": [
         {
             "type": "patchouli:spotlight",

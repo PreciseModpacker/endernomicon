@@ -3,7 +3,7 @@
     "icon": "inspirations:torch_lever",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:torch",
     "pages": [
         {
             "type": "patchouli:crafting",

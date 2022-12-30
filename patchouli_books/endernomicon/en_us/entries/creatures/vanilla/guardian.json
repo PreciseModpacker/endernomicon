@@ -1,9 +1,9 @@
 {    
     "name": "Guardian",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:guardian",
     "pages": [
         {
             "type": "patchouli:text",

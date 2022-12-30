@@ -10,6 +10,9 @@
             "item": "supplementaries:flax_seeds",
             "text": "$(li)Flax Seeds can be plant in farmland to generate $(l:patchouli:miscellaneous/supplementaries/flax)Flax$(/l).$(br)$(li)You can use Flax Seeds to craft a $(l:patchouli:tools/quark/seed_pouch)Seed Pouch$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)Finally you can put Flax Seeds in a $(l:patchouli:utility/vanilla/composter)Composter$(/l) to generate $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

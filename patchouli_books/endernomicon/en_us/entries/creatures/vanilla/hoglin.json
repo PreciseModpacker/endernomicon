@@ -3,7 +3,7 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:hoglin",
     "pages": [
         {
             "type": "patchouli:text",
@@ -20,6 +20,9 @@
             "entity": "minecraft:zoglin",
             "scale": 0.45,
             "text": "The Zoglin is a variant of the common Hoglin than drops $(l:patchouli:miscellaneous/vanilla/rotten_flesh)Rotten Flesh$(/l) upon death. It will even attack $(l:patchouli:utility/vanilla/armor_stand)Armor Stands$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

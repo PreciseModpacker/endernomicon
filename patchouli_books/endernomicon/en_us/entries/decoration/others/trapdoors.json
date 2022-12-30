@@ -3,6 +3,7 @@
     "icon": "minecraft:oak_trapdoor",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -185,6 +186,9 @@
         {
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_trapdoor"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

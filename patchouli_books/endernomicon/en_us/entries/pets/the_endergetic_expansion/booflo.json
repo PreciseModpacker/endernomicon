@@ -3,7 +3,7 @@
     "icon": "minecraft:end_stone",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:booflo",
     "pages": [
         {
             "type": "patchouli:text",
@@ -26,7 +26,10 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tamed Booflos can be breed giving them $(l:patchouli:miscellaneous/endergetic/poise_cluster)Poise Clusters$(/l).$(br)$(li)These interesting creatures may drop Booflo Hide upon death.$(br)$(li)Booflos collars can be tinted right clicking on them while you are holding a Dye in your hand."
+            "text": "$(li)Tamed Booflos can be bred by giving them $(l:patchouli:miscellaneous/endergetic/poise_cluster)Poise Clusters$(/l).$(br)$(li)These interesting creatures may drop Booflo Hide upon death.$(br)$(li)Booflos collars can be tinted right clicking on them while you are holding a Dye in your hand."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -2,8 +2,8 @@
     "name": "Snowy Taiga",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:snowy_taiga",
     "pages": [
         {
             "type": "patchouli:text",

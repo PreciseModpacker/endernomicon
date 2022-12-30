@@ -3,7 +3,7 @@
     "icon": "minecraft:mycelium",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:mungus",
     "pages": [
         {
             "type": "patchouli:text",

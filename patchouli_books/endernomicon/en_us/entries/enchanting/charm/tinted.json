@@ -2,13 +2,16 @@
     "name": "Tinted",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:tinted",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
             "text": "$(li)The Tinted enchantment can be applied in a $(l:patchouli:weapons/wooden_sword)Sword$(/l), $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l), $(l:patchouli:tools/vanilla/shears)Shears$(/l), $(l:patchouli:weapons/bow)Bow$(/l), $(l:patchouli:weapons/crossbow)Crossbow$(/l), $(l:patchouli:tools/vanilla/fishing_rod)Fishing Rod$(/l), $(l:patchouli:weapons/trident)Trident$(/l), $(l:patchouli:armors/elytra)$(l:patchouli:weapon/crossbow)$(l:patchouli:weapons/crossbow)Crossbow$(/l)$(/l)$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l), Helmet, Chestplate, Leggings and Boots.$(br)$(li)This enchantment allows changing the color of the enchantment glint using dye in a $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).",
             "title": "Tinted"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

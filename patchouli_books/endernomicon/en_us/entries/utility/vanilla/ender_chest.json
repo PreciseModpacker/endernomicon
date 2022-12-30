@@ -19,6 +19,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)To use the Ender Chest, first you need to place it.$(br)$(li)Then, right click on it you can access to a new inventory.$(br)$(li)Once placed, they can only be obtained with a pickaxe with $(l:patchouli:enchanting/vanilla/silk_touch)Silk Touch$(/l) enchant.$(br)$(li)If you try to mine the Ender Chest with a pickaxe that does not have this enchant, it will break."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

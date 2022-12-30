@@ -10,6 +10,9 @@
             "recipe": "alexsmobs:tarantula_hawk_wing",
             "text": "$(li)Two Tarantula Hawk Wing can be combined with an $(l:patchouli:armors/elytra)Elytra$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to make a $(l:patchouli:armors/tarantula_hawk_elytra)Tarantula Hawk Elytra$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

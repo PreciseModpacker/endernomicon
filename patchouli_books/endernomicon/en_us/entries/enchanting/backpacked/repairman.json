@@ -2,7 +2,7 @@
     "name": "Repairman",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:repairman',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:repairman",
     "pages": [
         {
             "type": "patchouli:spotlight",

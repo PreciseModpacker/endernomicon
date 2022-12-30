@@ -3,7 +3,7 @@
     "icon": "endermonicon:textures/book/categories/illagers.png",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:pillager",
     "pages": [
         {
             "type": "patchouli:text",
@@ -12,7 +12,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/illagers/raid.png",
-            "text": "$(li)Defend the village from various waves of Illagers and you will become the $(l)Hero of the Village$()."
+            "text": "$(li)Defend the village from various waves of Illagers and you will become the $(l:patchouli:villagers/hero_of_the_village)Hero of the Village$(/l)."
         }  
              ]
 }

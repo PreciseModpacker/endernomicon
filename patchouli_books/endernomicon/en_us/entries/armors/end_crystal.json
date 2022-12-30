@@ -2,12 +2,12 @@
     "name": "End Crystal Armor",
     "icon": "endrem:end_crystal_helmet",
     "category": "patchouli:armors",
-    "sortnum": 32,
+    "sortnum": 27,
     "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The End Crystal Armor is the best armor that you can create.$(br)$(li)The durability of this armor is even better than the $(l:patchouli:armors/netherite_armor)Netherite Armor$(/l).$(br)$(li)When you are wearing any piece of this set and you make a critical attack, you obtain the Regeneration II effect, regenerating your life."
+            "text": "$(li)The End Crystal Armor is the best armor that you can create.$(br)$(li)The durability of this armor is even better than the $(l:patchouli:armors/netherite_armor)Netherite Armor$(/l).$(br)$(li)When you are wearing any piece of this set and you make a critical attack, you obtain the $(l:patchouli:potions/vanilla/regeneration)Regeneration$(/l) II effect, regenerating your life."
         },
         {
             "type": "patchouli:entity",
@@ -16,7 +16,7 @@
         {
             "type": "patchouli:text",
             "name": "End Crystal Armor",
-            "text": "$(li)This armor has Armour Toughness, giving you an extra protection from strong attacks.$(br)$(li)It has Knockback Resistance too, helping you to resist that other enemies push you far away.$(br)$(li)If you are wearing any piece of this suit, the Pigmen will not be aggressive towards you."
+            "text": "$(li)This armor has Armour Toughness, giving you an extra protection from strong attacks.$(br)$(li)It has $(l:patchouli:potions/alexsmobs/knockback_resistance)Knockback Resistance$(/l) too, helping you to resist that other enemies push you far away.$(br)$(li)If you are wearing any piece of this suit, $(l:patchouli:creatures/vanilla/pigmen)Pigmen$(/l) will not be aggressive towards you."
         },
         {
             "type": "patchouli:text",

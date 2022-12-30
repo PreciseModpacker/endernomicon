@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Emerald Armor is a bit better than the $(l:patchouli:armors/bone_armor)Bone Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Luck II effect, considerably increasing the probability of better loot in the next loot chests that generates naturally."
+            "text": "$(li)The Emerald Armor is a bit better than the $(l:patchouli:armors/bone_armor)Bone Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:potions/buzzier_bees/luck)Luck$(/l) II effect, considerably increasing the probability of better loot in the next $(l:patchouli:perks/loot_chest)Loot Chests$(/l) that generates naturally."
         },
         {
             "type": "patchouli:entity",

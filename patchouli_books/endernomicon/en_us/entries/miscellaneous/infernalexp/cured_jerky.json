@@ -10,6 +10,9 @@
             "recipe": "infernalexp:crafting/crafting_shaped/cured_jerky",
             "text": "$(li)Cured Jerky is a new kind of food that will give you the $(l:patchouli:potions/vanilla/swiftness)Swiftness$(/l) II effect for seven seconds when you eat it.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

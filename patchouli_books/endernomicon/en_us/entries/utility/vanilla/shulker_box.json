@@ -19,6 +19,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Then you can break it with to drop the item and save it in your inventory.$(br)$(li)$(l:patchouli:enchanting/shulker_enchantments/siphon)Siphon$(/l) and $(l:patchouli:enchanting/shulker_enchantments/refill)Refill$(/l) enchantments can be applied to the Shulker Boxes.$(br)$(li)You will need to place one of these enchanted books and the Shulker Box in an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l).$(br)$(li)Shulkerboxes can be tinted with Dyes in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l). "
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

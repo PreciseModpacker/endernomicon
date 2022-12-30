@@ -2,12 +2,12 @@
     "name": "Swiftness",
     "icon": "minecraft:potion{Potion:'minecraft:swiftness'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:sugar",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'minecraft:swiftness'}",
-            "text": "Swifness potions allow you to run more faster than normal.$(br2)They can be brewed using $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients.$(br2)Additionally the maximum level of this potion, can be brewed using a Gazelle Horn and Potion Of Swiftness II as ingredients."
+            "text": "Swifness potions allow you to run more faster than normal.$(br2)They can be brewed using $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l) and $(l:patchouli:potions/vanilla/awkward)Awkward Potions$(/l) as ingredients.$(br2)Additionally the maximum level of this potion, can be brewed using a $(l:patchouli:miscellaneous/alexsmobs/gazelle_horn)Gazelle Horn$(/l) and $(l)Potion Of Swiftness II$() as ingredients."
         },
         {
             "type": "potion",

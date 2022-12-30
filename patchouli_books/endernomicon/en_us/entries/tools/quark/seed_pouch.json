@@ -29,6 +29,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Holding the seed pouch in either hand will have picked up seeds of that type go directly in the bag.$(br)$(li)If the Usage Ticker feature is enabled, it'll show how many seeds you have left."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

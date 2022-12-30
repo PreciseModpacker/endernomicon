@@ -1,9 +1,9 @@
 {    
     "name": "Thrasher",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:thrasher",
     "pages": [
         {
             "type": "patchouli:text",
@@ -17,6 +17,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/creatures/great_thrasher.png",
             "text": "$(li)It exists an even dangerous and rarely version of this creature known as the $(l)Great Thrasher$()."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
              ]
 }

@@ -10,6 +10,9 @@
             "item": "infernalexp:moth_dust",
             "text": "$(li)The Moth Dust is a special ingredient that can be used to brew a $(l:patchouli:potions/infernal_expansion/luminance)Potion of Luminance$(/l).$(br)$(li)This item can be used to craft $(l:patchouli:miscellaneous/infernalexp/glowsilk)Glowsilk$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/infernal_expansion/glowsilk_moth)Glowsilk Moths$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

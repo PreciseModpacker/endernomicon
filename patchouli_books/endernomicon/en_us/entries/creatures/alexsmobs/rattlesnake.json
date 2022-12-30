@@ -17,6 +17,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Rattlesnakes can be bred with any type of meat.$(br)$(li)Rattlesnakes are the favourite prey of the $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l).$(br)$(li)Rattlesnakes may drop a $(l:patchouli:miscellaneous/alexsmobs/rattlesnake_rattle)Rattlesnake Rattle$(/l) upon death."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

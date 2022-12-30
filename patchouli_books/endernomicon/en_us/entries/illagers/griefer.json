@@ -3,7 +3,7 @@
     "icon": "savageandravage:spore_bomb",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:griefer",
     "pages": [
         {
             "type": "patchouli:text",

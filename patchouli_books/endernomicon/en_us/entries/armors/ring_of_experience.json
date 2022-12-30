@@ -2,14 +2,18 @@
     "name": "Ring of Experience",
     "icon": "goblinsanddungeons:ring_of_experience",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:ring_of_experience",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "goblinsanddungeons:ring_of_experience",
-            "text": "$(li)The Ring of Experience makes you obtain more experience levels than normally.$(br)$(li)It can only be found in Loot Chests of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).$(br)$(li)This ring can't be equipped, you have to hold it in your offhand to active its effects.",
+            "text": "$(li)The Ring of Experience makes you obtain more experience levels than normally.$(br)$(li)It can only be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) inside of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)This ring can not be equipped, you have to hold it in your offhand to active its effects."
         }
              ]
 }

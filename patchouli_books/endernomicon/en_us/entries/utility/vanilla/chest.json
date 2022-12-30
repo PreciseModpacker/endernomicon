@@ -3,6 +3,7 @@
     "icon": "minecraft:chest",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -220,6 +221,9 @@
             "recipe": "quark:building/crafting/chests/purpur_chest",
             "recipe2": "endergetic:poise_chest",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

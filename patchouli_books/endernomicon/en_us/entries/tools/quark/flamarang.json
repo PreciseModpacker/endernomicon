@@ -11,12 +11,13 @@
             "input": "quark:pickarang",
             "input2": "minecraft:netherite_ingot",
             "output": "quark:flamerang",
-            "text": "$(li)The Flamarang is the better version of the $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) because its better durability.$(br)$(li)It can be made in a $(l:patchouli:utility/smithing_table)Smithing Table$(/l) with a $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) and a $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l).",
+            "text": "$(li)The Flamarang is the better version of the $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) because its better durability.$(br)$(li)It can be made in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l) with a $(l:patchouli:tools/quark/pickarang)Pickarang$(/l) and a $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "The Flamarang can be Enchanted with multiples enchantments:$(br)$(li)$(l:patchouli:enchanting/charm/tinted)Tinted$(/l)$(li)$(l:patchouli:enchanting/vanilla/bane_of_arthropods)Bane of Arthropods$(/l)$(li)$(l:patchouli:enchanting/vanilla/mending)Mending$(/l)$(li)$(l:patchouli:enchanting/vanilla/sharpness)Sharpness$(/l)$(li)$(l:patchouli:enchanting/vanilla/smite)Smite$(/l)$(li)$(l:patchouli:enchanting/vanilla/curse_of_vanishing)Curse of Vanishing$(/l)$(li)$(l:patchouli:enchanting/vtweaks/imperishable)Imperishable$(/l)$(li)$(l:patchouli:enchanting/vtweaks/lumbering)Lumbering$(/l)$(li)$(l:patchouli:enchanting/vanilla/efficiency)Efficiency$(/l)$(li)$(l:patchouli:enchanting/vanilla/unbreaking)Unbreaking$(/l)$(li)$(l:patchouli:enchanting/vanilla/fortune)Fortune$(/l)$(li)$(l:patchouli:enchanting/vanilla/silk_touch)Silk Touch$(/l)$(li)$(l:patchouli:enchanting/vanilla/piercing)Piercing$(/l)"
+            "title": "Flamarang Enchantments",
+            "text": "$(li)$(l:patchouli:enchanting/charm/tinted)Tinted$(/l)$(li)$(l:patchouli:enchanting/vanilla/bane_of_arthropods)Bane of Arthropods$(/l)$(li)$(l:patchouli:enchanting/vanilla/mending)Mending$(/l)$(li)$(l:patchouli:enchanting/vanilla/sharpness)Sharpness$(/l)$(li)$(l:patchouli:enchanting/vanilla/smite)Smite$(/l)$(li)$(l:patchouli:enchanting/vanilla/curse_of_vanishing)Curse of Vanishing$(/l)$(li)$(l:patchouli:enchanting/vtweaks/imperishable)Imperishable$(/l)$(li)$(l:patchouli:enchanting/vtweaks/lumbering)Lumbering$(/l)$(li)$(l:patchouli:enchanting/vanilla/efficiency)Efficiency$(/l)$(li)$(l:patchouli:enchanting/vanilla/unbreaking)Unbreaking$(/l)$(li)$(l:patchouli:enchanting/vanilla/fortune)Fortune$(/l)$(li)$(l:patchouli:enchanting/vanilla/silk_touch)Silk Touch$(/l)$(li)$(l:patchouli:enchanting/vanilla/piercing)Piercing$(/l)"
         }
              ]
 }

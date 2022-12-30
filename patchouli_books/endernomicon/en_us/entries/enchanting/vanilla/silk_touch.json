@@ -2,13 +2,16 @@
     "name": "Silk Touch",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:silk_touch',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:silk_touch",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:silk_touch',lvl:1}]}",
             "text": "$(li)The Silk Touch enchantment can be applied in any kind of $(l:patchouli:tools/vanilla/wooden_pickaxe)Pickaxe$(/l), $(l:patchouli:tools/vanilla/wooden_shovel)Shovel$(/l), $(l:patchouli:weapons/wooden_axe)Axe$(/l), $(l:patchouli:tools/vanilla/wooden_hoe)Hoe$(/l), $(l:patchouli:tools/quark/pickarang)Pickarang$(/l), $(l:patchouli:tools/quark/flamarang)Flamarang$(/l) or $(l:patchouli:tools/vanilla/shears)Shears$(/l).$(br)$(li)This enchantment allows fragile blocks as $(l:patchouli:decoration/others/glass)Glass$(/l) to be collected by the enchanted tool.",
             "title": "Silk Touch"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

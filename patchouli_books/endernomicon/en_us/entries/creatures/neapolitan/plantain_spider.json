@@ -3,11 +3,11 @@
     "icon": "neapolitan:banana",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:plantain_spider",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Plantain Spiders are a variant of the $(l:patchouli:creatures/vanilla/spider)Spiders$(/l).$(br)$(li)They can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) and $(l:patchouli:biomes/overworld/grass/rainforest)Rain Forests$(/l) of the Overworld.$(br)$(li)They can appears when you break a $(l)Banana Bundle$() too."
+            "text": "$(li)Plantain Spiders are a variant of the $(l:patchouli:creatures/vanilla/spider)Spiders$(/l).$(br)$(li)They can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l), $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) and $(l:patchouli:biomes/overworld/grass/rainforest)Rain Forests$(/l) of the Overworld.$(br)$(li)They can appears when you break a $(l:patchouli:miscellaneous/neapolitan/banana_bundle)Banana Bundle$(/l) too."
         },
         {
             "type": "patchouli:entity",

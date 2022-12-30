@@ -3,7 +3,7 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:raccoon",
     "pages": [
         {
             "type": "patchouli:text",

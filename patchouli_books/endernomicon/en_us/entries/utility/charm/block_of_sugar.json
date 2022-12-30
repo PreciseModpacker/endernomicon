@@ -3,12 +3,15 @@
     "icon": "charm:sugar_block",
     "category": "patchouli:utility",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:sugar",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "charm:block_of_sugar/sugar_block",
             "text": "$(li)The Sugar Block is a new decorative block which obey gravity like sand and gravel.$(br)$(li)If this block touches water, it will dissolve into air."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

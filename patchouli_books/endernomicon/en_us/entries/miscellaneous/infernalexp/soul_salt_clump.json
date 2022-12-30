@@ -10,6 +10,9 @@
             "item": "infernalexp:soul_salt_clump",
             "text": "$(li)The Soul Salt Clump can be used to craft the $(l)Charged Chiseled Soul Slate Brick$(), $(l)Charged Chiseled Soul Stone Brick$() and $(l:patchouli:miscellaneous/infernalexp/cured_jerky)Cured Jerky$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/infernal_expansion/embody)Embodies$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

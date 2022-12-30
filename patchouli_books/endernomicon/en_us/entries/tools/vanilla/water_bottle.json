@@ -3,13 +3,16 @@
     "icon": "minecraft:potion{Potion:'minecraft:water'}",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:glass_bottle",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:potion{Potion:'minecraft:water'}",
             "text": "$(li)Water Bottles contains water in their interior.$(br)$(li)They can be used to brew an $(l:patchouli:potions/vanilla/awkward)Awkward Potion$(/l) and a $(l:patchouli:potions/vanilla/weakness)Potion of Weakness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)They can be used to craft a $(l:patchouli:tools/inspirations/barometer)Barometer$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

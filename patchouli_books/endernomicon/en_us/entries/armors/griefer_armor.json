@@ -2,8 +2,8 @@
     "name": "Griefer Armor",
     "icon": "savageandravage:griefer_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 14,
+    "advancement": "savageandravage:adventure/creeper_spores",
     "pages": [
        {
             "type": "patchouli:text",

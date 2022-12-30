@@ -2,7 +2,7 @@
     "name": "Netherite Armor",
     "icon": "minecraft:netherite_helmet",
     "category": "patchouli:armors",
-    "sortnum": 27,
+    "sortnum": 26,
     "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {

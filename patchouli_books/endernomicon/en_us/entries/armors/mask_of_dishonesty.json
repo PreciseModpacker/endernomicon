@@ -2,12 +2,12 @@
     "name": "Mask of Dishonesty",
     "icon": "savageandravage:mask_of_dishonesty",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 42,
+    "advancement": "endernomicon:mask_of_dishonesty",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mask of Dishonesty is a helmet that doesn't provide too much protection.$(br)$(li)However, it offers you invisibility while crouched.$(br)$(li)It can only be dropped by a $(l:patchouli:illagers/tricker)Tricker$(/l) upon death."
+            "text": "$(li)The Mask of Dishonesty is a helmet that doesn't provide too much protection.$(br)$(li)However, it offers you invisibility while crouched.$(br)$(li)It can only be dropped by a $(l:patchouli:illagers/trickster)Trickster$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

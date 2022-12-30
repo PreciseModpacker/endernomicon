@@ -3,11 +3,12 @@
     "icon": "crumbs:oak_barrel",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "crumbs:oak_barrel",
-            "text": "$(li)The Barrel is a good alternative from the common Chest.$(br)$(li)It has the same capacity but it can be opened even if a block is on top of it.",  
+            "text": "$(li)The Barrel is a good alternative from the common $(l:patchouli:utility/vanilla/chest)Chests$(/l).$(br)$(li)It has the same capacity but it can be opened even if a block is on top of it.",  
             "link_recipe": "true"
         },
         {
@@ -32,6 +33,9 @@
             "recipe": "crumbs:crimson_barrel",
             "recipe2": "crumbs:warped_barrel",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -39,7 +39,7 @@
         {
             "type": "patchouli:text",
             "title": "Decoration",
-            "text": "$(li)$(l:patchouli:decoration/others/chains)Chains$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)Copper Lanterns$(/l)$(li)Factory Blocks$(li)Framed Glass$(li)Iron Bars$(li)$(l:patchouli:decoration/others/doors)Iron Door$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Iron Gate$(/l)$(li)$(l:patchouli:decoration/others/ladders)Iron Ladders$(/l)$(li)Iron Plate$(li)$(l:patchouli:decoration/others/iron_trapdoor)Iron Trapdoor$(/l)$(li)Rusty Iron Plate$(li)Tyrian"
+            "text": "$(li)$(l:patchouli:decoration/others/chains)Chains$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)Copper Lanterns$(/l)$(li)Factory Blocks$(li)Framed Glass$(li)Iron Bars$(li)$(l:patchouli:decoration/others/doors)Iron Door$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Iron Gate$(/l)$(li)$(l:patchouli:decoration/others/ladders)Iron Ladders$(/l)$(li)Iron Plate$(li)Iron Trapdoor$(li)Rusty Iron Plate$(li)Tyrian"
         },
         {
             "type": "patchouli:text",

@@ -3,11 +3,11 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:voline",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Voline is a hostile creature that can be found in $(l:patchouli:biomes/nether/nether_waste)Nether Wastes$(/l) of the Nether.$(br)$(li)Holding a $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Cream$(/l) in your hand in front of it will make it stop from attacking you temporarily.$(br)$(li)This creature may drops $(l:patchouli:miscellaneous/vanilla/gold_nugget)Golden Nuggets$(/l) upon death."
+            "text": "$(li)The Voline is a hostile creature that can be found in $(l:patchouli:biomes/nether/nether_wastes)Nether Wastes$(/l) of the Nether.$(br)$(li)Holding a $(l:patchouli:miscellaneous/vanilla/magma_cream)Magma Cream$(/l) in your hand in front of it will make it stop from attacking you temporarily.$(br)$(li)This creature may drops $(l:patchouli:miscellaneous/vanilla/gold_nugget)Golden Nuggets$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "inspirations:rope",
-            "text": "$(li)Ropes can be placed against a ceilling, on a $(l:patchouli:decoration/others/fences)Fence$(/l), $(l:patchouli:decoration/others/wall/wall)Wall$(/l) or next to other ropes.$(br)$(li)Just like $(l:patchouli:utility/vanilla/scaffolding)Scaffolding$(/l) they can only go that far out horizontally from they are no longe supported.$(br)$(li)Vertical ropes have no hitbox and can be climbed.",
+            "text": "$(li)Ropes can be placed against a ceilling, on a $(l:patchouli:decoration/others/fences)Fence$(/l), $(l:patchouli:decoration/others/walls)Wall$(/l) or next to other ropes.$(br)$(li)Just like $(l:patchouli:utility/vanilla/scaffolding)Scaffolding$(/l) they can only go that far out horizontally from they are no longe supported.$(br)$(li)Vertical ropes have no hitbox and can be climbed.",
             "link_recipe": "true",
             "title": "Rope (Inspirations)"
         },

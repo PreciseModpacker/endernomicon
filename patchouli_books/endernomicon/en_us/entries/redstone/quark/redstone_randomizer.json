@@ -2,7 +2,7 @@
     "name": "Redstone Randomizer",
     "icon": "quark:redstone_randomizer",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:biotite",
     "pages": [
         {

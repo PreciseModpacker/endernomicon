@@ -10,6 +10,9 @@
             "item": "endrem:end_crystal_fragment",
             "text": "$(li)The End Crystal fragment is a very rare ore that can only be found and mined in the $(l:patchouli:structures/bastion_remnant)Bastion Remnants$(/l) and in the $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l).$(br)$(li)This ore can be used to craft an $(l:patchouli:miscellaneous/end_remastered/end_crystal_ingot)End Crystal Ingot$(/l) or the $(l:patchouli:enders_journey/ender_eyes)End Crystal Eye$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -3,6 +3,7 @@
     "icon": "minecraft:cobblestone_wall",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:cobblestone",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -572,6 +573,9 @@
             "type": "patchouli:crafting",
             "recipe": "quark:world/crafting/walls/myalite_bricks_wall",
             "recipe2": "lepton:crafting/polished_myalite_wall"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
 
              ]

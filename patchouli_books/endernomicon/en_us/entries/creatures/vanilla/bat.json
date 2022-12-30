@@ -3,7 +3,7 @@
     "icon": "minecraft:stone",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:bat",
     "pages": [
         {
             "type": "patchouli:text",

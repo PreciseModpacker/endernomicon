@@ -2,13 +2,16 @@
     "name": "Stasis",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'supplementaries:stasis',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:stasis",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'supplementaries:stasis',lvl:1}]}",
             "text": "$(li)The Statis enchantment can be applied in a $(l:patchouli:tools/supplementaries/slingshot)Slingshot$(/l).$(br)$(li)This enchantment allows their projectiles to ignore gravity.",
             "title": "Stasis"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

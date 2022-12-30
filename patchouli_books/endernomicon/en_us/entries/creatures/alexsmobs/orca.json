@@ -1,9 +1,9 @@
 {    
     "name": "Orca",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "alexsmobs:alexsmobs/orcas_might",
     "pages": [
         {
             "type": "patchouli:text",
@@ -16,7 +16,10 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When you are near a Orca, you can obtain the rare $(l)Orca's Might$() effect which increases your attack speed."
+            "text": "$(li)When you are near an Orca, you can obtain the rare $(l)Orca's Might$() effect which increases your attack speed."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

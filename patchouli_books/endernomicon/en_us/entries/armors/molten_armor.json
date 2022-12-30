@@ -2,12 +2,12 @@
     "name": "Molten Armor",
     "icon": "extraarmor:molten_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 15,
+    "advancement": "minecraft:story/lava_bucket",
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Molten Armor is a bit better than the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Fire Resistance II effect, giving to you immunity to damage from fire, blaze fireballs, fire charges, magma blocks and lava."
+            "text": "$(li)The Molten Armor is a bit better than the $(l:patchouli:armors/griefer_armor)Griefer Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:potions/vanilla/fire_resistance)Fire Resistance$(/l) II effect.$(br)$(li)This effect gives to you immunity to damage from fire, $(l:patchouli:creatures/vanilla/blaze)Blaze$(/l) fireballs, $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charges$(/l), $(l:patchouli:miscellaneous/vanilla/magma_block)Magma Block$(/l) and lava."
         },
         {
             "type": "patchouli:entity",

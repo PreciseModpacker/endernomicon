@@ -1,9 +1,9 @@
 {    
-    "name": "Magic Staff",
+    "name": "Moobloom",
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:moobloom",
     "pages": [
         {
             "type": "patchouli:text",

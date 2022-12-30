@@ -2,8 +2,8 @@
     "name": "Desert",
     "icon": "minecraft:sand",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:desert",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals can withstand these harsh conditions, such as $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hasks$(/l).$(br)$(li)At night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome by typing the word $(l)Desert$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:desert,minecraft:desert_hills,minecraft:desert_lakes"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/desert.png"

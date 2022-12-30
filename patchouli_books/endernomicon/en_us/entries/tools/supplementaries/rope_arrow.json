@@ -3,13 +3,16 @@
     "icon": "supplementaries:rope_arrow",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:rope",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "supplementaries:rope_arrow",
             "text": "$(li)The Rope Arrow can be shoot like a common arrow, and it will deploy a $(l:patchouli:tools/supplementaries/rope)Rope$(/l) where it land.$(br)$(li)You can pick them back up to refill them with up to 16 ropes.",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

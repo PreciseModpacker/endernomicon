@@ -3,12 +3,12 @@
     "icon": "naturescompass:naturescompass",
     "category": "patchouli:perks",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:natures_compass",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "naturescompass:naturescompass",
-            "text": "$(li)The Nature's Compass is a new variant of the common $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)It can be used to find different Biomes.$(br)$(li)This will help you to find Creatures or Places which only exists in an specific Biome."
+            "type": "patchouli:crafting",
+            "recipe": "naturescompass:natures_compass",
+            "text": "$(li)The Nature's Compass is a new variant of the $(l:patchouli:tools/vanilla/compass)Compass$(/l) that can be used to find different Biomes.$(br)$(li)This will help you to find Creatures or Structures."
         },
         { 
             "type": "patchouli:small_pictures",

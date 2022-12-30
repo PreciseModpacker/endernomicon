@@ -3,13 +3,16 @@
     "icon": "alexsmobs:endolocator",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:endolocator",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:endolocator",
-            "text": "$(li)The Endolocator is an upgrade of the $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l).$(br)$(li)It can be used to find the location of the End Portal Room in $(l:patchouli:structures/stronghold)Strongholds$(/l) but it doesn't works in $(l:patchouli:structures/end_castle)End Castles$(/l) or $(l:patchouli:structures/end_gate)End Gates$(/l).",
+            "text": "$(li)The Endolocator is an upgrade of the $(l:patchouli:tools/alexsmobs/echolocator)Echolocator$(/l).$(br)$(li)It can be used to find the location of the End Portal Room in $(l)Strongholds$() but it doesn't work in $(l:patchouli:structures/end_castle)End Castles$(/l) or $(l:patchouli:structures/end_gate)End Gates$(/l).",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

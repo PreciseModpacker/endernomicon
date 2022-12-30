@@ -2,7 +2,7 @@
     "name": "Pressure Plate (Gold)",
     "icon": "minecraft:light_weighted_pressure_plate",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:gold_ingot",
     "pages": [
         {

@@ -48,6 +48,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/perks/jei_8.png",
             "text": "$(li)Finally, if you want to hide the interface you only have to press the Control + O keys in your keyboard. Do the same to show it again."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

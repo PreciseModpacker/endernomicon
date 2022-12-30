@@ -3,6 +3,7 @@
     "icon": "decorative_blocks:oak_support",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -62,9 +63,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "decorative_blocks:morado_support",
-            "recipe2": "decorative_blocks:river_support"
-        }
-          
+            "recipe": "decorative_blocks_abnormals:morado_support",
+            "recipe2": "decorative_blocks_abnormals:river_support"
+        } 
              ]
 }

@@ -3,7 +3,7 @@
     "icon": "supplementaries:turn_table",
     "category": "patchouli:redstone",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:turn_table",
     "pages": [
         {
             "type": "patchouli:crafting",

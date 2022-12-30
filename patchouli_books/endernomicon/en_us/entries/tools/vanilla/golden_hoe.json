@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:golden_hoe",
-            "text": "$(li)The Golden Hoe is the worst hoe that you can have because its durability is the lowest compared to other hoes." ,
+            "text": "$(li)The Golden Hoe is the worst hoe that you can have because its durability is the lowest compared even to the $(l:patchouli:tools/vanilla/wooden_hoe)Wooden Hoe$(/l)." ,
             "link_recipe": "true"
         },
         {

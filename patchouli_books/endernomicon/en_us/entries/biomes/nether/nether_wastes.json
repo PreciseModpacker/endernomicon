@@ -2,8 +2,8 @@
     "name": "Nether Wastes",
     "icon": "minecraft:netherrack",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:nether_wastes",
     "pages": [
         {
             "type": "patchouli:text",

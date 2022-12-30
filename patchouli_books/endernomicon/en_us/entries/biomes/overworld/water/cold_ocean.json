@@ -1,8 +1,8 @@
 {    
     "name": "Cold Ocean",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
+    "advancement": "endernomicon:cold_ocean",
     "sortnum": 0,
     "pages": [
         {

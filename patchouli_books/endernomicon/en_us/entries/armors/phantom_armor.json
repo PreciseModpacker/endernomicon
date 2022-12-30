@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Phantom Armor is a bit better than the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Slow Falling II effect, making you fall slow, so you will not take fall damage."
+            "text": "$(li)The Phantom Armor is a bit better than the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:potions/vanilla/slow_falling)Slow Falling$(/l) II effect, making you fall slow, so you will not take fall damage."
         },
         {
             "type": "patchouli:entity",

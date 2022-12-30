@@ -3,11 +3,14 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "illagers_plus:find_tower",
     "pages": [
         {
             "type": "patchouli:text",
             "text": "$(o)The Illagers, unlike the Villagers, are monarchists, which means that they obey without question the orders of their king, the Illager King.$(br2)$(o)Unfortunately, their current king does not have generosity as one of his virtues.$(br2)$(o)He is famous for storing great riches in his tower, which is located somewhere in the Overworld."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

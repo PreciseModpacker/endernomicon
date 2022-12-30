@@ -7,7 +7,7 @@
     "pages": [
        {
             "type": "patchouli:text",
-            "text": "$(li)The Ghost Armor is a bit better than the $(l:patchouli:armors/obsidian_armor)Obsidian Armor$(/l) and $(l:patchouli:armors/crying_obsidian_armor)Crying Obsidian Armor$(/l).$(br)$(li)If you wear a complete set, you will get the Invisibility II effect making you undetectable by other creatures."
+            "text": "$(li)The Ghost Armor is a bit better than the $(l:patchouli:armors/obsidian_armor)Obsidian Armor$(/l) and $(l:patchouli:armors/crying_obsidian_armor)Crying Obsidian Armor$(/l).$(br)$(li)If you wear a complete set, you will get the $(l:patchouli:potions/vanilla/invisibility)Invisibility$(/l) II effect making you undetectable by other creatures."
         },
         {
             "type": "patchouli:entity",

@@ -10,6 +10,9 @@
             "item": "endergetic:booflo_hide",
             "text": "$(li)The Booflo Hide is an item that can be used to craft $(l:patchouli:utility/endergetic/boof_block)Boof Blocks$(/l) and the $(l:patchouli:armors/booflo_vest)Booflo Vest$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

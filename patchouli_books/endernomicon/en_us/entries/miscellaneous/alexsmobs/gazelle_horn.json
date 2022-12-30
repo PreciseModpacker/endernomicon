@@ -10,6 +10,9 @@
             "item": "alexsmobs:gazelle_horn",
             "text": "$(li)The Gazelle Horn can be used to upgrade a $(l:patchouli:potions/vanilla/swiftness)Potion of Swiftness$(/l) II into Swiftness III in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

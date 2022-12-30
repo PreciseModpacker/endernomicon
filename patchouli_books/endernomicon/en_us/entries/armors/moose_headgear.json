@@ -15,7 +15,7 @@
             "type": "patchouli:entity",
             "name": "Antler Headdress",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{},{},{id:\"alexsmobs:moose_headgear\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
-            "text": "It gives Knockback, allowing you to push other creatures far away when you hit them.",
+            "text": "It gives $(l:patchouli:enchanting/vanilla/knockback)Knockback$(/l), allowing you to push other creatures far away when you hit them.",
             "offset": "0.1"
         }
              ]

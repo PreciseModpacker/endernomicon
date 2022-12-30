@@ -2,7 +2,7 @@
     "name": "Vibing",
     "icon": "minecraft:potion{Potion:'upgrade_aquatic:vibing'}",
     "category": "patchouli:potions",
-    "advancement": "endrem:main/witch_eye",
+    "advancement": "endernomicon:fermented_spider_eye",
     "pages": [
         {
             "type": "patchouli:spotlight",
@@ -106,6 +106,9 @@
             "input": "minecraft:dragon_breath",
             "input2": "minecraft:splash_potion{Potion:'upgrade_aquatic:vibing_strong'}",
             "output": "minecraft:lingering_potion{Potion:'upgrade_aquatic:vibing_strong'}"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -3,11 +3,11 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:toretoise",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Toretoises are neutral creatures that spawn deep underground on the Overworld.$(br)$(li)Toretoises will sink in water, and are immune to drowning, fall, and fire damage.$(br)$(li)They come with a random type of Ore: $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), or $(l:patchouli:miscellaneous/vanilla/redstone_dust)Redstone$(/l)."
+            "text": "$(li)Toretoises are neutral creatures that spawn deep underground on the Overworld.$(br)$(li)Toretoises will sink in water, and are immune to drowning, fall, and fire damage.$(br)$(li)They come with a random type of Ore: $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron$(/l), $(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l), or $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l)."
         },
         {
             "type": "patchouli:entity",

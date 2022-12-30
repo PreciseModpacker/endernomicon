@@ -3,11 +3,11 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:wraith",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Wraith is an aggresive creature that can be found in the Soul Sand Valley.$(br)$(li)It attacks like a common Zombie, but this one inflicts Slowness and jump back upon dealing damage.$(br)$(li)It always drop a $(l:patchouli:tools/quark/soul_bead)Soul Bead$(/l) upon death."
+            "text": "$(li)The Wraith is an aggresive creature that can be found in the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valley$(/l).$(br)$(li)It attacks like a common $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l), but this one inflicts $(l:patchouli:potions/vanilla/slowness)Slowness$(/l) and jump back upon dealing damage.$(br)$(li)It always drop a $(l:patchouli:miscellaneous/quark/soul_bead)Soul Bead$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -2,13 +2,16 @@
     "name": "Lavawaxed",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:lavawax',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:lavawaxed",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:lavawax',lvl:1}]}",
             "text": "$(li)The Lavawaxed enchantment can be applied in a $(l:patchouli:tools/alexsmobs/straddleboard)$(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l)$(/l).$(br)$(li)This enchantment gives to you the $(l:patchouli:potions/vanilla/fire_resistance)Fire Resistance$(/l) effect, which makes you immune to any kind of fire damage while using the $(l:patchouli:tools/alexsmobs/straddleboard)Straddleboard$(/l).",
             "title": "Lavawaxed"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

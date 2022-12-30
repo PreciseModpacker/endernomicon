@@ -26,7 +26,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "In the lower right corner you can found four buttons:$(br)$(li)1. It shows you the Map Controls and Keybinds.$(br)$(li)2. Exports a picture in PNG of your actual Map.$(br)$(li)3. Turn On / Turn Off the creatures radar.$(br)$(li)4. Manage your Waypoints."
+            "title": "Map Buttons",
+            "text": "$(br)In the lower right corner you can found four buttons:$(br)$(li)1. It shows you the Map Controls and Keybinds.$(br)$(li)2. Exports a picture in PNG of your actual Map.$(br)$(li)3. Turn On / Turn Off the creatures radar.$(br)$(li)4. Manage your Waypoints."
         },
         {
             "type": "patchouli:small_pictures",
@@ -34,7 +35,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "You can save your favourite positions in the map creating Waypoints.$(br)$(li)First press the B key in your keyboard.$(br)$(li)Then, configure the colour and the name of the waypoint and click in the Confirm button to create it."
+            "title": "Create Waypoints",
+            "text": "$(br)You can save your favourite positions in the map creating Waypoints.$(br)$(li)First press the B key in your keyboard.$(br)$(li)Then, configure the colour and the name of the waypoint and click in the Confirm button to create it."
         },
         {
             "type": "patchouli:small_pictures",

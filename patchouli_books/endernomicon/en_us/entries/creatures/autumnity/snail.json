@@ -3,7 +3,7 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:snail",
     "pages": [
         {
             "type": "patchouli:text",
@@ -17,7 +17,10 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can bred Snails give them $(l:patchouli:miscellaneous/vanilla/mushroom_stew)Mushroom Stews$(/l).$(br)$(li)When a Baby Snail grows up to ab Adult Snail, it drop a $(l:patchouli:miscellaneous/autumnity/snail_shell_piece)Snail Shell Piece$(/l)."
+            "text": "$(li)You can bred Snails give them Mushroom Stews.$(br)$(li)When a Baby Snail grows up to ab Adult Snail, it drop a $(l:patchouli:miscellaneous/autumnity/snail_shell_piece)Snail Shell Piece$(/l)."
+        },
+        {
+            "type": "patchouli:empty_page"
         }  
              ]
 }

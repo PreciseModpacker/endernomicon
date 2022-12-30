@@ -3,6 +3,7 @@
     "icon": "supplementaries:fodder",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:fodder",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -19,6 +20,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/fodder_2.png",
             "text": "$(li)The Fodder can be placed down with dispensers."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

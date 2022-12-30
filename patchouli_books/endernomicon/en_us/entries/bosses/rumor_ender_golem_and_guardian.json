@@ -3,11 +3,14 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "cataclysm:find_ruined_citadel",
     "pages": [
         {
             "type": "patchouli:text",
             "text": "$(o)Even at the ends of the world intelligent civilizations have once existed.$(br2)$(o)These were able to create amazing citadels which are preserved to this day.$(br2)$(o)Here their most powerful weapons made of Obsidian and Endstone, known as Golems, still exist."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

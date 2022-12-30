@@ -10,6 +10,9 @@
             "recipe": "quark:building/smelting/cactus_paste",
             "text": "$(li)The Cactus Paste is an item that you can use to craft $(l)Green Dye$() and $(l)Midori Blocks$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)You can obtain this item smelting $(l:patchouli:miscellaneous/vanilla/cactus)Cactus$(/l) in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

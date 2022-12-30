@@ -24,7 +24,7 @@
         {
             "type": "patchouli:text",
             "title": "Utility & Miscellaneous",
-            "text": "$(br)$(l)        Utility$()$(br)$(li)Bonded Leather$(br2)$(l)      Miscellaneous$()$(br)$(li)$(l:patchouli:decoration/quark/item_frame)Item Frame$(/l)$(li)Trapped Book"
+            "text": "$(br)$(l)        Utility$()$(br)$(li)Bonded Leather$(br2)$(l)      Miscellaneous$()$(br)$(li)$(l:patchouli:decoration/quark/item_frame)Item Frame$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/book)Book$(/l)"
         },
         {
             "type": "patchouli:crafting",

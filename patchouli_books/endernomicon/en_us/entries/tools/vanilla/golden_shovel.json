@@ -8,15 +8,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:golden_shovel",
-            "text": "$(li)The Golden Shovel is the worst shovel that you can have because its durability is the lowest compared to other shovels." ,
+            "text": "$(li)The Golden Shovel is the worst shovel that you can have because its durability is the lowest compared to the $(l:patchouli:tools/vanilla/wooden_shovel)Wooden Shovel$(/l)." ,
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
             "name": "Golden Shovel",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:golden_shovel,Count:1}],HandDropChances:[0f]}",
-            "scale": 0.9,
-            "text": "The Golden Shovel has even less durabiliy than the Wooden Shovel." 
+            "scale": 0.9
         }
              ]
 }

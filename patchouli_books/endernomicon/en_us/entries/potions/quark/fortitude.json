@@ -2,7 +2,7 @@
     "name": "Fortitude",
     "icon": "minecraft:potion{Potion:'quark:resistance'}",
     "category": "patchouli:potions",
-    "advancement": "quark:cave_root",
+    "advancement": "endernomicon:cave_root",
     "pages": [
         {
             "type": "patchouli:spotlight",

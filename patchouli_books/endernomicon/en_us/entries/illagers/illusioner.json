@@ -3,7 +3,7 @@
     "icon": "minecraft:enchanted_book",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:illusioner",
     "pages": [
         {
             "type": "patchouli:text",

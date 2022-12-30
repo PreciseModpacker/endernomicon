@@ -1,9 +1,8 @@
 {
     "name": "Hats PDT DOCUMENTAR",
-    "icon": "minecraft:chest",
+    "icon": "endermonicon:textures/book/entries/perks/hats.png",
     "category": "patchouli:perks",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:text",

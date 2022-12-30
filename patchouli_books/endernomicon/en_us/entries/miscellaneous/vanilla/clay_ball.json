@@ -1,15 +1,30 @@
 {    
-    "name": "Clay Ball",
+    "name": "Clay",
     "icon": "minecraft:clay_ball",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
     "advancement": "endernomicon:clay_ball",
     "pages": [
         {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:clay",
+            "text": "$(li)The Clay block can be found underwater in $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) and $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) over the Overworld.$(br)$(li)This block can be used to craft a $(l:patchouli:decoration/supplementaries/statue)Statue$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "minecraft:terracotta",
+            "text": "$(li)You can obtain $(l)Terracota$() if you smelt thing block in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)If you dig this block you will obtain $(l)Clay Balls$().",
+            "link_recipe": "true"
+        },
+        {
             "type": "patchouli:spotlight",
             "item": "minecraft:clay_ball",
             "text": "$(li)The Clay Ball is a maleable material that can be used to craft $(l)Clay Lump$(), $(l)Clay$() and $(l)Daub$().$(br)$(li)You can make $(l:patchouli:miscellaneous/vanilla/brick)Bricks$(/l) smelting this item in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).$(br)$(li)$(l:patchouli:villagers/mason)Masons$(/l) will exchange Clay Balls by your $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

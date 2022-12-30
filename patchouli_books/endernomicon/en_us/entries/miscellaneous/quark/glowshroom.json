@@ -10,6 +10,9 @@
             "item": "quark:glowshroom",
             "text": "$(li)Glowshrooms are placeable blocks that can be found naturally on the deeps of the caves of the Overworld.$(br)$(li)They can be used to brew a $(l:patchouli:potions/quark/prescience)Potion of Prescience$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -10,6 +10,9 @@
             "item": "autumnity:snail_shell_piece",
             "text": "$(li)The Snail Shell Piece is an item that can be used to craft new decoration blocks, a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern$(/l), and the $(l:patchouli:armors/snail_chestplate)Snail Shell Chestplate$(/l) too.$(br)$(li)It can only be dropped when a baby Snail turns into an $(l:patchouli:creatures/autumnity/snail)Snail$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -10,6 +10,9 @@
             "recipe": "alexsmobs:cockroach_wing",
             "text": "$(li)Cockroach Wing is an item that can only be used to brew a $(l:patchouli:potions/alexsmobs/bug_pheromones)Potion of Bug Pheromones$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -3,7 +3,7 @@
     "icon": "supplementaries:planter",
     "category": "patchouli:utility",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:clay_ball",
     "pages": [
         {
             "type": "patchouli:crafting",

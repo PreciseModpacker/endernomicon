@@ -3,11 +3,11 @@
     "icon": "minecraft:grass_block",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:creeper",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Creepers are common hostile creatures that can be found over the Overworld when the night arrives or in places with low illumination.$(br)$(li)They silently approaches you and finally, explodes, damaging you and near blocks.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) and $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) upon death."
+            "text": "$(li)Creepers are common hostile creatures that can be found over the Overworld when the night arrives or in places with low illumination.$(br)$(li)They silently approaches you and finally, explodes, damaging you and near blocks.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l) upon death and $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) if it is killed by an explosion."
         },
         {
             "type": "patchouli:entity",

@@ -2,7 +2,7 @@
     "name": "Feather Falling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:feather_falling',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:feather_falling",
     "pages": [
         {
             "type": "patchouli:spotlight",

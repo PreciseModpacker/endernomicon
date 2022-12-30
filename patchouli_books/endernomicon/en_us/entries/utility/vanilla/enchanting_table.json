@@ -26,7 +26,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Depending of the level of the Enchanting Table we will obtain lower or higher level enchantments.$(br)$(li)High level enchants will cost more XP levels.$(br)$(li)To upgrade the level of the Enchanting Table, we need to place $(l:patchouli:decoration/vanilla/bookshelf)Bookshelfs$(/l) near this block."
+            "text": "$(li)Depending on the level of the Enchanting Table, we will obtain lower or higher level enchantments.$(br)$(li)High level enchants will cost more XP levels.$(br)$(li)To upgrade the level of the Enchanting Table, we need to place $(l:patchouli:decoration/vanilla/bookshelf)Bookshelves$(/l) near this block."
         },
         {
             "type": "patchouli:small_pictures",

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:paper",
-            "text": "$(li)Paper is a thin and maleable sheet material.$(br)$(li)It can be crafted with Sugar Cane, Banana Frond, Small Banana Frond, Large Banana Frond, Red Mushrooms, or Brown Murshtooms.",
+            "text": "$(li)Paper is a thin and maleable sheet material.$(br)$(li)It can be crafted with $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l), Banana Frond, Small Banana Frond, Large Banana Frond, $(l:patchouli:miscellaneous/vanilla/red_mushroom)Red Mushrooms$(/l), or $(l:patchouli:miscellaneous/vanilla/brown_mushroom)Brown Mushrooms$(/l).",
             "link_recipe": "true"
         },
         {
@@ -19,12 +19,12 @@
         {
             "type": "patchouli:crafting",           
             "recipe": "neapolitan:banana/paper_from_large_banana_frond",
-            "text": "$(li)Cartographers will exchange you this item by Emeralds.$(br)$(li)Paper can be used to craft multiple items too."
+            "text": "$(li)$(l:patchouli:villagers/cartographer)Cartographers$(/l) will exchange you this item by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)This item can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Crimson Lanterns$(li)Paper Lanterns$(li)Patterns$(li)Pet Bandages$(li)Empty Maps$(li)Notice Boards$(li)Paper Walls$(li)Ancient Shelfs$(li)Camdies$(li)Trapped Books$(li)Presents$(li)Cartography Tables.",
-            "link_recipe": "true"
+            "title": "Paper Recipes",
+            "text": "$(li)$(l:patchouli:decoration/charm/lanterns)Crimson Lanterns$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)Paper Lanterns$(/l)$(li)$(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Patterns$(/l)$(li)$(l:patchouli:pets/save_your_pets/pet_bandage)Pet Bandages$(/l)$(li)$(l:patchouli:tools/vanilla/map)Empty Maps$(/l)$(li)$(l:patchouli:decoration/charm/lanterns)$(/l)$(l:patchouli:utility/supplementaries/notice_board)Notice Board$(/l)$(li)Paper Walls$(li)Ancient Shelf$(li)Candy$(li)$(l:patchouli:redstone/inspirations/trapped_book)Trapped Books$(/l)$(li)$(l:patchouli:utility/supplementaries/present)Presents$(/l)$(li)$(l:patchouli:utility/vanilla/cartography_table)Cartography Table$(/l)"
         }
              ]
 }

@@ -2,7 +2,7 @@
     "name": "Button (Gold)",
     "icon": "quark:gold_button",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:gold_ingot",
     "pages": [
         {

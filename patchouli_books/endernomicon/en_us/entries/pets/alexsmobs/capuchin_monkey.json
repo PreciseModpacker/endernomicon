@@ -1,9 +1,9 @@
 {    
     "name": "Capuchin Monkey",
     "icon": "neapolitan:banana",
-    "category": "patchouli:creatures",
+    "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:capuchin_monkey",
     "pages": [
         {
             "type": "patchouli:text",
@@ -17,6 +17,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)You can heal these creatures feeding them with $(l:patchouli:miscellaneous/vanilla/chicken_egg)Chicken Eggs$(/l).$(br)$(li)They can bred feeding them with $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l).$(br)$(li)You can feed them with $(l:patchouli:miscellaneous/alexsmobs/banana)Bananas$(/l) to tame them too.$(br)$(li)If you give them $(l:patchouli:miscellaneous/alexsmobs/ancient_dart)Ancient Darts$(/l) they will gain piercing damage."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

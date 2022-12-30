@@ -1,0 +1,38 @@
+{    
+    "name": "Redstone Dust",
+    "icon": "minecraft:redstone",
+    "category": "patchouli:redstone",
+    "sortnum": 0,
+    "advancement": "endernomicon:redstone_dust",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:redstone",
+            "text": "$(li)The Redstone Dust is electric mineral with electric propierties that can be found and mined in the Caves.$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) and $(l:patchouli:illagers/witch)Witches$(/l) drops this item on death too.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Redstone Dust is a good material to brew your potions. With it, you can extend the duration of the effects of your brewed potions.$(br)$(li)The Redstone Dust can transmit Redstone Power when placed on the ground. With your ingenuity, you could create advanced machines and circuits using this material.$(br)$(li)The Redstone Dust can be used in a crafting table to craft multiples items too."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Redstone",
+            "text": "$(li)$(l:patchouli:redstone/inspirations/charged_arrow)Charged Arrow$(/l)$(li)$(l:patchouli:redstone/inspirations/collector)Collector$(/l)$(li)$(l:patchouli:redstone/vanilla/dispenser)Dispenser$(/l)$(li)$(l:patchouli:redstone/vanilla/dropper)Dropper$(/l)$(li)$(l:patchouli:redstone/quark/ender_watcher)Ender Watcher$(/l)$(li)$(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l)$(li)$(l:patchouli:redstone/quark/magnet)Magnet$(/l)$(li)$(l:patchouli:redstone/vanilla/note_block)Note Block$(/l)$(li)$(l:patchouli:redstone/vanilla/observer)Observer$(/l)$(li)$(l:patchouli:redstone/vanilla/piston)Piston$(/l)$(li)$(l:patchouli:redstone/vanilla/redstone_block)Redstone Block$(/l)$(li)$(l:patchouli:redstone/inspirations/redstone_charger)Redstone Charger$(/l)$(li)$(l:patchouli:redstone/supplementaries/redstone_illuminator)Redstone Illuminator$(/l)$(li)$(l:patchouli:redstone/vanilla/redstone_lamp)Redstone Lamp$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Redstone & Transport",
+            "text": "$(br)$(l)        Redstone$()$(br)$(li)$(l:patchouli:redstone/vanilla/redstone_torch)Redstone Torch$(/l)$(li)$(l:patchouli:redstone/supplementaries/sconce_lever)Sconce Lever$(/l)$(li)$(l:patchouli:redstone/vanilla/target)Target$(/l)$(li)$(l:patchouli:redstone/inspirations/trapped_book)Trapped Book$(/l)$(li)$(l:patchouli:redstone/supplementaries/turn_table)Turn Table$(/l)$(li)$(l:patchouli:redstone/supplementaries/wind_vane)Wind Vane$(/l)$(br2)$(l)        Transport$()$(br)$(li)$(l:patchouli:redstone/vanilla/detector_rail)Detector Rail$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Tools & Utility",
+            "text": "$(br)$(l)        Tools$()$(br)$(li)$(l:patchouli:tools/inspirations/barometer)Barometer$(/l)$(li)$(l:patchouli:tools/vanilla/clock)Clock$(/l)$(li)$(l:patchouli:tools/vanilla/compass)Compass$(/l)$(li)$(l:patchouli:tools/chisel/hitech_chisel)iChisel$(/l)$(li)$(l:patchouli:tools/inspirations/photometer)Photometer$(/l)$(br2)$(l)        Utility$()$(br)$(li)$(l:patchouli:utility/supplementaries/lock_block)Lock Block$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+
+             ]
+}

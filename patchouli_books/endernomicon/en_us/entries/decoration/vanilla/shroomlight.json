@@ -3,15 +3,17 @@
     "icon": "minecraft:shroomlight",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:shroomlight",
     "pages": [
         {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:shroomlight",
-            "text": "$(li)The Shroomlight is a source light block that can be found in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) and $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) may drop this block upon death.$(br)$(li)They can be used to craft $(l)Crimson Lanterns$() and $(l)Lamps$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "type": "patchouli:crafting",
+            "recipe": "infernalexp:crafting/crafting_shaped/shroomlight",
+            "text": "$(li)The Shroomlight is a source light block that can be found in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) and $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) may drop this block upon death.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
+            "text": "$(li)They can be used to craft $(l)Crimson Lanterns$() and $(l)Lamps$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "picture": "endermonicon:textures/book/entries/decoration/shroomlight.png"
         }
              ]

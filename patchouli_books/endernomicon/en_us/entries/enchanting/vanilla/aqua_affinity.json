@@ -2,13 +2,16 @@
     "name": "Aqua Affinity",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:aqua_affinity',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:aqua_affinity",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:aqua_affinity',lvl:1}]}",
-            "text": "$(li)The Aqua Affinity enchantment can be applied in any kind of Helmet.$(br)$(li)This enchantment increases mining speed while you are underwater.",
+            "text": "$(li)The Aqua Affinity enchantment can be applied in any kind of helmet.$(br)$(li)This enchantment increases mining speed while you are underwater.",
             "title": "Aqua Affinity"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

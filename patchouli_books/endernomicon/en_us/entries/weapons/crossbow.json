@@ -21,6 +21,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)Once charged, you can just right click again while you are holding the Crossbow to shoot.$(br)$(li)This weapon has less range than $(l:patchouli:weapons/bow)Bows$(/l) but inflicts more damage than this last one."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
              ]
 }

@@ -62,6 +62,9 @@
             "input": "minecraft:dragon_breath",
             "input2": "minecraft:splash_potion{Potion:'alexsmobs:long_poison_resistance'}",
             "output": "minecraft:lingering_potion{Potion:'alexsmobs:long_poison_resistance'}"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -19,7 +19,7 @@
         {
             "type": "patchouli:text",
             "title": "Tools",
-            "text": "$(li)$(l:patchouli:tools/vanilla/clock)Clock$(/l)$(li)$(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l)$(li)$(l:patchouli:tools/vanilla/golden_hoe)Golden Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_pickaxe)Golden Pickaxe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_shovel)Golden Shovel$(/l)$(li)$(l:patchouli:tools/supplementaries/key)Key$(/l)$(li)Passage's Toll$(li)$(l:patchouli:tools/meet_your_fight/spectre_eye)Spectre's Eye$(/l)$(li)$(l:patchouli:tools/meet_your_fight/spectre_grasp)Spectre's Grasp$(/l)$(li)$(l:patchouli:tools/chisel/hitech_chisel)iChisel$(/l)"
+            "text": "$(li)$(l:patchouli:tools/vanilla/clock)Clock$(/l)$(li)$(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l)$(li)$(l:patchouli:tools/vanilla/golden_hoe)Golden Hoe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_pickaxe)Golden Pickaxe$(/l)$(li)$(l:patchouli:tools/vanilla/golden_shovel)Golden Shovel$(/l)$(li)$(l:patchouli:tools/supplementaries/key)Key$(/l)$(li)$(l:patchouli:tools/meet_your_fight/passage_toll)Passage's Toll$(/l)$(li)$(l:patchouli:tools/meet_your_fight/spectre_eye)Spectre's Eye$(/l)$(li)$(l:patchouli:tools/meet_your_fight/spectre_grasp)Spectre's Grasp$(/l)$(li)$(l:patchouli:tools/chisel/hitech_chisel)iChisel$(/l)"
         },
         {
             "type": "patchouli:text",
@@ -34,7 +34,7 @@
         {
             "type": "patchouli:text",
             "title": "Miscellaneous",
-            "text": "$(li)$(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast-Proof Plating$(/l)$(li)$(l:patchouli:utility/vanilla/gold_block)Block of Gold$(/l)$(li)Devil's Ante$(li)$(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nugget$(/l)$(li)Gold to Diamond Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l)$(li)Haunted Bell$(li)Iron to Gold Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l)$(li)Shimmering Passionfruit"
+            "text": "$(li)$(l:patchouli:miscellaneous/savage_and_ravage/blast_proof_plating)Blast-Proof Plating$(/l)$(li)$(l:patchouli:utility/vanilla/gold_block)Block of Gold$(/l)$(li)$(l:patchouli:bosses/rumor_dame_fortuna)Devil's Ante$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nugget$(/l)$(li)Gold to Diamond Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/golden_apple)Golden Apple$(/l)$(li)$(l:patchouli:bosses/rumor_bellringer)Haunted Bell$(/l)$(li)Iron to Gold Chest Upgrade$(li)$(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l)$(li)Shimmering Passionfruit"
         }
              ]
 }

@@ -2,7 +2,7 @@
     "name": "Imperishable",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:imperishable',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:imperishable",
     "pages": [
         {
             "type": "patchouli:spotlight",

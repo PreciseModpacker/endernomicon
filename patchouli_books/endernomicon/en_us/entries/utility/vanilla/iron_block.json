@@ -10,6 +10,9 @@
             "recipe": "minecraft:iron_block",
             "text": "$(li)Iron Block is a new decorative block that can be used to save $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingots$(/l) in a more efficient way and to craft an $(l:patchouli:utility/vanilla/anvil)Anvil$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)This block can be affected by a $(l:patchouli:redstone/quark/magnet)Magnet$(/l).",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

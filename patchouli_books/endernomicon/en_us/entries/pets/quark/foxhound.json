@@ -3,7 +3,7 @@
     "icon": "minecraft:netherrack",
     "category": "patchouli:pets",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:foxhound",
     "pages": [
         {
             "type": "patchouli:text",
@@ -18,6 +18,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/foxhound.png",
             "text": "$(li)If a Foxhound is situated on the top of a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), it will accelerate the smeltery process."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

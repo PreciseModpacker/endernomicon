@@ -8,8 +8,11 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:bread",
-            "text": "$(li)The Bread is an eatable food that can be used to heal your harmed tamed $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l).$(br)$(li)It can be used to craft $(l)Kangaroo Burgers$(), $(l)Honey Bread$() and $(l)Mulberry Bread$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.",
+            "text": "$(li)The Bread is an eatable food that can be used to heal your harmed tamed $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l).$(br)$(li)It can be used to craft $(l)Kangaroo Burgers$(), $(l)Honey Bread$() and $(l)Mulberry Bread$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

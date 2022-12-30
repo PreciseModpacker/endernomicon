@@ -3,6 +3,7 @@
     "icon": "minecraft:ladder",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:stick",
     "pages": [
         {
             "type": "patchouli:spotlight",

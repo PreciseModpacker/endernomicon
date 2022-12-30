@@ -3,12 +3,16 @@
     "icon": "syp:pet_bandage",
     "category": "patchouli:pets",
     "sortnum": 0,
+    "advancement": "endernomicon:pet_bandage",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "syp:pet_bandage",
             "text": "$(li)When a tamed $(l:patchouli:pets/vanilla/cat)Cat$(/l), $(l:patchouli:pets/vanilla/horse)Horse$(/l), $(l:patchouli:pets/revamped_wolf/wolf)Wolf$(/l), or $(l:patchouli:pets/quark/foxhound)Fouxhound$(/l) dies, you will a time to save it.$(br)$(li)Just right click your diying pet while you are holding this item in your hand to revive it with half of one heart of life.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

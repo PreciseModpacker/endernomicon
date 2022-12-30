@@ -102,6 +102,9 @@
             "title": "Nether Eye",
             "text": "$(o)The $(l)Nether Eye$()$(o) is hidden inside of the Fortress or other structures located over the Nether.",
             "link_recipe": "true"
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

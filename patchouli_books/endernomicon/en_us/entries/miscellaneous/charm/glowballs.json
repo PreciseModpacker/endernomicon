@@ -10,6 +10,9 @@
             "recipe": "charm:glowballs/glowball",
             "text": "$(li)The Globall can be thrown like a $(l:patchouli:miscellaneous/vanilla/snowball)Snowball$(/l) and it will leave a little glowing blob where impacts.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

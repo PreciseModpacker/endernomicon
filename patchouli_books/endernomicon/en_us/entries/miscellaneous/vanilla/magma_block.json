@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:magma_block",
-            "text": "$(li)The Magma Block is a light-emitting naturally-occuring block that can be found in the deeps of the $(l:patchouli:biomes/overworld/water/oceans)Oceans$(/l) over the Overworld and over the Nether.$(br)$(li)They will damage you if you walk over them, except if you wear the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) or you sneak over it.",
+            "text": "$(li)The Magma Block is a light-emitting naturally-occuring block that can be found in the deeps of the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) over the Overworld and over the Nether.$(br)$(li)They will damage you if you walk over them, except if you wear the $(l:patchouli:armors/ice_armor)Ice Armor$(/l) or you sneak over it.",
             "link_recipe": "true"
         },
         {

@@ -10,6 +10,9 @@
             "recipe": "supplementaries:feather_block",
             "text": "$(li)The Feather Block is a new block which reduce all the fall damage received if you fall in this block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) in a more efficient way.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

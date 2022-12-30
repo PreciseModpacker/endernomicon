@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Bigger Dungeon is the direct bigger version of the Small Dungeon that can be found deeper of the caves of the Overworld.$(br)$(li)Here, you can find Chests and Barrels with loot and a Skeleton, Zombies, $(l:patchouli:creatures/vanilla/husk)Husks$(/l), or Spiders Spawners."
+            "text": "$(li)The Bigger Dungeon is the direct bigger version of the Small Dungeon that can be found deeper of the caves of the Overworld.$(br)$(li)You can find $(l:patchouli:perks/loot_chest)Loot Chests$(/l) and $(l:patchouli:creatures/vanilla/skeleton)Skeleton$(/l), $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l), $(l:patchouli:creatures/vanilla/husk)Husk$(/l) or $(l:patchouli:creatures/vanilla/spider)Spider$(/l) Spawners in this place."
         },
         {
             "type": "patchouli:small_pictures",

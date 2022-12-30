@@ -3,6 +3,7 @@
     "icon": "minecraft:oak_fence",
     "category": "patchouli:decoration",
     "sortnum": 0,
+    "advancement": "endernomicon:stick",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -78,6 +79,9 @@
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_fence",
             "recipe2": "cataclysm:chorus_fence"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

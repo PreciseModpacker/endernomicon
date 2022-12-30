@@ -3,11 +3,11 @@
     "icon": "minecraft:cauldron",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:witch_tower",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Some $(l:patchouli:illagers/witch)Witches$(/l) are not satisfied with living in small huts, so they live in majestic towers where they live isolated from the outside world.$(br)$(li)You can find a $(l:patchouli:miscellaneous/end_remastered/with_pupil)Witch Pupil$(/l) inside of this place."
+            "text": "$(li)Some $(l:patchouli:illagers/witch)Witches$(/l) are not satisfied with living in small huts, so they live in majestic towers where they live isolated from the outside world.$(br)$(li)You can find a $(l:patchouli:miscellaneous/end_remastered/witch_pupil)Witch Pupil$(/l) inside of this place."
         },
         {
             "type": "patchouli:small_pictures",

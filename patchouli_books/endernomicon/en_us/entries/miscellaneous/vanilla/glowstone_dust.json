@@ -19,6 +19,9 @@
             "type": "patchouli:text",
             "title": "Crafts",
             "text": "$(li)$(l:patchouli:utility/vanilla/glowstone_block)Glowstone Block$(/l)$(li)Paper Lantern$(li)Dimstone$(li)$(l:patchouli:decoration/inspirations/bushs)Enlightened Bushes$(/l)$(li)$(l:patchouli:miscellaneous/charm/glowballs)Glowballs$(/l)$(li)Glimmer Gravel$(li)Spectral Arrows$(li)Glowing Glass Item Frames$(li)$(l:patchouli:tools/inspirations/photometer)Photometer$(/l)$(li)Antiblock$(li)Shimmer Sand$(li)$(l:patchouli:armors/glowstone_armor)Glowstone Armor$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -14,7 +14,7 @@
         {
             "type": "patchouli:text",
             "title": "Wheat Recipes" ,
-            "text": "$(li)$(l:patchouli:utility/vanilla/hay_bale)Hay Bale$(/l)$(li)$(l)Daub$()$(li)$(l)Cookies$()$(li)$(l)Thatch$()$(li)$(l)Grass Thatch$()$(li)$(l)Scones$()$(li)$(l:patchouli:pets/supplementaries/hay_nest)Hay Nest$(/l)$(li)$(l)Pancakes$()$(li)$(l:patchouli:miscellaneous/vanilla/bread)Bread$(/l)$(li)$(l)Gateau$()$(li)$(l)Cakes$()$(li)$(l)Buns$()$(li)$(l)Velvet Fortune$()$(li)$(l)Aether-Glazed Cupcake$()"
+            "text": "$(li)$(l:patchouli:utility/vanilla/hay_bale)Hay Bale$(/l)$(li)Daub$(li)$(l:patchouli:miscellaneous/vanilla/cookies)Cookies$(/l)$(li)Thatch$(li)Grass Thatch$(li)Scones$(li)Hay Nest$(li)Pancakes$(li)$(l:patchouli:miscellaneous/vanilla/bread)Bread$(/l)$(li)Gateau$(li)Cakes$(li)Buns$(li)Velvet Fortune$(li)Aether-Glazed Cupcake"
         }
              ]
 }

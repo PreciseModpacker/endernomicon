@@ -10,6 +10,9 @@
             "recipe": "minecraft:gold_block",
             "text": "$(li)Gold Block is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingots$(/l) in a more efficient way.$(br)$(li)This block can be affected by a $(l:patchouli:redstone/quark/magnet)Magnet$(/l).",  
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

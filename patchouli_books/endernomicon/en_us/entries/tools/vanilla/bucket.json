@@ -18,6 +18,9 @@
         {
             "type": "patchouli:text",
             "text": "$(li)$(l:patchouli:creatures/vanilla/slime)Slimes$(/l) and $(l:patchouli:creatures/vanilla/bat)Bats$(/l) can be saved inside of a Empty bucket.$(br)$(li)To do this you need hold the Bucket on your hand and right click to one of those creatures to save it in its interior.$(br)$(li)Then you can release it following the same process."
-        }
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

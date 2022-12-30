@@ -2,13 +2,13 @@
     "name": "Wanderer's Boots",
     "icon": "environmental:wanderer_boots",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 31,
+    "advancement": "endernomicon:wanderer_boots",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "environmental:wanderer_boots",
-            "text": "$(li)Wanderer's Boots increase your movement speed.$(br)$(li)This effect can be upgrade walking around the world.$(br)$(li)It only can be found in Dungeon Chests.",
+            "text": "$(li)Wanderer's Boots increase your movement speed.$(br)$(li)This effect can be upgrade walking around the world.$(br)$(li)It only can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) over the Overworld.",
             "link_recipe": "true"
         },
         {
@@ -18,7 +18,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Movement Speed Levels$()$(br)$(li)Level 1 Speed 1.2x$(br) 0/1000 Blocks Travelled$(br)$(li)Level 2 Speed 1.25x$(br) 1000/5000 Blocks Travelled$(br)$(li)Level 3 Speed 1.3x$(br) 5000/10000 Blocks Travelled$(br)$(li)Level 4 Speed 1.35x$(br) 10000/50000 Blocks Travelled$(br)$(li)Level 5 Speed 1.4x$(br) 50000/50000 Blocks Travelled"
+            "title": "Movement Speed Levels",
+            "text": "$(li)Level 1 Speed 1.2x$(br) 0/1000 Blocks Travelled$(br)$(li)Level 2 Speed 1.25x$(br) 1000/5000 Blocks Travelled$(br)$(li)Level 3 Speed 1.3x$(br) 5000/10000 Blocks Travelled$(br)$(li)Level 4 Speed 1.35x$(br) 10000/50000 Blocks Travelled$(br)$(li)Level 5 Speed 1.4x$(br) 50000/50000 Blocks Travelled"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

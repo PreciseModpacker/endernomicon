@@ -3,6 +3,7 @@
     "icon": "minecraft:armor_stand",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:armor_stand",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -19,6 +20,9 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/armor_stand_2.png",
             "text": "$(li)If you want to recover the placed item, just right click on the Armor Stand again while you are not holding any item in your hand."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

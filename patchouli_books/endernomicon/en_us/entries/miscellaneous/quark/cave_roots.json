@@ -3,13 +3,16 @@
     "icon": "quark:root_item",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "quark:cave_root",
+    "advancement": "endernomicon:cave_root",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "quark:root_item",
             "text": "$(li)The Cave Root is a basic food that can be found like roots inside of the caves of the Overworld.$(br)$(li)You can use it to brew a $(l:patchouli:potions/quark/fortitude)Potion of Fortitude$(/l).$(br)$(li)You can feed a $(l:patchouli:creatures/quark/toretoise)Toretoise$(/l) with them to regenerate its ores on its back too.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

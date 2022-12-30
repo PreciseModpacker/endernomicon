@@ -3,11 +3,11 @@
     "icon": "minecraft:sandstone",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:pyramid",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Pyramids are big structures that hides important treasures in their interior.$(br)$(li)It is said that the original structure only existed in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), but variants with different materials have appeared in other biomes and even in other dimenions as the Nether or the End.",
+            "text": "$(li)Pyramids are big structures that hides important treasures in their interior.$(br)$(li)It is said that the original structure only existed in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), but variants with different materials have appeared in other biomes and even in other dimensions as the Nether or the End.",
             "link_recipe": "true"
         },
         {

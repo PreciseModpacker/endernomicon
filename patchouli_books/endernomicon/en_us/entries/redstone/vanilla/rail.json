@@ -12,7 +12,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)There are exists three different variants of the Rails:$(br)$(li)$(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/detector_rail)Detector Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/powered_rail)Powered Rail$(/l)."
+            "title": "Rail Variants",
+            "text": "$(li)$(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/detector_rail)Detector Rail$(/l)$(li)$(l:patchouli:redstone/vanilla/powered_rail)Powered Rail$(/l)."
         }
              ]
 }

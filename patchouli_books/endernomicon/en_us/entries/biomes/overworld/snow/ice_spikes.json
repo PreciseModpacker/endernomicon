@@ -2,8 +2,8 @@
     "name": "Ice Spikes",
     "icon": "minecraft:snow_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:ice_spikes",
     "pages": [
         {
             "type": "patchouli:text",

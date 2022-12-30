@@ -31,6 +31,9 @@
             "type": "patchouli:text",
             "title": "Utility & Miscellaneous",
             "text": "$(br)$(l)        Utility$()$(br)$(li)$(l:patchouli:utility/inspirations/rope)Rope$(/l)$(li)$(l:patchouli:utility/supplementaries/sack)Sack$(/l)$(li)$(l:patchouli:utility/vanilla/scaffolding)Scaffolding$(/l)$(li)$(l:patchouli:decoration/alexsmobs/banner_patterns)Loom$(/l)$(li)$(l:patchouli:utility/quark/rope_coil)Rope Coil$(/l)$(br2)$(l)      Decoration$()$(br)$(li)$(l:patchouli:decoration/buzzier_bees/candle)Candles$(/l)$(li)Quilted Wool$(li)$(l:patchouli:decoration/vanilla/wool)Wool$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

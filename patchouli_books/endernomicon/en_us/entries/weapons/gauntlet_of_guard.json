@@ -2,8 +2,8 @@
     "name": "Gauntlet of Guard",
     "icon": "cataclysm:gauntlet_of_guard",
     "category": "patchouli:weapons",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 12,
+    "advancement": "endernomicon:gauntlet_of_guard",
     "pages": [
         {
             "type": "patchouli:spotlight",

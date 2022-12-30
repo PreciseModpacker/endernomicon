@@ -3,7 +3,7 @@
     "icon": "minecraft:furnace",
     "category": "patchouli:villagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:villager",
     "pages": [
         {
             "type": "patchouli:text",

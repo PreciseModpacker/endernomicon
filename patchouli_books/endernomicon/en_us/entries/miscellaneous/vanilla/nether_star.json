@@ -10,6 +10,9 @@
             "item": "minecraft:nether_star",
             "text": "$(li)This mysterious and very rare item is dropped by the $(l:patchouli:bosses/wither)Wither$(/l) upon death.$(br)$(li)It can only be used to craft the $(l:patchouli:utility/vanilla/beacon)Beacon$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

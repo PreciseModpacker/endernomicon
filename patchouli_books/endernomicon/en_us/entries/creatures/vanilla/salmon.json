@@ -1,9 +1,9 @@
 {    
     "name": "Salmon",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:salmon_mob",
     "pages": [
         {
             "type": "patchouli:text",

@@ -2,8 +2,8 @@
     "name": "Chainmail Armor",
     "icon": "minecraft:chainmail_helmet",
     "category": "patchouli:armors",
-    "advancement": "endrem:main/lost_eye",
     "sortnum": 4,
+    "advancement": "endernomicon:chainmail_armor",
     "pages": [
         {
             "type": "patchouli:text",

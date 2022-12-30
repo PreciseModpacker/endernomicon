@@ -10,6 +10,9 @@
             "recipe": "alexsmobs:mosquito_larva",
             "text": "$(li)The Crimson Mosquito Larva can be used to tame $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l).$(br)$(li)Some rumors say that something will happen if you insert it into a $(l:patchouli:utility/alexsmobs/capsid)Capsid$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

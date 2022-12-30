@@ -1,9 +1,10 @@
+# Disabled entry because can't filter correctly in the advancement datapack
 {    
     "name": "Dungeon (Zombie)",
     "icon": "minecraft:rotten_flesh",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:zombie_dungeon",
     "pages": [
         {
             "type": "patchouli:text",

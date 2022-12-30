@@ -2,8 +2,8 @@
     "name": "Dark Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:dark_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) or $(l:patchouli:creatures/environmental/deer)Deer$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Dark Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)autumnity:orange_spotted_dark_forest,minecraft:dark_forest,minecraft:dark_forest_hills"
-#        },
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/dark_forest.png"

@@ -3,7 +3,7 @@
     "icon": "supplementaries:sack",
     "category": "patchouli:illagers",
     "sortnum": 0,
-#    "advancement": "endrem:main/nether_eye",
+    "advancement": "endernomicon:hoarder",
     "pages": [
         {
             "type": "patchouli:text",

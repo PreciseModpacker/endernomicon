@@ -3,7 +3,7 @@
     "icon": "goblinsanddungeons:goblin_crown",
     "category": "patchouli:structures",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:ruined_keep",
     "pages": [
         {
             "type": "patchouli:text",

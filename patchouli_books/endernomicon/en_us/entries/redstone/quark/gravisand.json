@@ -2,7 +2,7 @@
     "name": "Gravisand",
     "icon": "quark:gravisand",
     "category": "patchouli:redstone",
-    "sortnum": 3,
+    "sortnum": 0,
     "advancement": "endernomicon:ender_pearl",
     "pages": [
         {

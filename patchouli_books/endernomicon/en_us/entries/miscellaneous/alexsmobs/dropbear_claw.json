@@ -8,8 +8,11 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:dropbear_claw",
-            "text": "$(li)The Dropbear Claw can be used to craft a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)They can be used to brew a $(l:patchouli:potions/alexsmobs/clinging)Potion of Clinging$(/l) too.$(br)$(li)This item can only be dropped by $(l:patchouli:creatures/alexsmobs/dropbear)Dropbears$(/l).",
+            "text": "$(li)The Dropbear Claw can be used to craft a $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)They can be used to brew a $(l:patchouli:potions/alexsmobs/clinging)Potion of Clinging$(/l) too.$(br)$(li)This item can only be dropped by $(l:patchouli:creatures/alexsmobs/dropbear)Dropbears$(/l) on death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

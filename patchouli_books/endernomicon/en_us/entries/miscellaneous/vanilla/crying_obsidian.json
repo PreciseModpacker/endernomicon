@@ -10,6 +10,9 @@
             "item": "minecraft:crying_obsidian",
             "text": "$(li)The Crying Obsidian is a variant of the $(l:patchouli:miscellaneous/vanilla/obsidian)Obsidian$(/l) that can be found in the $(l:patchouli:structures/ruined_portal)Ruined Portals$(/l).$(br)$(li)It can be used to craft a $(l:patchouli:armors/crying_obsidian_armor)Crying Obsidian Armor$(/l) and the $(l:patchouli:utility/vanilla/respawn_anchor)Respawn Anchor$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

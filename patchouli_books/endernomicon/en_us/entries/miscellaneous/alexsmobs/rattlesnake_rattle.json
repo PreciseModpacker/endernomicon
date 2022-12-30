@@ -10,6 +10,9 @@
             "item": "alexsmobs:rattlesnake_rattle",
             "text": "$(li)The Rattlesnake Rattle can be used to craft a $(l:patchouli:tools/alexsmobs/maraca)Maraca$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

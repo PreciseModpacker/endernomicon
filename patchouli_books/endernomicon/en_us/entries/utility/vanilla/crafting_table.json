@@ -3,6 +3,7 @@
     "icon": "minecraft:crafting_table",
     "category": "patchouli:utility",
     "sortnum": 0,
+    "advancement": "endernomicon:planks",
     "pages": [
         {
             "type": "patchouli:crafting",
@@ -41,6 +42,9 @@
             "recipe": "crumbs:crimson_crafting_table",
             "recipe2": "crumbs:warped_crafting_table",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

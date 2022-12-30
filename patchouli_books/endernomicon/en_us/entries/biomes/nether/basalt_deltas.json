@@ -2,8 +2,8 @@
     "name": "Basalt Deltas",
     "icon": "minecraft:basalt",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:basalt_deltas",
     "pages": [
         {
             "type": "patchouli:text",

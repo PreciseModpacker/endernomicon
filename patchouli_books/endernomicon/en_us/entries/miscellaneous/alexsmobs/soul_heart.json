@@ -10,6 +10,9 @@
             "item": "alexsmobs:soul_heart",
             "text": "$(li)The Soul Heart can be used to attract $(l:patchouli:creatures/alexsmobs/spectre)Spectre$(/l) to you.$(br)$(li)It is a needed ingredient to brew a $(l:patchouli:potions/alexsmobs/soulsteal)Potion of Soulsteal$(/l) too.$(br)$(li)$(l:patchouli:creatures/alexsmobs/soul_vulture)Soul Vultures$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

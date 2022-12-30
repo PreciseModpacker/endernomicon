@@ -2,8 +2,8 @@
     "name": "Flower Forest",
     "icon": "minecraft:grass_block",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:flower_forest",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Flowers such as Tall Purple Pickerelweed, Tulips, Oxeye Daisies, Delphiniums, Cornflowers, Cartwheels, Lilly of the Valley, Poppies, Rose Bushes and Dandelions can be found here too.$(br)$(li)$(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) like to live in this place because they have a lot of flowers to pollinate.$(br)$(li)You can search this biome by typing the words $(l)Flower Forest$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:flower_forest"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/flower_forest.png"

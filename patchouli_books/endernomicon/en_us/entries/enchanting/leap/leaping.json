@@ -2,13 +2,16 @@
     "name": "Leaping",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
     "category": "patchouli:enchanting",
-    "advancement": "endrem:main/magical_eye",
+    "advancement": "endernomicon:leaping",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
             "text": "$(li)The Leaping enchantment can be applied in a pair of Boots.$(br)$(li)This enchantment allows to you to double jump.$(br)$(li)The Leaping enchantment book only can be obtained in $(l:patchouli:perks/loot_chest)Loot Chests$(/l), Fishing, $(l:patchouli:illagers/raid)Raid$(/l) drops, or trading with a $(l:patchouli:villagers/librarian)Librarian$(/l).",
             "title": "Leaping"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

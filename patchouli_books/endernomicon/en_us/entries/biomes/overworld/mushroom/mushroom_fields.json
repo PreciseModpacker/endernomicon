@@ -2,8 +2,8 @@
     "name": "Mushroom Fields",
     "icon": "minecraft:mycelium",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:mushroom_fields",
     "pages": [
         {
             "type": "patchouli:text",
@@ -13,10 +13,6 @@
             "type": "patchouli:text",
             "text": "$(li)Some creatures such as $(l:patchouli:creatures/vanilla/mooshroom)Mooshrooms$(/l), $(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetles$(/l) and $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Mushroom Field$() in the search box of the Nature's Compass."
         },
-#        {
-#            "type": "patchouli:text",
-#            "text": "$(li)minecraft:mushroom_fields,minecraft:mushroom_fields_shore"
-#        }
         {
             "type": "patchouli:pictures",
             "picture": "endermonicon:textures/book/entries/biomes/mushroom_fields.png"

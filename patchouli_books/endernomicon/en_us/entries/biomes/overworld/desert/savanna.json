@@ -2,8 +2,8 @@
     "name": "Savanna",
     "icon": "minecraft:sand",
     "category": "patchouli:biomes",
-#    "advancement": "endrem:main/lost_eye",
     "sortnum": 0,
+    "advancement": "endernomicon:savanna",
     "pages": [
         {
             "type": "patchouli:text",

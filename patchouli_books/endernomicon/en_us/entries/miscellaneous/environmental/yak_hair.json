@@ -10,6 +10,9 @@
             "item": "environmental:yak_hair",
             "text": "$(li)The Yak Hair is a fluffy and warm material.$(br)$(li)It can be used to make $(l:patchouli:decoration/buzzier_bees/candle)Candles$(/l), $(l:patchouli:utility/quark/rope_coil)Rope Coil$(/l), $(l)Yak Hair Rug$(), $(l)Yak Hair Blocks$(), $(l:patchouli:decoration/vanilla/wool)Brown Wool$(/l) and the $(l:patchouli:armors/yak_pants)Yak Pants$(/l) too in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/environmental/yak)Yaks$(/l) may drop this item upon death.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

@@ -3,7 +3,7 @@
     "icon": "minecraft:experience_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
+    "advancement": "endernomicon:experience_bottle",
     "pages": [
         {
             "type": "patchouli:spotlight",
