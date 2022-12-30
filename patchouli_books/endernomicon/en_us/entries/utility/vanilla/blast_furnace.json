@@ -1,5 +1,5 @@
 {    
-    "name": "Blast Furnace PDT DOCUMENTAR",
+    "name": "Blast Furnace",
     "icon": "minecraft:blast_furnace",
     "category": "patchouli:utility",
     "sortnum": 0,
@@ -19,12 +19,12 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/blast_furnace_2.png",
-            "text": "$(li)To use it, you have to insert fuel like $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l) or $(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rods$(/l) in the second slot. Then, you have to add the item to Smelt in the first slot."
+            "text": "$(li)To use it, you have to insert fuel like $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l) or $(l:patchouli:miscellaneous/vanilla/blaze_rod)Blaze Rods$(/l) in the second slot. Then, you have to add the Ore to Smelt in the first slot."
         },
         {
             "type": "patchouli:text",
             "title": "Smelting Recipes",
-            "text": "$(li)Coal$(li)Nether Quartz$(li)Emerald$(li)Gold Ingot$(li)Redstone Dust$(li)Ender Biotite$(li)Netherite Scrap$(li)Iron Ingot$(li)Nautilus Shell$(li)Iron Nugget$(li)Gold Nugget$(li)Lapis Lazuli"
+            "text": "$(li)$(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/nether_quartz)Nether Quartz$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingot$(/l)$(li)$(l:patchouli:redstone/vanilla/redstone)Redstone Dust$(/l)$(li)$(l:patchouli:miscellaneous/quark/ender_biotite)Ender Biotite$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/netherite_scrap)Netherite Scrap$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingot$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/nautilus_shell)Nautilus Shell$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/iron_nugget)Iron Nugget$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/gold_nugget)Gold Nugget$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/lapis_lazuli)Lapis Lazuli$(/l)"
         }
              ]
 }

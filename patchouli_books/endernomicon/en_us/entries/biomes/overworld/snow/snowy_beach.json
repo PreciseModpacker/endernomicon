@@ -1,6 +1,6 @@
 {    
     "name": "Snowy Beach",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
     "sortnum": 0,
     "advancement": "endernomicon:snowy_beach",

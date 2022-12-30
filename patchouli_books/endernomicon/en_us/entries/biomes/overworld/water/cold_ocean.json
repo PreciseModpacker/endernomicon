@@ -1,6 +1,6 @@
 {    
     "name": "Cold Ocean",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
     "advancement": "endernomicon:cold_ocean",
     "sortnum": 0,

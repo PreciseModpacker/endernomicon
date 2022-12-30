@@ -1,5 +1,5 @@
 {    
-    "name": "Bookshelf PDT DOCUMENTAR",
+    "name": "Bookshelf",
     "icon": "minecraft:bookshelf",
     "category": "patchouli:decoration",
     "sortnum": 0,
@@ -8,6 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:bookshelf",
+            "title": "Bookshelf",
             "text": "$(li)The Bookshelf is a decorative placeable block.$(br)$(li)This block can be used to upgrade the enchantment levels in the $(l:patchouli:utility/vanilla/enchanting_table)Enchanting Table$(/l).$(br)$(li)There are different versions of them depending on which wood you use.",
             "link_recipe": "true"
         },
@@ -15,6 +16,87 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/decoration/bookshelf.png",
             "text": "$(li)$(l:patchouli:villagers/librarian)Librarians$(/l) and $(l:patchouli:villagers/lumberjack)Lumberjacks$(/l) will trade this block by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l)."
-        }
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/oak_bookshelf",
+            "recipe2": "quark:building/crafting/spruce_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/birch_bookshelf",
+            "recipe2": "quark:building/crafting/jungle_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/acacia_bookshelf",
+            "recipe2": "quark:building/crafting/dark_oak_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/oak_bookshelf",
+            "recipe2": "quark:building/crafting/spruce_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:driftwood_bookshelf",
+            "recipe2": "upgrade_aquatic:river_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/red_mushroom/red_mushroom_bookshelf",
+            "recipe2": "enhanced_mushrooms:crafting/brown_mushroom/brown_mushroom_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "enhanced_mushrooms:crafting/glowshroom/glowshroom_bookshelf",
+            "recipe2": "environmental:building/wood/willow/willow_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "environmental:building/wood/cherry/cherry_bookshelf",
+            "recipe2": "environmental:building/wood/wisteria/wisteria_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "bamboo_blocks:bamboo_bookshelf",
+            "recipe2": "bayou_blues:crafting/cypress_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:rosewood_bookshelf",
+            "recipe2": "atmospheric:morado_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "atmospheric:yucca_bookshelf",
+            "recipe2": "atmospheric:aspen_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "autumnity:maple_bookshelf",
+            "recipe2": "endergetic:poise_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:building/crafting/crimson_bookshelf",
+            "recipe2": "quark:building/crafting/warped_bookshelf",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }

@@ -1,6 +1,6 @@
 {    
     "name": "Ocean",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
     "advancement": "endernomicon:ocean",
     "sortnum": 0,
