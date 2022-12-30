@@ -1,6 +1,6 @@
 {    
     "name": "Perch",
-    "icon": "upgrade_aquatic:perch",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:creatures",
     "sortnum": 0,
     "advancement": "endernomicon:perch",

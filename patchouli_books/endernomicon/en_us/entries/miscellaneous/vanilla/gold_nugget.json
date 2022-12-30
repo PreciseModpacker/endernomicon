@@ -1,5 +1,5 @@
 {    
-    "name": "Nugget (Gold) PDT DOCUMENTAR",
+    "name": "Nugget (Gold)",
     "icon": "minecraft:gold_nugget",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
@@ -13,7 +13,8 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used in multiple crafts in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br2)$(l) Gold Nugget Recipes$()$(br)$(li)$(l:patchouli:decoration/charm/lanterns)Gold Lanterns$(/l)$(li)Gilded Blackstone$(li)$(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingot$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrot$(/l)$(li)$(l:patchouli:tools/supplementaries/key)Key$(/l)$(li)$(l:patchouli:pets/save_your_pets/golden_pet_bandage)Golden Pet Bandage$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Gold Gate$(/l)$(li)$(l:patchouli:decoration/others/chains)Gold Chain$(/l)$(li)$(l:patchouli:miscellaneous/quark/golden_frog_leg)Golden Frog Leg$(/l)"
+            "title": "Gold Nugget Recipes",
+            "text": "$(li)$(l:patchouli:decoration/charm/lanterns)Gold Lanterns$(/l)$(li)Gilded Blackstone$(li)$(l:patchouli:miscellaneous/vanilla/glistering_melon_slice)Glistering Melon Slice$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingot$(/l)$(li)$(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrot$(/l)$(li)$(l:patchouli:tools/supplementaries/key)Key$(/l)$(li)$(l:patchouli:pets/save_your_pets/golden_pet_bandage)Golden Pet Bandage$(/l)$(li)$(l:patchouli:decoration/supplementaries/iron_gold_gates)Gold Gate$(/l)$(li)$(l:patchouli:decoration/others/chains)Gold Chain$(/l)$(li)$(l:patchouli:miscellaneous/quark/golden_frog_leg)Golden Frog Leg$(/l)"
         },
         {
             "type": "patchouli:text",

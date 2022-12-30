@@ -1,6 +1,6 @@
 {    
     "name": "Frog",
-    "icon": "minecraft:water_bucket",
+    "icon": "minecraft:podzol",
     "category": "patchouli:creatures",
     "sortnum": 0,
     "advancement": "endernomicon:frog",

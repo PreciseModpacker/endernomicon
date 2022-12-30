@@ -1,5 +1,5 @@
 {    
-    "name": "Bucket (Water) PDT DOCUMENTAR",
+    "name": "Bucket (Water)",
     "icon": "minecraft:water_bucket",
     "category": "patchouli:tools",
     "sortnum": 0,
@@ -17,17 +17,20 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can use it to craft Corrocks, Rusty Iron Plates, Mud Balls, or $(l:patchouli:miscellaneous/environmental/mud_ball)Mud Balls$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)A lot of aquatic creatures can be saved inside of a Water bucket.$(br)$(li)To do this you need hold the Water Bucket on your hand and right click the creature to save it in its interior.$(br)$(li)Then you can release it following the same process."
+            "text": "$(li)You can use it to craft Corrocks, Rusty Iron Plates or $(l:patchouli:miscellaneous/environmental/mud_ball)Mud Balls$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l).$(br)$(li)A lot of aquatic creatures can be saved inside of a Water bucket.$(br)$(li)To do this you need hold the Water Bucket on your hand and right click the creature to save it in its interior.$(br)$(li)Then you can release it following the same process."
         },
         {
             "type": "patchouli:text",
             "title": "Water Creatures",
-            "text": "$(li)Pufferfish$(li)Salmon$(li)Cod$(li)Tropical Fish$(li)Squid$(li)Nautilus$(li)Pike$(li)Lionfish$(li)Perch$(li)Slabfish$(li)Koi$(li)Coral Squid$(li)Lobster$(li)Blobfish"
+            "text": "$(li)$(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l)$(li)$(l:patchouli:creatures/vanilla/salmon)Salmon$(/l)$(li)$(l:patchouli:creatures/vanilla/cod)Cod$(/l)$(li)$(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fish$(/l)$(li)$(l:patchouli:creatures/vanilla/squid)Squid$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/nautilus)Nautilus$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/pike)Pike$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/perch)Perch$(/l)$(li)$(l:patchouli:pets/environmental/slabfish)Slabfish$(/l)$(li)$(l:patchouli:creatures/environmental/koi)Koi$(/l)$(li)$(l:patchouli:creatures/charm/coral_squid)Coral Squid$(/l)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobster$(/l)$(li)$(l:patchouli:creatures/alexsmobs/blobfish)Blobfish$(/l)"
         },
         {
             "type": "patchouli:text",
             "title": "Water Creatures",
-            "text": "$(li)Platypus$(li)Frilled Shark$(li)Mimic Octopus"
-        }
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l)$(li)$(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Shark$(/l)$(li)$(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }
