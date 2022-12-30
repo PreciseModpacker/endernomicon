@@ -1,6 +1,6 @@
 {    
     "name": "Deep Lukewarm Ocean",
-    "icon": "minecraft:water_bucket",
+    "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:biomes",
     "advancement": "endernomicon:deep_lukewarm_ocean",
     "sortnum": 0,
