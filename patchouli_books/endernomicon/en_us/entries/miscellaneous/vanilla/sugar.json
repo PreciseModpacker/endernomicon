@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)This item can be used to brew a $(l:patchouli:potions/vanilla/swiftness)Potion of Swiftness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)Sugar is a valious ingredient for numerous food recipes that can be crafted in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Sugar allows to you to craft other useful items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) may drop this item on death."
+            "text": "$(li)This item can be used to brew a $(l:patchouli:potions/vanilla/swiftness)Potion of Swiftness$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l).$(br)$(li)Sugar is a valious ingredient for numerous food recipes that can be crafted in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)Sugar allows to you to craft other useful items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) too.$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) may drop this item upon death."
         },
         {
             "type": "patchouli:text",

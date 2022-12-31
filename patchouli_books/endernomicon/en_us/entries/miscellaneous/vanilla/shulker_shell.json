@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:shulker_shell",
-            "text": "$(li)The Shulker shell is a rare item that can be used to craft a $(l:patchouli:utility/vanilla/shulker_box)Shulker Box$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/shulker)Shulkers$(/l) may drop this item on death.",
+            "text": "$(li)The Shulker shell is a rare item that can be used to craft a $(l:patchouli:utility/vanilla/shulker_box)Shulker Box$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/shulker)Shulkers$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

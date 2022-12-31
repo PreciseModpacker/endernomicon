@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Soul Vultures are bird undead creatures that can be found rarely near of the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valleys$(/l) in The Nether.$(br)$(li)They are hostile to you, stealing your halth when they attack you.$(br)$(li)If a Soul Vulture sapping you health 3 times, it has a 50% change of dropping a $(l:patchouli:miscellaneous/alexsmobs/soul_heart)Soul Heart$(/l) on death."
+            "text": "$(li)Soul Vultures are bird undead creatures that can be found rarely near the $(l:patchouli:biomes/nether/soul_sand_valley)Soul Sand Valleys$(/l) in The Nether.$(br)$(li)They are hostile to you, stealing your halth when they attack you.$(br)$(li)If a Soul Vulture sapping you health 3 times, it has a 50% change of dropping a $(l:patchouli:miscellaneous/alexsmobs/soul_heart)Soul Heart$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Wolfs are neutral creatures which can be found over the Overworld.$(br)$(li)They can be tamed giving them $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l).$(br)$(li)Once tamed, they will assist you combating hostile creatures and can be ordered to sit right clicking on them."
+            "text": "$(li)Wolves are neutral creatures which can be found over the Overworld.$(br)$(li)They can be tamed giving them $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l).$(br)$(li)Once tamed, they will assist you combating hostile creatures and can be ordered to sit right clicking on them."
         },
         {
             "type": "patchouli:entity",
@@ -21,7 +21,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/wolf.png",
-            "text": "$(li)Tamed wolfs collars can be tinted right click on them while you are holding a dye on your hand."
+            "text": "$(li)Tamed wolves collars can be tinted right click on them while you are holding a dye on your hand."
         }
              ]
 }

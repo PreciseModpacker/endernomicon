@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Frogs are passive creatures that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)These creatures can be bred giving them $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l) or any kind o Fish.$(br)$(li)They may drop $(l:patchouli:miscellaneous/quark/frog_leg)Frog Legs$(/l) on death."
+            "text": "$(li)Frogs are passive creatures that can be found in the $(l:patchouli:biomes/overworld/swamp/swamp)Swamps$(/l).$(br)$(li)These creatures can be bred by giving them $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l) or any kind o Fish.$(br)$(li)They may drop $(l:patchouli:miscellaneous/quark/frog_leg)Frog Legs$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

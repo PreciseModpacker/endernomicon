@@ -17,7 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They will try to hunt other fishes, except $(l:patchouli:creatures/vanilla/pufferfish)Pufferfishes$(/l) or $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfishes$(/l).$(br)$(li)On death, if they were holding an item, they will drop it.$(br)$(li)Also they may drop Raw Pike, that can be cooked to get Cooked Pike and drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) too."
+            "text": "$(li)They will try to hunt other fish, except $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l) or $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l).$(br)$(li)On death, if they were holding an item, they will drop it.$(br)$(li)Also they may drop Raw Pike, that can be cooked to get Cooked Pike and drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) too."
         },
         {
             "type": "patchouli:small_pictures",

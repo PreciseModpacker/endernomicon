@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Frozen Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l) in which aits surface is composed by ice insteat water.$(br)$(li)It can be found in the Overworld.$(br)$(li)In the surface of this place common dangerous creatures can appears normally."
+            "text": "$(li)The Frozen Ocean is a variant of the $(l:patchouli:biomes/overworld/water/ocean)Ocean$(/l) in which its surface is composed of ice instead of water.$(br)$(li)It can be found in the Overworld.$(br)$(li)On the surface of this place common dangerous creatures can appears normally."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Inside of the water, you'll see that the terrain is composed mainly by Gravel.$(br)$(li)No vegetation grows in the hard conditions of this sea.$(br)$(li)Only $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and Salmons can deal with these frozen waters.$(br)$(li)You can search this biome by typing the words $(l)Frozen Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Inside of the water, you'll see that the terrain is composed mainly of Gravel.$(br)$(li)No vegetation grows in the hard conditions of this sea.$(br)$(li)Only $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and Salmons can deal with these frozen waters.$(br)$(li)You can search this biome by typing the words $(l)Frozen Ocean$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

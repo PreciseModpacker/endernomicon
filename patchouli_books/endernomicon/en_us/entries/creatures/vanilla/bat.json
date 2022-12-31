@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Bats are flying passive creatures that can be found in dark areas underground over the Overworld.$(br)$(li)They only drop experience orbs on death.$(br)$(li)These tiny creatures can be trapped in a $(l:patchouli:tools/vanilla/bucket)Empty Bucket$(/l)."
+            "text": "$(li)Bats are flying passive creatures that can be found in dark areas underground over the Overworld.$(br)$(li)They only drop experience orbs upon death.$(br)$(li)These tiny creatures can be trapped in a $(l:patchouli:tools/vanilla/bucket)Empty Bucket$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

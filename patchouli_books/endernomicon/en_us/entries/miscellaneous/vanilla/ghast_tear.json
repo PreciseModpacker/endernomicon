@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l) may drop this item on death."
+            "text": "$(li)$(l:patchouli:creatures/vanilla/ghast)Ghasts$(/l) may drop this item upon death."
         }
              ]
 }

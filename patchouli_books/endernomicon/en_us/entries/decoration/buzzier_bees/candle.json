@@ -24,7 +24,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "buzzier_bees:candles/ender_candle",
-            "text": "$(li)Ender Candles are other variant of the Candles.$(br)$(li)Unlike Candles or Soul Candles, those produce purple flames insteat.",
+            "text": "$(li)Ender Candles are other variant of the Candles.$(br)$(li)Unlike Candles or Soul Candles, those produce purple flames instead.",
             "link_recipe": "true"
         }
              ]

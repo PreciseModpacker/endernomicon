@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:1}]}",
-            "text": "$(li)The Bane of Arthropods enchantment can be applied in any kind of $(l:patchouli:weapons/wooden_sword)$(l:patchouli:weapons/wooden_sword)Sword$(/l)$(/l), $(l:patchouli:weapons/wooden_axe)$(l:patchouli:weapons/wooden_axe)Axe$(/l)$(/l), $(l:patchouli:tools/quark/pickarang)$(l:patchouli:tools/quark/pickarang)Pickarang$(/l)$(/l), or $(l:patchouli:tools/quark/flamarang)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(/l).$(br)$(li)This enchantment increase the damage inflicted of arthropods like $(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l) or $(l:patchouli:creatures/vanilla/silverfish)Silverfishes$(/l).",
+            "text": "$(li)The Bane of Arthropods enchantment can be applied in any kind of $(l:patchouli:weapons/wooden_sword)$(l:patchouli:weapons/wooden_sword)Sword$(/l)$(/l), $(l:patchouli:weapons/wooden_axe)$(l:patchouli:weapons/wooden_axe)Axe$(/l)$(/l), $(l:patchouli:tools/quark/pickarang)$(l:patchouli:tools/quark/pickarang)Pickarang$(/l)$(/l), or $(l:patchouli:tools/quark/flamarang)$(l:patchouli:tools/quark/flamarang)Flamarang$(/l)$(/l).$(br)$(li)This enchantment increase the damage inflicted of arthropods like $(l:patchouli:creatures/vanilla/spider)Spiders$(/l), $(l:patchouli:creatures/vanilla/cave_spider)Cave Spiders$(/l) or $(l:patchouli:creatures/vanilla/silverfish)Silverfish$(/l).",
             "title": "Bane of Arthropods"
         },
         {

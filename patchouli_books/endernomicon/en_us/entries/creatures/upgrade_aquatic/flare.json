@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "upgrade_aquatic:flare",
             "scale": 0.4,
-            "text": "Flares may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membranes$(/l) on death."
+            "text": "Flares may drop $(l:patchouli:miscellaneous/vanilla/phantom_membrane)Phantom Membranes$(/l) upon death."
         }
              ]
 }

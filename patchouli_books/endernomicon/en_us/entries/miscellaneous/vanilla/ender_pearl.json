@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ender Pearl can be used to craft $(l:patchouli:utility/charm/ender_pearl_block)Ender Pearl Blocks$(/l), $(l:patchouli:redstone/quark/gravisand)Gravisand$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Duskbound Lanterns$(/l), $(l:patchouli:miscellaneous/vanilla/eye_of_ender)Eye of Ender$(/l), $(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l), $(l:patchouli:tools/alexsmobs/endolocator)Endolocator$(/l) and the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermen$(/l) may drop this item on death.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) trade Ender Pearls in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.",
+            "text": "$(li)The Ender Pearl can be used to craft $(l:patchouli:utility/charm/ender_pearl_block)Ender Pearl Blocks$(/l), $(l:patchouli:redstone/quark/gravisand)Gravisand$(/l), $(l:patchouli:decoration/charm/lantern_blocks)Duskbound Lanterns$(/l), $(l:patchouli:miscellaneous/vanilla/eye_of_ender)Eye of Ender$(/l), $(l:patchouli:tools/inspirations/dimension_compass)Dimension Compass$(/l), $(l:patchouli:tools/alexsmobs/endolocator)Endolocator$(/l) and the $(l:patchouli:armors/ender_armor)Ender Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/enderman)Endermen$(/l) may drop this item upon death.$(br)$(li)$(l:patchouli:villagers/cleric)Clerics$(/l) trade Ender Pearls in exchange of $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) too.",
             "link_recipe": "true"
         }
              ]

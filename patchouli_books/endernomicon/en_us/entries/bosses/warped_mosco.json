@@ -14,7 +14,7 @@
             "entity": "alexsmobs:warped_mosco",
             "scale": 0.9,
             "offset": 0.5,
-            "text": "It may drop a $(l:patchouli:miscellaneous/alexsmobs/hemolymph_sac)Hemolymph Sac$(/l) and a $(l:patchouli:miscellaneous/alexsmobs/warped_muscle)Warped Muscle$(/l) on death."
+            "text": "It may drop a $(l:patchouli:miscellaneous/alexsmobs/hemolymph_sac)Hemolymph Sac$(/l) and a $(l:patchouli:miscellaneous/alexsmobs/warped_muscle)Warped Muscle$(/l) upon death."
         }
              ]
 }

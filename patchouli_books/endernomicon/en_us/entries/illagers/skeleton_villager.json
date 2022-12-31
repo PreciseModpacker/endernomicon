@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Skeleton Villagers are the $(l:patchouli:villagers/villager)Villager$(/l) version of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).$(br)$(li)They can appear in $(l:patchouli:illagers/raid)Raids$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) on death."
+            "text": "$(li)Skeleton Villagers are the $(l:patchouli:villagers/villager)Villager$(/l) version of the $(l:patchouli:creatures/vanilla/skeleton)Skeletons$(/l).$(br)$(li)They can appear in $(l:patchouli:illagers/raid)Raids$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l) and $(l:patchouli:weapons/arrows)Arrows$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

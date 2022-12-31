@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Dolphins are neutral creatures that can be found over the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)If you are near of one of them, it will give you a $(l)Speed Boost$() effect making you swim faster.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cods$(/l) on death."
+            "text": "$(li)Dolphins are neutral creatures that can be found over the $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)If you are near one of them, it will give you a $(l)Speed Boost$() effect making you swim faster.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Raw Cods$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Weaponsmith is a blacksmith known for its powerful weapons.$(br)$(li)It will trade you $(l:patchouli:decoration/vanilla/bell)Bells$(/l), $(l:patchouli:weapons/wooden_axe)Axes$(/l), or $(l:patchouli:weapons/wooden_sword)Swords$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Weaponsmith profession if is near of a $(l:patchouli:utility/vanilla/grindstone)Grindstone$(/l)."
+            "text": "$(li)The Weaponsmith is a blacksmith known for its powerful weapons.$(br)$(li)It will trade you $(l:patchouli:decoration/vanilla/bell)Bells$(/l), $(l:patchouli:weapons/wooden_axe)Axes$(/l), or $(l:patchouli:weapons/wooden_sword)Swords$(/l) for $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and vice versa.$(br)$(li)A Villager can get the Weaponsmith profession if is near a $(l:patchouli:utility/vanilla/grindstone)Grindstone$(/l)."
         },
         {
             "type": "patchouli:entity",

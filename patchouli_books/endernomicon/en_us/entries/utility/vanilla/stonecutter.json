@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/utility/stonecutter_1.png",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/mason)Mason$(/l)."
+            "text": "$(li)If this block is placed near a Villager without a job, it will be turned into a $(l:patchouli:villagers/mason)Mason$(/l)."
         },
         {
             "type": "patchouli:small_pictures",

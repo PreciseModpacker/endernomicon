@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Mooshrooms are an special variant of the $(l:patchouli:creatures/vanilla/cow)Cows$(/l) that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l) Shore of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() on death.$(br)$(li)They can't be tamed, but they can be breed and milked in the same way as the cows."
+            "text": "$(li)Mooshrooms are an special variant of the $(l:patchouli:creatures/vanilla/cow)Cows$(/l) that can be found in the $(l:patchouli:biomes/overworld/mushroom/mushroom_fields)Mushroom Fields$(/l) Shore of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() upon death.$(br)$(li)They can't be tamed, but they can be breed and milked in the same way as the cows."
         },
         {
             "type": "patchouli:entity",

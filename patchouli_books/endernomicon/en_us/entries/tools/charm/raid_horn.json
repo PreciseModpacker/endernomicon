@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "charm:raid_horn",
-            "text": "$(li)The Raid Horn can be used to cancel a $(l:patchouli:illagers/raid)Village Raid$(/l) that is in progress.$(br)$(li)Where there is no raid in progress, blowing a Raid Horn will call a $(l:patchouli:illagers/patrol)Wandering Pillager Patrol$(/l) group to spawn nearby.$(br)$(li)Patrol Leaders very rarely drop a Raid Horn on death.",
+            "text": "$(li)The Raid Horn can be used to cancel a $(l:patchouli:illagers/raid)Village Raid$(/l) that is in progress.$(br)$(li)Where there is no raid in progress, blowing a Raid Horn will call a $(l:patchouli:illagers/patrol)Wandering Pillager Patrol$(/l) group to spawn nearby.$(br)$(li)Patrol Leaders very rarely drop a Raid Horn upon death.",
             "link_recipe": "true"
         },
         {

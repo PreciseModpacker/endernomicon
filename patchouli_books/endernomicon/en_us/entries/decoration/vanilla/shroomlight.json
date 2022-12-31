@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "infernalexp:crafting/crafting_shaped/shroomlight",
-            "text": "$(li)The Shroomlight is a source light block that can be found in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) and $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) may drop this block on death.",
+            "text": "$(li)The Shroomlight is a source light block that can be found in the $(l:patchouli:biomes/nether/crimson_forest)Crimson Forests$(/l) and $(l:patchouli:biomes/nether/warped_forest)Warped Forests$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) may drop this block upon death.",
             "link_recipe": "true"
         },
         {

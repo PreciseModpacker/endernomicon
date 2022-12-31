@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)When you are near of a Orca, you can obtain the rare $(l)Orca's Might$() effect which increases your attack speed."
+            "text": "$(li)When you are near an Orca, you can obtain the rare $(l)Orca's Might$() effect which increases your attack speed."
         },
         {
             "type": "patchouli:empty_page"

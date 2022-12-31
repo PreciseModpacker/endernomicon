@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Sunbird is a passive creature that flies around the Overworld.$(br)$(li)If a Sunbird is near of a $(l:patchouli:utility/vanilla/beacon)Beacon$(/l) beam, it will begin circling around it. This can be a way to keep Sunbirds within an area.$(br)$(li)When a Sunbird fly over undead creatures, they will burn up."
+            "text": "$(li)The Sunbird is a passive creature that flies around the Overworld.$(br)$(li)If a Sunbird is near a $(l:patchouli:utility/vanilla/beacon)Beacon$(/l) beam, it will begin circling around it. This can be a way to keep Sunbirds within an area.$(br)$(li)When a Sunbird fly over undead creatures, they will burn up."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Patrol is a rare, naturally-spawning group of $(l:patchouli:illagers/pillager)Pillagers$(/l) over the Overworld.$(br)$(li)Their leader, who is identified by carrying the $(l:patchouli:illagers/ominous_banner)Ominous Banner$(/l) in its back, may drop it and very rarely a $(l:patchouli:tools/charm/raid_horn)Raid Horn$(/l) on death.$(br)$(li)You can force a Patrol to spawn using the $(l:patchouli:tools/charm/raid_horn)Raid Horn$(/l) too."
+            "text": "$(li)The Patrol is a rare, naturally-spawning group of $(l:patchouli:illagers/pillager)Pillagers$(/l) over the Overworld.$(br)$(li)Their leader, who is identified by carrying the $(l:patchouli:illagers/ominous_banner)Ominous Banner$(/l) in its back, may drop it and very rarely a $(l:patchouli:tools/charm/raid_horn)Raid Horn$(/l) upon death.$(br)$(li)You can force a Patrol to spawn using the $(l:patchouli:tools/charm/raid_horn)Raid Horn$(/l) too."
         },
         {
             "type": "patchouli:small_pictures",

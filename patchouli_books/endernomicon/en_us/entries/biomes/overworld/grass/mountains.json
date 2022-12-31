@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Mountains are biomes located at high altitudes and they are composed mostly of Stone, Dirt and, sometimes Snow, covering the whole area.$(br)$(li)It can be found in the Overwold.$(br)$(li)You can find some vegetation like Spruce and Oak trees and animals like $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/environmental/yak)Yaks$(/l) or $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l) here too."
+            "text": "$(li)Mountains are a biome located at high altitudes and they are composed mostly of Stone, Dirt and, sometimes, Snow, covering the whole area.$(br)$(li)They can be found in the Overwold.$(br)$(li)You can find some vegetation like Spruce and Oak trees and animals such as $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/environmental/yak)Yaks$(/l) or $(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagles$(/l) here too."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can search this biome introducing the word $(l)Mountains$() in the search box of the Nature's Compass."
+            "text": "$(li)You can search this biome by typing the word $(l)Mountains$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Moobloom is a variant of the $(l:patchouli:creatures/vanilla/cow)Cow$(/l) that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() on death.$(br)$(li)They can't be tamed, but they can be breed and milked in the same way as the cows."
+            "text": "$(li)The Moobloom is a variant of the $(l:patchouli:creatures/vanilla/cow)Cow$(/l) that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) and $(l)Raw Beef$() upon death.$(br)$(li)They can't be tamed, but they can be breed and milked in the same way as the cows."
         },
         {
             "type": "patchouli:entity",

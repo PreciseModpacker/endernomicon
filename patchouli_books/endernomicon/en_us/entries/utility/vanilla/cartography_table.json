@@ -13,7 +13,7 @@
        },
        {
             "type": "patchouli:text",
-            "text": "$(li)If this block is placed near of a Villager without a job, it will be turned into a $(l:patchouli:villagers/cartographer)Cartographer$(/l).$(br)$(li)To use it, first, you need to place it.$(br)$(li)Now right click on it to open a new GUI.$(br)$(li)This GUI will allow you to manipulate maps."
+            "text": "$(li)If this block is placed near a Villager without a job, it will be turned into a $(l:patchouli:villagers/cartographer)Cartographer$(/l).$(br)$(li)To use it, first, you need to place it.$(br)$(li)Now right click on it to open a new GUI.$(br)$(li)This GUI will allow you to manipulate maps."
        },
        {
             "type": "patchouli:text",

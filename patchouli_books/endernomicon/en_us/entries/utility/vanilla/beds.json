@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:white_bed",
-            "text": "$(li)Beds are blocks that allows you to sleep on night, passing time faster than normal until the sun rises again.$(br)$(li)You only have to right click on the bed during the night to activate this event.",  
+            "text": "$(li)Beds are blocks that allows you to sleep at night, passing time faster than normal until the sun rises again.$(br)$(li)You only have to right click on the bed during the night to activate this event.",  
             "link_recipe": "true"
         },
         {

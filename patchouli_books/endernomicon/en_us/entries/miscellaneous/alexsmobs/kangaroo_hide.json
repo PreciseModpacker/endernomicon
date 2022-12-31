@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:kangaroo_hide",
-            "text": "$(li)The Kangaroo Hide can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern Star Cross$(/l), and the $(l:patchouli:armors/outback_leggings)Outback Leggings$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l) may drop this item on death.",
+            "text": "$(li)The Kangaroo Hide can be used to craft $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l), a $(l:patchouli:decoration/alexsmobs/banner_patterns)Banner Pattern Star Cross$(/l), and the $(l:patchouli:armors/outback_leggings)Outback Leggings$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

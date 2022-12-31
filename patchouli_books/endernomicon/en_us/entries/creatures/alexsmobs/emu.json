@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Emus are neutral birds that can be found in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) and $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l).$(br)$(li)They can be attracted and breed with $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l).$(br)$(li)Emus can lay $(l:patchouli:miscellaneous/alexsmobs/emu_egg)Emu Eggs$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l:patchouli:miscellaneous/alexsmobs/emu_feather)Emu Feathers$(/l) on death."
+            "text": "$(li)Emus are neutral birds that can be found in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) and $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l).$(br)$(li)They can be attracted and breed with $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l).$(br)$(li)Emus can lay $(l:patchouli:miscellaneous/alexsmobs/emu_egg)Emu Eggs$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and $(l:patchouli:miscellaneous/alexsmobs/emu_feather)Emu Feathers$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

@@ -13,11 +13,11 @@
             "type": "patchouli:entity",
             "entity": "minecraft:wither_skeleton{HandItems:[{Count:1,id:stone_sword}]}",
             "scale": 1,
-            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), rarely $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), and very rarely a $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), rarely $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), and very rarely a $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) upon death."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tiny Wither Skeletons are a cute variant of the Wither Skeletons and they can be found very rarely in the $(l:patchouli:structures/fortress)Nether Fortresses$(/l).$(br)$(li)When you are close of one of them, it will run quickly for you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), and always will drop the $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) that they are carrying in their hands on death."
+            "text": "$(li)Tiny Wither Skeletons are a cute variant of the Wither Skeletons and they can be found very rarely in the $(l:patchouli:structures/fortress)Nether Fortresses$(/l).$(br)$(li)When you are close of one of them, it will run quickly for you.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l), and always will drop the $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skull$(/l) that they are carrying in their hands upon death."
         },
         {
             "type": "patchouli:entity",

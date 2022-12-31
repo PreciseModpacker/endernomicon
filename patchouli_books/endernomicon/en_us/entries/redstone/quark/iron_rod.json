@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:automation/crafting/iron_rod",
-            "text": "$(li)The Iron Rod is a new metalic decoration block.$(br)$(li)If this block is placed in a $(l:patchouli:redstone/vanilla/piston)Piston$(/l), and you turns it on, the block near of it will be destroyed and the item will be drop on the ground.",
+            "text": "$(li)The Iron Rod is a new metalic decoration block.$(br)$(li)If this block is placed in a $(l:patchouli:redstone/vanilla/piston)Piston$(/l), and you turns it on, the block near it will be destroyed and the item will be drop on the ground.",
             "link_recipe": "true"
         },
         {

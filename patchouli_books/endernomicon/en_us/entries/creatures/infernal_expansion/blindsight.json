@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Blindsights are hostile creatures that can be found in $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyons$(/l) of the Nether.$(br)$(li)They will use their strong legs and tongue to jump and snatch $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) or you.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/infernalexp/blindsight_tongue)Blindsight Tongue$(/l) on death."
+            "text": "$(li)Blindsights are hostile creatures that can be found in $(l:patchouli:biomes/nether/glowstone_canyon)Glowstone Canyons$(/l) of the Nether.$(br)$(li)They will use their strong legs and tongue to jump and snatch $(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) or you.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/infernalexp/blindsight_tongue)Blindsight Tongue$(/l) upon death."
         },
         {
             "type": "patchouli:small_pictures",

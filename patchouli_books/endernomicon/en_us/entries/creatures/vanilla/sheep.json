@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Sheeps are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:decoration/vanilla/wool)Wool$(/l) and Raw Mutton on death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l).$(br)$(li)You can right click on a Sheep while you are holding $(l:patchouli:tools/vanilla/shears)Shears$(/l) to obtain $(l:patchouli:decoration/vanilla/wool)Wool$(/l)."
+            "text": "$(li)Sheeps are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l:patchouli:decoration/vanilla/wool)Wool$(/l) and Raw Mutton upon death.$(br)$(li)They can be bred by giving them $(l:patchouli:miscellaneous/vanilla/wheat)Wheat$(/l).$(br)$(li)You can right click on a Sheep while you are holding $(l:patchouli:tools/vanilla/shears)Shears$(/l) to obtain $(l:patchouli:decoration/vanilla/wool)Wool$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Endermapteras are small beetles that can be found in the $(l:patchouli:structures/ruined_citadel)Ruined Citadell$(/l) of the End.$(br)$(li)They are aggressive and are usually found in large groups.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/cataclysm/void_jaw)Void Jaw$(/l) on death."
+            "text": "$(li)Endermapteras are small beetles that can be found in the $(l:patchouli:structures/ruined_citadel)Ruined Citadell$(/l) of the End.$(br)$(li)They are aggressive and are usually found in large groups.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/cataclysm/void_jaw)Void Jaw$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

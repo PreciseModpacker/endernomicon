@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Pumpkin Fields is a biome where you can harvest a lot of $(l:patchouli:miscellaneous/vanilla/pumpkin)Pumpkins$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find common Pumpkins, Large Pumpkings, Maple Trees, Red and Brown Mushrooms."
+            "text": "$(li)Pumpkin Fields are a biome where you can harvest a lot of $(l:patchouli:miscellaneous/vanilla/pumpkin)Pumpkins$(/l).$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find common Pumpkins, Large Pumpkings, Maple Trees, as well as Red and Brown Mushrooms."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) and $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) can be found here too.$(br)$(li)On the night you can find a funny $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l) wearing a Pumpkin on the head.$(br)$(li)You can search this biome by typing the words $(l)Pumpkin Fields$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals such $(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) and $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) can be found here too.$(br)$(li)At night you can find a funny $(l:patchouli:creatures/vanilla/zombie)Zombie$(/l) wearing a Pumpkin on its head.$(br)$(li)You can search this biome by typing the words $(l)Pumpkin Fields$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

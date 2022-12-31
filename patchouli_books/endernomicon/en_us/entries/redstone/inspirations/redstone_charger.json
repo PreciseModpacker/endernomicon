@@ -8,13 +8,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:tools/redstone_charger",
-            "text": "$(li)The Redstone Charger is a variantion of the $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l).$(br)$(li)Insteat producing fire, this one produces a quick redstone pulse.",
+            "text": "$(li)The Redstone Charger is a variantion of the $(l:patchouli:tools/vanilla/flint_and_steel)Flint and Steel$(/l).$(br)$(li)Instead of producing fire, this one produces a quick redstone pulse.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/redstone_charger.png",
-            "text": "$(li)This redstone pulse will last for about 1 second. If sneaking when right clicking though, the pulse will only last 1 redstone tick insteat."
+            "text": "$(li)This redstone pulse will last for about 1 second. If sneaking when right clicking though, the pulse will only last 1 redstone tick instead."
         }
              ]
 }

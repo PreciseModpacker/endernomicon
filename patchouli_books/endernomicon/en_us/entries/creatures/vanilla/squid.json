@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Squids are passive aquatic creatures that spawns in $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) and $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)These creatures are the favourite prey of the $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sacs$(/l) on death."
+            "text": "$(li)Squids are passive aquatic creatures that spawns in $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) and $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l).$(br)$(li)These creatures are the favourite prey of the $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sacs$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

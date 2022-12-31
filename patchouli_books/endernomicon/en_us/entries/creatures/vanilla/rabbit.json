@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Rabbits are common passive animals that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forests$(/l) and $(l:patchouli:biomes/overworld/snow/taiga)Taigas$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rabbit_hide)Rabbit Hide$(/l), $(l)Raw Rabbit$() and very rarely $(l:patchouli:miscellaneous/vanilla/rabbit_foot)Rabbit's Foot$(/l) on death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l), $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l), or Dandelions."
+            "text": "$(li)Rabbits are common passive animals that can be found in the $(l:patchouli:biomes/overworld/desert/desert)Deserts$(/l), $(l:patchouli:biomes/overworld/snow/snowy_taiga)Snowy Taigas$(/l), $(l:patchouli:biomes/overworld/grass/flower_forest)Flower Forests$(/l) and $(l:patchouli:biomes/overworld/snow/taiga)Taigas$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/rabbit_hide)Rabbit Hide$(/l), $(l)Raw Rabbit$() and very rarely $(l:patchouli:miscellaneous/vanilla/rabbit_foot)Rabbit's Foot$(/l) upon death.$(br)$(li)They can be bred by giving them $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l), $(l:patchouli:miscellaneous/vanilla/golden_carrot)Golden Carrots$(/l), or Dandelions."
         },
         {
             "type": "patchouli:entity",

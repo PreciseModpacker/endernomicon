@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "supplementaries:bomb",
-            "text": "$(li)The Bombs are a new range weapon that explotes on impact and does not break blocks.$(br)$(li)They make 11 hearts of damage for every hit."
+            "text": "$(li)The Bombs are a new range weapon that explodes on impact and does not break blocks.$(br)$(li)They make 11 hearts of damage for every hit."
         },
         {
             "type": "patchouli:spotlight",

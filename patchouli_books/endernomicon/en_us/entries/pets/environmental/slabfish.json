@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "environmental:slabfish",
             "scale": 1,
-            "text": "If a Jukebox is playing near of them. They will start to dance!"
+            "text": "If a Jukebox is playing near them. They will start to dance!"
         },
         {
             "type": "patchouli:text",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Endergrades are fluffy flying creatures that can be found near of Chorus Plants in the End.$(br)$(li)Using a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) and a $(l:patchouli:pets/alexsmobs/chorus_on_a_stick)Chorus Fruit on a Stick$(/l) you can ride them, as a $(l:patchouli:creatures/vanilla/pig)Pig$(/l) on the Overworld."
+            "text": "$(li)Endergrades are fluffy flying creatures that can be found near Chorus Plants in the End.$(br)$(li)Using a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) and a $(l:patchouli:pets/alexsmobs/chorus_on_a_stick)Chorus Fruit on a Stick$(/l) you can ride them, as a $(l:patchouli:creatures/vanilla/pig)Pig$(/l) on the Overworld."
         },
         {
             "type": "patchouli:entity",

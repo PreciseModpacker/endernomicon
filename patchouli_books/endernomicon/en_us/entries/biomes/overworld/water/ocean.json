@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ocean is a biome composed of vast expanses of water.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this biome is mainly composed by Gravel.$(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
+            "text": "$(li)The Ocean is a biome composed of vast expanses of water.$(br)$(li)It can be found in the Overworld.$(br)$(li)The surface of this biome is mainly composed of Gravel.$(br)$(li)You can find some water vegetation too, like Seagrass or Kelp Plants."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Cods, Salmons, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found here too.$(br)$(li)You can search this biome introducing the word $(l)Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like Cods, Salmons, $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l) and $(l:patchouli:creatures/vanilla/squid)Squids$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Ocean$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

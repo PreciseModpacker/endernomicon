@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:nautilus_shell",
-            "text": "$(li)The Nautilus Shell is a hard material that can be used to craft $(l)Coralstone$() and $(l:patchouli:utility/vanilla/conduit)Conduits$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop them on death and they can rarely obtained during fishing too.$(br)$(li)$(l:patchouli:villagers/wandering_trader)Wandering Traders$(/l) may sell them by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
+            "text": "$(li)The Nautilus Shell is a hard material that can be used to craft $(l)Coralstone$() and $(l:patchouli:utility/vanilla/conduit)Conduits$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop them upon death and they can rarely obtained during fishing too.$(br)$(li)$(l:patchouli:villagers/wandering_trader)Wandering Traders$(/l) may sell them by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).",
             "link_recipe": "true"
         },
         {

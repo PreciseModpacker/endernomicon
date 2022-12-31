@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)They will drop the item its carrying as well a $(l:patchouli:miscellaneous/quark/diamond_heart)Heart of Diamond$(/l) on death.$(br)$(li)You can use this item to create tamed Stonelings.$(br)$(li)Just right click while you are pointing to a Stone Block and you are holding it in your hand to create your own tamed Stoneling!"
+            "text": "$(li)They will drop the item its carrying as well a $(l:patchouli:miscellaneous/quark/diamond_heart)Heart of Diamond$(/l) upon death.$(br)$(li)You can use this item to create tamed Stonelings.$(br)$(li)Just right click while you are pointing to a Stone Block and you are holding it in your hand to create your own tamed Stoneling!"
         } ,
         {
             "type": "patchouli:small_pictures",

@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)As long as the Goblin King is alive, it will emit an intimidating screams that will intimate you, inflicting the $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) effect on you.$(br)$(li)This effect reduces your physical damage dramatically.$(br)$(li)It may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and $(l:patchouli:miscellaneous/goblins_and_dungeons/ogre_tusk)Ogre Tusk$(/l) on death."
+            "text": "$(li)As long as the Goblin King is alive, it will emit an intimidating screams that will intimate you, inflicting the $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) effect on you.$(br)$(li)This effect reduces your physical damage dramatically.$(br)$(li)It may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and $(l:patchouli:miscellaneous/goblins_and_dungeons/ogre_tusk)Ogre Tusk$(/l) upon death."
         },
         {
             "type": "patchouli:empty_page"

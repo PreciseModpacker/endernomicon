@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:tnt_minecart",
-            "text": "$(li)Minecart with TNT are a variant of the common $(l:patchouli:redstone/vanilla/minecart)Minecart$(/l).$(br)$(li)As the $(l:patchouli:redstone/vanilla/tnt)TNT$(/l), if explotes it will break near blocks and inflicts explosion damage to near creatures."
+            "text": "$(li)Minecart with TNT are a variant of the common $(l:patchouli:redstone/vanilla/minecart)Minecart$(/l).$(br)$(li)As the $(l:patchouli:redstone/vanilla/tnt)TNT$(/l), if explodes it will break near blocks and inflicts explosion damage to near creatures."
         },
         {
             "type": "patchouli:small_pictures",
@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "title": "Ways to explote TNT",
+            "title": "Ways to explode TNT",
             "text": "$(li)If it moves over a $(l:patchouli:redstone/vanilla/activator_rail)Activator Rail$(/l).$(br)$(li)If it is destroyed while in motion.$(br)$(li)If it is hitted by fire, lava, or an explosion.$(br)$(li)If it is hit by a $(l:patchouli:miscellaneous/vanilla/fire_charge)Fire Charge$(/l)."
         },
         {

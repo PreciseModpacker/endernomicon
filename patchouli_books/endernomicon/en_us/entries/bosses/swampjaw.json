@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "meetyourfight:swampjaw",
             "scale": 0.48,
-            "text": "It drops $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), Dirt blocks, Vines and $(l:patchouli:miscellaneous/meet_your_fight/mossy_tooth)Mossy Tooths$(/l) on death."
+            "text": "It drops $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), Dirt blocks, Vines and $(l:patchouli:miscellaneous/meet_your_fight/mossy_tooth)Mossy Tooths$(/l) upon death."
         }
              ]
 }

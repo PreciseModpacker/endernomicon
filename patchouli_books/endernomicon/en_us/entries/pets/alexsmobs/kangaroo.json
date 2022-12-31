@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Kangaroos are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) and in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) of the Overworld.$(br)$(li)You can breed them giving them $(l:patchouli:miscellaneous/vanilla/dead_bush)Dead Bushes$(/l) or $(l:patchouli:miscellaneous/vanilla/grass)Grass$(/l).$(br)$(li)They may drop kangaroo meat or $(l:patchouli:miscellaneous/alexsmobs/kangaroo_hide)Kangaroo Hide$(/l) on death."
+            "text": "$(li)Kangaroos are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) and in the $(l:patchouli:biomes/overworld/desert/badlands)Badlands$(/l) of the Overworld.$(br)$(li)You can breed them giving them $(l:patchouli:miscellaneous/vanilla/dead_bush)Dead Bushes$(/l) or $(l:patchouli:miscellaneous/vanilla/grass)Grass$(/l).$(br)$(li)They may drop kangaroo meat or $(l:patchouli:miscellaneous/alexsmobs/kangaroo_hide)Kangaroo Hide$(/l) upon death."
         },
         {
             "type": "patchouli:small_pictures",

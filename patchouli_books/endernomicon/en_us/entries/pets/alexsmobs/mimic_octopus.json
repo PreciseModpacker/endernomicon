@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mimic Octopus is a neutral curious animal that can be found in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l) and $(l:patchouli:structures/coral_reefs)Coral Reefs$(/l).$(br)$(li)They have the hability to camouflage into their surrounding, changing their skin colour.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sac$(/l) on death."
+            "text": "$(li)The Mimic Octopus is a neutral curious animal that can be found in the $(l:patchouli:biomes/overworld/water/warm_ocean)Warm Oceans$(/l) and $(l:patchouli:structures/coral_reefs)Coral Reefs$(/l).$(br)$(li)They have the hability to camouflage into their surrounding, changing their skin colour.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/ink_sac)Ink Sac$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

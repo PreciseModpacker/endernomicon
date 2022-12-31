@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "minecraft:pufferfish",
             "scale": 1,
-            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), or $(l:patchouli:miscellaneous/vanilla/pufferfish)Pufferfish (Item)$(/l) on death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l), $(l:patchouli:miscellaneous/vanilla/bone)Bones$(/l), or $(l:patchouli:miscellaneous/vanilla/pufferfish)Pufferfish (Item)$(/l) upon death."
         }
              ]
 }

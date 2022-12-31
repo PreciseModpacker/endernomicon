@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Griefer is a master of the explosives. It will never attack you directly, insteat it will use $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) to summon $(l:patchouli:pets/savage_and_ravage/creepie)Creepies$(/l) that will follow you and explote like $(l:patchouli:creatures/vanilla/creeper)Creepers$(/l).$(br)$(li)It only can be found in a $(l:patchouli:illagers/raid)Raid$(/l).$(br)$(li)Oh Death, it may drops $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l)."
+            "text": "$(li)The Griefer is a master of the explosives. It will never attack you directly. Instead, it will use $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l) to summon $(l:patchouli:pets/savage_and_ravage/creepie)Creepies$(/l) that will follow you and explode like $(l:patchouli:creatures/vanilla/creeper)Creepers$(/l).$(br)$(li)It only can be found in a $(l:patchouli:illagers/raid)Raid$(/l).$(br)$(li)Oh Death, it may drop $(l:patchouli:miscellaneous/savage_and_ravage/creeper_spores)Creeper Spores$(/l)."
         },
         {
             "type": "patchouli:entity",

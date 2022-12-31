@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)If a $(l:patchouli:villagers/villager)Villager$(/l) is located near of a Honey Pot, it will turn into an $(l:patchouli:villagers/apiarist)Apiarist$(/l)."
+            "text": "$(li)If a $(l:patchouli:villagers/villager)Villager$(/l) is located near a Honey Pot, it will turn into an $(l:patchouli:villagers/apiarist)Apiarist$(/l)."
         }
              ]
 }

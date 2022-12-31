@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Ducks can be found both swimming in the water or walking on land.$(br)$(li)You can attract Ducks with $(l:patchouli:miscellaneous/environmental/duckweed)Duckweed$(/l) and breed them giving those to them as well.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and Raw Duck on death.$(br)$(li)While they are walking around, may drop $(l:patchouli:miscellaneous/environmental/duck_egg)Duck Eggs$(/l)."
+            "text": "$(li)Ducks can be found both swimming in the water or walking on land.$(br)$(li)You can attract Ducks with $(l:patchouli:miscellaneous/environmental/duckweed)Duckweed$(/l) and breed them giving those to them as well.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) and Raw Duck upon death.$(br)$(li)While they are walking around, may drop $(l:patchouli:miscellaneous/environmental/duck_egg)Duck Eggs$(/l)."
         },
         {
             "type": "patchouli:entity",

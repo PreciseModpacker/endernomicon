@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Salmon are fishes that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l) and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) on death."
+            "text": "$(li)Salmon are fish that can be found in $(l:patchouli:biomes/overworld/water/ocean)Oceans$(/l) and $(l:patchouli:biomes/overworld/water/river)Rivers$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_salmon)Raw Salmon$(/l) and $(l:patchouli:miscellaneous/vanilla/bone_meal)Bone Meal$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

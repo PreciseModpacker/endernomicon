@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "endergetic:booflo",
             "scale": 0.4,
-            "text": "Like Wolfs collars, you can dye them applying Dyes right clicking of them while you are holding a Dye."
+            "text": "Like Wolves collars, you can dye them applying Dyes right clicking of them while you are holding a Dye."
         },
         {
             "type": "patchouli:text",
@@ -26,7 +26,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tamed Booflos can be breed giving them $(l:patchouli:miscellaneous/endergetic/poise_cluster)Poise Clusters$(/l).$(br)$(li)These interesting creatures may drop Booflo Hide on death.$(br)$(li)Booflos collars can be tinted right clicking on them while you are holding a Dye in your hand."
+            "text": "$(li)Tamed Booflos can be bred by giving them $(l:patchouli:miscellaneous/endergetic/poise_cluster)Poise Clusters$(/l).$(br)$(li)These interesting creatures may drop Booflo Hide upon death.$(br)$(li)Booflos collars can be tinted right clicking on them while you are holding a Dye in your hand."
         },
         {
             "type": "patchouli:empty_page"

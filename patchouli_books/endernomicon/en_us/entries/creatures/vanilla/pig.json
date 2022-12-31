@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Pigs are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l)Raw Porkchop$() on death.$(br)$(li)They can be breed giving them $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l).$(br)$(li)You can right click on a Pig while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) in you hand to equip it."
+            "text": "$(li)Pigs are common passive creatures that can be found over the Overworld.$(br)$(li)They may drop $(l)Raw Porkchop$() upon death.$(br)$(li)They can be bred by giving them $(l:patchouli:miscellaneous/vanilla/carrot)Carrots$(/l).$(br)$(li)You can right click on a Pig while you are holding a $(l:patchouli:pets/vanilla/saddle)Saddle$(/l) in you hand to equip it."
         },
         {
             "type": "patchouli:entity",

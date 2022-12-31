@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:ascus_bomb",
-            "text": "$(li)The Ascus Bomb can be thrown generating a red area.$(br)$(li)All creatures inside of that area will receive the $(l:patchouli:potions/infernal_expansion/infection)Infection$(/l) effect damaging it and infecting the rest of the creatures near of this one.$(br)$(li)It can be used to brew a $(l:patchouli:potions/infernal_expansion/infection)Potion of Infection$(/l) too.",
+            "text": "$(li)The Ascus Bomb can be thrown generating a red area.$(br)$(li)All creatures inside of that area will receive the $(l:patchouli:potions/infernal_expansion/infection)Infection$(/l) effect damaging it and infecting the rest of the creatures near this one.$(br)$(li)It can be used to brew a $(l:patchouli:potions/infernal_expansion/infection)Potion of Infection$(/l) too.",
             "link_recipe": "true"
         },
         {

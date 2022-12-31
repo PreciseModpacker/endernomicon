@@ -16,7 +16,7 @@
             "name": "Trident",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:trident,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop this item on death."
+            "text": "$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop this item upon death."
         },
         {
             "type": "patchouli:crafting",

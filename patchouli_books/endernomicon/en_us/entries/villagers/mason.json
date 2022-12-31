@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mason is an excellent builder.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/brick)Bricks$(/l), Stone, Diorite, Andersite, Terracota, and Quartz Blocks.$(br2)A Master Mason will exchange you the $(l:patchouli:armors/architect_belt)Architect's Belt$(/l).$(br)$(li)A Villager can get the Mason profession if is near of a $(l:patchouli:utility/vanilla/stonecutter)Stonecutter$(/l)."
+            "text": "$(li)The Mason is an excellent builder.$(br)$(li)It will trade you $(l:patchouli:miscellaneous/vanilla/brick)Bricks$(/l), Stone, Diorite, Andersite, Terracota, and Quartz Blocks.$(br2)A Master Mason will exchange you the $(l:patchouli:armors/architect_belt)Architect's Belt$(/l).$(br)$(li)A Villager can get the Mason profession if is near a $(l:patchouli:utility/vanilla/stonecutter)Stonecutter$(/l)."
         },
         {
             "type": "patchouli:entity",

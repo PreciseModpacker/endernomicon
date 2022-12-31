@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Kraken is a terrifying creature that can be found in the depths of any ocean except in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)Be careful if you are on a $(l:patchouli:tools/vanilla/boats)Boat$(/l), because this creature has the hability to destroy them and make you drown faster than normal.$(br)$(li)They may drop $(l:patchouli:miscellaneous/outvoted/kraken_tooth)Kraken Tooths$(/l) on death."
+            "text": "$(li)The Kraken is a terrifying creature that can be found in the depths of any ocean except in the $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l).$(br)$(li)Be careful if you are on a $(l:patchouli:tools/vanilla/boats)Boat$(/l), because this creature has the hability to destroy them and make you drown faster than normal.$(br)$(li)They may drop $(l:patchouli:miscellaneous/outvoted/kraken_tooth)Kraken Tooths$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

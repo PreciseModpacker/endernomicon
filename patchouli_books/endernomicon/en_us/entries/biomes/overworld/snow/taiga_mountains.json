@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Taiga Mountains are a variant of the Taiga biome composed of mostly Podzol and Coarse dirt.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
+            "text": "$(li)Taiga Mountains are a variant of the Taiga biome composed mostly of Podzol and Coarse dirt.$(br)$(li)They can be found in the Overworld.$(br)$(li)In this place you can find some vegetation like Brown Mushrooms, Dandelions, Poppies, Violets and Spruce trees."
         },
         {
             "type": "patchouli:text",

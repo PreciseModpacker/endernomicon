@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Dark Forest is a temperate forested biome with dense leaf canopies that block light sufficiently to allow hostile creatures to appears even during the daytime. $(br)$(li)This biome can be found in the Overworld.$(br)$(li)In this place you can find Maple trees, Dark Oak Trees, giant Red and Brown mushrooms."
+            "text": "$(li)The Dark Forest is a temperate forested biome with dense leaf canopies that block light sufficiently to allow hostile creatures to appear even during the daytime. $(br)$(li)This biome can be found in the Overworld.$(br)$(li)In this place you can find Maple trees, Dark Oak Trees, giant Red and Brown mushrooms."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) or $(l:patchouli:creatures/environmental/deer)Deers$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Dark Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/raccoon)Raccoons$(/l) or $(l:patchouli:creatures/environmental/deer)Deer$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Dark Forest$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

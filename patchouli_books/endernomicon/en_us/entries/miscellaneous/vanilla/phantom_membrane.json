@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l) or $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) may drop this item on death.",
+            "text": "$(li)$(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l) or $(l:patchouli:creatures/vanilla/phantom)Phantoms$(/l) may drop this item upon death.",
             "link_recipe": "true"
         }
 

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:glownuggets",
-            "text": "$(li)Dullrocks can only be used to craft $(l)Dimstone Blocks$() and $(l)Dullstone Blocks$().$(br)$(li)$(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) may drop this item on death.",
+            "text": "$(li)Dullrocks can only be used to craft $(l)Dimstone Blocks$() and $(l)Dullstone Blocks$().$(br)$(li)$(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquitos$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

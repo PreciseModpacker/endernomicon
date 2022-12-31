@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:glowstone_dust",
-            "text": "$(li)Glowstone Dust is an essencial ingredient to brew Potions.$(br)$(li)This item can be used to upgrade regular potions to Level II in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) rarely drop this item on death.",
+            "text": "$(li)Glowstone Dust is an essencial ingredient to brew Potions.$(br)$(li)This item can be used to upgrade regular potions to Level II in a $(l:patchouli:utility/vanilla/brewing_stand)$(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l)$(/l).$(br)$(li)$(l:patchouli:illagers/witch)Witches$(/l) rarely drop this item upon death.",
             "link_recipe": "true"
         },
         {

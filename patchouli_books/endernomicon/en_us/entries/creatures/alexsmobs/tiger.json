@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "alexsmobs:tiger",
             "scale": 0.65,
-            "text": "They can be bred giving them $(l:patchouli:miscellaneous/alexsmobs/acacia_blossom)Acacia Blossom$(/l)."
+            "text": "They can be bred by giving them $(l:patchouli:miscellaneous/alexsmobs/acacia_blossom)Acacia Blossom$(/l)."
         }
              ]
 }

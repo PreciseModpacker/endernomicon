@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Dropbear is a hostile creature that can be found in the $(l:patchouli:biomes/nether/nether_wastes)Nether Wastes$(/l) of the Nether.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/alexsmobs/dropbear_claw)Dropbear Claw$(/l) on death."
+            "text": "$(li)Dropbear is a hostile creature that can be found in the $(l:patchouli:biomes/nether/nether_wastes)Nether Wastes$(/l) of the Nether.$(br)$(li)They may drop a $(l:patchouli:miscellaneous/alexsmobs/dropbear_claw)Dropbear Claw$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

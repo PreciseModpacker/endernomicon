@@ -13,7 +13,7 @@
             "type": "patchouli:entity",
             "entity": "alexsmobs:moose",
             "scale": 0.65,
-            "text": "Mooses may drop $(l:patchouli:miscellaneous/alexsmobs/moose_ribs)Raw Moose Ribs$(/l) on death."
+            "text": "Moose may drop $(l:patchouli:miscellaneous/alexsmobs/moose_ribs)Raw Moose Ribs$(/l) upon death."
         },
         {
             "type": "patchouli:small_pictures",

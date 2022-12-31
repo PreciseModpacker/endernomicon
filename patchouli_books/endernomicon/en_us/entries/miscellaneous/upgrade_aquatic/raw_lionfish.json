@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "upgrade_aquatic:lionfish",
-            "text": "$(li)Raw Lionfish is a item that can be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to get $(l)Cooked Lionfish$().$(br)$(li)They can be used to brew a $(l:patchouli:potions/upgrade_aquatic/repellence)Potion of Repellence$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.$(br)$(li)$(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l) may drop this item on death.",
+            "text": "$(li)Raw Lionfish is a item that can be cooked in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l) to get $(l)Cooked Lionfish$().$(br)$(li)They can be used to brew a $(l:patchouli:potions/upgrade_aquatic/repellence)Potion of Repellence$(/l) in a $(l:patchouli:utility/vanilla/brewing_stand)Brewing Stand$(/l) too.$(br)$(li)$(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

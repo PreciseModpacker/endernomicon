@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Sunflower Plains is a variant of the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) biome.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find flowers like Sunflowers, Buttercups and Cornflowers.$(br)$(li)$(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) can be found flying around here pollinating the flowers of this biome."
+            "text": "$(li)Sunflower Plains are a variant of the $(l:patchouli:biomes/overworld/grass/plains)Plains$(/l) biome.$(br)$(li)They can be found in the Overworld.$(br)$(li)In this place you can find flowers such as Sunflowers, Buttercups and Cornflowers.$(br)$(li)$(l:patchouli:pets/alexsmobs/hummingbird)Hummingbirds$(/l) can be found flying around here pollinating the flowers of this biome."
         },
         {
             "type": "patchouli:text",

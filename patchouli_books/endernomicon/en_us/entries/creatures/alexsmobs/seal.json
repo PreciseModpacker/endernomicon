@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Seals are passive mostly aquatic mammals that can be foud on the $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) and $(l:patchouli:biomes/overworld/snow/snowy_beach)Snowy Beaches$(/l).$(br)$(li)If one Seal is attacked, the entire bob will flee into the water.$(br)$(li)You can drop fish near of them, with 3 fish, the Seal will give you something to you in exchange."
+            "text": "$(li)Seals are passive mostly aquatic mammals that can be foud on the $(l:patchouli:biomes/overworld/water/beach)Beaches$(/l) and $(l:patchouli:biomes/overworld/snow/snowy_beach)Snowy Beaches$(/l).$(br)$(li)If one Seal is attacked, the entire bob will flee into the water.$(br)$(li)You can drop fish near them, with 3 fish, the Seal will give you something to you in exchange."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Mushroom Fields is a rarely to find biome composed of mostly of Mycelium and Mushrooms.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find Red Mushrooms, Brown Mushrooms, Mycelium and $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l)."
+            "text": "$(li)The Mushroom Fields is a rarely found biome composed mostly of Mycelium and Mushrooms.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find Red Mushrooms, Brown Mushrooms, Mycelium and $(l:patchouli:miscellaneous/vanilla/sugar_cane)Sugar Cane$(/l)."
         },
         {
             "type": "patchouli:text",

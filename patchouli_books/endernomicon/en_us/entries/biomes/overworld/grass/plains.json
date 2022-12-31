@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Plains is simple a biome with a flat grass terrain.$(br)$(li)It can be found in the Overworld.$(br)$(li)In this place you can find vegetation like Oak Trees, Poppies, Dandenlions, Azure Bluets, Tulips, Oxeye Daidies, and Cornflowers."
+            "text": "$(li)Plains are simple a biome with a flat grass terrain.$(br)$(li)They can be found in the Overworld.$(br)$(li)In this place you can find vegetation like Oak Trees, Poppies, Dandenlions, Azure Bluets, Tulips, Oxeye Daidies, and Cornflowers."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:pets/alexsmobs/crow)Crows$(/l) can be found flying around this biome.$(br)$(li)You can search this biome introducing the word $(l)Plains$() in the search box of the Nature's Compass."
+            "text": "$(li)$(l:patchouli:pets/alexsmobs/crow)Crows$(/l) can be found flying around this biome.$(br)$(li)You can search this biome by typing the word $(l)Plains$() in the search box of the Nature's Compass."
         },
         {
             "type": "patchouli:pictures",

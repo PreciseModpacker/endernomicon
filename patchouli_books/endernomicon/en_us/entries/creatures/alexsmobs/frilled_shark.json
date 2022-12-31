@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Frilled Shark are small neutral sharks that appears at the bottom of $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l) and feeds on $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:creatures/alexsmobs/blobfish)Blobfishes$(/l).$(br)$(li)They will attack you if you are close of them, inflicting exsanguination effect, inflicting you an extra damage.$(br)$(li)They lure squids with the shine of their teeth."
+            "text": "$(li)Frilled Shark are small neutral sharks that appears at the bottom of $(l:patchouli:biomes/overworld/water/deep_ocean)Deep Oceans$(/l) and feeds on $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:creatures/alexsmobs/blobfish)Blobfish$(/l).$(br)$(li)They will attack you if you are close of them, inflicting exsanguination effect, inflicting you an extra damage.$(br)$(li)They lure squids with the shine of their teeth."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Apiarist take care of the $(l:patchouli:creatures/vanilla/bee)Bees$(/l), collects and processes the $(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l).$(br)$(li)It will trade you $(l:patchouli:tools/vanilla/shears)Shears$(/l), $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottles$(/l), Candles, $(l:patchouli:miscellaneous/buzzier_bees/four_leaf_clover)Four Leaf Clovers$(/l), Flowers, a $(l:patchouli:tools/buzzier_bees/honey_wand)Honey Wand$(/l), and even a $(l:patchouli:tools/vanilla/glass_bottle)Bottle of bees$(/l) by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Apiarist profession if it is near of a $(l:patchouli:utility/buzzier_bees/honey_pot)Honey Pot$(/l)."
+            "text": "$(li)The Apiarist takes care of the $(l:patchouli:creatures/vanilla/bee)Bees$(/l), collects and processes the $(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l).$(br)$(li)It will trade you $(l:patchouli:tools/vanilla/shears)Shears$(/l), $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottles$(/l), Candles, $(l:patchouli:miscellaneous/buzzier_bees/four_leaf_clover)Four Leaf Clovers$(/l), Flowers, a $(l:patchouli:tools/buzzier_bees/honey_wand)Honey Wand$(/l), and even a $(l:patchouli:tools/vanilla/glass_bottle)Bottle of bees$(/l) by $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l).$(br)$(li)A Villager can get the Apiarist profession if it is near a $(l:patchouli:utility/buzzier_bees/honey_pot)Honey Pot$(/l)."
         },
         {
             "type": "patchouli:entity",

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Parrots are flying passive animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) on death.$(br)$(li)Parrots can be tamed by feeding them with $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/melon_seeds)Melon Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l), or $(l:patchouli:miscellaneous/vanilla/beetroot_seeds)Beetroot Seeds$(/l)."
+            "text": "$(li)Parrots are flying passive animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/feather)Feathers$(/l) upon death.$(br)$(li)Parrots can be tamed by feeding them with $(l:patchouli:miscellaneous/vanilla/wheat_seeds)Wheat Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/melon_seeds)Melon Seeds$(/l), $(l:patchouli:miscellaneous/vanilla/pumpkin_seeds)Pumpkin Seeds$(/l), or $(l:patchouli:miscellaneous/vanilla/beetroot_seeds)Beetroot Seeds$(/l)."
         },
         {
             "type": "patchouli:entity",

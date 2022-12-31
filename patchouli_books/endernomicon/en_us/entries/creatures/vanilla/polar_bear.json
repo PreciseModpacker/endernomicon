@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Polar Bears are animals that can be found in icy biomes like the $(l:patchouli:biomes/overworld/snow/ice_spikes)Ice Spikes$(/l), $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l) and $(l:patchouli:biomes/overworld/water/deep_frozen_ocean)Deep Frozen Oceans$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Cooked Cod$(/l) and $(l:patchouli:miscellaneous/vanilla/raw_salmon)Cooked Salmon$(/l) on death."
+            "text": "$(li)Polar Bears are animals that can be found in icy biomes like the $(l:patchouli:biomes/overworld/snow/ice_spikes)Ice Spikes$(/l), $(l:patchouli:biomes/overworld/snow/frozen_ocean)Frozen Oceans$(/l) and $(l:patchouli:biomes/overworld/water/deep_frozen_ocean)Deep Frozen Oceans$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/raw_cod)Cooked Cod$(/l) and $(l:patchouli:miscellaneous/vanilla/raw_salmon)Cooked Salmon$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

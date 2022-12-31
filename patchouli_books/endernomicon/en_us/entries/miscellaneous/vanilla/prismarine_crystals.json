@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:prismarine_crystals",
-            "text": "$(li)Prismarine Crystals can be used to craft $(l:patchouli:decoration/charm/lantern_blocks)Sea Lanterns$(/l), $(l:patchouli:decoration/charm/lanterns)Tooth Lanterns$(/l), a $(l:patchouli:weapons/trident)Trident$(/l), and a $(l:patchouli:armors/prismarine_crystal_armor)Prismarine Crystal Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l) may drop this item on death.",
+            "text": "$(li)Prismarine Crystals can be used to craft $(l:patchouli:decoration/charm/lantern_blocks)Sea Lanterns$(/l), $(l:patchouli:decoration/charm/lanterns)Tooth Lanterns$(/l), a $(l:patchouli:weapons/trident)Trident$(/l), and a $(l:patchouli:armors/prismarine_crystal_armor)Prismarine Crystal Armor$(/l).$(br)$(li)$(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardians$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

@@ -14,7 +14,7 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/redstone/spore_bomb.png",
-            "text": "$(li)In a few seconds, a horde of 8 $(l:patchouli:pets/savage_and_ravage/creepie)Creepies$(/l) will appears in that area."
+            "text": "$(li)In a few seconds, a horde of 8 $(l:patchouli:pets/savage_and_ravage/creepie)Creepies$(/l) will appear in that area."
         }
              ]
 }

@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:utility/pipe",
-            "text": "$(li)Pipes can transport items but cannot extract them from inventories.$(br)$(li)They can move items upwards, so they can be an easy solution insteat of using Droppers or Dispensers.",
+            "text": "$(li)Pipes can transport items but cannot extract them from inventories.$(br)$(li)They can move items upwards, so they can be an easy solution instead of using Droppers or Dispensers.",
             "link_recipe": "true"
         },
         {

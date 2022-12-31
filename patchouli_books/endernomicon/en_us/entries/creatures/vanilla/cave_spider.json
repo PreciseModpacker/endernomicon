@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Cave Spiders are the tiny version of the $(l:patchouli:creatures/vanilla/spider)Spiders$(/l) with the hability of $(l:patchouli:potions/vanilla/poison)Poison$(/l) you when they hit you.$(br)$(li)These creatures can be found in the $(l:patchouli:structures/mineshaft)Mineshafts$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) and $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l) on death."
+            "text": "$(li)Cave Spiders are the tiny version of the $(l:patchouli:creatures/vanilla/spider)Spiders$(/l) with the hability of $(l:patchouli:potions/vanilla/poison)Poison$(/l) you when they hit you.$(br)$(li)These creatures can be found in the $(l:patchouli:structures/mineshaft)Mineshafts$(/l).$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/string)Strings$(/l) and $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

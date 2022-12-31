@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:warped_muscle",
-            "text": "$(li)The Warped Muscle is an item that can be used to craft a powerfull weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l).$(br)$(li)$(l:patchouli:bosses/warped_mosco)Warped Mosco$(/l) may drop this item on death.",
+            "text": "$(li)The Warped Muscle is an item that can be used to craft a powerfull weapon known as the $(l:patchouli:weapons/hemolymph_blaster)Hemolymph Blaster$(/l).$(br)$(li)$(l:patchouli:bosses/warped_mosco)Warped Mosco$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

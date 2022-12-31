@@ -14,7 +14,7 @@
             "entity": "cataclysm:netherite_monstrosity",
             "scale": 0.75,
             "offset": 0.2,
-            "text": "It drops a $(l:patchouli:miscellaneous/cataclysm/monstrous_horn)Monstruos Horn$(/l), the $(l:patchouli:weapons/infernal_forge)Infernal Forge$(/l) and rarely a Music Disc on death."
+            "text": "It drops a $(l:patchouli:miscellaneous/cataclysm/monstrous_horn)Monstruos Horn$(/l), the $(l:patchouli:weapons/infernal_forge)Infernal Forge$(/l) and rarely a Music Disc upon death."
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Straddler is a hostile mob that likes to live in the $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l) of the Nether.$(br)$(li)It will use $(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l) as projectiles.$(br)$(li)It will do anything to stay far away from you.$(br)$(li)Straddlers may drop Basalt blocks and sometimes $(l:patchouli:miscellaneous/alexsmobs/straddlite)Straddlite$(/l) on death."
+            "text": "$(li)The Straddler is a hostile mob that likes to live in the $(l:patchouli:biomes/nether/basalt_deltas)Basalt Deltas$(/l) of the Nether.$(br)$(li)It will use $(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l) as projectiles.$(br)$(li)It will do anything to stay far away from you.$(br)$(li)Straddlers may drop Basalt blocks and sometimes $(l:patchouli:miscellaneous/alexsmobs/straddlite)Straddlite$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

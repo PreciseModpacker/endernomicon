@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "inspirations:tools/north_compass",
-            "text": "$(li)The North Compass is an alternative of the $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)Insteat of pointing towards the spawnpoint, it will point towards the north.",
+            "text": "$(li)The North Compass is an alternative of the $(l:patchouli:tools/vanilla/compass)Compass$(/l).$(br)$(li)Instead of pointing towards the spawnpoint, it will point towards the north.",
             "link_recipe": "true"
         },
         {

@@ -170,12 +170,12 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can use Dyes to change the color of the collar of your Wolfs.$(br)$(li)Just right click your tamed Wolf while you are holding a Dye on your hand.",
+            "text": "$(li)You can use Dyes to change the color of the collar of your Wolves.$(br)$(li)Just right click your tamed Wolf while you are holding a Dye on your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:text",
-            "text": "Insert a Photo of dyed collared Wolfs"
+            "text": "Insert a Photo of dyed collared Wolves"
         },
         {
             "type": "patchouli:text",

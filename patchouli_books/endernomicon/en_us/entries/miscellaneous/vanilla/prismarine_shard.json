@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:prismarine_shard",
-            "text": "$(li)The Prismarine Shard is a hard material which $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardian$(/l) may drop on death.$(br)$(li)It can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "text": "$(li)The Prismarine Shard is a hard material which $(l:patchouli:creatures/vanilla/guardian)Guardians$(/l) and $(l:patchouli:bosses/elder_guardian)Elder Guardian$(/l) may drop upon death.$(br)$(li)It can be used to craft multiple items in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {

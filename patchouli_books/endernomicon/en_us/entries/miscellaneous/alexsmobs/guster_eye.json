@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "alexsmobs:guster_eye",
-            "text": "$(li)The Guster Eye can be used to craft a $(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l) or a $(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/guster)Gusters$(/l) may drop this item on death.",
+            "text": "$(li)The Guster Eye can be used to craft a $(l:patchouli:weapons/pocket_sand)Pocket of Sand$(/l) or a $(l:patchouli:redstone/alexsmobs/gustmaker)Gustmaker$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)$(l:patchouli:creatures/alexsmobs/guster)Gusters$(/l) may drop this item upon death.",
             "link_recipe": "true"
         },
         {

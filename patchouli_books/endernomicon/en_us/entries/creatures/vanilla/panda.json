@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Pandas are rare neutral animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)These creatures will attack you only if you hurt them first, but only once.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) on death."
+            "text": "$(li)Pandas are rare neutral animals that can be found in the $(l:patchouli:biomes/overworld/jungle/jungle)Jungles$(/l) and $(l:patchouli:biomes/overworld/jungle/bamboo_jungle)Bamboo Jungles$(/l) of the Overworld.$(br)$(li)These creatures will attack you only if you hurt them first, but only once.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/bamboo)Bamboo$(/l) upon death."
         },
         {
             "type": "patchouli:entity",

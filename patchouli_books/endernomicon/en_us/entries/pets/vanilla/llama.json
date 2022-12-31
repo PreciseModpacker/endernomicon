@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Llamas are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) on death.$(br)$(li)Llamas can be tamed by repetively riding them until hearts are displayed.$(br)$(li)Tamed Llamas can be bred feeding them with $(l:patchouli:utility/vanilla/hay_bale)Hay Bales$(/l)."
+            "text": "$(li)Llamas are neutral animals that can be found in the $(l:patchouli:biomes/overworld/desert/savanna)Savannas$(/l) of the Overworld.$(br)$(li)They may drop $(l:patchouli:miscellaneous/vanilla/leather)Leather$(/l) upon death.$(br)$(li)Llamas can be tamed by repetively riding them until hearts are displayed.$(br)$(li)Tamed Llamas can be bred feeding them with $(l:patchouli:utility/vanilla/hay_bale)Hay Bales$(/l)."
         },
         {
             "type": "patchouli:entity",
