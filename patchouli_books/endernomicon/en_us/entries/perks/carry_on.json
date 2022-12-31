@@ -23,6 +23,34 @@
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/perks/carry_on_2.png",
             "text": "$(li)Some creatures can be stacked on each other."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carreable Creatures",
+            "text": "$(li)$(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagle$(/l)$(li)$(l:patchouli:creatures/vanilla/bat)Bat$(/l)$(li)$(l:patchouli:creatures/vanilla/bee)Bee$(/l)$(li)$(l:patchouli:creatures/alexsmobs/blobfish)Blobfish$(/l)$(li)$(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkey$(/l)$(li)$(l:patchouli:pets/vanilla/cat)Cat$(/l)$(li)$(l:patchouli:creatures/vanilla/chicken)Chicken$(/l)$(li)$(l:patchouli:creatures/alexsmobs/cockroach)Cockroach$(/l)$(li)$(l:patchouli:creatures/vanilla/cod)Cod$(/l)$(li)$(l:patchouli:creatures/charm/coral_squid)Coral Squid$(/l)$(li)$(l:patchouli:creatures/vanilla/cow)Cow$(/l)$(li)$(l:patchouli:creatures/quark/crab)Crab$(/l)$(li)$(l:patchouli:pets/savage_and_ravage/creepie)Creepie$(/l)$(li)$(l:patchouli:pets/alexsmobs/crow)Crow$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carreable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/dolphin)Dolphin$(/l)$(li)$(l:patchouli:pets/vanilla/donkey)Donkey$(/l)$(li)$(l:patchouli:creatures/environmental/duck)Duck$(/l)$(li)$(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l)$(li)$(l:patchouli:creatures/alexsmobs/fly)Fly$(/l)$(li)$(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Shark$(/l)$(li)$(l:patchouli:creatures/quark/frog)Frog$(/l)$(li)$(l:patchouli:pets/vanilla/fox)Fox$(/l)$(li)$(l:patchouli:pets/quark/foxhound)Foxhound$(/l)$(li)$(l:patchouli:creatures/alexsmobs/gazelle)Gazelle$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/glowsilk_moth)Glowsilk Moth$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquito$(/l)$(li)$(l:patchouli:pets/alexsmobs/gorilla)Gorilla$(/l)$(li)$(l:patchouli:creatures/outvoted/hunger)Hunger$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carreable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/environmental/koi)Koi$(/l)$(li)$(l:patchouli:creatures/alexsmobs/leafcutter)Leafcutter Ant$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobster$(li)$(l:patchouli:pets/vanilla/llama)Llama$(/l)$(/l)$(li)$(l:patchouli:pets/alexsmobs/mantis_shrimp)Mantis Shrimp$(/l)$(li)$(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l)$(li)$(l:patchouli:creatures/buzzier_bees/moobloom)Moobloom$(/l)$(li)$(l:patchouli:creatures/vanilla/mooshroom)Mooshroom$(/l)$(li)$(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/nautilus)Nautilus$(/l)$(li)$(l:patchouli:pets/vanilla/ocelot)Ocelot$(/l)$(li)$(l:patchouli:creatures/vanilla/panda)Panda$(/l)$(li)$(l:patchouli:pets/vanilla/parrot)Parrot$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carreable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/upgrade_aquatic/perch)Perch$(/l)$(li)$(l:patchouli:creatures/vanilla/pig)Pig$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/pike)Pike$(/l)$(li)$(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l)$(li)$(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bug$(/l)$(li)$(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l)$(li)$(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbit$(/l)$(li)$(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnake$(/l)$(li)$(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunner$(/l)$(li)$(l:patchouli:creatures/vanilla/salmon)Salmon$(/l)$(li)$(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l)$(li)$(l:patchouli:creatures/alexsmobs/seal)Seal$(/l)$(li)$(l:patchouli:creatures/vanilla/sheep)Sheep$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Carreable Creatures",
+            "text": "$(li)$(l:patchouli:pets/quark/shiba_inu)Shiba Inu$(/l)$(li)$(l:patchouli:creatures/alexsmobs/shoebill)Shoebill$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloin$(/l)$(li)$(l:patchouli:creatures/autumnity/snail)Snail$(/l)$(li)$(l:patchouli:pets/vanilla/strider)Strider (Small)$(/l)$(li)$(l:patchouli:creatures/alexsmobs/stradpole)Stradpole$(/l)$(li)$(l:patchouli:creatures/alexsmobs/tasmanian_devil)Tasmanian Devil$(/l)$(li)$(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toad$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetle$(/l)$(li)$(l:patchouli:pets/revamped_wolf/wolf)Wolf$(/l)$(li)$(l:patchouli:creatures/environmental/yak)Yak$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }

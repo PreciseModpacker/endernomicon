@@ -51,7 +51,9 @@
             "text": "$(li)You can use Shears to harvest tree leaves too."
         },
         {
-            "type": "patchouli:empty_page"
-        } 
+            "type": "patchouli:text",
+            "title": "Shearable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l)$(li)$(l:patchouli:creatures/vanilla/chicken)Chicken$(/l)$(li)$(l:patchouli:creatures/buzzier_bees/moobloom)Moobloom$(/l)$(li)$(l:patchouli:creatures/vanilla/mooshroom)Mooshroom$(/l)$(li)$(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l)$(li)$(l:patchouli:creatures/vanilla/sheep)Sheep$(/l)$(li)$(l:patchouli:pets/vanilla/snow_golem)Snow Golem$(/l)$(li)$(l:patchouli:creatures/environmental/yak)Yak$(/l)"
+        }
              ]
 }
