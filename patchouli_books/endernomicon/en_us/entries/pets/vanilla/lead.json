@@ -8,13 +8,43 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:lead",
-            "text": "$(li)Lead can be used to leash and lead passive and neutral animals, golems and some monster right clicking on them while you are holding a Lead in your hand.",
+            "text": "$(li)Lead can be used to leash and lead passive and neutral animals, golems and other creatures right clicking on them while you are holding a Lead in your hand.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/pets/lead.png",
             "text": "$(li)After that you can right click to a Fence while you are holding the Lead to to attach it in this place."
-        }  
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:pets/alexsmobs/bald_eagle)Bald Eagle$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/basalt_giant)Basalt Giant$(/l)$(li)$(l:patchouli:creatures/vanilla/bee)Bee$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/blackstone_dwarf)Blackstone Dwarf$(/l)$(li)$(l:patchouli:creatures/alexsmobs/bone_serpent)Bone Serpent$(/l)$(li)$(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkey$(/l)$(li)$(l:patchouli:creatures/vanilla/cat)Cat$(/l)$(li)$(l:patchouli:creatures/alexsmobs/cave_centipede)Cave Centipede$(/l)$(li)$(l:patchouli:creatures/vanilla/chicken)Chicken$(/l)$(li)$(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzee$(/l)$(li)$(l:patchouli:creatures/alexsmobs/cockroach)Cockroach$(/l)$(li)$(l:patchouli:creatures/vanilla/cow)Cow$(/l)$(li)$(l:patchouli:creatures/quark/crab)Crab$(/l)$(li)$(l:patchouli:pets/savage_and_ravage/creepie)Creepie$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/crocodile)Crocodile$(/l)$(li)$(l:patchouli:pets/alexsmobs/crow)Crow$(/l)$(li)$(l:patchouli:creatures/environmental/deer)Deer$(/l)$(li)$(l:patchouli:creatures/vanilla/dolphin)Dolphin$(/l)$(li)$(l:patchouli:pets/vanilla/donkey)Donkey$(/l)$(li)$(l:patchouli:creatures/environmental/duck)Duck$(/l)$(li)$(l:patchouli:pets/alexsmobs/elephant)Elephant$(/l)$(li)$(l:patchouli:creatures/alexsmobs/emu)Emu$(/l)$(li)$(l:patchouli:pets/alexsmobs/endergrade)Endergrade$(/l)$(li)$(l:patchouli:creatures/upgrade_aquatic/flare)Flare$(/l)$(li)$(l:patchouli:creatures/alexsmobs/fly)Fly$(/l)$(li)$(l:patchouli:creatures/quark/frog)Frog$(/l)$(li)$(l:patchouli:pets/vanilla/fox)Fox$(/l)$(li)$(l:patchouli:pets/quark/foxhound)Foxhound$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/gazelle)Gazelle$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/glowsquito)Glowsquito$(/l)$(li)$(l:patchouli:pets/alexsmobs/gorilla)Gorilla$(/l)$(li)$(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bear$(/l)$(li)$(l:patchouli:creatures/vanilla/hoglin)Hoglin$(/l)$(li)$(l:patchouli:pets/vanilla/horse)Horse$(/l)$(li)$(l:patchouli:pets/alexsmobs/kangaroo)Kangaroo$(/l)$(li)$(l:patchouli:pets/alexsmobs/komodo_dragon)Komodo Dragon$(/l)$(li)$(l:patchouli:creatures/alexsmobs/leafcutter)Leafcutter Ant$(/l)$(li)$(l:patchouli:pets/vanilla/llama)Llama$(/l)$(li)$(l:patchouli:pets/alexsmobs/mantis_shrimp)Mantis Shrimp$(/l)$(li)$(l:patchouli:pets/alexsmobs/mimic_octopus)Mimic Octopus$(/l)$(li)$(l:patchouli:creatures/buzzier_bees/moobloom)Moobloom$(/l)$(li)$(l:patchouli:pets/vanilla/mule)Mule$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/moose)Moose$(/l)$(li)$(l:patchouli:creatures/vanilla/mooshroom)Mooshroom$(/l)$(li)$(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l)$(li)$(l:patchouli:pets/vanilla/ocelot)Ocelot$(/l)$(li)$(l:patchouli:creatures/alexsmobs/orca)Orca$(/l)$(li)$(l:patchouli:pets/vanilla/parrot)Parrot$(/l)$(li)$(l:patchouli:creatures/vanilla/pig)Pig$(/l)$(li)$(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l)$(li)$(l:patchouli:creatures/vanilla/polar_bear)Polar Bear$(/l)$(li)$(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bug$(/l)$(li)$(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbit$(/l)$(li)$(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnake$(/l)$(li)$(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunner$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/salmon)Salmon$(/l)$(li)$(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l)$(li)$(l:patchouli:creatures/alexsmobs/seal)Seal$(/l)$(li)$(l:patchouli:creatures/vanilla/sheep)Sheep$(/l)$(li)$(l:patchouli:pets/quark/shiba_inu)Shiba Inu$(/l)$(li)$(l:patchouli:creatures/alexsmobs/shoebill)Shoebill$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloin$(/l)$(li)$(l:patchouli:pets/environmental/slabfish)Slabfish$(/l)$(li)$(l:patchouli:creatures/autumnity/snail)Snail$(/l)$(li)$(l:patchouli:pets/vanilla/snow_golem)Snow Golem$(/l)$(li)$(l:patchouli:creatures/alexsmobs/spectre)Spectre$(/l)$(li)$(l:patchouli:creatures/alexsmobs/sunbird)Sunbird$(/l)$(li)$(l:patchouli:creatures/alexsmobs/tasmanian_devil)Tasmanian Devil$(/l)$(li)$(l:patchouli:creatures/alexsmobs/tiger)Tiger$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Leadeable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/turkey)Turkey$(/l)$(li)$(l:patchouli:creatures/alexsmobs/alligator_snapping)Alligator Snapping Turtle$(/l)$(li)$(l:patchouli:pets/alexsmobs/warped_toad)Warped Toad$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/warpbeetle)Warpbeetle$(/l)$(li)$(l:patchouli:pets/revamped_wolf/wolf)Wolf$(/l)$(li)$(l:patchouli:creatures/environmental/yak)Yak$(/l)"
+        }
              ]
 }

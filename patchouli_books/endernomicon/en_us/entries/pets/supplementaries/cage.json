@@ -1,0 +1,48 @@
+{    
+    "name": "Cage",
+    "icon": "supplementaries:cage",
+    "category": "patchouli:pets",
+    "sortnum": 0,
+    "advancement": "minecraft:story/smelt_iron",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:cage",
+            "text": "$(li)The Cage is a block that allows you to trap small creatures inside, transport them easily or even place them on the ground as decoration purposes.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_1.png",
+            "text": "$(li)To capture a new creature you have to right click a creature while you are holding an empty Cage in your hand."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_2.png",
+            "text": "$(li)You can place the cage like other common block shift right clicking while you are holding the Cage in the desired place to show your trapped creature."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/tools/cage_3.png",
+            "text": "$(li)Right click while you are holding the cage with the trapped creature inside and you are pointing to a block to release it."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Trapable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/vanilla/bat)Bat$(/l)$(li)$(l:patchouli:creatures/vanilla/bee)Bee$(/l)$(li)$(l:patchouli:pets/alexsmobs/capuchin_monkey)Capuchin Monkey$(/l)$(li)$(l:patchouli:pets/vanilla/cat)Cat$(/l)$(li)$(l:patchouli:creatures/vanilla/chicken)Chicken$(/l)$(li)$(l:patchouli:creatures/alexsmobs/cockroach)Cockroach$(/l)$(li)$(l:patchouli:creatures/quark/crab)Crab$(/l)$(li)$(l:patchouli:pets/savage_and_ravage/creepie)Creepie$(/l)$(li)$(l:patchouli:pets/alexsmobs/crow)Crow$(/l)$(li)$(l:patchouli:creatures/environmental/duck)Duck$(/l)$(li)$(l:patchouli:creatures/alexsmobs/enderiophage)Enderiophage$(/l)$(li)$(l:patchouli:creatures/vanilla/endermite)Endermite$(/l)$(li)$(l:patchouli:creatures/alexsmobs/fly)Fly$(/l)$(li)$(l:patchouli:creatures/quark/frog)Frog$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Trapable Creatures",
+            "text": "$(li)$(l:patchouli:pets/vanilla/fox)Fox$(/l)$(li)$(l:patchouli:pets/quark/foxhound)Foxhound$(/l)$(li)$(l:patchouli:creatures/alexsmobs/lobster)Lobster$(/l)$(li)$(l:patchouli:creatures/vanilla/magma_cube)Magma Cube (Small)$(/l)$(li)$(l:patchouli:creatures/alexsmobs/mimicube)Mimicube$(/l)$(li)$(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l)$(li)$(l:patchouli:pets/vanilla/ocelot)Ocelot$(/l)$(li)$(l:patchouli:pets/vanilla/parrot)Parrot$(/l)$(li)$(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l)$(li)$(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bug$(/l)$(li)$(l:patchouli:pets/alexsmobs/raccoon)Raccoon$(/l)$(li)$(l:patchouli:creatures/vanilla/rabbit)Rabbit$(/l)$(li)$(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnake$(/l)$(li)$(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunner$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Trapable Creatures",
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/seagull)Seagull$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloin$(/l)$(li)$(l:patchouli:pets/environmental/slabfish)Slabfish$(/l)$(li)$(l:patchouli:creatures/autumnity/snail)Snail$(/l)$(li)$(l:patchouli:creatures/alexsmobs/tasmanian_devil)Tasmanian Devil$(/l)$(li)$(l:patchouli:creatures/vanilla/tropical_fish)Tropical Fish$(/l)$(li)$(l:patchouli:creatures/infernal_expansion/voline)Voline$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
