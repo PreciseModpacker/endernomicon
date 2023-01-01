@@ -1,5 +1,5 @@
 {    
-    "name": "Slabfish PDT DOCUMENTAR",
+    "name": "Slabfish",
     "icon": "endermonicon:textures/book/entries/creatures/water.png",
     "category": "patchouli:pets",
     "sortnum": 0,
@@ -7,17 +7,22 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Slabfish are aquatic and land creatures that can be found in the Marsh Biome.$(br2)"
+            "text": "$(li)Slabfish are aquatic and land creatures that can be found rarely in the $(l:patchouli:biomes/overworld/water/marsh)Marsh$(/l).$(br)$(li)These creatures can be tamed giving them $(l:patchouli:miscellaneous/vanilla/tropical_fish)Tropical Fish$(/l).$(br)$(li)Once tamed, you can shift right click on them to make them to sit or stand up."
         },
         {
             "type": "patchouli:entity",
             "entity": "environmental:slabfish",
             "scale": 1,
-            "text": "If a Jukebox is playing near them. They will start to dance!"
+            "text": "If a $(l:patchouli:utility/vanilla/jukebox)Jukebox$(/l) is playing near them. They will start to dance!"
         },
         {
             "type": "patchouli:text",
-            "text": "This is about nether knowledge 3"
-        }  
+            "text": "$(li)If you right click in your tamed Slabfish, a new GUI will appear.$(br)$(li)Here you can insert a $(l:patchouli:utility/vanilla/chest)Chest$(/l) that it will be used such as a backpack.$(br)$(li)You can insert a dye to tint its backpack.$(br)$(li)This creature will pick up everything that it is near of it and it will save it in its backpack."
+        },
+        {
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/pets/slabfish.png",
+            "text": "$(li)You can breed these creatures give them a $(l:patchouli:miscellaneous/vanilla/pufferfish)Pufferfish$(/l)."
+        }
              ]
 }
