@@ -1,29 +1,18 @@
 {    
-    "name": "Find End Portal PDT DOCUMENTAR",
+    "name": "Find the End Portal",
     "icon": "endermonicon:textures/book/categories/book.png",
     "category": "patchouli:enders_journey",
     "sortnum": 4,
+    "advancement": "endernomicon:ender_eyes",
     "pages": [
         {
-            "type": "patchouli:crafting",
-            "recipe": "kubejs:kjs_9gat4uxkju9obnxb11vw870du",
-            "text": "$(li)You can craft a physical copy of the Endernomicon.$(br)$(li)This has new features that will help you in your journey.",
-            "link_recipe": "true"
+            "type": "patchouli:text",
+            "text": "$(li)Finally! You already have all the $(l:patchouli:enders_journey/ender_eyes)Ender Eyes$(/l).$(br)$(li)Now your objetive is to find the $(l)End Portal$().$(br)$(li)Throw an Ender Eye right clicking while it is in your hand.$(br)$(li)It will float for a few seconds in the direction of the End portal."
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_5.png",
-            "text": "$(li)While you are holding the Endernomicon in your hand you can shift right click a block to access to its entry."
-        },
-        {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_6.png",
-            "text": "$(li)While you are holding the Endernomicon in your hotbar you can place your mouse on any block and press Ctrl key to access to its entry."
-        },
-        {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_7.png",
-            "text": "$(li)This feature also can be used on JEI Items or in any kind of inventory, such as a Chest or a Furnace."
+            "picture": "endermonicon:textures/book/entries/enders_journey/end_portal.png",
+            "text": "$(li)Don't lose it!$(br)$(li)Repeat this process until find the End Portal."
         }
              ]
 }
