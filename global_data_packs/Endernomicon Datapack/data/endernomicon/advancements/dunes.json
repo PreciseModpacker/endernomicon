@@ -1,0 +1,53 @@
+{
+    "display": {
+        "title": {
+            "text": "Dunes"
+        },
+        "description": {
+            "text": "Biome Dunes"
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Dunes": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:dunes"
+            }
+        },
+        "Dunes Hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:dunes_hills"
+            }
+        },
+        "Flourishing Dunes": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:flourishing_dunes"
+            }
+        },
+        "Petrified Dunes": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:petrified_dunes"
+            }
+        },
+        "Rocky Dunes": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:rocky_dunes"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Dunes", "Dunes Hills", "Flourishing Dunes", "Petrified Dunes", "Rocky Dunes"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Sunken Shrine"
+        },
+        "description": {
+            "text": "Structures Sunken Shrine"
+        },
+        "icon": {
+            "item": "minecraft:prismarine_bricks"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:sunken_shrine"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

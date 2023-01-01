@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Illager King"
+        },
+        "description": {
+            "text": "Defeat the Illager King"
+        },
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:illager_king"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

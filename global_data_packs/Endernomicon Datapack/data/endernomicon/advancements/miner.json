@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Miner"
+        },
+        "description": {
+            "text": "Encounter Miner"
+        },
+        "icon": {
+            "item": "illagers_plus:miner_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:miner"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

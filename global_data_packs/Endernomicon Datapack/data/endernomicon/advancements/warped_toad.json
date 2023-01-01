@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Warped Toad"
+        },
+        "description": {
+            "text": "Encounter Warped Toad"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_warped_toad"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:warped_toad"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Large Redstone Jack o Lantern Slice"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Large Redstone Jack o Lantern Slice"
+        },
+        "icon": {
+            "item": "autumnity:large_redstone_jack_o_lantern_slice"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "autumnity:large_pumpkin_slice",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:redstone_torch",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

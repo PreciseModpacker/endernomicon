@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Turtle Egg"
+        },
+        "description": {
+            "text": "Adquire Turtle Egg"
+        },
+        "icon": {
+            "item": "minecraft:turtle_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:turtle_egg",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

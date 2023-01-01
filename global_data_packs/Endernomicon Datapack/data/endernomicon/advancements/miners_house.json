@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Miners House"
+        },
+        "description": {
+            "text": "Structures Miners House"
+        },
+        "icon": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Miners House": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:miners_house"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Miners House"]
+    ]
+}

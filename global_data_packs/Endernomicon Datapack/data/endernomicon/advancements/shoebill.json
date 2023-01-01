@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Shoebill"
+        },
+        "description": {
+            "text": "Encounter Shoebill"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_shoebill"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:shoebill"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

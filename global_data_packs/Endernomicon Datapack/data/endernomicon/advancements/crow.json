@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Crow"
+        },
+        "description": {
+            "text": "Encounter Crow"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_crow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:crow"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

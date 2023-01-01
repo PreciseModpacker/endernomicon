@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Small Goblin Camp"
+        },
+        "description": {
+            "text": "Structures Small Goblin Camp"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:urn"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:small_goblin_camp"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,59 @@
+{
+    "display": {
+        "title": {
+            "text": "Witch House"
+        },
+        "description": {
+            "text": "Structures Witch House"
+        },
+        "icon": {
+            "item": "minecraft:potion"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Birch": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:witch_hut_birch"
+            }
+        },
+        "Dark Forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:witch_hut_dark_forest"
+            }
+        },
+        "Giant Tree Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:witch_hut_giant_tree_taiga"
+            }
+        },
+        "Oak": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:witch_hut_oak"
+            }
+        },
+        "Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:witch_hut_taiga"
+            }
+        },
+        "Swamp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "swamp_hut"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Birch", "Dark Forest", "Giant Tree Taiga", "Oak", "Taiga", "Swamp"]
+    ]
+}

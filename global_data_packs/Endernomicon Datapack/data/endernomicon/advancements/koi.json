@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Koi"
+        },
+        "description": {
+            "text": "Encounter Koi"
+        },
+        "icon": {
+            "item": "environmental:koi_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "environmental:koi"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Leafcutter"
+        },
+        "description": {
+            "text": "Encounter Leafcutter"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_leafcutter_ant"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:leafcutter_ant"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

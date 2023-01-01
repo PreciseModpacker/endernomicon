@@ -1,0 +1,59 @@
+{
+    "display": {
+        "title": {
+            "text": "Rainforest"
+        },
+        "description": {
+            "text": "Biome Rainforest"
+        },
+        "icon": {
+            "item": "minecraft:mossy_cobblestone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Rainforest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:rainforest"
+            }
+        },
+        "Rainforest Basin": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:rainforest_basin"
+            }
+        },
+        "Rainforest Mountains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:rainforest_mountains"
+            }
+        },
+        "Rainforest Plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:rainforest_plateau"
+            }
+        },
+        "Sparse Rainforest Basin": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:sparse_rainforest_basin"
+            }
+        },
+        "Sparse Rainforest Plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "atmospheric:sparse_rainforest_plateau"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Rainforest", "Rainforest Basin", "Rainforest Plateau", "Rainforest Mountains", "Sparse Rainforest Basin", "Sparse Rainforest Plateau"]
+    ]
+}

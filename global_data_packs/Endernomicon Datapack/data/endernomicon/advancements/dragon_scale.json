@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Dragon Scale"
+        },
+        "description": {
+            "text": "Adquire Dragon Scale"
+        },
+        "icon": {
+            "item": "quark:dragon_scale"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "quark:dragon_scale",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

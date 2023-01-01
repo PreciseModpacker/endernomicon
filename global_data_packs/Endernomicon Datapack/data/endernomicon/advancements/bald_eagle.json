@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Bald Eagle"
+        },
+        "description": {
+            "text": "Encounter Bald Eagle"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_bald_eagle"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:bald_eagle"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

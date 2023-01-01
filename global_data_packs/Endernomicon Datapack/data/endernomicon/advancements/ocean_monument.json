@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Ocean Monument"
+        },
+        "description": {
+            "text": "Structures Ocean Monument"
+        },
+        "icon": {
+            "item": "minecraft:prismarine_bricks"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Ocean Monument": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "monument"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Ocean Monument"]
+    ]
+}

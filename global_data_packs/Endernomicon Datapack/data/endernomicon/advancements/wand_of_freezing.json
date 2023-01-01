@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Wand of Freezing"
+        },
+        "description": {
+            "text": "Adquire Wand of Freezing"
+        },
+        "icon": {
+            "item": "savageandravage:wand_of_freezing"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "savageandravage:wand_of_freezing",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

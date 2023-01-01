@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Nether Wart"
+        },
+        "description": {
+            "text": "Adquire Nether Wart"
+        },
+        "icon": {
+            "item": "minecraft:nether_wart"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_wart",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

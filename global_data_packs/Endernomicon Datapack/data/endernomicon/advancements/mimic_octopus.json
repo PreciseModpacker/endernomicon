@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Mimic Octopus"
+        },
+        "description": {
+            "text": "Encounter Mimic Octopus"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_mimic_octopus"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:mimic_octopus"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

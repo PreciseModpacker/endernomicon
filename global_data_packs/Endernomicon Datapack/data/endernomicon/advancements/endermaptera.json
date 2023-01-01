@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Endermaptera"
+        },
+        "description": {
+            "text": "Encounter Endermaptera"
+        },
+        "icon": {
+            "item": "cataclysm:endermaptera_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "cataclysm:endermaptera"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

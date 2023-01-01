@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Maple Forest"
+        },
+        "description": {
+            "text": "Biome Maple Forest"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "autumnity:maple_forest"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

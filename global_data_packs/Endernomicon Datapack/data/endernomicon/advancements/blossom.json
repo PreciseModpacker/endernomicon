@@ -1,0 +1,47 @@
+{
+    "display": {
+        "title": {
+            "text": "Blossom"
+        },
+        "description": {
+            "text": "Biome Blossom"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Blossom Highlands": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "environmental:blossom_highlands"
+            }
+        },
+        "Blossom Hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "environmental:blossom_hills"
+            }
+        },
+        "Blossom Valleys": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "environmental:blossom_valleys"
+            }
+        },
+        "Blossom Woods": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "environmental:blossom_woods"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Blossom Highlands", "Blossom Hills", "Blossom Valleys", "Blossom Woods"]
+    ]
+}

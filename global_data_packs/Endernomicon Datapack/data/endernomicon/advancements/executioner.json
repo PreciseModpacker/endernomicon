@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Executioner"
+        },
+        "description": {
+            "text": "Encounter Executioner"
+        },
+        "icon": {
+            "item": "savageandravage:executioner_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "savageandravage:executioner"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

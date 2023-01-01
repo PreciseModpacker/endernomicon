@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Toretoise"
+        },
+        "description": {
+            "text": "Encounter Toretoise"
+        },
+        "icon": {
+            "item": "quark:toretoise_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "quark:toretoise"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

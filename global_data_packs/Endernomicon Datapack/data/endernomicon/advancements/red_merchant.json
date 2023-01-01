@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Red Merchant"
+        },
+        "description": {
+            "text": "Trade with a Red Merchant"
+        },
+        "icon": {
+            "item": "minecraft:emerald"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+
+        "Gold Ingot": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "supplementaries:red_merchant"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

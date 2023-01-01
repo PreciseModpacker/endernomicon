@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Glowstone Canyon Ruin"
+        },
+        "description": {
+            "text": "Structures Glowstone Canyon Ruin"
+        },
+        "icon": {
+            "item": "minecraft:glowstone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "infernalexp:glowstone_canyon_ruin"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

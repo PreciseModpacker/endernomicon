@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Warped Shipwreck"
+        },
+        "description": {
+            "text": "Structures Warped Shipwreck"
+        },
+        "icon": {
+            "item": "minecraft:warped_nylium"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:shipwreck_warped"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

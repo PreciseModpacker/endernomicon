@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Snow Leopard"
+        },
+        "description": {
+            "text": "Encounter Snow Leopard"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_snow_leopard"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:snow_leopard"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

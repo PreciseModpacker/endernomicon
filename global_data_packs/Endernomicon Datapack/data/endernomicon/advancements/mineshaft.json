@@ -1,0 +1,113 @@
+{
+    "display": {
+        "title": {
+            "text": "Mineshaft"
+        },
+        "description": {
+            "text": "Structures Mineshaft"
+        },
+        "icon": {
+            "item": "minecraft:minecart"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Birch": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_birch"
+            }
+        },
+        "Crimson": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_crimson"
+            }
+        },
+        "Dark Forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_dark_forest"
+            }
+        },
+        "Desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_desert"
+            }
+        },
+        "End": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_end"
+            }
+        },
+        "Icy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_icy"
+            }
+        },
+        "Jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_jungle"
+            }
+        },
+        "Nether": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_nether"
+            }
+        },
+        "Ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_ocean"
+            }
+        },
+        "Savanna": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_savanna"
+            }
+        },
+        "Stone": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_stone"
+            }
+        },
+        "Swamp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_swamp"
+            }
+        },
+        "Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_taiga"
+            }
+        },
+        "Warped": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mineshaft_warped"
+            }
+        },
+        "Mineshaft": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "mineshaft"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Birch", "Crimson", "Dark Forest", "Desert", "End", "Icy", "Jungle", "Nether", "Ocean", "Savanna", "Stone", "Swamp", "Taiga", "Warped", "Mineshaft"]
+    ]
+}

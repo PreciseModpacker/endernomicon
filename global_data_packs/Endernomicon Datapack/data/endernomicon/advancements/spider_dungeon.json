@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Spider Dungeon"
+        },
+        "description": {
+            "text": "Structures Spider Dungeon"
+        },
+        "icon": {
+            "item": "minecraft:cobweb"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "betterdungeons:spider_dungeon"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

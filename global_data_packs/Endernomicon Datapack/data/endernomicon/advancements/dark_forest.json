@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Dark Forest"
+        },
+        "description": {
+            "text": "Biome Dark Forest"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Orange Spotted Dark Forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "autumnity:orange_spotted_dark_forest"
+            }
+        },
+        "Dark Forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:dark_forest"
+            }
+        },
+        "Dark Forest Hills": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:dark_forest_hills"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Orange Spotted Dark Forest", "Dark Forest", "Dark Forest Hills"]
+    ]
+}

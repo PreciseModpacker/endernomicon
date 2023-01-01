@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Lobster"
+        },
+        "description": {
+            "text": "Encounter Lobster"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_lobster"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:lobster"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

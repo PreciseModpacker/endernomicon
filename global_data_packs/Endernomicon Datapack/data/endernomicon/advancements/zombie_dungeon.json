@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Zombie Dungeon"
+        },
+        "description": {
+            "text": "Structures Zombie Dungeon"
+        },
+        "icon": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "betterdungeons:zombie_dungeon"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

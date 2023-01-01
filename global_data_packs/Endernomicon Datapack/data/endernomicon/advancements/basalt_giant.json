@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Basalt Giant"
+        },
+        "description": {
+            "text": "Encounter Basalt Giant"
+        },
+        "icon": {
+            "item": "infernalexp:basalt_giant_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "infernalexp:basalt_giant"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Fishing Ship"
+        },
+        "description": {
+            "text": "Structures Fishing Ship"
+        },
+        "icon": {
+            "item": "minecraft:fishing_rod"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:fishing_ship"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

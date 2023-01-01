@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Yak"
+        },
+        "description": {
+            "text": "Encounter Yak"
+        },
+        "icon": {
+            "item": "environmental:yak_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "environmental:yak"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

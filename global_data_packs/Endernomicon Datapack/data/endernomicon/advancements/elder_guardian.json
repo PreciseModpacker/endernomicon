@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Elder Guardian"
+        },
+        "description": {
+            "text": "Defeat the Elder Guardian"
+        },
+        "icon": {
+            "item": "minecraft:sea_lantern"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:elder_guardian"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

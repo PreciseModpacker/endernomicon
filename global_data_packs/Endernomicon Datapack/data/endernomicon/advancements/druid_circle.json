@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Druid Circle"
+        },
+        "description": {
+            "text": "Structures Druid Circle"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:druid_circle"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

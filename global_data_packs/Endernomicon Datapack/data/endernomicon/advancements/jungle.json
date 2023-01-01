@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Jungle"
+        },
+        "description": {
+            "text": "Biome Jungle"
+        },
+        "icon": {
+            "item": "alexsmobs:banana"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:jungle"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

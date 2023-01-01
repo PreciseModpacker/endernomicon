@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Honey Bottle"
+        },
+        "description": {
+            "text": "Adquire Honey Bottle"
+        },
+        "icon": {
+            "item": "minecraft:honey_bottle"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:honey_bottle",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Gazelle Horn"
+        },
+        "description": {
+            "text": "Adquire Gazelle Horn"
+        },
+        "icon": {
+            "item": "alexsmobs:gazelle_horn"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:gazelle_horn",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

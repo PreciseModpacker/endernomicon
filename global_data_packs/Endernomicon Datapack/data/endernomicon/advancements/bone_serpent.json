@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Bone Serpent"
+        },
+        "description": {
+            "text": "Encounter Bone Serpent"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_bone_serpent"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:bone_serpent"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

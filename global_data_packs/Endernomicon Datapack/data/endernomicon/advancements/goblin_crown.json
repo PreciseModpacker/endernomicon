@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Goblin Crown"
+        },
+        "description": {
+            "text": "Adquire Goblin Crown"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:goblin_crown"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "goblinsanddungeons:goblin_crown",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

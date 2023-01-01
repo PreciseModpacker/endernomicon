@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Frozen River"
+        },
+        "description": {
+            "text": "Biome Frozen River"
+        },
+        "icon": {
+            "item": "minecraft:snow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:frozen_river"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}
