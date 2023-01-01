@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Moose"
+        },
+        "description": {
+            "text": "Encounter Moose"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_moose"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:moose"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

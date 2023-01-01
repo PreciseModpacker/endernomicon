@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Hay Bale"
+        },
+        "description": {
+            "text": "Adquire Hay Bale"
+        },
+        "icon": {
+            "item": "minecraft:hay_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:hay_block",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Desert"
+        },
+        "description": {
+            "text": "Biome Desert"
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:desert"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

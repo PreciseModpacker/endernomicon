@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Nautilus"
+        },
+        "description": {
+            "text": "Encounter Nautilus"
+        },
+        "icon": {
+            "item": "upgrade_aquatic:nautilus_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "upgrade_aquatic:nautilus"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

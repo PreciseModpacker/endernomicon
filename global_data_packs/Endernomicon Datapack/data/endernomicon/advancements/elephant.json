@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Elephant"
+        },
+        "description": {
+            "text": "Encounter Elephant"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_elephant"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:elephant"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

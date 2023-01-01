@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Pillager"
+        },
+        "description": {
+            "text": "Encounter Pillager"
+        },
+        "icon": {
+            "item": "minecraft:pillager_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:pillager"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

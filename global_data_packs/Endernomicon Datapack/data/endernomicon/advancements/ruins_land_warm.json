@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Ruins Land Warm"
+        },
+        "description": {
+            "text": "Structures Ruins Land Warm"
+        },
+        "icon": {
+            "item": "minecraft:sandstone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:ruins_land_warm"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

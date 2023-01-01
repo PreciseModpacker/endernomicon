@@ -1,0 +1,71 @@
+{
+    "display": {
+        "title": {
+            "text": "Buried Treasure Map"
+        },
+        "description": {
+            "text": "Adquire a Buried Treasure Map"
+        },
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Filled Map": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "filled_map",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Tower": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_plus:tower"
+            }
+        },
+        "Shipwreck": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "shipwreck"
+            }
+        },
+        "Ocean Ruin": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "ocean_ruin"
+            }
+        },
+        "Trade": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:villager"
+                }
+            }
+        },
+        "Seagull": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:seagull"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Filled Map", "Tower", "Shipwreck", "Ocean Ruin", "Trade", "Seagull"]
+    ]
+}

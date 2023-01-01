@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Stables"
+        },
+        "description": {
+            "text": "Structures Stables"
+        },
+        "icon": {
+            "item": "minecraft:oak_fence"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:stables"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

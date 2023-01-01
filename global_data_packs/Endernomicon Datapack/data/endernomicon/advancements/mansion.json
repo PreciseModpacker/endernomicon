@@ -1,0 +1,71 @@
+{
+    "display": {
+        "title": {
+            "text": "Mansion"
+        },
+        "description": {
+            "text": "Structures Mansion"
+        },
+        "icon": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Birch": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_birch"
+            }
+        },
+        "Desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_desert"
+            }
+        },
+        "Jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_jungle"
+            }
+        },
+        "Oak": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_oak"
+            }
+        },
+        "Savanna": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_savanna"
+            }
+        },
+        "Snowy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_snowy"
+            }
+        },
+        "Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_taiga"
+            }
+        },
+        "Mansion": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "mansion"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Birch", "Desert", "Jungle", "Oak", "Savanna", "Snowy", "Taiga", "Mansion"]
+    ]
+}

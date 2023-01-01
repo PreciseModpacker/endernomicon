@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Cockroach"
+        },
+        "description": {
+            "text": "Encounter Cockroach"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_cockroach"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:cockroach"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Zombified Piglin"
+        },
+        "description": {
+            "text": "Encounter Zombified Piglin"
+        },
+        "icon": {
+            "item": "minecraft:zombified_piglin_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:zombified_piglin"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

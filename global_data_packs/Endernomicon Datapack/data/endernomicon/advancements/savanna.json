@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Savanna"
+        },
+        "description": {
+            "text": "Biome Savanna"
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

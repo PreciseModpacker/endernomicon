@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Snail Slime"
+        },
+        "description": {
+            "text": "Adquire Snail Slime"
+        },
+        "icon": {
+            "item": "autumnity:snail_slime"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "autumnity:snail_slime",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

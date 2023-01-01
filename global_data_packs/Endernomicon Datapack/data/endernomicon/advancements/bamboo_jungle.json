@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Bamboo Jungle"
+        },
+        "description": {
+            "text": "Biome Bamboo Jungle"
+        },
+        "icon": {
+            "item": "alexsmobs:banana"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:bamboo_jungle"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

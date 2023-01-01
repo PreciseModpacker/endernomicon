@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Igloo"
+        },
+        "description": {
+            "text": "Structures Igloo"
+        },
+        "icon": {
+            "item": "minecraft:ice"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Grassy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:igloo_grassy"
+            }
+        },
+        "Stone": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:igloo_stone"
+            }
+        },
+        "Igloo": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "igloo"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Grassy", "Stone", "Igloo"]
+    ]
+}

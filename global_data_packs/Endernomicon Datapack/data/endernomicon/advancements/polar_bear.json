@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Polar Bear"
+        },
+        "description": {
+            "text": "Encounter Polear Bear"
+        },
+        "icon": {
+            "item": "minecraft:polar_bear_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:polar_bear"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

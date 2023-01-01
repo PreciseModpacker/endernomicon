@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Raccoon"
+        },
+        "description": {
+            "text": "Encounter Raccoon"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_raccoon"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:raccoon"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

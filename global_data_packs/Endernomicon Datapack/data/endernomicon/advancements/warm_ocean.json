@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Warm Ocean"
+        },
+        "description": {
+            "text": "Biome Warm Ocean"
+        },
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:warm_ocean"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

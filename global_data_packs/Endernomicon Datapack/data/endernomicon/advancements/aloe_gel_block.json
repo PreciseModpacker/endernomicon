@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Aloe Gel Block"
+        },
+        "description": {
+            "text": "Get the materials to be able to create an Aloe Gel Block"
+        },
+        "icon": {
+            "item": "atmospheric:aloe_gel_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "atmospheric:aloe_gel_bottle",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

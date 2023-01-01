@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Blobfish"
+        },
+        "description": {
+            "text": "Encounter Blobfish"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_blobfish"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:blobfish"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

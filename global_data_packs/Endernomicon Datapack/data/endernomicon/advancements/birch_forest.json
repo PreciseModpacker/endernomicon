@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Birch Forest"
+        },
+        "description": {
+            "text": "Biome Birch Forest"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

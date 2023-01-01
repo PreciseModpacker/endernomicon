@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Villager"
+        },
+        "description": {
+            "text": "Trade with a Villager for first fime"
+        },
+        "icon": {
+            "item": "minecraft:emerald"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+
+        "Gold Ingot": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:villager"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

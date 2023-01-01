@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Moobloom"
+        },
+        "description": {
+            "text": "Encounter Moobloom"
+        },
+        "icon": {
+            "item": "buzzier_bees:moobloom_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "buzzier_bees:moobloom"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

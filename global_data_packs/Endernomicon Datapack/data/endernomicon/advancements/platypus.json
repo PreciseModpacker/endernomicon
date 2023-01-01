@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Platypus"
+        },
+        "description": {
+            "text": "Encounter Platypus"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_platypus"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:platypus"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

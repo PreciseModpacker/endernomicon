@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Hummingbird"
+        },
+        "description": {
+            "text": "Encounter Hummingbird"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_hummingbird"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:hummingbird"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

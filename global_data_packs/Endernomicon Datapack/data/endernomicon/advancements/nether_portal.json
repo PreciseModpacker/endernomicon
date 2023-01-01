@@ -1,0 +1,57 @@
+{
+    "display": {
+        "title": {
+            "text": "Nether Portal"
+        },
+        "description": {
+            "text": "Build a Nether Portal"
+        },
+        "icon": {
+            "item": "minecraft:obsidian"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:obsidian",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Crying Obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:crying_obsidian",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Ruined Portal": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "ruined_portal"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Obsidian", "Crying Obsidian", "Ruined Portal"]
+    ]
+}

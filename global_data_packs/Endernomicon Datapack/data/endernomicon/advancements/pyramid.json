@@ -1,0 +1,89 @@
+{
+    "display": {
+        "title": {
+            "text": "Pyramid"
+        },
+        "description": {
+            "text": "Structures Pyramid"
+        },
+        "icon": {
+            "item": "minecraft:sandstone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Badlands": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_badlands"
+            }
+        },
+        "End": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_end"
+            }
+        },
+        "Flower Forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_flower_forest"
+            }
+        },
+        "Giant Tree Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_giant_tree_taiga"
+            }
+        },
+        "Icy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_icy"
+            }
+        },
+        "Jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_jungle"
+            }
+        },
+        "Mushroom": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_mushroom"
+            }
+        },
+        "Nether": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_nether"
+            }
+        },
+        "Ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_ocean"
+            }
+        },
+        "Snowy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:pyramid_snowy"
+            }
+        },
+        "Pyramid": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "desert_pyramid"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Badlands", "End", "Flower Forest", "Giant Tree Taiga", "Icy", "Jungle", "Mushroom", "Nether", "Ocean", "Snowy", "Pyramid"]
+    ]
+}

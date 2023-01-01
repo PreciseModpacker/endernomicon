@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Crimson Shipwreck"
+        },
+        "description": {
+            "text": "Structures Crimson Shipwreck"
+        },
+        "icon": {
+            "item": "minecraft:crimson_nylium"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:shipwreck_crimson"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

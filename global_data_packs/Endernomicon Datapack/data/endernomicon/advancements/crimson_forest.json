@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Crimson Forest"
+        },
+        "description": {
+            "text": "Biome Crimson Forest"
+        },
+        "icon": {
+            "item": "minecraft:crimson_nylium"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:crimson_forest"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

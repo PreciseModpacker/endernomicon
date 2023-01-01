@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Hammerhead Shark"
+        },
+        "description": {
+            "text": "Encounter Hammerhead Shark"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_hammerhead_shark"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:hammerhead_shark"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

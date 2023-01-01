@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Cachalot Whale"
+        },
+        "description": {
+            "text": "Encounter Cachalot Whale"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_cachalot_whale"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:cachalot_whale"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

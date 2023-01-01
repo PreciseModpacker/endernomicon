@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Roadrunner"
+        },
+        "description": {
+            "text": "Encounter Roadrunner"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_roadrunner"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:roadrunner"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

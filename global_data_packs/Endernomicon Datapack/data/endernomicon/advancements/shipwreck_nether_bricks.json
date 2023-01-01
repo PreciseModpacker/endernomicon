@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Nether Bricks Shipwreck"
+        },
+        "description": {
+            "text": "Structures Nether Bricks Shipwreck"
+        },
+        "icon": {
+            "item": "minecraft:nether_bricks"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:shipwreck_nether_bricks"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

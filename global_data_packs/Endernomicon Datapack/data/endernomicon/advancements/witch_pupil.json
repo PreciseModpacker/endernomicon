@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Witch Pupil"
+        },
+        "description": {
+            "text": "Adquire Witch Pupil"
+        },
+        "icon": {
+            "item": "endrem:witch_pupil"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "endrem:witch_pupil",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

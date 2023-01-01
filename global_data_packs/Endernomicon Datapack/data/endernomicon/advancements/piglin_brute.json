@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Piglin Brute"
+        },
+        "description": {
+            "text": "Encounter Piglin Brute"
+        },
+        "icon": {
+            "item": "minecraft:piglin_brute_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:piglin_brute"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Cold Ocean"
+        },
+        "description": {
+            "text": "Biome Cold Ocean"
+        },
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:cold_ocean"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

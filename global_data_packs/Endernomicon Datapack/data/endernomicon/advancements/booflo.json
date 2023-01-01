@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Blooflo"
+        },
+        "description": {
+            "text": "Encounter Blooflo"
+        },
+        "icon": {
+            "item": "endergetic:booflo_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "endergetic:booflo"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Strider"
+        },
+        "description": {
+            "text": "Encounter Strider"
+        },
+        "icon": {
+            "item": "minecraft:strider_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:strider"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

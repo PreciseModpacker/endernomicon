@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Strawberry Pips"
+        },
+        "description": {
+            "text": "Adquire Strawberry Pips"
+        },
+        "icon": {
+            "item": "neapolitan:strawberry_pips"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "neapolitan:strawberry_pips",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

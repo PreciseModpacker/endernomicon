@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Molten Gold Cluster"
+        },
+        "description": {
+            "text": "Adquire Molten Gold Cluster"
+        },
+        "icon": {
+            "item": "infernalexp:molten_gold_cluster"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "infernalexp:molten_gold_cluster",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

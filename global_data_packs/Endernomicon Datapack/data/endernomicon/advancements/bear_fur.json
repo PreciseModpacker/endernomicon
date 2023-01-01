@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Bear Fur"
+        },
+        "description": {
+            "text": "Adquire Bear Fur"
+        },
+        "icon": {
+            "item": "alexsmobs:bear_fur"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:bear_fur",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

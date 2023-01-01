@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Cave Centipede"
+        },
+        "description": {
+            "text": "Encounter Cave Centipede"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_centipede"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:centipede_head"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

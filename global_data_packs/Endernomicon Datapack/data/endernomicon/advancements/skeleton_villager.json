@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Skeleton Villager"
+        },
+        "description": {
+            "text": "Encounter Skeleton Villager"
+        },
+        "icon": {
+            "item": "savageandravage:skeleton_villager_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "savageandravage:skeleton_villager"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

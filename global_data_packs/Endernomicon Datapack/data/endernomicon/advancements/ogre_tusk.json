@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Ogre Tusk"
+        },
+        "description": {
+            "text": "Adquire Ogre Tusk"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:ogre_tusk"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "goblinsanddungeons:ogre_tusk",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

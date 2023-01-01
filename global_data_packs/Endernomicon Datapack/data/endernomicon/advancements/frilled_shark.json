@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Frilled Shark"
+        },
+        "description": {
+            "text": "Encounter Frilled Shark"
+        },
+        "icon": {
+            "item": "alexsmobs:spawn_egg_frilled_shark"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "alexsmobs:frilled_shark"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

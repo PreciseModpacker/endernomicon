@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Medium Goblin Camp"
+        },
+        "description": {
+            "text": "Structures Medium Goblin Camp"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:urn"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:medium_goblin_camp"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

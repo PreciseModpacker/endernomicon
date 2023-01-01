@@ -1,0 +1,35 @@
+{
+    "display": {
+        "title": {
+            "text": "Gravelly Mountains"
+        },
+        "description": {
+            "text": "Biome Gravelly Mountains"
+        },
+        "icon": {
+            "item": "minecraft:gravel"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gravelly Mountains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:gravelly_mountains"
+            }
+        },
+        "Modified Gravelly Mountains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:modified_gravelly_mountains"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Gravelly Mountains", "Modified Gravelly Mountains"]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Goblo"
+        },
+        "description": {
+            "text": "Encounter Goblo"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:goblo_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:goblo"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

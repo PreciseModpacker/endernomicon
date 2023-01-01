@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Desert Tomb"
+        },
+        "description": {
+            "text": "Structures Desert Tomb"
+        },
+        "icon": {
+            "item": "minecraft:sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:desert_tomb"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

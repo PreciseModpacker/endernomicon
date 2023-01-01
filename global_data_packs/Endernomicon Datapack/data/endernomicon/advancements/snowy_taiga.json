@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Snowy Taiga"
+        },
+        "description": {
+            "text": "Biome Snowy Taiga"
+        },
+        "icon": {
+            "item": "minecraft:snow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:snowy_taiga"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

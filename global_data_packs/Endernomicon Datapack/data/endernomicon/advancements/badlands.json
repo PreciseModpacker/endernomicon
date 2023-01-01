@@ -1,0 +1,53 @@
+{
+    "display": {
+        "title": {
+            "text": "Badlands"
+        },
+        "description": {
+            "text": "Biome Badlands"
+        },
+        "icon": {
+            "item": "minecraft:red_sand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Badlands": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "badlands"
+            }
+        },
+        "Badlands Plate": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "badlands_plateau"
+            }
+        },
+        "Modified Badlands Plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "modified_badlands_plateau"
+            }
+        },
+        "Wooded Badlands Plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "wooded_badlands_plateau"
+            }
+        },
+        "Modified Wooded Badlands Plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "modified_wooded_badlands_plateau"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Badlands", "Badlands Plate", "Modified Badlands Plateau", "Wooded Badlands Plateau", "Modified Wooded Badlands Plateau"]
+    ]
+}

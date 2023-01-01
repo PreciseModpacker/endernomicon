@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "End Gate"
+        },
+        "description": {
+            "text": "Structures End Gate"
+        },
+        "icon": {
+            "item": "minecraft:end_portal_frame"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "endrem:end_gate"
+            }
+            
+        }
+    },
+    "parent": "endernomicon:root"
+}

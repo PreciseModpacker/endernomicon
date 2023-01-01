@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Skeleton Dungeon"
+        },
+        "description": {
+            "text": "Structures Skeleton Dungeon"
+        },
+        "icon": {
+            "item": "minecraft:bone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "betterdungeons:skeleton_dungeon"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

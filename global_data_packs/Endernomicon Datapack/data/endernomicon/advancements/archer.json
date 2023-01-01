@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Archer"
+        },
+        "description": {
+            "text": "Encounter Archer"
+        },
+        "icon": {
+            "item": "illagers_plus:archer_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:archer"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Blackstone Dwarf"
+        },
+        "description": {
+            "text": "Encounter Blackstone Dwarf"
+        },
+        "icon": {
+            "item": "infernalexp:blackstone_dwarf_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "infernalexp:blackstone_dwarf"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

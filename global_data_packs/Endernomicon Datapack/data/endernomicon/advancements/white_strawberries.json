@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "White Strawberries"
+        },
+        "description": {
+            "text": "Adquire White Strawberries"
+        },
+        "icon": {
+            "item": "neapolitan:white_strawberries"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "neapolitan:white_strawberries",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

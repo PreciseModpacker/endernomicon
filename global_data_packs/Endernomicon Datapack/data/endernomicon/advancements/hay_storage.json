@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Hay Storage"
+        },
+        "description": {
+            "text": "Structures Hay Storage"
+        },
+        "icon": {
+            "item": "minecraft:hay_block"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:hay_storage"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

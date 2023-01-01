@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Plantain Spider"
+        },
+        "description": {
+            "text": "Encounter Plantain Spider"
+        },
+        "icon": {
+            "item": "neapolitan:plantain_spider_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "neapolitan:plantain_spider"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

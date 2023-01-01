@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Snail"
+        },
+        "description": {
+            "text": "Encounter Snail"
+        },
+        "icon": {
+            "item": "autumnity:snail_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "autumnity:snail"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

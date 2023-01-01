@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Chicken"
+        },
+        "description": {
+            "text": "Encounter Chicken"
+        },
+        "icon": {
+            "item": "minecraft:chicken_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:chicken"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

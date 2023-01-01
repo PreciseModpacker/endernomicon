@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Thief's Hood"
+        },
+        "description": {
+            "text": "Obtain a Thief's Hood"
+        },
+        "icon": {
+            "item": "environmental:thief_hood"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "environmental:thief_hood",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

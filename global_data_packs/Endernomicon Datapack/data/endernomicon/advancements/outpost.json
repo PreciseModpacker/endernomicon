@@ -1,0 +1,83 @@
+{
+    "display": {
+        "title": {
+            "text": "Outpost"
+        },
+        "description": {
+            "text": "Structures Outpost"
+        },
+        "icon": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Badlands": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_badlands"
+            }
+        },
+        "Birch": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_birch"
+            }
+        },
+        "Desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_desert"
+            }
+        },
+        "Giant Tree Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_giant_tree_taiga"
+            }
+        },
+        "Icy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_icy"
+            }
+        },
+        "Jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_jungle"
+            }
+        },
+        "Oak": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_oak"
+            }
+        },
+        "Snowy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_snowy"
+            }
+        },
+        "Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_taiga"
+            }
+        },
+        "Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "pillager_outpost"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Badlands","Birch", "Desert", "Giant Tree Taiga", "Icy", "Jungle", "Oak", "Snowy", "Taiga", "Outpost"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Ocean"
+        },
+        "description": {
+            "text": "Biome Ocean"
+        },
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:ocean"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Dolphin"
+        },
+        "description": {
+            "text": "Encounter Dolphin"
+        },
+        "icon": {
+            "item": "minecraft:dolphin_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "custom_test_name": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:dolphins_grace": {
+                    }
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

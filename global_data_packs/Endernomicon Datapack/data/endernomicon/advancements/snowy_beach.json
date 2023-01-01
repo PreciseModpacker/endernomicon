@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Snowy Beach"
+        },
+        "description": {
+            "text": "Biome Snowy Beach"
+        },
+        "icon": {
+            "item": "minecraft:snow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:snowy_beach"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

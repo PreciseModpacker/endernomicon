@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Endolocator"
+        },
+        "description": {
+            "text": "Get the materials to be able to create an Endolocator"
+        },
+        "icon": {
+            "item": "alexsmobs:endolocator"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:ender_pearl",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "alexsmobs:echolocator",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

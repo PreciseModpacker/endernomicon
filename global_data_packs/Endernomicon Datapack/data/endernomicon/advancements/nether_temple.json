@@ -1,0 +1,53 @@
+{
+    "display": {
+        "title": {
+            "text": "Nether Temple"
+        },
+        "description": {
+            "text": "Structures Nether Temple"
+        },
+        "icon": {
+            "item": "minecraft:netherrack"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Basalt": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:temple_nether_basalt"
+            }
+        },
+        "Crimson": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:temple_nether_crimson"
+            }
+        },
+        "Soul": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:temple_nether_soul"
+            }
+        },
+        "Warped": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:temple_nether_warped"
+            }
+        },
+        "Wasteland": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:temple_nether_wasteland"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Basalt", "Crimson", "Soul", "Warped", "Wasteland"]
+    ]
+}

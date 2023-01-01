@@ -1,0 +1,79 @@
+{
+    "display": {
+        "title": {
+            "text": "Chainmail Armor"
+        },
+        "description": {
+            "text": "Adquire any part of the Chainmail Armor"
+        },
+        "icon": {
+            "item": "minecraft:chainmail_helmet"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Chainmail Helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "chainmail_helmet",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Chainmail Chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "chainmail_chestplate",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Chainmail Leggings": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "chainmail_leggings",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Chainmail Boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "chainmail_boots",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Chainmail Helmet", "Chainmail Chestplate", "Chainmail Leggings", "Chainmail Boots"]
+    ]
+}

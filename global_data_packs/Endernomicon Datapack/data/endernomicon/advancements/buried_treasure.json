@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Buried Treasure"
+        },
+        "description": {
+            "text": "Structures Buried Treasure"
+        },
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Buried Treasure": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "buried_treasure"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Buried Treasure"]
+    ]
+}

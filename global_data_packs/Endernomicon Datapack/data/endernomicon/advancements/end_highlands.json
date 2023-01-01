@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "End Highlands"
+        },
+        "description": {
+            "text": "Biome End Highlands"
+        },
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:end_highlands"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

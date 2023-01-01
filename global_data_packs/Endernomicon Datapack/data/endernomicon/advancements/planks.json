@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Planks"
+        },
+        "description": {
+            "text": "Obtain Planks"
+        },
+        "icon": {
+            "item": "minecraft:oak_planks"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "planks",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

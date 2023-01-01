@@ -1,0 +1,34 @@
+{
+    "display": {
+        "title": {
+            "text": "Ring of Experience"
+        },
+        "description": {
+            "text": "Adquire Ring of Experience"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:ring_of_experience"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "goblinsanddungeons:ring_of_experience",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

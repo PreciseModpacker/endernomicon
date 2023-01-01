@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Pillager Camp"
+        },
+        "description": {
+            "text": "Structures Pillager Camp"
+        },
+        "icon": {
+            "item": "minecraft:white_wool"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_enhanced:pillager_camp"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

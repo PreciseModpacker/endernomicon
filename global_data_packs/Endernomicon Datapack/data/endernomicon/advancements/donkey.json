@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Donkey"
+        },
+        "description": {
+            "text": "Encounter Donkey"
+        },
+        "icon": {
+            "item": "minecraft:donkey_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:donkey"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}
