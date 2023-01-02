@@ -1,5 +1,5 @@
 {    
-    "name": "Beacon PDT DOCUMENTAR",
+    "name": "Beacon",
     "icon": "minecraft:beacon",
     "category": "patchouli:utility",
     "sortnum": 0,
@@ -13,15 +13,81 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)First, Beacons require an unobstructed view of the Sky. Transparent blocks like Glass or Water are allowed.$(br)$(li)The Beacon is on top of a pyramid constructed from Iron Blocks, Gold Blocks, Emerald Blocks, Diamond Blocks, and/or Netherite Blocks.$(br)$(li)The Beacon will emit a powerfull beam of light pointing towards the sky.$(br)This means the Beacon is activated."
+            "text": "$(li)First, Beacons require an unobstructed view of the sky. Transparent blocks like $(l:patchouli:decoration/others/glass)Glass$(/l) or water are allowed.$(br)$(li)The Beacon is on top of a pyramid constructed from $(l:patchouli:utility/vanilla/iron_block)Iron Blocks$(/l), $(l:patchouli:utility/vanilla/gold_block)Gold Blocks$(/l), $(l:patchouli:utility/vanilla/emerald_block)Emerald Blocks$(/l), $(l:patchouli:utility/vanilla/diamond_block)Diamond Blocks$(/l), or $(l:patchouli:utility/vanilla/netherite_block)Netherite Blocks$(/l).$(br)$(li)The Beacon will emit a powerfull beam of light pointing towards the sky.$(br)This means the Beacon is activated."
         },
-{
-            "type": "patchouli:text",
-            "text": "Mostrar multiblocks para los diferentes niveles del Beacon"
+        {
+            "type": "patchouli:multiblock",
+            "name": "Beacon LVL 1",
+            "multiblock": {
+                "pattern": [
+                    [ "   ", "   ", " B ", "   ", "   " ],
+                    [ "   ", "DDD", "D0D", "DDD", "   " ]
+                ],
+                "mapping": {
+                    "B": "minecraft:beacon",
+                    "D": "minecraft:diamond_block",
+                    "0": "minecraft:diamond_block"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Beacon LVL 2",
+            "multiblock": {
+                "pattern": [
+                    [ "     ", "     ", "  B  ", "     ", "     " ],
+                    [ "     ", " DDD ", " D0D ", " DDD ", "     " ],
+                    [ "DDDDD", "DDDDD", "DDDDD", "DDDDD", "DDDDD" ]
+                ],
+                "mapping": {
+                    "B": "minecraft:beacon",
+                    "D": "minecraft:diamond_block",
+                    "0": "minecraft:diamond_block"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Beacon LVL 3",
+            "multiblock": {
+                "pattern": [
+                    [ "       ", "       ", "       ", "   B   ", "       ", "       ", "       " ],
+                    [ "       ", "       ", "  DDD  ", "  D0D  ", "  DDD  ", "       ", "       " ],
+                    [ "       ", " DDDDD ", " DDDDD ", " DDDDD ", " DDDDD ", " DDDDD ", "       " ],
+                    [ "DDDDDDD", "DDDDDDD", "DDDDDDD", "DDDDDDD", "DDDDDDD", "DDDDDDD", "DDDDDDD" ]
+                ],
+                "mapping": {
+                    "B": "minecraft:beacon",
+                    "D": "minecraft:diamond_block",
+                    "0": "minecraft:diamond_block"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Beacon LVL 4",
+            "multiblock": {
+                "pattern": [
+                    [ "         ", "         ", "         ", "         ", "    B    ", "         ", "         ", "         ", "         " ],
+                    [ "         ", "         ", "         ", "   DDD   ", "   D0D   ", "   DDD   ", "         ", "         ", "         " ],
+                    [ "         ", "         ", "  DDDDD  ", "  DDDDD  ", "  DDDDD  ", "  DDDDD  ", "  DDDDD  ", "         ", "         " ],
+                    [ "         ", " DDDDDDD ", " DDDDDDD ", " DDDDDDD ", " DDDDDDD ", " DDDDDDD ", " DDDDDDD ", " DDDDDDD ", "         " ],
+                    [ "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD", "DDDDDDDDD" ]
+                ],
+                "mapping": {
+                    "B": "minecraft:beacon",
+                    "D": "minecraft:diamond_block",
+                    "0": "minecraft:diamond_block"
+                 },
+                 "symmetrical": true
+            }
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can change the beam light placing an specific Dyed Glass block on the top of the Beacon.$(br)$(li)Now you can right click on it to open a new GUI.$(br)$(li)Here you have to insert an Iron Ingot, Gold Ingot, Diamond, Emerald or Netherite Ingot and activate it.$(br)$(li)Finally choose the desire Primary and Secundary Power."
+            "text": "$(li)You can change the beam light placing an specific Dyed Glass block on the top of the Beacon.$(br)$(li)Now you can right click on it to open a new GUI.$(br)$(li)Here you have to insert an $(l:patchouli:miscellaneous/vanilla/iron_ingot)Iron Ingot$(/l), $(l:patchouli:miscellaneous/vanilla/gold_ingot)Gold Ingot$(/l), $(l:patchouli:miscellaneous/vanilla/diamond)Diamond$(/l), $(l:patchouli:miscellaneous/vanilla/emerald)Emerald$(/l) or $(l:patchouli:miscellaneous/vanilla/netherite_ingot)Netherite Ingot$(/l) and activate it.$(br)$(li)Finally choose the desire $(l)Primary$() and $(l)Secundary Power$()."
         },
         {
             "type": "patchouli:text",
