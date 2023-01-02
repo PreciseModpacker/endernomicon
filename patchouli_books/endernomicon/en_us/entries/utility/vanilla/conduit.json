@@ -1,5 +1,5 @@
 {    
-    "name": "Conduit PDT DOCUMENTAR",
+    "name": "Conduit",
     "icon": "minecraft:conduit",
     "category": "patchouli:utility",
     "sortnum": 0,
@@ -8,8 +8,70 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:conduit",
-            "text": "sasdaasdds.",
+            "text": "$(li)The Conduit is a structure that provides the $(l)Conduit Power$() effect to you.$(br)$(li)It attacks near hostile creatures underwater too.",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)The Conduit Power actives when you are in contact with rain or water.$(br)$(li)This effect gives to you $(l:patchouli:potions/vanilla/water_breathing)Water Breathing$(/l) making you to don't lose oxygen.$(br)$(li)It gives to you $(l:patchouli:potions/vanilla/night_vision)Night Vision$(/l) allowing you to see clearly underwater or at night.$(br)$(li)Finally it gives to you the $(l)Haste$() effect, allowing you to mine blocks quickly."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)To activate it, first you have to create a $(l)multiblock structure$() placing the conduit in the center.$(br)$(li)There are exists different structure levels, each of these allowing a greater number of blocks where the $(l)Conduit Power$() effect will be applied."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "text": "$(l)         LVL 1$()$(br)       31 Blocks Range",
+            "multiblock": {
+                "pattern": [
+                    [ "PPPPP" ],
+                    [ "P   P" ],
+                    [ "P 0 P" ],
+                    [ "P   P" ],
+                    [ "PPPPP" ]
+                ],
+                "mapping": {
+                    "P": "minecraft:prismarine_bricks",
+                    "0": "minecraft:conduit"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:multiblock",
+            "text": "$(l)         LVL 2$()$(br)       63 Blocks Range",
+            "multiblock": {
+                "pattern": [
+                    [ "  P  ", "  P  ", "PPPPP", "  P  ", "  P  " ],
+                    [ "  P  ", "     ", "P   P", "     ", "  P  " ],
+                    [ "  P  ", "     ", "P 0 P", "     ", "  P  " ],
+                    [ "  P  ", "     ", "P   P", "     ", "  P  " ],
+                    [ "  P  ", "  P  ", "PPPPP", "  P  ", "  P  " ]
+                ],
+                "mapping": {
+                    "P": "minecraft:prismarine_bricks",
+                    "0": "minecraft:conduit"
+                 },
+                 "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:multiblock",
+            "text": "$(l)         LVL 3$()$(br)       96 Blocks Range",
+            "multiblock": {
+                "pattern": [
+                    [ "  P  ", "  P  ", "PPPPP", "  P  ", "  P  " ],
+                    [ "  P  ", "     ", "P   P", "     ", "  P  " ],
+                    [ "PPPPP", "P   P", "P 0 P", "P   P", "PPPPP" ],
+                    [ "  P  ", "     ", "P   P", "     ", "  P  " ],
+                    [ "  P  ", "  P  ", "PPPPP", "  P  ", "  P  " ]
+                ],
+                "mapping": {
+                    "P": "minecraft:prismarine_bricks",
+                    "0": "minecraft:conduit"
+                 },
+                 "symmetrical": true
+            }
         }
              ]
 }
