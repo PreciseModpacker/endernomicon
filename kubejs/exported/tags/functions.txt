@@ -1,6 +1,0 @@
-To refresh this file, delete it and run /reload command again! Last updated: Oct 20, 2022 1:10:31 AM
-
-#minecraft:tick
-- bossthemes:titsnboobies
-- bossthemes:titsnboobies
-- alexsmobsmusic:alexsmobsmusictick
