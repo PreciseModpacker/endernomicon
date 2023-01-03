@@ -15,8 +15,14 @@
             "picture": "endermonicon:textures/book/entries/bosses/rumor_void_worm_1.png"
         },
         {
-            "type": "patchouli:text",
-            "text": "$(li)INSERTAR IMAGEN ARTISTA. PRIMERO UN CRIMSON MOSQUITO CON UNA FLECHA AL CRIMSON MOSQUITO LARVA. LUEGO INTRODUCIENDO UN CRIMSON MOSQUITO EN UN CAPSID, POR ULTIMO LANZANDO EL MYSTERIOUS WORM AL VACIO. CREAR NUEVO TEMPLATE PARA ÉSTO SI ES NECESARIO"
+            "type": "patchouli:void_worm",
+            "title": "Obtain Capsid",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_void_worm_2.png"
+        },
+        {
+            "type": "patchouli:void_worm",
+            "title": "Obtain Mysterious Worm",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_void_worm_3.png"
         }
              ]
 }
