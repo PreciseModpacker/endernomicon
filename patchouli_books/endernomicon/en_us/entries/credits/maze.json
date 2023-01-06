@@ -1,0 +1,17 @@
+{    
+    "name": "Maze (Proofreading)",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://mazie.rocks",
+            "link_text": "mazie.rocks",
+            "text": "$(li)Maze made the $(l)Proofreading$() of the $(l)Endernomicon$() entries."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
