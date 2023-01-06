@@ -1,0 +1,17 @@
+{    
+    "name": "Kego (Artist)",
+    "icon": "infernalexp:infernal_painting",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.instagram.com/kego._art/",
+            "link_text": "Instagram",
+            "text": "$(li)Kego made all the art related with the $(l)Minecraft Menu$() (Icons, Animate Background and Buttons)."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

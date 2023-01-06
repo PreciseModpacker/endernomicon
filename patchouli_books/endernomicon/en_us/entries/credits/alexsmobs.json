@@ -1,0 +1,16 @@
+{    
+    "name": "Alexsmobs",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/sbom_xela/)sbom_xela (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/carro3dsculpts/)Carro3DSculpts (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/ludocrypt/)LudoCrypt (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/mangoshorty_/)mangoshorty_ (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

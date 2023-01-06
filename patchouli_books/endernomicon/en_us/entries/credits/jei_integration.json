@@ -1,0 +1,16 @@
+{    
+    "name": "JEI Integration",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jei-integration/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/snowshock35/)SnowShock35 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/forge_user_01627895/)Forge_User_01627895 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

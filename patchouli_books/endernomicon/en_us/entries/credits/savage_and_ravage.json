@@ -1,0 +1,16 @@
+{    
+    "name": "Savage & Ravage",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/abigailfails/)abigailfails (Former Author)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Author)$(/l)$(li)$(l:https://www.curseforge.com/members/almightytallestred/)almightytallestred (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

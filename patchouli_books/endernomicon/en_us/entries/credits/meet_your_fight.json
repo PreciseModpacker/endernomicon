@@ -1,0 +1,16 @@
+{    
+    "name": "Meet Your Fight",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/lykrast/)Lykrast (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

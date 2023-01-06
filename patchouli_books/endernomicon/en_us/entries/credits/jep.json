@@ -1,0 +1,16 @@
+{    
+    "name": "Just Enough Professions",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/mrbysco/)Mrbysco (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shynieke/)ShyNieke (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

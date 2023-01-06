@@ -1,0 +1,16 @@
+{    
+    "name": "Better Mods Button",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-mods-button/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shxrkiiie/)SHXRKIIIE (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

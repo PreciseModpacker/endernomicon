@@ -1,0 +1,16 @@
+{    
+    "name": "Geckolib",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/thanosgecko/)ThanossGecko (Owner)$(li)$(l:https://www.curseforge.com/members/azuredoomC/)AzureDoomC (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/dertoaster_98/)dertoaster_98 (Author)$(li)$(l:https://www.curseforge.com/members/kyosleep/)KyoSleep (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/scimiguy/)Scimiguy (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/mchorseyt/)McHorseYT (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

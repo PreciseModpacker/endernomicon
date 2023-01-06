@@ -1,0 +1,16 @@
+{    
+    "name": "Chisel",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/chisel/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/tterrag1098/)tterrag1098 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/drullkus/)drullkus (Author)$(li)$(l:https://www.curseforge.com/members/minecreatr/)minecreatr (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/squiggly_androsa/)Squiggly_Androsa (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

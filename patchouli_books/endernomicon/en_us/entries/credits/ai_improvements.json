@@ -1,0 +1,16 @@
+{    
+    "name": "AI Improvements",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/queenofmissiles/)QueenOfMissiles (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/dmodoomsirius/)dmodoomsirius (Maintainer)$(/l)$(li)$(l:https://www.curseforge.com/members/builtbrokenbot/)builtbrokenbot (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

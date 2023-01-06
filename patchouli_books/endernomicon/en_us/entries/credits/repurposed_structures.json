@@ -1,0 +1,16 @@
+{    
+    "name": "Repurposed Structures",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bright_spark/)bright_spark (Contributor)$(li)$(l:https://www.curseforge.com/members/cannon_foddr/)cannon_foddr (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/andrew0030/)andrew0030 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/miguelforge/)miguelforge (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/drhesperus/)DrHesperus (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/invalid2tk/)invalid2tk (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/bluedemontr/)BlueDemonTR (Translator)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
