@@ -1,0 +1,976 @@
+{    
+    "name": "Mods & Resource Packs",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Abnormals Core$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Advancement Plaques$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Gren_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-frames/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Advancement Frames$()$(br)$(li)$(l:https://www.curseforge.com/members/mehvahdjukaar/)MehVahdJukaar (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/plantspookable/)plantspookable (Artist)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements/",
+            "link_text": "CurseForge",
+            "text": "$(l)     AI Improvements$()$(br)$(li)$(l:https://www.curseforge.com/members/queenofmissiles/)QueenOfMissiles (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/dmodoomsirius/)dmodoomsirius (Maintainer)$(/l)$(li)$(l:https://www.curseforge.com/members/builtbrokenbot/)builtbrokenbot (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/",
+            "link_text": "CurseForge",
+            "text": "$(l)        AlexsMobs$()$(br)$(li)$(l:https://www.curseforge.com/members/sbom_xela/)sbom_xela (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/carro3dsculpts/)Carro3DSculpts (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/ludocrypt/)LudoCrypt (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/mangoshorty_/)mangoshorty_ (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Appleskin$()$(br)$(li)$(l:https://www.curseforge.com/members/squeek502/)squeek502 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Architectury API$()$(br)$(li)$(l:https://www.curseforge.com/members/shedaniel/)shedaniel (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/maxneedssnacks/)MaxNeedsSnacks (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/juicebus/)Juicebus (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/atmospheric/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Atmospheric$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/attributefix/",
+            "link_text": "CurseForge",
+            "text": "$(l)      AttributeFix$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/audio-extension-for-fancymenu-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)     FancyMenu Audio$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/",
+            "link_text": "CurseForge",
+            "text": "$(l)       AutoRegLib$()$(br)$(li)$(l:https://www.curseforge.com/members/vazkii/)Vazkii (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/hubry/)Hubry (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/autumnity/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Autumnity$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/auudio-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Auudio$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/babel/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Babel$()$(br)$(li)$(l:https://www.curseforge.com/members/thenatekirby/)thenatekirby (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/backpacked/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Backpacked$()$(br)$(li)$(l:https://www.curseforge.com/members/mrcrayfish/)MrCrayfish (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/bamboo-blocks/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Bamboo Blocks$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/endergized/)Endergized (Artist)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/bayou-blues/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Bayou Blues$()$(br)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)Team Aurora Modding (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/audak0)Audak0 (Artist)$(li)$(l:https://www.curseforge.com/members/shock_micro)Shock_Micro (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/steveplayzz_)StevePlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/justoplayzz_)JustoPlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/ex0planetary)ex0planetary (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/berry-good/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Berry Good$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)Paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/camcam_burger/)camcam_burger (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Better Advancements$()$(br)$(li)$(l:https://www.curseforge.com/members/way2muchnoise/)way2muchnoise (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-animations-collection/",
+            "link_text": "CurseForge",
+            "text": "$(l) Better Animations Colle...$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-badlands/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Better Badlands$()$(br)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)Team Aurora Modding (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shock_micro)Shock_Micro (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/steveplayzz_)StevePlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/justoplayzz_)JustoPlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/ex0planetary)ex0planetary (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/",
+            "link_text": "CurseForge",
+            "text": "$(l) Better Compatibility Check$()$(br)$(li)$(l:https://www.curseforge.com/members/gaz_/)Gaz_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/nanitedev/)nanitedev (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Better FPS$()$(br)$(li)$(l:https://www.curseforge.com/members/someaddon/)someaddon (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-mods-button/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Better Mods Button$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shxrkiiie/)SHXRKIIIE (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-shields/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Better Shields$()$(br)$(li)$(l:https://www.curseforge.com/members/tome250)ToMe250 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/serj4ever/)Serj4ever(Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/prosplash1/)ProSplash1 (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/shyzeq/)Shyzeq (Translator)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Bookshelf$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/buzzier_bees/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Buzzier Bees$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/nothatsondogs/)nothatsondogs (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/carry-on/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Carry On$()$(br)$(li)$(l:https://www.curseforge.com/members/tschipp/)Tschipp (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/purplicious_cow_/)Purplicious_Cow_ (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/castle-in-the-sky-the-fairytale-of-laputa/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Castle in the Sky$()$(br)$(li)$(l:https://www.curseforge.com/members/songxia23/)songxia23 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/catalogue/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Catalogue$()$(br)$(li)$(l:https://www.curseforge.com/members/mrcrayfish/)MrCrayfish (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/charmonium-reforged/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Charmonium$()$(br)$(li)$(l:https://www.curseforge.com/members/svenhjol/)svenhjol (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/charm-reforged/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Charm$()$(br)$(li)$(l:https://www.curseforge.com/members/svenhjol/)svenhjol (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/coranthes/)Coranthes (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/sokyranthedragon/)SokyranTheDragon (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/f43nd1r/)f43nd1r (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/warlordwossman/)WarlordWossman (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/chisel/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Chisel$()$(br)$(li)$(l:https://www.curseforge.com/members/tterrag1098/)tterrag1098 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/drullkus/)drullkus (Author)$(li)$(l:https://www.curseforge.com/members/minecreatr/)minecreatr (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/squiggly_androsa/)Squiggly_Androsa (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/chocolate-fix/",
+            "link_text": "CurseForge",
+            "text": "$(l)      ChocolateFix$()$(br)$(li)$(l:https://www.curseforge.com/members/alcatrazescapee/)AlcatrazEscapee (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/citadel/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Citadel$()$(br)$(li)$(l:https://www.curseforge.com/members/sbom_xela/)sbom_xela (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Cloth Config API$()$(br)$(li)$(l:https://www.curseforge.com/members/shedaniel/)shedaniel (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/linkieisbetterthank9/)LinkieisBetterThanK9 (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/clumps/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Clumps$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/configured/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Configured$()$(br)$(li)$(l:https://www.curseforge.com/members/mrcrayfish/)MrCrayfish (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ctm/",
+            "link_text": "CurseForge",
+            "text": "$(l)  ConnectedTexturesMod$()$(br)$(li)$(l:https://www.curseforge.com/members/tterrag1098/)tterrag1098 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/drullkus/)Drullkus (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/minecreatr/)minecreatr (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/controlling/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Controlling$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cookielicious/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Cookiedelicious$()$(br)$(li)$(l:https://www.curseforge.com/members/evo_934/)Evo_934 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/narynotnarold/)naryNOTNAROLD (Artist)$(li)$(l:https://www.curseforge.com/members/eltrutlikes/)eltrutlikes (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/avocadospud/)avocadospud (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/",
+            "link_text": "CurseForge",
+            "text": "$(l) Cosmetic Armor Reworked$()$(br)$(li)$(l:https://www.curseforge.com/members/lainmi/)LainMI (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/",
+            "link_text": "CurseForge",
+            "text": "$(l)       CraftTweaker$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kindlich/)kindlich (Author)$(li)$(l:https://www.curseforge.com/members/thesilkminer/)TheSilkMiner (Author)$(li)$(l:https://www.curseforge.com/members/youyihj/)youyihj (Contributor)$(li)$(l:https://www.curseforge.com/members/forge_user_48453413/)Forge_User_48453413 (Former Author)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/crumbs/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Crumbs$()$(br)$(li)$(l:https://www.curseforge.com/members/Trikzon/)Trikzon (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/theqbert/)theqbert (Author)$(li)$(l:https://www.curseforge.com/members/foxshadew/)FoxShadew (Author)$(li)$(l:https://www.curseforge.com/members/andantet/)andantet (Contributor)$(li)$(l:https://www.curseforge.com/members/dodogangmods/)dodogangmods (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/curios/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Curios API$()$(br)$(li)$(l:https://www.curseforge.com/members/theillusivec4/)TheIllusiveC4 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Documenter)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/customizable-elytra/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Customizable Elytra$()$(br)$(li)$(l:https://www.curseforge.com/members/hidoni/)Hidoni (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dark-paintings/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Dark Paintings$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dash/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Dash$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Author)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/jesterguynz/)JesterguyNZ (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Decorative Blocks$()$(br)$(li)$(l:https://www.curseforge.com/members/stohun/)stohun (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lilypuree/)lilypuree (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-modded-compat/",
+            "link_text": "CurseForge",
+            "text": "$(l) Decorative Blocks Compat$()$(br)$(li)$(l:https://www.curseforge.com/members/evo_934/)Evo_934 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lilypuree/)lilypuree (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/differentiate/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Differentiate$()$(br)$(li)$(l:https://www.curseforge.com/members/eltrutlikes/)eltrutlikes (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Drippy Loading Screen$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Dungeons Enhanced$()$(br)$(li)$(l:https://www.curseforge.com/members/valarauko9/)Valarauko9 (Owner)$(li)$(l:https://www.curseforge.com/members/ametrinstudios/)AmetrinStudios (Mascot)$(/l)$(/l)$(li)$(l:https://www.curseforge.com/members/barionlp/)BarionLP (Lead Pack Developer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dungeons-plus/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Dungeons Plus$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/silver_david/)silver_david (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Contributor)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/",
+            "link_text": "CurseForge",
+            "text": "$(l) Enchantment Descriptions$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/endremastered/",
+            "link_text": "CurseForge",
+            "text": "$(l)      End Remastered$()$(br)$(li)$(l:https://www.curseforge.com/members/jack_bagel/)jack_bagel (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/gilvoisard/)gilvoisard (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/maxmitchelson/)maxmitchelson (Pack Developer)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Enhanced Mushrooms$()$(br)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)Team Aurora Modding (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq)mcvinnyq (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/steveplayzz_)StevePlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/justoplayzz_)JustoPlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/ex0planetary)ex0planetary (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/environmental/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Environmental$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq)mcvinnyq (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/nothatsondogs/)nothatsondogs (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Autor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Equipment Compare$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Grend_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/extra-armor/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Extra Armor$()$(br)$(li)$(l:https://www.curseforge.com/members/bailym/)Bailym (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Falling Leaves$()$(br)$(li)$(l:https://www.curseforge.com/members/cheaterpaul/)Cheaterpaul (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/randommcsomethin/)RandomMcSomethin (Former Author)$(/l)$(li)$(l:https://www.curseforge.com/members/1literzinalco/)1LiterZinalco (Tester)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)        FancyMenu$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/farsight/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Farsight$()$(br)$(li)$(l:https://www.curseforge.com/members/someaddon/)someaddon (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace/",
+            "link_text": "CurseForge",
+            "text": "$(l)       FastFurnace$()$(br)$(li)$(l:https://www.curseforge.com/members/shadows_of_fire/)Shadows_of_Fire (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench/",
+            "link_text": "CurseForge",
+            "text": "$(l)      FastWorkbench$()$(br)$(li)$(l:https://www.curseforge.com/members/shadows_of_fire/)Shadows_of_Fire (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore/",
+            "link_text": "CurseForge",
+            "text": "$(l)      FerriteCore$()$(br)$(li)$(l:https://www.curseforge.com/members/malte0811/)malte0811 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/forgery/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Forgery$()$(br)$(li)$(l:https://www.curseforge.com/members/unascribed/)unascribed (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/sfort__/)sfort__ (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/blukat/)blukat (Tester)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/fruitful/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Fruitful$()$(br)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)Team Aurora Modding (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/steveplayzz_)StevePlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/justoplayzz_)JustoPlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/ex0planetary)ex0planetary (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)      FTB Backups$()$(br)$(li)$(l:https://www.curseforge.com/members/ftb/)FTB (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/error_mikey)Error_MiKeY (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/latvianmodder)LatvianModder (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib/",
+            "link_text": "CurseForge",
+            "text": "$(l)        GeckoLib$()$(br)$(li)$(l:https://www.curseforge.com/members/thanosgecko/)ThanossGecko (Owner)$(li)$(l:https://www.curseforge.com/members/azuredoomC/)AzureDoomC (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/dertoaster_98/)dertoaster_98 (Author)$(li)$(l:https://www.curseforge.com/members/kyosleep/)KyoSleep (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/scimiguy/)Scimiguy (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/mchorseyt/)McHorseYT (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Global Datapack$()$(br)$(li)$(l:https://www.curseforge.com/members/jtk222/)JTK222 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/goblins-dungeons/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Goblins & Dungeons$()$(br)$(li)$(l:https://www.curseforge.com/members/superlord_9362/)superlord_9362 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/thedarkbalaur)thedarkbalaur (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/pedroralof)PedroRalof (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/weeastian)weeastian (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/mresuoh)MrEsuoh (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Guard Villagers$()$(br)$(li)$(l:https://www.curseforge.com/members/almightytallestred/)almightytallestred (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/hadez43)hadez43 (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/abigailfails)abigailfails (Documenter)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/hats/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Hats$()$(br)$(li)$(l:https://www.curseforge.com/members/ohaiichun/)ohaiiChun (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/iceberg/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Iceberg$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Grend_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ichunutil/",
+            "link_text": "CurseForge",
+            "text": "$(l)        iChunUtil$()$(br)$(li)$(l:https://www.curseforge.com/members/ohaiichun/)ohaiiChun (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/illagers/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Illagers+$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/infernal-expansion/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Infernal Expansion$()$(br)$(li)$(l:https://www.curseforge.com/members/infernalstudios/)InfernalStudios (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/nekomaster1000)Nekomaster1000 (Author)$(li)$(l:https://www.curseforge.com/members/swanx1)Swanx1 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/ludocrypt)LudoCrypt (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/helliongames)HellionGames (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/caelthequail)CaelTheQuail (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/inspirations/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Inspirations$()$(br)$(li)$(l:https://www.curseforge.com/members/knightminer/)KnightMiner (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/teamspen210)Teamspen210 (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Iron Chests$()$(br)$(li)$(l:https://www.curseforge.com/members/progwml6/)ProgWML6 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/alexbegt)Alexbegt (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Item Highlighter$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Greng_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/itemzoom/",
+            "link_text": "CurseForge",
+            "text": "$(l)        ItemZoom$()$(br)$(li)$(l:https://www.curseforge.com/members/mezz/)mezz (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jade/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Jade$()$(br)$(li)$(l:https://www.curseforge.com/members/snownee_/)Snownee_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/malayp/)MalayP (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Jeed$()$(br)$(li)$(l:https://www.curseforge.com/members/mehvahdjukaar/)MehVahdJukaar (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/plantspookable/)plantspookable (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jei-enchantment-info/",
+            "link_text": "CurseForge",
+            "text": "$(l)  JEI Enchantments Info$()$(br)$(li)$(l:https://www.curseforge.com/members/phylogeny/)Phylogeny (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jei-integration/",
+            "link_text": "CurseForge",
+            "text": "$(l)     JEI Integration$()$(br)$(li)$(l:https://www.curseforge.com/members/snowshock35/)SnowShock35 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/forge_user_01627895/)Forge_User_01627895 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jei/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Just Enough Items$()$(br)$(li)$(l:https://www.curseforge.com/members/mezz/)mezz (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/jeitweaker/",
+            "link_text": "CurseForge",
+            "text": "$(l)       JEI Tweaker$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-piglin-bartering/",
+            "link_text": "CurseForge",
+            "text": "$(l)   JE Piglin Bartering$()$(br)$(li)$(l:https://www.curseforge.com/members/thenatekirby/)thenatekirby (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Just Enough Professions$()$(br)$(li)$(l:https://www.curseforge.com/members/mrbysco/)Mrbysco (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shynieke/)ShyNieke (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Just Enough Resources$()$(br)$(li)$(l:https://www.curseforge.com/members/way2muchnoise/)way2muchnoise (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Konkrete$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Krypton$()$(br)$(li)$(l:https://www.curseforge.com/members/teamdeusvult/)TeamDeusVult (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/kubejs/",
+            "link_text": "CurseForge",
+            "text": "$(l)         KubeJS$()$(br)$(li)$(l:https://www.curseforge.com/members/latvianmodder/)LatvianModder (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/shedaniel)shedaniel (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/maxneedssnacks)MaxNeedsSnacks (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)         LazyDFU$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/tuxed/)tuxed (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/leap/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Leap$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/ceresleepy/)ceresleepy (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/jonathing/)Jonathing (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/jesterguynz/)JesterguyNZ (Mascot)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm/",
+            "link_text": "CurseForge",
+            "text": "$(l)   L_Ender's Cataclysm$()$(br)$(li)$(l:https://www.curseforge.com/members/mcl_ender/)mcl_ender (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/dogulkkun333)dogulkkun333 (Artist)$(li)$(l:https://www.curseforge.com/members/sonmok14)sonmok14 (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/mangotastejuice)Mangotastejuice (Artist)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/lepton/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Lepton$()$(br)$(li)$(l:https://www.curseforge.com/members/eltrutlikes/)eltrutlikes (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/litewolfcore/",
+            "link_text": "CurseForge",
+            "text": "$(l)        LiteWolfCores$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Load My Resources$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Magnesium Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/teamdeusvult/)TeamDeusVult (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mantle/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Mantle$()$(br)$(li)$(l:https://www.curseforge.com/members/mdiyo/)mDiyo (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/progwml6)ProgWML6 (Author)$(li)$(l:https://www.curseforge.com/members/alexbegt)Alexbegt (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/fuj1n)fuj1n (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/knightminer)KnightMiner (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/caelthequail)bonusboni (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Meet Your Fight$()$(br)$(li)$(l:https://www.curseforge.com/members/lykrast/)Lykrast (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Mod Name Tooltip$()$(br)$(li)$(l:https://www.curseforge.com/members/mezz/)mezz (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Mouse Tweaks$()$(br)$(li)$(l:https://www.curseforge.com/members/yalter/)YaLTeR (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/natures-compass/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Nature's Compass$()$(br)$(li)$(l:https://www.curseforge.com/members/chaosyr/)Chaosyr (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/neapolitan/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Neapolitan$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)Paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix/",
+            "link_text": "CurseForge",
+            "text": "$(l)     NetherPortalFix$()$(br)$(li)$(l:https://www.curseforge.com/members/blaytheninth/)BlayTheNinth (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/oculus/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Oculus$()$(br)$(li)$(l:https://www.curseforge.com/members/asek3/)Asek3 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/open-loader/",
+            "link_text": "CurseForge",
+            "text": "$(l)       OpenLoader$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/outvoted/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Outvoted$()$(br)$(li)$(l:https://www.curseforge.com/members/howboutno/)HowBoutNo (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/furti_two/)Furti_Two (Artist)$(li)$(l:https://www.curseforge.com/members/obitheoreo/)obitheoreo (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/mersquatch1/)mersquatch1 (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/lord_noodal/)Lord_Noodal (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Overloaded Armor Bar$()$(br)$(li)$(l:https://www.curseforge.com/members/tfarecnim/)tfarecnim (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/paintings/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Paintings$()$(br)$(li)$(l:https://www.curseforge.com/members/absolemjackdaw/)AbsolemJackdaw (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/strikerrocker/)StrikerRocker (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/patchouli/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Patchouli$()$(br)$(li)$(l:https://www.curseforge.com/members/vazkii/)Vazkii (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/hubry/)Hubry (Maintainer)$(/l)$(li)$(l:https://www.curseforge.com/members/williewillus/)williewillus (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/personality/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Personality$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/oldjaackson/)oldjaackson (Author)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Pick Up Notifier$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/placebo/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Placebo$()$(br)$(li)$(l:https://www.curseforge.com/members/shadows_of_fire/)Shadows_of_Fire (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/polymorph/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Polymorph$()$(br)$(li)$(l:https://www.curseforge.com/members/theillusivec4/)TheIllusiveC4 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Documenter)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Puzzles Lib$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/quark/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Quark$()$(br)$(li)$(l:https://www.curseforge.com/members/vazkii/)Vazkii (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/goesbysully/)GoesBySully (Artist)$(li)$(l:https://www.curseforge.com/members/wiresegal/)wiresegal (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/amymialee/)AmyMialee (Documenter)$(/l)$(li)$(l:https://www.curseforge.com/members/hubry/)Hubry (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/quark-oddities/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Quark Oddities$()$(br)$(li)$(l:https://www.curseforge.com/members/vazkii/)Vazkii (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/randompatches-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)      RandomPatches$()$(br)$(li)$(l:https://www.curseforge.com/members/therandomlabs/)TheRandomLabs (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Repurposed Structures$()$(br)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bright_spark/)bright_spark (Contributor)$(li)$(l:https://www.curseforge.com/members/cannon_foddr/)cannon_foddr (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/andrew0030/)andrew0030 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/miguelforge/)miguelforge (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/drhesperus/)DrHesperus (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/invalid2tk/)invalid2tk (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/bluedemontr/)BlueDemonTR (Translator)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/revampedwolf/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Revamped Wolf$()$(br)$(li)$(l:https://www.curseforge.com/members/bagu_chan500/)bagu_chan500 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evo_934/)evo_934 (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/rhino/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Rhino$()$(br)$(li)$(l:https://www.curseforge.com/members/latvianmodder/)LatvianModder (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/maxneedssnacks/)MaxNeedsSnacks (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/rubidium/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Rubidium$()$(br)$(li)$(l:https://www.curseforge.com/members/asek3/)Asek3 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Savage & Ravage$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/abigailfails/)abigailfails (Former Author)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Author)$(/l)$(li)$(l:https://www.curseforge.com/members/almightytallestred/)almightytallestred (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Savage Ender Dragon$()$(br)$(li)$(l:https://www.curseforge.com/members/someaddon/)someaddon (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/save-your-pets/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Save Your Pets$()$(br)$(li)$(l:https://www.curseforge.com/members/mactso/)MacTso (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lupicus/)lupicus (Author)$(li)$(l:https://www.curseforge.com/members/ivan133ru/)ivan133ru (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Screnshot to Clipboard$()$(br)$(li)$(l:https://www.curseforge.com/members/comp500/)comp500 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/juliand665/)juliand665 (Contributor)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGRafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/selene/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Selene$()$(br)$(li)$(l:https://www.curseforge.com/members/mehvahdjukaar/)MehVahdJukaar (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/shulker-enchantments/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Shulker Enchantments$()$(br)$(li)$(l:https://www.curseforge.com/members/ephys/)Ephys (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/le_capitaine_moustache/)Le_Capitaine_Moustache (Artist)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/simply-improved-terrain/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Simply Improved Terrain$()$(br)$(li)$(l:https://www.curseforge.com/members/kdotjpg/)kdotjpg (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Skinned Lanterns$()$(br)$(li)$(l:https://www.curseforge.com/members/nuxthefox/)nuxthefox (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evo_934/)Evo_934 (Artist)$(li)$(l:https://www.curseforge.com/members/feeshmang/)Feeshmang (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/uraneptus/)uraneptus (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Smooth Boot$()$(br)$(li)$(l:https://www.curseforge.com/members/ultimateboomer/)UltimateBoomer (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Snow Under Trees$()$(br)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/spawner-fix/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Spawner Bug Fix$()$(br)$(li)$(l:https://www.curseforge.com/members/mactso/)MacTso (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lupicus/)lupicus (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/step/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Step$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Author)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/mcvinnyq/)mcvinnyq (Artist)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Structure Gel API$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Contributor)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/silver_david/)silver_david (Author)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Phosphor$()$(br)$(li)$(l:https://www.curseforge.com/members/someoneelsewastaken/)someoneelsewastaken (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Swing Through Grass$()$(br)$(li)$(l:https://www.curseforge.com/members/exidex/)exidex (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Rubidium Options$()$(br)$(li)$(l:https://www.curseforge.com/members/textrue/)TexTrue (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/endergetic/",
+            "link_text": "CurseForge",
+            "text": "$(l) The Endergetic Expansion$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/Lachney/)Lachney (Author)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/endergized/)Endergized (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/timinations/)Timinations (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Tiny Skeletons$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Upgrade Aquatic$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq/)mcvinnyq (Artist)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/snakeblock1/)SnakeBlock1 (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/pricelesskoala/)PricelessKoala (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/camcam_burger/)camcam_burger (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/upstream/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Upstream$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bisecthosting_design/)bisecthosting_design (Documenter)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Visual Workbench$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lunapixelstudios/)LunaPixelStudios (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/voidtotem/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Void Totem$()$(br)$(li)$(l:https://www.curseforge.com/members/affehund/)Aftehund (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/v-tweaks/",
+            "link_text": "CurseForge",
+            "text": "$(l)        V-Tweaks$()$(br)$(li)$(l:https://www.curseforge.com/members/oitsjustjose/)oitsjustjose (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/waystones/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Waystones$()$(br)$(li)$(l:https://www.curseforge.com/members/blaytheninth/)BlayTheNinth (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/windowlogging/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Windowlogging$()$(br)$(li)$(l:https://www.curseforge.com/members/mc_grimmauld/)mc_Grimmauld (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/simibubi/)simibubi (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Xaero's Minimap$()$(br)$(li)$(l:https://www.curseforge.com/members/xaero96/)xaero96 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/xaeros-minimap-modded-support",
+            "link_text": "CurseForge",
+            "text": "$(l)Xaero's Minimap M. Support$()$(br)$(li)$(l:https://www.curseforge.com/members/babybluetit/)babybluetit (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Xaero's World Map$()$(br)$(li)$(l:https://www.curseforge.com/members/xaero96/)xaero96 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/xl-packets/",
+            "link_text": "CurseForge",
+            "text": "$(l)       XL Packets$()$(br)$(li)$(l:https://www.curseforge.com/members/tfarecnim/)tfarecnim (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api/",
+            "link_text": "CurseForge",
+            "text": "$(l)       Yungs API$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Yungs Better Caves$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Yungs Better Dungeons$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l) Yungs Better Mineshafts$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Contributor)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Yungs Bridges$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
