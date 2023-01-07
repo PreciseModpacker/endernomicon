@@ -1,0 +1,13 @@
+{    
+    "name": "Save Your Pets",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/save-your-pets/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/mactso/)MacTso (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/lupicus/)lupicus (Author)$(li)$(l:https://www.curseforge.com/members/ivan133ru/)ivan133ru (Author)$(/l)"
+        }
+             ]
+}

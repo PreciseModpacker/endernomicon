@@ -1,0 +1,16 @@
+{    
+    "name": "End Remastered",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/endremastered/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/jack_bagel/)jack_bagel (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/gilvoisard/)gilvoisard (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/maxmitchelson/)maxmitchelson (Pack Developer)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

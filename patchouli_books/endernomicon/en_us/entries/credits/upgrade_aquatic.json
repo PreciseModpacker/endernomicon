@@ -1,0 +1,16 @@
+{    
+    "name": "Upgrade Aquatic",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq/)mcvinnyq (Artist)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/snakeblock1/)SnakeBlock1 (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/pricelesskoala/)PricelessKoala (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/camcam_burger/)camcam_burger (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

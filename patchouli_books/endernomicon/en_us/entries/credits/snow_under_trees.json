@@ -1,0 +1,16 @@
+{    
+    "name": "Snow Under Trees",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

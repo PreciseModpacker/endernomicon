@@ -1,0 +1,16 @@
+{    
+    "name": "Step",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/step/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Author)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/mcvinnyq/)mcvinnyq (Artist)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

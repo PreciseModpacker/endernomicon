@@ -1,0 +1,16 @@
+{    
+    "name": "Equipment Compare",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Grend_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

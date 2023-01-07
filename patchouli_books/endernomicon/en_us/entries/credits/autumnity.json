@@ -1,0 +1,16 @@
+{    
+    "name": "Autumnity",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/autumnity/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

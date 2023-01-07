@@ -1,0 +1,16 @@
+{    
+    "name": "L Ender S Cataclysm",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/mcl_ender/)mcl_ender (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/dogulkkun333)dogulkkun333 (Artist)$(li)$(l:https://www.curseforge.com/members/sonmok14)sonmok14 (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/mangotastejuice)Mangotastejuice (Artist)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

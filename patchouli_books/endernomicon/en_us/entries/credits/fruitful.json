@@ -1,0 +1,16 @@
+{    
+    "name": "Fruitful",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/fruitful/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)Team Aurora Modding (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/steveplayzz_)StevePlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/justoplayzz_)JustoPlayzz_ (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/ex0planetary)ex0planetary (Former Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

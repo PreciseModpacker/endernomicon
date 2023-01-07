@@ -1,0 +1,16 @@
+{    
+    "name": "Environmental",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/environmental/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq)mcvinnyq (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/nothatsondogs/)nothatsondogs (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Autor)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

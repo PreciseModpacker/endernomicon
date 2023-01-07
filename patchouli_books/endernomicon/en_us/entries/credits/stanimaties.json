@@ -1,0 +1,17 @@
+{    
+    "name": "Stanimaties (Datapacker)",
+    "icon": "minecraft:command_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/stanimaties",
+            "link_text": "Fiverr",
+            "text": "$(li)Stanimaties made the $(l)DragonFight Music Datapack$() to be able to play a song in the Ender Dragon boss fight."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

@@ -1,0 +1,16 @@
+{    
+    "name": "Structure Gel API",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/moddinglegacy/)ModdingLegacy (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingphygieboo/)KingPhygieBoo (Contributor)$(li)$(l:https://www.curseforge.com/members/lachney/)Lachney (Documenter)$(li)$(l:https://www.curseforge.com/members/silver_david/)silver_david (Author)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

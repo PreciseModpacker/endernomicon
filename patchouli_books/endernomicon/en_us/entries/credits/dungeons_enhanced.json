@@ -1,0 +1,16 @@
+{    
+    "name": "Dungeons Enhanced",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/valarauko9/)Valarauko9 (Owner)$(li)$(l:https://www.curseforge.com/members/ametrinstudios/)AmetrinStudios (Mascot)$(/l)$(/l)$(li)$(l:https://www.curseforge.com/members/barionlp/)BarionLP (Lead Pack Developer)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

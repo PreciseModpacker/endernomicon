@@ -1,0 +1,16 @@
+{    
+    "name": "Berry Good",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/berry-good/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)Paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/camcam_burger/)camcam_burger (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

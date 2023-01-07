@@ -1,0 +1,13 @@
+{    
+    "name": "Screenshot to Clipboard",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Authors$()$(br)$(li)$(l:https://www.curseforge.com/members/comp500/)comp500 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/juliand665/)juliand665 (Contributor)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGRafanaStats (Mascot)$(/l)"
+        }
+             ]
+}
