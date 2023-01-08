@@ -5,6 +5,12 @@
     "pages": [
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/abnormal-bushy-leaves/",
+            "link_text": "CurseForge",
+            "text": "$(l) Abnormals Bushy Leaves$()$(br)$(li)$(l:https://www.curseforge.com/members/nothatsondogs/)nothatsondogs (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint/",
             "link_text": "CurseForge",
             "text": "$(l)    Abnormals Core$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/smellymodder/)SmellyModder (Author)$(/l)"
@@ -59,9 +65,9 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/audio-extension-for-fancymenu-forge/",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/aurora-bushy-leaves/",
             "link_text": "CurseForge",
-            "text": "$(l)     FancyMenu Audio$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+            "text": "$(l)   Aurora Bushy Leaves$()$(br)$(li)$(l:https://www.curseforge.com/members/zepjamb/)zepjamb (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/team_aurora_modding/)team_aurora_modding (Mascot)$(/l)"
         },
         {
             "type": "patchouli:link",
@@ -152,6 +158,12 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/better-shields/",
             "link_text": "CurseForge",
             "text": "$(l)     Better Shields$()$(br)$(li)$(l:https://www.curseforge.com/members/tome250)ToMe250 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/serj4ever/)Serj4ever(Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/prosplash1/)ProSplash1 (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/shyzeq/)Shyzeq (Translator)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/better-quark-leaves/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Better Quark Leaves$()$(br)$(li)$(l:https://www.curseforge.com/members/thereallarkas)TheRealLarkas (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
@@ -377,6 +389,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/audio-extension-for-fancymenu-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)     FancyMenu Audio$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/farsight/",
             "link_text": "CurseForge",
             "text": "$(l)        Farsight$()$(br)$(li)$(l:https://www.curseforge.com/members/someaddon/)someaddon (Owner)$(/l)"
@@ -464,6 +482,12 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/illagers/",
             "link_text": "CurseForge",
             "text": "$(l)        Illagers+$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/illagers-plus-plus/",
+            "link_text": "CurseForge",
+            "text": "$(l)   Illagers+ Plus! (plus)$()$(br)$(li)$(l:https://www.curseforge.com/members/tdstress/)tdstress (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
@@ -740,6 +764,18 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/",
             "link_text": "CurseForge",
             "text": "$(l)  Repurposed Structures$()$(br)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bright_spark/)bright_spark (Contributor)$(li)$(l:https://www.curseforge.com/members/cannon_foddr/)cannon_foddr (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/andrew0030/)andrew0030 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/miguelforge/)miguelforge (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/drhesperus/)DrHesperus (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/invalid2tk/)invalid2tk (Translator)$(/l)$(li)$(l:https://www.curseforge.com/members/bluedemontr/)BlueDemonTR (Translator)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-buzzier-bees-datapack-compat/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Repurposed Structures$(br) Buzzier Bees Integration$(br)    Data Pack Compat$()$(br)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-environmental-datapack/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Repurposed Structures$(br) Environmental Integration$(br)    Data Pack Compat$()$(br)$(li)$(l:https://www.curseforge.com/members/telepathicgrunt/)telepathicgrunt (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
