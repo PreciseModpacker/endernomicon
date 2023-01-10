@@ -11,6 +11,7 @@
         },
         {
             "type": "patchouli:entity",
+            "name": "Illager King",
             "entity": "illagers_plus:illager_king",
             "scale": 1,
             "offset": 0.2

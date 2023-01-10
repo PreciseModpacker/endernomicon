@@ -17,12 +17,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques/",
-            "link_text": "CurseForge",
-            "text": "$(l)    Advancement Plaques$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Gren_G (Owner)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-frames/",
             "link_text": "CurseForge",
             "text": "$(l)    Advancement Frames$()$(br)$(li)$(l:https://www.curseforge.com/members/mehvahdjukaar/)MehVahdJukaar (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/plantspookable/)plantspookable (Artist)$(/l)"

@@ -11,6 +11,7 @@
         },
         {
             "type": "patchouli:entity",
+            "name": "Wither",
             "entity": "minecraft:wither",
             "scale": 1.2,
             "offset": 0.4
