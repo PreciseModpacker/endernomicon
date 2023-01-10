@@ -11,6 +11,7 @@
         },
         {
             "type": "patchouli:entity",
+            "name": "Dame Fortuna",
             "entity": "meetyourfight:dame_fortuna",
             "scale": 1,
             "text": "It drops enchanted books, $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l) and the $(l:patchouli:miscellaneous/meet_your_fight/fortunes_favor)Fortune's Favor$(/l) upon death."
