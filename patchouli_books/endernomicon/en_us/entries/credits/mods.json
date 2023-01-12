@@ -311,6 +311,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/default-options/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Default Options$()$(br)$(li)$(l:https://www.curseforge.com/members/blaytheninth/)BlayTheNinth (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/differentiate/",
             "link_text": "CurseForge",
             "text": "$(l)      Differentiate$()$(br)$(li)$(l:https://www.curseforge.com/members/eltrutlikes/)eltrutlikes (Owner)$(/l)"
