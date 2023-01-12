@@ -3,7 +3,7 @@
     "icon": "cataclysm:void_scatter_arrow",
     "category": "patchouli:weapons",
     "sortnum": 0,
-    "advancement": "endernomicon:flint",
+    "advancement": "endernomicon:void_jaw",
     "pages": [
         {
             "type": "patchouli:crafting",
