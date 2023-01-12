@@ -731,12 +731,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/polymorph/",
-            "link_text": "CurseForge",
-            "text": "$(l)        Polymorph$()$(br)$(li)$(l:https://www.curseforge.com/members/theillusivec4/)TheIllusiveC4 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Documenter)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/",
             "link_text": "CurseForge",
             "text": "$(l)       Puzzles Lib$()$(br)$(li)$(l:https://www.curseforge.com/members/fuzs_/)Fuzs_ (Owner)$(/l)"
