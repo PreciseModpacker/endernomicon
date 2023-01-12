@@ -221,12 +221,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/",
-            "link_text": "CurseForge",
-            "text": "$(l)     Cloth Config API$()$(br)$(li)$(l:https://www.curseforge.com/members/shedaniel/)shedaniel (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/linkieisbetterthank9/)LinkieisBetterThanK9 (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/clumps/",
             "link_text": "CurseForge",
             "text": "$(l)         Clumps$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)"
