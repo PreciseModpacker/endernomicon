@@ -18,48 +18,22 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/oak_ladder",
-            "recipe2":"charm:variant_ladders/oak_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/dark_oak_ladder",
-            "recipe2":"charm:variant_ladders/dark_oak_ladder"
+            "recipe": "minecraft:oak_ladder",
+            "recipe2": "quark:building/crafting/dark_oak_ladder"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/spruce_ladder",
-            "recipe2":"charm:variant_ladders/spruce_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/spruce_ladder",
-            "recipe2":"charm:variant_ladders/spruce_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/birch_ladder",
-            "recipe2":"charm:variant_ladders/birch_ladder"
+            "recipe2": "quark:building/crafting/birch_ladder"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/jungle_ladder",
-            "recipe2":"charm:variant_ladders/jungle_ladder"
+            "recipe2": "quark:building/crafting/acacia_ladder"
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/acacia_ladder",
-            "recipe2":"charm:variant_ladders/acacia_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/spruce_ladder",
-            "recipe2":"charm:variant_ladders/spruce_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/spruce_ladder",
-            "recipe2":"charm:variant_ladders/spruce_ladder"
+            "recipe": "quark:building/crafting/spruce_ladder"
         },
         {
             "type": "patchouli:crafting",
@@ -107,18 +81,14 @@
         {
             "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/warped_ladder",
-            "recipe2":"charm:variant_ladders/warped_ladder"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "quark:building/crafting/crimson_ladder",
-            "recipe2":"charm:variant_ladders/crimson_ladder"
+            "recipe2": "quark:building/crafting/crimson_ladder"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "endergetic:poise_ladder"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
-
-
              ]
 }
