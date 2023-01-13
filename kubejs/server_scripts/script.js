@@ -1,7 +1,7 @@
 // priority: 0
 
-settings.logAddedRecipes = false
-settings.logRemovedRecipes = false
+settings.logAddedRecipes = true
+settings.logRemovedRecipes = true
 settings.logSkippedRecipes = false
 settings.logErroringRecipes = true
 
