@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/bamboo_jungle.png"
+            "picture": "endermonicon:textures/book/entries/biomes/bamboo_jungle.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_50.png"
         },
         {
             "type": "patchouli:empty",

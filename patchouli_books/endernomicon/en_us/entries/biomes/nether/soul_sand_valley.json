@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/soul_sand_valley.png"
+            "picture": "endermonicon:textures/book/entries/biomes/soul_sand_valley.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_40.png"
         },
         {
             "type": "patchouli:empty",

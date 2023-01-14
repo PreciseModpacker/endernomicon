@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/dunes.png"
+            "picture": "endermonicon:textures/book/entries/biomes/dunes.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_20.png"
         },
         {
             "type": "patchouli:empty",

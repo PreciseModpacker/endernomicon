@@ -18,6 +18,7 @@
         },
         {
             "type": "patchouli:pictures",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_30.png",
             "picture": "endermonicon:textures/book/entries/redstone/bellows_2.png"
         },
         {

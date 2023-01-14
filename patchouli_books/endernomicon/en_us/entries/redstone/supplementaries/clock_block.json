@@ -17,7 +17,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/clock_block.png"
+            "picture": "endermonicon:textures/book/entries/redstone/clock_block.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_20.png"
         },
         {
             "type": "patchouli:empty",
