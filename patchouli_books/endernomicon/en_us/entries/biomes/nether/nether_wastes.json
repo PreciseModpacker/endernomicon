@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/nether_wastes.png"
+            "picture": "endermonicon:textures/book/entries/biomes/nether_wastes.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_70.png"
         },
         {
             "type": "patchouli:empty",

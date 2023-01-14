@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/lukewarm_ocean.png"
+            "picture": "endermonicon:textures/book/entries/biomes/lukewarm_ocean.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_60.png"
         },
         {
             "type": "patchouli:empty",

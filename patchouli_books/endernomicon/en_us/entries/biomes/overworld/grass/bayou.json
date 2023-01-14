@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/bayou_blues.png"
+            "picture": "endermonicon:textures/book/entries/biomes/bayou_blues.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_30.png"
         },
         {
             "type": "patchouli:empty",

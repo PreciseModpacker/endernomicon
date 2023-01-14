@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/taiga.png"
+            "picture": "endermonicon:textures/book/entries/biomes/taiga.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_60.png"
         },
         {
             "type": "patchouli:empty",

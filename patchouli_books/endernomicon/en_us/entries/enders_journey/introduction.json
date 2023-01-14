@@ -6,7 +6,8 @@
     "pages": [
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/intro_1.png"
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_1.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
         },
         {
             "type": "patchouli:empty",
@@ -14,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/intro_2.png"
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_2.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
         },
         {
             "type": "patchouli:empty",
@@ -22,7 +24,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/intro_3.png"
+            "picture": "endermonicon:textures/book/entries/enders_journey/intro_3.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
         },
         {
             "type": "patchouli:empty",

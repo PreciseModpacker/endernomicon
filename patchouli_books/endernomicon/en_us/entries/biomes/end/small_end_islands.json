@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/small_end_islands.png"
+            "picture": "endermonicon:textures/book/entries/biomes/small_end_islands.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_60.png"
         },
         {
             "type": "patchouli:empty",

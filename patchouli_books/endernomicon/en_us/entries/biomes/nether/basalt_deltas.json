@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/basalt_deltas.png"
+            "picture": "endermonicon:textures/book/entries/biomes/basalt_deltas.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_70.png"
         },
         {
             "type": "patchouli:empty",

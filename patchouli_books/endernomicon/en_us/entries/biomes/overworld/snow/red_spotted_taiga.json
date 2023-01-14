@@ -15,7 +15,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/biomes/red_spotted_taiga.png"
+            "picture": "endermonicon:textures/book/entries/biomes/red_spotted_taiga.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_40.png"
         },
         {
             "type": "patchouli:empty",

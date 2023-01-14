@@ -17,7 +17,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/blackboard_1.png"
+            "picture": "endermonicon:textures/book/entries/utility/blackboard_1.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_30.png"
         },
         {
             "type": "patchouli:empty",
@@ -25,7 +26,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/utility/blackboard_2.png"
+            "picture": "endermonicon:textures/book/entries/utility/blackboard_2.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_30.png"
         },
         {
             "type": "patchouli:empty",
