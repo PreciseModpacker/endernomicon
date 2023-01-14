@@ -227,6 +227,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/collective/",
+            "link_text": "CurseForge",
+            "text": "$(l)         Collective$()$(br)$(li)$(l:https://www.curseforge.com/members/serilum/)Serilum (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/configured/",
             "link_text": "CurseForge",
             "text": "$(l)        Configured$()$(br)$(li)$(l:https://www.curseforge.com/members/mrcrayfish/)MrCrayfish (Owner)$(/l)"
@@ -410,6 +416,12 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore/",
             "link_text": "CurseForge",
             "text": "$(l)      FerriteCore$()$(br)$(li)$(l:https://www.curseforge.com/members/malte0811/)malte0811 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/first-join-message/",
+            "link_text": "CurseForge",
+            "text": "$(l)    First Join Message$()$(br)$(li)$(l:https://www.curseforge.com/members/serilum/)Serilum (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
