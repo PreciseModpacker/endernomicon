@@ -2,7 +2,7 @@
     "name": "Rumor (A Curious Duo)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 9,
     "advancement": "endernomicon:ruined_keep",
     "pages": [
         {

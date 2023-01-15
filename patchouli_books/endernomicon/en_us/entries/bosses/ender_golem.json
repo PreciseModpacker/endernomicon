@@ -2,7 +2,7 @@
     "name": "Ender Golem",
     "icon": "cataclysm:void_core",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 7,
     "advancement": "cataclysm:kill_ender_golem",
     "pages": [
         {

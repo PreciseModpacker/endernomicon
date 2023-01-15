@@ -2,7 +2,7 @@
     "name": "Rumor (Ocean Guardian)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 4,
     "advancement": "endernomicon:ocean_monument",
     "pages": [
         {

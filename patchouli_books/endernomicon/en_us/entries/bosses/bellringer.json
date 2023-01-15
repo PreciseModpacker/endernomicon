@@ -2,7 +2,7 @@
     "name": "Bellringer",
     "icon": "meetyourfight:haunted_bell",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 1,
     "advancement": "meetyourfight:main/bellringer_kill",
     "pages": [
         {

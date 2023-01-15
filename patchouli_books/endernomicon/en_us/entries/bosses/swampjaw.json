@@ -2,7 +2,7 @@
     "name": "Swampjaw",
     "icon": "meetyourfight:fossil_bait",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 17,
     "advancement": "meetyourfight:main/swampjaw_kill",
     "pages": [
         {

@@ -2,7 +2,7 @@
     "name": "Rumor (The Strongest)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 20,
     "advancement": "alexsmobs:alexsmobs/crimson_mosquito",
     "pages": [
         {

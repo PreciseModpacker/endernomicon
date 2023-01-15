@@ -2,7 +2,7 @@
     "name": "Rumor (Lost Citadel)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 6,
     "advancement": "cataclysm:find_ruined_citadel",
     "pages": [
         {

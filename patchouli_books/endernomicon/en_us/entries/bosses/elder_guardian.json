@@ -2,7 +2,7 @@
     "name": "Elder Guardian",
     "icon": "minecraft:sea_lantern",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 5,
     "advancement": "endernomicon:elder_guardian",
     "pages": [
         {

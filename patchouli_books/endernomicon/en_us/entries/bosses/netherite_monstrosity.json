@@ -2,7 +2,7 @@
     "name": "Netherite Monstrosity",
     "icon": "cataclysm:monstrous_helm",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 15,
     "advancement": "cataclysm:kill_monstrosity",
     "pages": [
         {

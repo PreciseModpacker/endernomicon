@@ -2,7 +2,7 @@
     "name": "Rumor (The Lost Souls)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 18,
     "advancement": "minecraft:nether/get_wither_skull",
     "pages": [
         {

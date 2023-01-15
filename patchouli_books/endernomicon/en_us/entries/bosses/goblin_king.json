@@ -2,7 +2,7 @@
     "name": "Goblin King",
     "icon": "goblinsanddungeons:goblin_crown",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 10,
     "advancement": "goblinsanddungeons:goblinsanddungeons/end_of_the_labyrinth",
     "pages": [
         {
