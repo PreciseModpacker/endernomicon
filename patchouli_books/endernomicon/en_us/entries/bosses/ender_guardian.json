@@ -2,7 +2,7 @@
     "name": "Ender Guardian",
     "icon": "cataclysm:gauntlet_of_guard",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 8,
     "advancement": "cataclysm:kill_ender_guardian",
     "pages": [
         {

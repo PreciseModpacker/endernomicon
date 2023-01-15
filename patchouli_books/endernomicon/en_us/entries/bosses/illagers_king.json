@@ -2,7 +2,7 @@
     "name": "Illager King",
     "icon": "minecraft:gold_ingot",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 13,
     "advancement": "endernomicon:illager_king",
     "pages": [
         {

@@ -2,7 +2,7 @@
     "name": "Rumor (Swamp Monster)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 16,
     "advancement": "endernomicon:bone",
     "pages": [
         {

@@ -2,7 +2,7 @@
     "name": "Dame Fortuna",
     "icon": "meetyourfight:devils_ante",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 3,
     "advancement": "meetyourfight:main/dame_fortuna_kill",
     "pages": [
         {

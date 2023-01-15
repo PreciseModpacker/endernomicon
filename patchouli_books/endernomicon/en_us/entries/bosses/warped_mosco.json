@@ -2,7 +2,7 @@
     "name": "Warped Mosco",
     "icon": "alexsmobs:mosquito_larva",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 21,
     "advancement": "alexsmobs:alexsmobs/warped_mosco_kill",
     "pages": [
         {

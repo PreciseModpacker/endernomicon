@@ -2,7 +2,7 @@
     "name": "Rumor (Lucky Demon)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 2,
     "advancement": "endernomicon:devils_ante",
     "pages": [
         {

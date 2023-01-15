@@ -2,7 +2,7 @@
     "name": "Void Worm",
     "icon": "alexsmobs:mysterious_worm",
     "category": "patchouli:bosses",
-    "sortnum": 0,
+    "sortnum": 23,
     "advancement": "alexsmobs:alexsmobs/void_worm_kill",
     "pages": [
         {
