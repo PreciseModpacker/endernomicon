@@ -1,0 +1,43 @@
+{    
+    "name": "Ignitium Armor",
+    "icon": "cataclysm:ignitium_helmet",
+    "category": "patchouli:armors",
+    "sortnum": 27,
+    "advancement": "minecraft:story/mine_diamond",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Who said that the $(l:patchouli:armors/end_crystal)End Crystal Armor$(/l) is the best armor that you can make?$(br)$(li)The Ignitium Armor will not give you any special effect, but in return this armor has other advantages.$(br)$(li)It will never take damage and such as the $(l:patchouli:armors/netherite_armor)Netherite Armor$(/l) cannot be destroyed by fire or lava."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Ignitium Armor",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"cataclysm:ignitium_boots\",Count:1},{id:\"cataclysm:ignitium_leggings\",Count:1},{id:\"cataclysm:ignitium_chestplate\",Count:1},{id:\"cataclysm:ignitium_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}",
+            "offset": 0.27,
+            "scale": 0.90,
+            "text": "It can be crafted placing a $(l:patchouli:miscellaneous/cataclysm/ignitium_ingot)Ignitium Ingot$(/l) with the specific piece of $(l:patchouli:armors/netherite_armor)Netherite Armor$(/l) in a $(l:patchouli:utility/vanilla/smithing_table)Smithing Table$(/l)."
+        },
+        {
+            "type": "smithing_table_multiple",
+            "title": "Ignitium Helmet",
+            "input": "minecraft:netherite_helmet",
+            "input2": "cataclysm:ignitium_ingot",
+            "output": "cataclysm:ignitium_helmet",
+            "title2": "Ignitium Chestplate",
+            "input3": "minecraft:netherite_chestplate",
+            "input4": "cataclysm:ignitium_ingot",
+            "output2": "cataclysm:ignitium_chestplate"
+        },
+        {
+            "type": "smithing_table_multiple",
+            "title": "Ignitium Leggings",
+            "input": "minecraft:netherite_leggings",
+            "input2": "cataclysm:ignitium_ingot",
+            "output": "cataclysm:ignitium_leggings",
+            "title2": "Ignitium Boots",
+            "input3": "minecraft:netherite_boots",
+            "input4": "cataclysm:ignitium_ingot",
+            "output2": "cataclysm:ignitium_boots"
+        }
+             ]
+}
