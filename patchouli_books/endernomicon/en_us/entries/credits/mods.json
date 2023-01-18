@@ -509,6 +509,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/",
+            "link_text": "CurseForge",
+            "text": "$(l)     Inventory HUD+$()$(br)$(li)$(l:https://www.curseforge.com/members/dmitrylovin/)dmitrylovin (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/",
             "link_text": "CurseForge",
             "text": "$(l)       Iron Chests$()$(br)$(li)$(l:https://www.curseforge.com/members/progwml6/)ProgWML6 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/alexbegt)Alexbegt (Author)$(/l)"
