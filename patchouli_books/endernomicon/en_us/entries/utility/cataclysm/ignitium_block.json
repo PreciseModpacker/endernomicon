@@ -3,7 +3,7 @@
     "icon": "cataclysm:ignitium_block",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:story/mine_diamond",
+    "advancement": "endernomicon:ignitium_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
