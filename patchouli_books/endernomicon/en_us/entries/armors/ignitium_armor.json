@@ -3,7 +3,7 @@
     "icon": "cataclysm:ignitium_helmet",
     "category": "patchouli:armors",
     "sortnum": 27,
-    "advancement": "minecraft:story/mine_diamond",
+    "advancement": "endernomicon:ignitium_ingot",
     "pages": [
         {
             "type": "patchouli:text",
