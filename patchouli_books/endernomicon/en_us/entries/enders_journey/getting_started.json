@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Thanks to download the Ender's Journey modpack!$(br)$(li)If you find any bug, please, don't doubt to report it here: [INSERTAR LINK].$(br)$(li)If you are new I strongly recommend you read these pages before to start."
+            "text": "$(li)Thanks to download the Ender's Journey modpack!$(br)$(li)If you find any bug, please, don't doubt to report it $(l:https://github.com/PreciseModpacker/enders_journey/issues)here$(/l) .$(br)$(li)If you are new I strongly recommend you read these pages before to start."
         },
         {
             "type": "patchouli:text",
