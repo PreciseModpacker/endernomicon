@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Ignis"
+        },
+        "description": {
+            "text": "Defeat the Ignis"
+        },
+        "icon": {
+            "item": "cataclysm:ignitium_helmet"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "cataclysm:ignis"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}
