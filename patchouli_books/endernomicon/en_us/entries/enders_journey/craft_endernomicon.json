@@ -2,7 +2,7 @@
     "name": "Craft Endernomicon",
     "icon": "endermonicon:textures/book/categories/book.png",
     "category": "patchouli:enders_journey",
-    "sortnum": 2,
+    "sortnum": 3,
     "advancement": "endernomicon:ender_eye",
     "pages": [
         {

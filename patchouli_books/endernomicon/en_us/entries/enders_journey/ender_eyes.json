@@ -2,7 +2,7 @@
     "name": "Ender Eyes",
     "icon": "endermonicon:textures/book/categories/book.png",
     "category": "patchouli:enders_journey",
-    "sortnum": 3,
+    "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:micro_pictures",
