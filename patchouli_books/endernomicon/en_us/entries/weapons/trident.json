@@ -2,7 +2,7 @@
     "name": "Trident",
     "icon": "minecraft:trident",
     "category": "patchouli:weapons",
-    "sortnum": 4,
+    "sortnum": 7,
     "advancement": "endernomicon:heart_of_the_sea",
     "pages": [
         {

@@ -1,8 +1,8 @@
 {    
-    "name": "Blood sprayer",
-    "icon": "alexsmobs:blood_sprayer",
+    "name": "Bow (End Crystal) PDT DOCUMENTAR",
+    "icon": "minecraft:bow",
     "category": "patchouli:weapons",
-    "sortnum": 28,
+    "sortnum": 31,
     "advancement": "endernomicon:blood_sac",
     "pages": [
         {

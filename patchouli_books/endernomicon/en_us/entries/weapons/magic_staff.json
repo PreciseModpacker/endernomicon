@@ -2,7 +2,7 @@
     "name": "Magic Staff",
     "icon": "goblinsanddungeons:staff_amethyst",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": -4,
     "advancement": "endernomicon:magic_staff",
     "pages": [
         {

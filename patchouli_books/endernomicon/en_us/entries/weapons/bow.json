@@ -2,7 +2,7 @@
     "name": "Bow",
     "icon": "minecraft:bow",
     "category": "patchouli:weapons",
-    "sortnum": 3,
+    "sortnum": 21,
     "advancement": "endernomicon:string",
     "pages": [
         {

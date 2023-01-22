@@ -2,7 +2,7 @@
     "name": "Crossbow",
     "icon": "minecraft:crossbow",
     "category": "patchouli:weapons",
-    "sortnum": 3,
+    "sortnum": 22,
     "advancement": "endernomicon:crossbow",
     "pages": [
         {

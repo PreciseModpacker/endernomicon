@@ -2,7 +2,7 @@
     "name": "Bomb",
     "icon": "supplementaries:bomb",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 27,
     "advancement": "endernomicon:tnt",
     "pages": [
         {

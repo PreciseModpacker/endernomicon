@@ -2,7 +2,7 @@
     "name": "Sword (Iron)",
     "icon": "minecraft:iron_sword",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 2,
     "advancement": "minecraft:story/smelt_iron",
     "pages": [
         {

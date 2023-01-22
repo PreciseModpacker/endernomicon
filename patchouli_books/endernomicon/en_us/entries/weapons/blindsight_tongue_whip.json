@@ -2,7 +2,7 @@
     "name": "Blindsight Tongue Whip",
     "icon": "infernalexp:blindsight_tongue_whip",
     "category": "patchouli:weapons",
-    "sortnum": 2,
+    "sortnum": -2,
     "advancement": "endernomicon:blindsight_tongue",
     "pages": [
         {

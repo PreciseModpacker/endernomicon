@@ -2,7 +2,7 @@
     "name": "Sword (Wood)",
     "icon": "minecraft:wooden_sword",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": -1,
     "advancement": "endernomicon:planks",
     "pages": [
         {
