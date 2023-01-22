@@ -1,8 +1,8 @@
 {    
-    "name": "Sword (End Crystal)",
-    "icon": "endrem:end_crystal_sword",
+    "name": "Zweiender PDT DOCUMENTAR",
+    "icon": "cataclysm:zweiender",
     "category": "patchouli:weapons",
-    "sortnum": 6,
+    "sortnum": 12,
     "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {

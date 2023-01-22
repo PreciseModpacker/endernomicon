@@ -1,8 +1,8 @@
 {    
-    "name": "Blood sprayer",
-    "icon": "alexsmobs:blood_sprayer",
+    "name": "Crossbow (End Crystal) PDT DOCUMENTAR",
+    "icon": "minecraft:crossbow",
     "category": "patchouli:weapons",
-    "sortnum": 28,
+    "sortnum": 32,
     "advancement": "endernomicon:blood_sac",
     "pages": [
         {

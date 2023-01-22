@@ -2,7 +2,7 @@
     "name": "Axe (End Crystal)",
     "icon": "endrem:end_crystal_axe",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 6,
     "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {

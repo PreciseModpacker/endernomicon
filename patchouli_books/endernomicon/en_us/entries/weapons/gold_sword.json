@@ -2,7 +2,7 @@
     "name": "Sword (Gold)",
     "icon": "minecraft:golden_sword",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 1,
     "advancement": "endernomicon:gold_ingot",
     "pages": [
         {

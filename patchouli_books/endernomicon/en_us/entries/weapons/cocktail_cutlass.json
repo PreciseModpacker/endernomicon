@@ -2,7 +2,7 @@
     "name": "Cocktail Cutlass",
     "icon": "meetyourfight:cocktail_cutlass",
     "category": "patchouli:weapons",
-    "sortnum": 8,
+    "sortnum": 4,
     "advancement": "endernomicon:fortunes_favor",
     "pages": [
         {

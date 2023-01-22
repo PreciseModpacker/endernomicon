@@ -2,7 +2,7 @@
     "name": "Axe (Wood)",
     "icon": "minecraft:wooden_axe",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": -1,
     "advancement": "endernomicon:planks",
     "pages": [
         {

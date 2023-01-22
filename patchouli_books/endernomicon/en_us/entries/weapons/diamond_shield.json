@@ -2,7 +2,7 @@
     "name": "Shield (Diamond)",
     "icon": "bettershields:diamond_shield",
     "category": "patchouli:weapons",
-    "sortnum": 17,
+    "sortnum": 18,
     "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {

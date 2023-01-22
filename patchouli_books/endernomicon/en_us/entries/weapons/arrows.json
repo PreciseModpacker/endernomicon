@@ -2,7 +2,7 @@
     "name": "Arrows",
     "icon": "minecraft:arrow",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 23,
     "advancement": "endernomicon:flint",
     "pages": [
         {

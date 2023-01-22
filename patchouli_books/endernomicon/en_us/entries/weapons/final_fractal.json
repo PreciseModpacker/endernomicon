@@ -1,8 +1,8 @@
 {    
-    "name": "Sword (End Crystal)",
-    "icon": "endrem:end_crystal_sword",
+    "name": "Final Fractal PDT DOCUMENTAR",
+    "icon": "cataclysm:final_fractal",
     "category": "patchouli:weapons",
-    "sortnum": 6,
+    "sortnum": 9,
     "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {

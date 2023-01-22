@@ -2,7 +2,7 @@
     "name": "Hemolymph Blaster",
     "icon": "alexsmobs:hemolymph_blaster",
     "category": "patchouli:weapons",
-    "sortnum": 10,
+    "sortnum": 99,
     "advancement": "endernomicon:mimicream",
     "pages": [
         {

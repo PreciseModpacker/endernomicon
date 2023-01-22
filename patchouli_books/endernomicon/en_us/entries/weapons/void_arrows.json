@@ -2,7 +2,7 @@
     "name": "Arrows (Void Scatter)",
     "icon": "cataclysm:void_scatter_arrow",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 24,
     "advancement": "endernomicon:void_jaw",
     "pages": [
         {

@@ -2,7 +2,7 @@
     "name": "Shield (Wildfire)",
     "icon": "outvoted:wildfire_shield",
     "category": "patchouli:weapons",
-    "sortnum": 16,
+    "sortnum": 17,
     "advancement": "endernomicon:wildfire_shield_part",
     "pages": [
         {

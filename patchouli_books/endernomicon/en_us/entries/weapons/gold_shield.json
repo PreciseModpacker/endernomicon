@@ -2,7 +2,7 @@
     "name": "Shield (Gold)",
     "icon": "bettershields:gold_shield",
     "category": "patchouli:weapons",
-    "sortnum": 16,
+    "sortnum": 15,
     "advancement": "endernomicon:gold_ingot",
     "pages": [
         {
