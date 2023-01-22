@@ -1,18 +1,17 @@
 {    
-    "name": "End of the Journey? PDT DOCUMENTAR",
+    "name": "End of the Journey?",
     "icon": "endermonicon:textures/book/categories/book.png",
     "category": "patchouli:enders_journey",
-    "sortnum": 4,
-    "advancement": "endernomicon:ender_eyes",
+    "sortnum": 5,
+    "advancement": "minecraft:end/kill_dragon",
     "pages": [
         {
             "type": "patchouli:text",
             "text": "$(o)At last... I have managed to defeat this great threat to our world.$(br2)$(o)After the explosion, the dragon remains fell to the bottom of the abyss of the End.$(br2)Unfortunately, this journey does not end yet, there are still other possible threats in our world that must be defeated."
         },
         {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/enders_journey/end_portal.png",
-            "text": "$(li)Don't lose it!$(br)$(li)Repeat this process until find the End Portal."
+            "type": "patchouli:end_journey",
+            "picture": "endermonicon:textures/book/entries/enders_journey/end_journey.png"
         }
              ]
 }
