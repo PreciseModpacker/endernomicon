@@ -659,12 +659,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/modernworldcreation/",
-            "link_text": "CurseForge",
-            "text": "$(l)  Modern World Creation$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip/",
             "link_text": "CurseForge",
             "text": "$(l)     Mod Name Tooltip$()$(br)$(li)$(l:https://www.curseforge.com/members/mezz/)mezz (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
