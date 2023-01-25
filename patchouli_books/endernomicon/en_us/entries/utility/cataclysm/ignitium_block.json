@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "kubejs:kjs_2joxo0e1v04swu9bi7jaoxhuu",
+            "recipe": "cataclysm:ignitium_ingot",
             "text": "$(li)Ignitium Block is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/cataclysm/ignitium_ingot)Ignitium Ingot$(/l) in a more efficient way.",  
             "link_recipe": "true"
         },
