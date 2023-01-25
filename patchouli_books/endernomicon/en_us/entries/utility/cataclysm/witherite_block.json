@@ -1,0 +1,18 @@
+{    
+    "name": "Block (Witherite)",
+    "icon": "cataclysm:witherite_block",
+    "category": "patchouli:utility",
+    "sortnum": 0,
+    "advancement": "endernomicon:witherite_ingot",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:witherite_ingot",
+            "text": "$(li)The Witherite Block is a new decorative block.$(br)$(li)It can be used to save $(l:patchouli:miscellaneous/cataclysm/witherite_ingot)Witherite Ingots$(/l) in a more efficient way.",  
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
