@@ -8,10 +8,10 @@
         {
             "type": "smithing_table",
             "title": "Zweiender",
-            "input": "cataclysm:final_fractal",
+            "input": "endrem:end_crystal_sword",
             "input2": "cataclysm:enderite_ingot",
             "output": "cataclysm:zweiender",
-            "text": "$(li)The Zweiender is the result of the combination of the $(br)$(l:patchouli:weapons/final_fractal)Final Fractal$(/l) and the hardest material in this world known as the $(l:patchouli:miscellaneous/cataclysm/enderite_ingot)Enderite Ingot$(/l).$(br)$(li)It will deal double damage to any creature you hit with it on its back.",
+            "text": "$(li)The Zweiender is the result of the combination of the $(br)$(l:patchouli:weapons/end_crystal_sword)End Crystal Sword$(/l) and the hardest material in this world known as the $(l:patchouli:miscellaneous/cataclysm/enderite_ingot)Enderite Ingot$(/l).$(br)$(li)It will deal double damage to any creature you hit with it on its back.",
             "link_recipe": "true"
         },
         {
