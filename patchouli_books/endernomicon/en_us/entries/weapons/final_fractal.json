@@ -1,24 +1,24 @@
 {    
-    "name": "Final Fractal PDT DOCUMENTAR",
+    "name": "Final Fractal",
     "icon": "cataclysm:final_fractal",
     "category": "patchouli:weapons",
     "sortnum": 9,
-    "advancement": "endernomicon:end_crystal_ingot",
+    "advancement": "endernomicon:witherite_ingot",
     "pages": [
         {
             "type": "smithing_table",
-            "title": "End Crystal Sword",
-            "input": "minecraft:diamond_sword",
-            "input2": "endrem:end_crystal_ingot",
-            "output": "endrem:end_crystal_sword",
-            "text": "$(li)The End Crystal Sword is a very resistant and powerful sword.$(br)$(li)It is even more powerful and durable than a $(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l).",
+            "title": "Final Fractal",
+            "input": "minecraft:netherite_sword",
+            "input2": "cataclysm:witherite_ingot",
+            "output": "cataclysm:final_fractal",
+            "text": "$(li)The Final Fractal, forged with a $(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l) and a $(l:patchouli:miscellaneous/cataclysm/witherite_ingot)Witherite Ingot$(/l) is the second strongest sword.$(br)$(li)It is even more powerful and durable than a common $(br)$(l:patchouli:weapons/end_crystal_sword)End Crystal Sword$(/l).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "End Crystal Sword",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"endrem:end_crystal_sword\",Count:1}],HandDropChances:[0f]}",
-            "scale": 0.9
+            "name": "Final Fractal",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:final_fractal\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.5
         }
              ]
 }
