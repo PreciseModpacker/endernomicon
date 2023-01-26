@@ -1,24 +1,24 @@
 {    
-    "name": "Zweiender PDT DOCUMENTAR",
+    "name": "Zweiender",
     "icon": "cataclysm:zweiender",
     "category": "patchouli:weapons",
-    "sortnum": 12,
-    "advancement": "endernomicon:end_crystal_ingot",
+    "sortnum": 11,
+    "advancement": "endernomicon:enderite_ingot",
     "pages": [
         {
             "type": "smithing_table",
-            "title": "End Crystal Sword",
-            "input": "minecraft:diamond_sword",
-            "input2": "endrem:end_crystal_ingot",
-            "output": "endrem:end_crystal_sword",
-            "text": "$(li)The End Crystal Sword is a very resistant and powerful sword.$(br)$(li)It is even more powerful and durable than a $(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l).",
+            "title": "Zweiender",
+            "input": "cataclysm:final_fractal",
+            "input2": "cataclysm:enderite_ingot",
+            "output": "cataclysm:zweiender",
+            "text": "$(li)The Zweiender is the result of the combination of the $(br)$(l:patchouli:weapons/final_fractal)Final Fractal$(/l) and the hardest material in this world known as the $(l:patchouli:miscellaneous/cataclysm/enderite_ingot)Enderite Ingot$(/l).$(br)$(li)It will deal double damage to any creature you hit with it on its back.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "End Crystal Sword",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"endrem:end_crystal_sword\",Count:1}],HandDropChances:[0f]}",
-            "scale": 0.9
+            "name": "Zweiender",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:zweiender\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.5
         }
              ]
 }
