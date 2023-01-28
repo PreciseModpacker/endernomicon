@@ -263,6 +263,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements/",
+            "link_text": "CurseForge",
+            "text": "$(l) Cooperative Advancements$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Grend_G (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/",
             "link_text": "CurseForge",
             "text": "$(l)       CraftTweaker$()$(br)$(li)$(l:https://www.curseforge.com/members/jaredlll08/)Jaredlll08 (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kindlich/)kindlich (Author)$(li)$(l:https://www.curseforge.com/members/thesilkminer/)TheSilkMiner (Author)$(li)$(l:https://www.curseforge.com/members/youyihj/)youyihj (Contributor)$(li)$(l:https://www.curseforge.com/members/forge_user_48453413/)Forge_User_48453413 (Former Author)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)"
