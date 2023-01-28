@@ -347,6 +347,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dynamic-music/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Dynamic Music$()$(br)$(li)$(l:https://www.curseforge.com/members/ludocrypt/)LudoCrypt (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/",
             "link_text": "CurseForge",
             "text": "$(l) Enchantment Descriptions$()$(br)$(li)$(l:https://www.curseforge.com/members/darkhaxdev/)DarkhaxDev (Owner)$(/l)"
@@ -686,6 +692,12 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/mutil/",
             "link_text": "CurseForge",
             "text": "$(l)         Mutil$()$(br)$(li)$(l:https://www.curseforge.com/members/mickelus/)mickelus (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Music Duration Reducer$()$(br)$(li)$(l:https://www.curseforge.com/members/ludocrypt/)LudoCrypt (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats/)CFGrafanaStats (Mascot)$(/l)"
         },
         {
             "type": "patchouli:link",
