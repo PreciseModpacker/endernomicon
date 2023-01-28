@@ -665,6 +665,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/modernworldcreation/",
+            "link_text": "CurseForge",
+            "text": "$(l)  Modern World Creation$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/",
             "link_text": "CurseForge",
             "text": "$(l)      Mouse Tweaks$()$(br)$(li)$(l:https://www.curseforge.com/members/yalter/)YaLTeR (Owner)$(/l)"
