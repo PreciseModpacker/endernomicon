@@ -1,25 +1,22 @@
 {    
-    "name": "Bulwark Of the Flame PDT DOCUMENTAR",
+    "name": "Bulwark Of the Flame",
     "icon": "cataclysm:bulwark_of_the_flame",
     "category": "patchouli:weapons",
     "sortnum": 20,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:ignitium_ingot",
     "pages": [
         {
-            "type": "smithing_table",
-            "title": "Netherite Shield",
-            "input": "bettershields:diamond_shield",
-            "input2": "minecraft:netherite_ingot",
-            "output": "bettershields:netherite_shield",
-            "text": "$(li)The Netherite Shield is improved version of the $(l:patchouli:weapons/diamond_shield)Diamond Shield $(/l)with more durability than the last one.$(br)$(li)To equip it, just open your inventory and place the Shield into your left hand slot.",
+            "type": "crafting",
+            "recipe": "cataclysm:bulwark_of_the_flame",
+            "text": "$(li)The Bulwark Of the Flame is the most resistant shield that you can make.$(br)$(li)When you have it equipped, it gives you you the $(l:patchouli:potions/quark/fortitude)Resistance $(/l)effect reducing any physical damage that you take.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Netherite Shield",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"bettershields:netherite_shield\",Count:1}],HandDropChances:[0f]}",
+            "name": "Bulwark Of the Flame",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"cataclysm:bulwark_of_the_flame\",Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
-            "text": "This item can't be burned in fire or lava."
+            "text": "This item can't be burned in fire or lava and it doesn't have durability."
         }
              ]
 }
