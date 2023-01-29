@@ -1,22 +1,10 @@
 {
     "display": {
-        "title": {
-            "text": "Ender's Journey",
-            "color": "white",
-            "bold": false
-        },
-        "description": {
-            "text": "Welcome to this adventure!"
-        },
-        "icon": {
-            "item": "patchouli:guide_book",
-            "nbt": "{'patchouli:book':'patchouli:endernomicon'}"
-        },
-        "frame": "task",
+        "title": "",
+        "description": "",
         "show_toast": false,
         "announce_to_chat": false,
-        "hidden": false,
-        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+        "hidden": true
     },
 	"criteria": {
 		"tick": {
