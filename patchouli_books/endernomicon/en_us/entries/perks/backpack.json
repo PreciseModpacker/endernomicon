@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Once equipped, you can press the B key to access the Backpack inventory with 54 extra slots to save your items.$(br)$(li)You will not be able to unequip your Backpack if this one contains at least 1 item.$(br)$(li)Like other containers, you can filter items to find them easily and sort the items in its interior too."
+            "text": "$(li)Once equipped, you can press the B key to access the Backpack inventory with 45 extra slots to save your items.$(br)$(li)You will not be able to unequip your Backpack if this one contains at least 1 item.$(br)$(li)Like other containers, you can filter items to find them easily and sort the items in its interior too."
         },
         {
             "type": "patchouli:small_pictures",
