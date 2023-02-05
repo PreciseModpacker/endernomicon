@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "bettershields:gold_shield",
-            "text": "$(li)The Gold Shield is an improve of the common Shield because this one has more durability than the last one.",
+            "text": "$(li)The Gold Shield is an improve of the common $(l:patchouli:weapons/shield)Shield$(/l) because this one has more durability than the last one.",
             "link_recipe": "true"
         },
         {
