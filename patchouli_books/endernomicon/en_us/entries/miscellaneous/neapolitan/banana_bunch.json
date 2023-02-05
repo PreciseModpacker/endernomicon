@@ -10,6 +10,9 @@
             "item": "neapolitan:banana_bunch",
             "text": "$(li)Banana Bunch can be used to attrack and breed $(l:patchouli:creatures/neapolitan/chimpanzee)Chimpanzees$(/l).$(br)$(li)They can be obtained breaking $(l:patchouli:miscellaneous/neapolitan/banana_bundle)Banana Bundles$(/l).",
             "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
