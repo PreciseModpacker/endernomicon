@@ -953,6 +953,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://beta.curseforge.com/minecraft/mc-mods/upsizer-mod/",
+            "link_text": "CurseForge",
+            "text": "$(l)      Upsizer Mod$()$(br)$(li)$(l:https://www.curseforge.com/members/the_wabbit0101/)The_Wabbit0101 (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/upstream/",
             "link_text": "CurseForge",
             "text": "$(l)        Upstream$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bisecthosting_design/)bisecthosting_design (Documenter)$(/l)"
@@ -1046,6 +1052,9 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
