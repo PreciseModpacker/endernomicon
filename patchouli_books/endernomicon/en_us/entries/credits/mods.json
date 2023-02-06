@@ -989,6 +989,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Waystones2Waypoints$()$(br)$(li)$(l:https://www.curseforge.com/members/noobanidus/)Noobanidus (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/windowlogging/",
             "link_text": "CurseForge",
             "text": "$(l)      Windowlogging$()$(br)$(li)$(l:https://www.curseforge.com/members/mc_grimmauld/)mc_Grimmauld (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/simibubi/)simibubi (Former Author)$(/l)"
