@@ -1,0 +1,17 @@
+{    
+    "name": "Kizarys (Compositor)",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/kizarys/",
+            "link_text": "Fiverr",
+            "text": "$(li)Kizarys made the song played in the Minecraft Menu inserted using the FancyMenu and Audio Extension for FancyMenu mods."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

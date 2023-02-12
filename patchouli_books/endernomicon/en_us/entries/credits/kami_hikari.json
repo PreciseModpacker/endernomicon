@@ -1,0 +1,17 @@
+{    
+    "name": "Kami Hikari (Compositor)",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/kami_hikari/",
+            "link_text": "Fiverr",
+            "text": "$(li)Kami Hikari made the song played during the Ender Dragon boss fight inserted in the $(l)DragonFight Music Datapack & Resourcepack$()."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
