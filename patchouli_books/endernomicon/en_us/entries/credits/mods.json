@@ -991,7 +991,7 @@
             "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints/",
             "link_text": "CurseForge",
-            "text": "$(l)    Waystones2Waypoints$()$(br)$(li)$(l:https://www.curseforge.com/members/noobanidus/)Noobanidus (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Author)$(/l)"
+            "text": "$(l)   Waystones2Waypoints$()$(br)$(li)$(l:https://www.curseforge.com/members/noobanidus/)Noobanidus (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Author)$(/l)"
         },
         {
             "type": "patchouli:link",
@@ -1058,9 +1058,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-        {
-            "type": "patchouli:empty_page"
         }
              ]
 }

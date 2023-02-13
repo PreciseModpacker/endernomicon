@@ -19,7 +19,8 @@
         },
         {
             "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/redstone/collector.png"
+            "picture": "endermonicon:textures/book/entries/redstone/collector.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_20.png"
         },
         {
             "type": "patchouli:empty",

@@ -20,7 +20,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The shrimp will then seek out and break any blocks matching the one held in its fist, if ordered to do so.$(br)$(li)Mantis Shrimp can be healed with any kind of fish when injured, and can be bred with $(l:patchouli:pets/alexsmobs/lobster_tail)Lobster Tail$(/l)."
+            "text": "$(li)The shrimp will then seek out and break any blocks matching the one held in its fist, if ordered to do so.$(br)$(li)Mantis Shrimp can be healed with any kind of fish when injured, and can be bred with $(l:patchouli:miscellaneous/alexsmobs/lobster_tail)Lobster Tail$(/l)."
         }
              ]
 }

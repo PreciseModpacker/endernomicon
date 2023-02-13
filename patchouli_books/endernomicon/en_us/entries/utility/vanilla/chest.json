@@ -29,18 +29,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/oak_chest",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/chests/spruce_chest",
             "recipe2": "quark:tweaks/crafting/utility/chests/spruce_chest_wood",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/spruce_chest",
             "link_recipe": "true"
         },
         {
@@ -51,18 +41,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/birch_chest",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/chests/jungle_chest",
             "recipe2": "quark:tweaks/crafting/utility/chests/jungle_chest_wood",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/jungle_chest",
             "link_recipe": "true"
         },
         {
@@ -73,18 +53,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/acacia_chest",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/chests/dark_oak_chest",
             "recipe2": "quark:tweaks/crafting/utility/chests/dark_oak_chest_wood",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/dark_oak_chest",
             "link_recipe": "true"
         },
         {
@@ -195,18 +165,8 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/crimson_chest",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
             "recipe": "quark:building/crafting/chests/warped_chest",
             "recipe2": "quark:tweaks/crafting/utility/chests/warped_chest_wood",
-            "link_recipe": "true"
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "charm:variant_chests/warped_chest",
             "link_recipe": "true"
         },
         {
