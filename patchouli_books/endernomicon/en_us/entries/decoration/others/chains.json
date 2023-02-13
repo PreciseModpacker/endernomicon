@@ -17,11 +17,11 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "charm:gold_chains/gold_chain"
+            "recipe": "charm:gold_chains/gold_chain",
+            "recipe2": "environmental:building/ice_chain"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "environmental:building/ice_chain"
+            "type": "patchouli:empty_page"
         }
              ]
 }

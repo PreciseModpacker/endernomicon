@@ -18,11 +18,11 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "decorative_blocks:soul_brazier"
+            "recipe": "decorative_blocks:soul_brazier",
+            "recipe2": "decorative_blocks_abnormals:ender_brazier"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "decorative_blocks_abnormals:ender_brazier"
+            "type": "patchouli:empty_page"
         }
              ]
 }

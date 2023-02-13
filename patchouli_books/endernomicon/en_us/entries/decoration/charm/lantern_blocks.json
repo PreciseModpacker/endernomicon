@@ -8,6 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:sea_lantern",
+            "title": "Lantern Blocks",
             "text": "$(li)The Lantern Blocks are a new kind of source light blocks.$(br)$(li)With them you will have more variety to iluminate your home.",
             "link_recipe": "false"
         },

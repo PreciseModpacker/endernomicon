@@ -10,7 +10,7 @@
             "item": "minecraft:torch",
             "text": "$(li)Torches are the most common source light block that you can make and even found in this world.$(br)$(li)When they are hit by Water or any kind of fluid, they break and drop on the ground.",
             "link_recipe": "true",
-            "title": "Torchs"
+            "title": "Torches"
         },
         {
             "type": "patchouli:small_pictures",

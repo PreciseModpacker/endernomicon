@@ -18,11 +18,11 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "decorative_blocks:soul_chandelier"
+            "recipe": "decorative_blocks:soul_chandelier",
+            "recipe2": "decorative_blocks_abnormals:ender_chandelier"
         },
         {
-            "type": "patchouli:crafting",
-            "recipe": "decorative_blocks_abnormals:ender_chandelier"
+            "type": "patchouli:empty_page"
         }
              ]
 }

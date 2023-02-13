@@ -8,6 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "decorative_blocks:oak_seat",
+            "title": "Seats",
             "text": "$(li)Seats are new wood decorative block, with an interesting feature.$(br)$(li)You can right click on them while you are not holding any item on your hand to sit in them.",
             "link_recipe": "true"
         },

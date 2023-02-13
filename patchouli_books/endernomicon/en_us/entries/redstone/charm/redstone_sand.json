@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "charm:redstone_sand/redstone_sand",
-            "text": "$(li)The Redstone Sand works exactly like the Redstone Block, emiting power of neighbouring blocks.$(br)$(li)It will obey gravity like Sand and Gravel blocks."
+            "text": "$(li)The Redstone Sand works exactly like the $(l:patchouli:redstone/vanilla/redstone_block)Redstone Block$(/l), emiting power of neighbouring blocks.$(br)$(li)It will obey gravity like Sand and Gravel blocks."
         },
         {
             "type": "patchouli:small_pictures",
