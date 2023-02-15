@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:spotlight",
-            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:protection',lvl:1}]}",
+            "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:power',lvl:1}]}",
             "text": "$(li)The Power enchantment can be applied in a $(l:patchouli:weapons/bow)Bow$(/l), or $(l:patchouli:weapons/glowsilk_bow)Glowsilk Bow$(/l).$(br)$(li)This enchantment increases the damage from the $(l:patchouli:weapons/arrows)Arrows$(/l) fires from the enchanted $(l:patchouli:weapons/bow)Bow$(/l).",
             "title": "Power"
         },
