@@ -2,7 +2,7 @@
     "name": "Infernal Forge",
     "icon": "cataclysm:infernal_forge",
     "category": "patchouli:weapons",
-    "sortnum": 11,
+    "sortnum": 12,
     "advancement": "endernomicon:infernal_forge",
     "pages": [
         {

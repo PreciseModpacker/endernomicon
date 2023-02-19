@@ -1,0 +1,23 @@
+{    
+    "name": "Spider Slayer",
+    "icon": "minecraft:textures/item/custom_crossbows/spider_slayer2.png",
+    "category": "patchouli:weapons",
+    "sortnum": 25,
+    "advancement": "endernomicon:tarantula_hawk_stinger",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ej_weapon:spider_slayer",
+            "title": "Spider Slayer",
+            "text": "$(li)The Spider Slayer is a variation of the $(l:patchouli:weapons/crossbow)Crossbow$(/l).$(br)$(li)When an arrow fired by this crossbow hits a creature, it will inflict the $(l)Debilitating Sting$() effect",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Spider Slayer",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:crossbow\",Count:1,tag:{CustomModelData:102}}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "paralyzing an spider and killing it when this effect wears off, or poisoning any other type of creature."
+        }
+             ]
+}

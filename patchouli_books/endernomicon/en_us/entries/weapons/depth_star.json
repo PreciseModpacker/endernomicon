@@ -2,7 +2,7 @@
     "name": "Depth Star",
     "icon": "meetyourfight:depth_star",
     "category": "patchouli:weapons",
-    "sortnum": 2,
+    "sortnum": 3,
     "advancement": "endernomicon:mossy_tooth",
     "pages": [
         {

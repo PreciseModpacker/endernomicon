@@ -1,8 +1,8 @@
 {    
-    "name": "Bow (Glowsilk)",
+    "name": "Glowsilk Bow",
     "icon": "infernalexp:glowsilk_bow",
     "category": "patchouli:weapons",
-    "sortnum": 25,
+    "sortnum": 24,
     "advancement": "endernomicon:glowsilk",
     "pages": [
         {

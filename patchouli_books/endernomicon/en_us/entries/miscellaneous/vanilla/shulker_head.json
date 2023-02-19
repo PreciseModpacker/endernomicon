@@ -1,0 +1,18 @@
+{    
+    "name": "Shulker Head",
+    "icon": "minecraft:shulker_head",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+  #  "advancement": "endernomicon:shulker_head",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:shulker_head",
+            "text": "$(li)The Shulker Head is an item that can be used for craft the $(l:patchouli:weapons/zero_gravity_crossbow)Zero Gravity$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can only be dropped by the $(l:patchouli:bosses/ender_guardian)Ender Guardian$(/l) on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

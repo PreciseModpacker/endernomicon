@@ -2,7 +2,7 @@
     "name": "Cleaver of Beheading",
     "icon": "savageandravage:cleaver_of_beheading",
     "category": "patchouli:weapons",
-    "sortnum": 10,
+    "sortnum": 11,
     "advancement": "endernomicon:cleaver_of_beheading",
     "pages": [
         {

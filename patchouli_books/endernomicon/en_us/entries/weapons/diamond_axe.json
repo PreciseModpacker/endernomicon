@@ -1,8 +1,8 @@
 {    
-    "name": "Axe (Diamond)",
+    "name": "Diamond Axe",
     "icon": "minecraft:diamond_axe",
     "category": "patchouli:weapons",
-    "sortnum": 3,
+    "sortnum": 4,
     "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {

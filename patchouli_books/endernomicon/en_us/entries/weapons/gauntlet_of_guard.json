@@ -2,7 +2,7 @@
     "name": "Gauntlet of Guard",
     "icon": "cataclysm:gauntlet_of_guard",
     "category": "patchouli:weapons",
-    "sortnum": 8,
+    "sortnum": 9,
     "advancement": "endernomicon:gauntlet_of_guard",
     "pages": [
         {

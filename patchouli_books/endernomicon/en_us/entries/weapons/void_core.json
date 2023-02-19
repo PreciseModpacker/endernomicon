@@ -2,7 +2,7 @@
     "name": "Void Core",
     "icon": "cataclysm:void_core",
     "category": "patchouli:weapons",
-    "sortnum": 99,
+    "sortnum": 38,
     "advancement": "endernomicon:void_core",
     "pages": [
         {

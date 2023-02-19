@@ -1,20 +1,21 @@
 {    
-    "name": "Crossbow (Netherite) PDT DOCUMENTAR",
-    "icon": "minecraft:crossbow",
+    "name": "Netherite Crossbow",
+    "icon": "minecraft:textures/item/custom_crossbows/netherite5.png",
     "category": "patchouli:weapons",
-    "sortnum": 30,
-    "advancement": "endernomicon:blood_sac",
+    "sortnum": 27,
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "alexsmobs:blood_sprayer",
-            "text": "$(li)The Blood Sprayer is a powerful short-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these inflicts 2 hearts of damage.",
+            "recipe": "ej_weapon:netherite_crossbow",
+            "title": "Netherite Crossbsow",
+            "text": "$(li)The Netherite Crossbow is a powerful version of the $(l:patchouli:weapons/crossbow)Crossbow$(/l).$(br)$(li)This weapon doesn't have durability and can't be burned by lava or fire.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Blood Sprayer",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:blood_sprayer\",Count:1}],HandDropChances:[0f]}",
+            "name": "Netherite Crossbow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:crossbow\",Count:1,tag:{CustomModelData:103}}],HandDropChances:[0f]}",
             "scale": 0.9
         }
              ]

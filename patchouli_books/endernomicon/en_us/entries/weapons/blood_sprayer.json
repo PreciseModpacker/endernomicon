@@ -2,7 +2,7 @@
     "name": "Blood sprayer",
     "icon": "alexsmobs:blood_sprayer",
     "category": "patchouli:weapons",
-    "sortnum": 28,
+    "sortnum": 35,
     "advancement": "endernomicon:blood_sac",
     "pages": [
         {

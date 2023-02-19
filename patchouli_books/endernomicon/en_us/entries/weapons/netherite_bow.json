@@ -1,20 +1,21 @@
 {    
-    "name": "Bow (Netherite) PDT DOCUMENTAR",
-    "icon": "minecraft:bow",
+    "name": "Netherite Bow",
+    "icon": "minecraft:textures/item/custom_bows/netherite1.png",
     "category": "patchouli:weapons",
-    "sortnum": 29,
-    "advancement": "endernomicon:blood_sac",
+    "sortnum": 26,
+    "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "alexsmobs:blood_sprayer",
-            "text": "$(li)The Blood Sprayer is a powerful short-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these inflicts 2 hearts of damage.",
+            "recipe": "ej_weapon:netherite_bow",
+            "title": "Netherite Bow",
+            "text": "$(li)The Netherite Bow is a powerful version of the $(l:patchouli:weapons/bow)Bow$(/l).$(br)$(li)This weapon doesn't have durability and can't be burned by lava or fire.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Blood Sprayer",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:blood_sprayer\",Count:1}],HandDropChances:[0f]}",
+            "name": "Netherite Bow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:bow\",Count:1,tag:{CustomModelData:102}}],HandDropChances:[0f]}",
             "scale": 0.9
         }
              ]

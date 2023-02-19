@@ -1,0 +1,23 @@
+{    
+    "name": "Zero Gravity",
+    "icon": "minecraft:textures/item/custom_crossbows/zero_gravity2.png",
+    "category": "patchouli:weapons",
+    "sortnum": 32,
+    "advancement": "endernomicon:shulker_head",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ej_weapon:zero_gravity",
+            "title": "Zero Gravity",
+            "text": "$(li)The Zero Gravity Crossbow inflicts a little more damage than the $(l:patchouli:weapons/pyron_crossbow)Pyron Crossbow$(/l).$(br)$(li)When an arrow fired by this crossbow hits a creature, it will make this entity levitate for a few seconds.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Zero Gravity",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:crossbow\",Count:1,tag:{CustomModelData:106}}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "This weapon doesn't have durability."
+        }
+             ]
+}

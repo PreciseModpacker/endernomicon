@@ -2,13 +2,13 @@
     "name": "Bow",
     "icon": "minecraft:bow",
     "category": "patchouli:weapons",
-    "sortnum": 21,
+    "sortnum": 23,
     "advancement": "endernomicon:string",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:bow",
-            "text": "$(li)Bow let you fire $(l:patchouli:weapons/arrows)Arrows$(/l) that you must have in your inventory.$(br)$(li)First keep press right click while you are holding the Bow in your hand.",
+            "text": "$(li)The Bow let you fire $(l:patchouli:weapons/arrows)Arrows$(/l) that you must have in your inventory.$(br)$(li)First keep press right click while you are holding the Bow in your hand.",
             "link_recipe": "true"
         },
         {

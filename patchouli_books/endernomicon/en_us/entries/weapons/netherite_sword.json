@@ -1,8 +1,8 @@
 {    
-    "name": "Sword (Netherite)",
+    "name": "Netherite Sword",
     "icon": "minecraft:netherite_sword",
     "category": "patchouli:weapons",
-    "sortnum": 5,
+    "sortnum": 6,
     "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {

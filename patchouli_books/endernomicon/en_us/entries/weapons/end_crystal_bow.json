@@ -1,20 +1,21 @@
 {    
-    "name": "Bow (End Crystal) PDT DOCUMENTAR",
-    "icon": "minecraft:bow",
+    "name": "End Crystal Bow",
+    "icon": "minecraft:textures/item/custom_bows/end_crystal1.png",
     "category": "patchouli:weapons",
-    "sortnum": 31,
-    "advancement": "endernomicon:blood_sac",
+    "sortnum": 28,
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "alexsmobs:blood_sprayer",
-            "text": "$(li)The Blood Sprayer is a powerful short-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these inflicts 2 hearts of damage.",
+            "recipe": "ej_weapon:endcrystal_bow",
+            "title": "End Crystal Bow",
+            "text": "$(li)The End Crystal Bow inflicts a little more damage than the $(l:patchouli:weapons/netherite_bow)Netherite Bow$(/l).$(br)$(li)This weapon doesn't have durability.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Blood Sprayer",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:blood_sprayer\",Count:1}],HandDropChances:[0f]}",
+            "name": "End Crystal Bow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:bow\",Count:1,tag:{CustomModelData:103}}],HandDropChances:[0f]}",
             "scale": 0.9
         }
              ]
