@@ -3,7 +3,7 @@
     "icon": "cataclysm:void_rod",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-  #  "advancement": "endernomicon:void_rod",
+    "advancement": "endernomicon:void_rod",
     "pages": [
         {
             "type": "patchouli:spotlight",

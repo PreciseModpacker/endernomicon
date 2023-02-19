@@ -3,7 +3,7 @@
     "icon": "minecraft:shulker_head",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-  #  "advancement": "endernomicon:shulker_head",
+    "advancement": "endernomicon:shulker_head",
     "pages": [
         {
             "type": "patchouli:spotlight",
