@@ -1,0 +1,18 @@
+{    
+    "name": "Tarantula Hawk Stinger",
+    "icon": "alexsmobs:tarantula_hawk_stinger",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:tarantula_hawk_stinger",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:tarantula_hawk_stinger",
+            "text": "$(li)The Tarantula Hawk Stinger is an item that can be used for craft the $(l:patchouli:weapons/spider_slayer_crossbow)Spider Slayer$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can only be dropped by the $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hawk$(/l) on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

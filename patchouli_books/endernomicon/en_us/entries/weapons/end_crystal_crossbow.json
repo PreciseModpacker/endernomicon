@@ -1,20 +1,21 @@
 {    
-    "name": "Crossbow (End Crystal) PDT DOCUMENTAR",
-    "icon": "minecraft:crossbow",
+    "name": "End Crystal Crossbow",
+    "icon": "minecraft:textures/item/custom_crossbows/end_crystal5.png",
     "category": "patchouli:weapons",
-    "sortnum": 32,
-    "advancement": "endernomicon:blood_sac",
+    "sortnum": 29,
+    "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "alexsmobs:blood_sprayer",
-            "text": "$(li)The Blood Sprayer is a powerful short-ranged weapon.$(br)$(li)It fires 4 projectiles per sencond and each of these inflicts 2 hearts of damage.",
+            "recipe": "ej_weapon:endcrystal_crossbow",
+            "title": "End Crystal Crossbow",
+            "text": "$(li)The End Crystal Crossbow inflicts a little more damage than the $(l:patchouli:weapons/netherite_crossbow)Netherite Crossbow$(/l).$(br)$(li)This weapon doesn't have durability.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:entity",
-            "name": "Blood Sprayer",
-            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"alexsmobs:blood_sprayer\",Count:1}],HandDropChances:[0f]}",
+            "name": "End Crystal Crossbow",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:crossbow\",Count:1,tag:{CustomModelData:104}}],HandDropChances:[0f]}",
             "scale": 0.9
         }
              ]

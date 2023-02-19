@@ -1,8 +1,8 @@
 {    
-    "name": "Sword (End Crystal)",
+    "name": "End Crystal Sword",
     "icon": "endrem:end_crystal_sword",
     "category": "patchouli:weapons",
-    "sortnum": 6,
+    "sortnum": 7,
     "advancement": "endernomicon:end_crystal_ingot",
     "pages": [
         {

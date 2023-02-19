@@ -1,0 +1,18 @@
+{    
+    "name": "Void Rod",
+    "icon": "cataclysm:void_rod",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:void_rod",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cataclysm:void_rod",
+            "text": "$(li)The Void Rod is an item that can be used for craft the $(l:patchouli:weapons/zero_gravity_crossbow)Zero Gravity$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can only be dropped by the $(l:patchouli:bosses/ender_guardian)Ender Guardian$(/l) on death.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

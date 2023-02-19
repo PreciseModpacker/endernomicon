@@ -2,13 +2,13 @@
     "name": "Crossbow",
     "icon": "minecraft:crossbow",
     "category": "patchouli:weapons",
-    "sortnum": 22,
+    "sortnum": 25,
     "advancement": "endernomicon:crossbow",
     "pages": [
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:crossbow",
-            "text": "$(li)Crossbow, is a medium range distance.$(br)$(li)To use it, you have to load the ammunition right clicking while you are holding the Crossbow in your hand.",
+            "text": "$(li)The Crossbow is a medium range distance.$(br)$(li)To use it, you have to load the ammunition right clicking while you are holding the Crossbow in your hand.",
             "link_recipe": "true"
         },
         {

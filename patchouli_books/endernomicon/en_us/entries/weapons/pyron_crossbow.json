@@ -1,0 +1,23 @@
+{    
+    "name": "Pyron",
+    "icon": "minecraft:textures/item/custom_crossbows/pyron2.png",
+    "category": "patchouli:weapons",
+    "sortnum": 31,
+    "advancement": "endernomicon:ignitium_ingot",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ej_weapon:pyron",
+            "title": "Pyron",
+            "text": "$(li)The Pyron Crossbow inflicts a little more damage than the $(l:patchouli:weapons/end_crystal_crossbow)End Crystal Crossbow$(/l).$(br)$(li)When an arrow fired by this weapon hits the ground, fireballs will appear hitting nearby creatures.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Pyron",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:crossbow\",Count:1,tag:{CustomModelData:105}}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "This weapon doesn't have durability and can't be burned by lava or fire."
+        }
+             ]
+}

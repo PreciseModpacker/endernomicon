@@ -1,0 +1,23 @@
+{    
+    "name": "Eater of Worlds",
+    "icon": "minecraft:textures/item/custom_bows/eater_of_worlds1.png",
+    "category": "patchouli:weapons",
+    "sortnum": 33,
+    "advancement": "endernomicon:void_worm_eye",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ej_weapon:eater_of_worlds",
+            "title": "Eater of Worlds",
+            "text": "$(li)The Eater of Worlds inflicts a little more damage than the $(l:patchouli:weapons/the_plague_bow)The Plague$(/l).$(br)$(li)When an arrow fired by this weapon hits the ground, orbs will appear hitting nearby creatures.",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Eater of Worlds",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"minecraft:bow\",Count:1,tag:{CustomModelData:104}}],HandDropChances:[0f]}",
+            "scale": 0.9,
+            "text": "This weapon doesn't have durability."
+        }
+             ]
+}

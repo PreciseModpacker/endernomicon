@@ -1,8 +1,8 @@
 {    
-    "name": "Axe (Netherite)",
+    "name": "Netherite Axe",
     "icon": "minecraft:netherite_axe",
     "category": "patchouli:weapons",
-    "sortnum": 5,
+    "sortnum": 6,
     "advancement": "endernomicon:netherite_ingot",
     "pages": [
         {

@@ -15,7 +15,7 @@
             "entity": "cataclysm:ender_guardian",
             "scale": 0.85,
             "offset": 0.1,
-            "text": "It drops the $(l:patchouli:weapons/gauntlet_of_guard)Gauntlet of Guard$(/l) and rarely a Music Disc upon death."
+            "text": "It drops the $(l:patchouli:weapons/gauntlet_of_guard)Gauntlet of Guard$(/l), $(l:patchouli:miscellaneous/vanilla/shulker_head)Shulker Head$(/l), $(l:patchouli:miscellaneous/cataclysm/void_rod)Void Rods$(/l) and rarely a Music Disc upon death."
         }
              ]
 }

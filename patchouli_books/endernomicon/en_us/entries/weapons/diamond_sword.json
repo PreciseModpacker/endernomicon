@@ -1,8 +1,8 @@
 {    
-    "name": "Sword (Diamond)",
+    "name": "Diamond Sword",
     "icon": "minecraft:diamond_sword",
     "category": "patchouli:weapons",
-    "sortnum": 3,
+    "sortnum": 4,
     "advancement": "minecraft:story/mine_diamond",
     "pages": [
         {
