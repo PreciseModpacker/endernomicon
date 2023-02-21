@@ -21,7 +21,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Tarantula Hawks can be tamed by feeding them 15-25 $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l).$(br)$(li)They are formidable defense against many monsters.$(br)$(li)Tamed Tarantula Hawks can be healed with flowers.$(br)$(li)Tarantula Hawks may drop a $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing_fragment)Tattered Tarantula Hawk$(/l) upon death."
+            "text": "$(li)Tarantula Hawks can be tamed by feeding them 15-25 $(l:patchouli:miscellaneous/vanilla/spider_eye)Spider Eyes$(/l).$(br)$(li)They are formidable defense against many monsters.$(br)$(li)Tamed Tarantula Hawks can be healed with flowers.$(br)$(li)Tarantula Hawks will drop $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_wing_fragment)Tattered Tarantula Hawk$(/l) and $(l:patchouli:miscellaneous/alexsmobs/tarantula_hawk_stinger)Tarantula Hawk Stinger$(/l) upon death."
         }
              ]
 }
