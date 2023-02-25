@@ -2,7 +2,7 @@
     "name": "Rumor (Void Power)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 22,
+    "sortnum": 23,
     "advancement": "alexsmobs:alexsmobs/capsid",
     "pages": [
         {

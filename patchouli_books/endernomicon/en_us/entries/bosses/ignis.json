@@ -1,13 +1,13 @@
 {    
-    "name": "Ignis PDT DOCUMENTAR",
+    "name": "Ignis",
     "icon": "cataclysm:ignitium_helmet",
     "category": "patchouli:bosses",
-    "sortnum": 8,
+    "sortnum": 9,
     "advancement": "endernomicon:ignis",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ignis is a big burning creature that lies inside of the $(l:patchouli:structures/burning_coliseum)Burning Coliseum$(/l).$(br)$(li)It will attack you physically with its sword and shield.$(br)$(li)This powerful creature will absorb some of the life it inflicts on you and use it to regenerate its own."
+            "text": "$(li)The Ignis is a big burning creature that lies inside of the $(l)Burning Coliseum$().$(br)$(li)It will attack you physically with its sword and shield.$(br)$(li)This powerful creature will absorb some of the life it inflicts on you and use it to regenerate its own."
         },
         {
             "type": "patchouli:entity",

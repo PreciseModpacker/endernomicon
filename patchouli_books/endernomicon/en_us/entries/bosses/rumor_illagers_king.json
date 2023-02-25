@@ -2,7 +2,7 @@
     "name": "Rumor (Greedy King)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 12,
+    "sortnum": 13,
     "advancement": "illagers_plus:find_tower",
     "pages": [
         {

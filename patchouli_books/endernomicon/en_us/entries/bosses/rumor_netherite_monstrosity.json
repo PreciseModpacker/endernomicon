@@ -2,7 +2,7 @@
     "name": "Rumor (The Blacksmith)",
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
-    "sortnum": 14,
+    "sortnum": 15,
     "advancement": "cataclysm:find_soul_black_smith",
     "pages": [
         {
