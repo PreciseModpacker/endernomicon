@@ -2,7 +2,7 @@
     "name": "Ogre",
     "icon": "goblinsanddungeons:ogre_tusk",
     "category": "patchouli:bosses",
-    "sortnum": 11,
+    "sortnum": 12,
     "advancement": "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions",
     "pages": [
         {

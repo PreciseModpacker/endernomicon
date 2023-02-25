@@ -19,10 +19,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Finally, you have to right click again to release the ice block.$(br)$(li)This block will hurt the creature that hits and inflicts the Frostbite effect.$(br)$(li)This effect slows and damage it every continuously from time to time until the effect ends.$(br)$(li)$(l:patchouli:illagers/iceologer)Iceologers$(/l) may drop the Wand of Freezing upon death."
-        },
-        {
-            "type": "patchouli:empty_page"
-        } 
+            "text": "$(li)Finally, you have to right click again to release the ice block.$(br)$(li)This block will hurt the creature that hits and inflicts the Frostbite effect.$(br)$(li)This effect slows and damage it every $(l:patchouli:illagers/iceologer)continuously$(/l) from time to time until the effect ends.$(br)$(li)$(l:patchouli:illagers/iceologer)Iceologers$(/l) may drop the Wand of Freezing upon death."
+        }
              ]
 }

@@ -1,0 +1,16 @@
+{    
+    "name": "Rumor (The Champion)",
+    "icon": "minecraft:book",
+    "category": "patchouli:bosses",
+    "sortnum": 8,
+    "advancement": "endernomicon:burning_coliseum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Long ago in the depths of the Nether, many $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) fought in the $(l)Burning Coliseum$() to try to obtain the immortality.$(br2)$(o)It is rumored that to this day the champion is still waiting latently for a formidable warrior to appear and face them in a last fated duel."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

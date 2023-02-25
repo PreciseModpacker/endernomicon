@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Burning Coliseum"
+        },
+        "description": {
+            "text": "Find the Burning Coliseum"
+        },
+        "icon": {
+            "item": "cataclysm:ignis_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "outvoted:wildfire"
+                },
+                "entity2": {
+                    "type": "minecraft:blaze"                    
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}
