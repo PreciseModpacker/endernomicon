@@ -3,7 +3,7 @@
     "icon": "alexsmobs:falconry_hood",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:roadrunner_feather",
+    "advancement": "endernomicon:falconry_hood",
     "pages": [
         {
             "type": "patchouli:crafting",

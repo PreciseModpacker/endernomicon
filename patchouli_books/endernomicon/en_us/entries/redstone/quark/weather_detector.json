@@ -3,7 +3,7 @@
     "icon": "quark:weather_sensor",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:biotite",
+    "advancement": "endernomicon:weather_detector",
     "pages": [
         {
             "type": "patchouli:crafting",

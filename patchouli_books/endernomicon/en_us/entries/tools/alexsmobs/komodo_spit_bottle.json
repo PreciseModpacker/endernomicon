@@ -3,7 +3,7 @@
     "icon": "alexsmobs:komodo_spit_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:komodo_spit",
+    "advancement": "endernomicon:komodo_spit_bottle",
     "pages": [
         {
             "type": "patchouli:crafting",

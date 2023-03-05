@@ -3,7 +3,7 @@
     "icon": "infernalexp:cured_jerky",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:soul_salt_clump",
+    "advancement": "endernomicon:cured_jerky",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:brewing_stand",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:nether/obtain_blaze_rod",
+    "advancement": "endernomicon:brewing_stand",
     "pages": [
         {
             "type": "patchouli:crafting",

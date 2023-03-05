@@ -3,7 +3,7 @@
     "icon": "quark:golden_frog_leg",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_nugget",
+    "advancement": "endernomicon:golden_frog_leg",
     "pages": [
         {
             "type": "patchouli:crafting",

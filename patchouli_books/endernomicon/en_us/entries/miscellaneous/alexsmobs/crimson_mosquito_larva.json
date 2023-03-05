@@ -3,7 +3,7 @@
     "icon": "alexsmobs:mosquito_larva",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:mosquito_proboscis",
+    "advancement": "endernomicon:crimson_mosquito_larva",
     "pages": [
         {
             "type": "patchouli:crafting",

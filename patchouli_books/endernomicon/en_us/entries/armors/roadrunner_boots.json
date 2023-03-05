@@ -3,7 +3,7 @@
     "icon": "alexsmobs:roadrunner_boots",
     "category": "patchouli:armors",
     "sortnum": 25,
-    "advancement": "endernomicon:roadrunner_feather",
+    "advancement": "endernomicon:roadrunner_boots",
     "pages": [
        {
             "type": "patchouli:crafting",

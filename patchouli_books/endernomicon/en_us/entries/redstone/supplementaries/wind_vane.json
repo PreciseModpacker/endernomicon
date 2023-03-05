@@ -3,7 +3,7 @@
     "icon": "supplementaries:wind_vane",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:wind_vane",
     "pages": [
         {
             "type": "patchouli:crafting",

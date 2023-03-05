@@ -3,7 +3,7 @@
     "icon": "minecraft:cartography_table",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:paper",
+    "advancement": "endernomicon:cartography_table",
     "pages": [
         {
             "type": "patchouli:crafting",

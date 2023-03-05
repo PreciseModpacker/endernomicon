@@ -3,7 +3,7 @@
     "icon": "charm:redstone_lantern",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_torch",
+    "advancement": "endernomicon:redstone_lantern",
     "pages": [
         {
             "type": "patchouli:crafting",

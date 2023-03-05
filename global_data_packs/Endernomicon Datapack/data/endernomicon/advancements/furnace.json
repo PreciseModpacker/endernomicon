@@ -4,7 +4,7 @@
             "text": "Furnace"
         },
         "description": {
-            "text": "Adquire Furnace"
+            "text": "Get the materials to be able to create a Furnace"
         },
         "icon": {
             "item": "minecraft:furnace"
@@ -20,7 +20,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:furnace",
+                        "tag": "minecraft:stone_crafting_materials",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

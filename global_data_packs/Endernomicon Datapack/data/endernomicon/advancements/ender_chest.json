@@ -1,0 +1,48 @@
+{
+    "display": {
+        "title": {
+            "text": "Ender Chest"
+        },
+        "description": {
+            "text": "Get the materials to be able to create an Ender Chest"
+        },
+        "icon": {
+            "item": "minecraft:ender_chest"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:obsidian",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:ender_pearl",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:blaze_rod",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

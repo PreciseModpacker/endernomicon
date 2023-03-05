@@ -3,7 +3,7 @@
     "icon": "ironchest:iron_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:iron_chest",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_crossbows/pyron2.png",
     "category": "patchouli:weapons",
     "sortnum": 31,
-    "advancement": "endernomicon:ignitium_ingot",
+    "advancement": "endernomicon:pyron",
     "pages": [
         {
             "type": "patchouli:crafting",

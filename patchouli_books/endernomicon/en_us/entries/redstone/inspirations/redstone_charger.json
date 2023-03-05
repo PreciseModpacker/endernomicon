@@ -3,7 +3,7 @@
     "icon": "inspirations:redstone_charger",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:redstone_charger",
     "pages": [
         {
             "type": "patchouli:crafting",

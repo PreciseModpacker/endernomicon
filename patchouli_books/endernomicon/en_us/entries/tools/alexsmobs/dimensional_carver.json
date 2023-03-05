@@ -3,7 +3,7 @@
     "icon": "alexsmobs:dimensional_carver",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:void_worm_eye",
+    "advancement": "endernomicon:dimensional_carver",
     "pages": [
         {
             "type": "patchouli:crafting",

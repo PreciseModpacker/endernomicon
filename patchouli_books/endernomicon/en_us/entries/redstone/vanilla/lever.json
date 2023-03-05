@@ -3,7 +3,7 @@
     "icon": "minecraft:lever",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:stick",
+    "advancement": "endernomicon:lever",
     "pages": [
         {
             "type": "patchouli:crafting",

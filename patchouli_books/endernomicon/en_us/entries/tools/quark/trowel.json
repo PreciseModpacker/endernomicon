@@ -3,7 +3,7 @@
     "icon": "quark:trowel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:trowel",
     "pages": [
         {
             "type": "patchouli:crafting",

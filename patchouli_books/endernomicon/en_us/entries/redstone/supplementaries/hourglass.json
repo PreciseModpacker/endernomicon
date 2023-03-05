@@ -3,7 +3,7 @@
     "icon": "supplementaries:hourglass",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:hourglass",
     "pages": [
         {
             "type": "patchouli:crafting",

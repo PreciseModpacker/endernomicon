@@ -1,0 +1,48 @@
+{
+    "display": {
+        "title": {
+            "text": "Bomb"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Bomb"
+        },
+        "icon": {
+            "item": "supplementaries:bomb"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:gunpowder",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "tag": "minecraft:sand",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

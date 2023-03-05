@@ -3,7 +3,7 @@
     "icon": "minecraft:torch",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:coal",
+    "advancement": "endernomicon:torch",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -3,7 +3,7 @@
     "icon": "savageandravage:blast_proof_plating",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "savageandravage:adventure/creeper_spores",
+    "advancement": "endernomicon:blast_proof_plating",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:lodestone",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:lodestone",
     "pages": [
         {
             "type": "patchouli:crafting",

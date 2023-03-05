@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_crossbows/zero_gravity2.png",
     "category": "patchouli:weapons",
     "sortnum": 32,
-    "advancement": "endernomicon:shulker_head",
+    "advancement": "endernomicon:zero_gravity",
     "pages": [
         {
             "type": "patchouli:crafting",

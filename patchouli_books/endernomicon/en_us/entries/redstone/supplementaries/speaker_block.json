@@ -3,7 +3,7 @@
     "icon": "supplementaries:speaker_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:emerald",
+    "advancement": "endernomicon:speaker_block",
     "pages": [
         {
             "type": "patchouli:crafting",

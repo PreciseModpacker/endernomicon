@@ -3,7 +3,7 @@
     "icon": "inspirations:barometer",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:barometer",
     "pages": [
         {
             "type": "patchouli:crafting",

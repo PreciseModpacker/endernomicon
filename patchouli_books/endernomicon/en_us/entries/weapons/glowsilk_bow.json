@@ -3,7 +3,7 @@
     "icon": "infernalexp:glowsilk_bow",
     "category": "patchouli:weapons",
     "sortnum": 24,
-    "advancement": "endernomicon:glowsilk",
+    "advancement": "endernomicon:glowsilk_bow",
     "pages": [
         {
             "type": "smithing_table",

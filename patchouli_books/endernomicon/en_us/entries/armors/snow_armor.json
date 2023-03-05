@@ -3,7 +3,7 @@
     "icon": "extraarmor:snow_helmet",
     "category": "patchouli:armors",
     "sortnum": 0,
-    "advancement": "endernomicon:snow",
+    "advancement": "endernomicon:snowball",
     "pages": [
         {
             "type": "patchouli:text",

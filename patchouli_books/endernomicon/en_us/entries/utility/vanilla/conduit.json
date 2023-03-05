@@ -3,7 +3,7 @@
     "icon": "minecraft:conduit",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:heart_of_the_sea",
+    "advancement": "endernomicon:conduit",
     "pages": [
         {
             "type": "patchouli:crafting",

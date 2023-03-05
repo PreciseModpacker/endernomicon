@@ -3,7 +3,7 @@
     "icon": "upgrade_aquatic:bedroll",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:leather",
+    "advancement": "endernomicon:bedroll",
     "pages": [
         {
             "type": "patchouli:crafting",

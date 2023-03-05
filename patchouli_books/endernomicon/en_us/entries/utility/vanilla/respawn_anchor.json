@@ -3,7 +3,7 @@
     "icon": "minecraft:respawn_anchor",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:nether/obtain_crying_obsidian",
+    "advancement": "endernomicon:respawn_anchor",
     "pages": [
         {
             "type": "patchouli:crafting",

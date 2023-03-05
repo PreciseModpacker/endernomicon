@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_bows/eater_of_worlds1.png",
     "category": "patchouli:weapons",
     "sortnum": 33,
-    "advancement": "endernomicon:void_worm_eye",
+    "advancement": "endernomicon:eater_of_worlds",
     "pages": [
         {
             "type": "patchouli:crafting",

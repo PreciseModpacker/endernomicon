@@ -3,7 +3,7 @@
     "icon": "alexsmobs:fish_oil",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:blobfish",
+    "advancement": "endernomicon:fish_oil",
     "pages": [
         {
             "type": "patchouli:crafting",

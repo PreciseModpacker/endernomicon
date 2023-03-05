@@ -3,7 +3,7 @@
     "icon": "bettershields:iron_shield",
     "category": "patchouli:weapons",
     "sortnum": 16,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:iron_shield",
     "pages": [
         {
             "type": "patchouli:crafting",

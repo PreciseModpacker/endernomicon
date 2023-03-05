@@ -3,7 +3,7 @@
     "icon": "inspirations:dimension_compass",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:ender_pearl",
+    "advancement": "endernomicon:dimension_compass",
     "pages": [
         {
             "type": "patchouli:crafting",

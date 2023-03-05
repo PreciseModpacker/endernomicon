@@ -3,7 +3,7 @@
     "icon": "minecraft:golden_apple",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:golden_apple",
     "pages": [
         {
             "type": "patchouli:crafting",

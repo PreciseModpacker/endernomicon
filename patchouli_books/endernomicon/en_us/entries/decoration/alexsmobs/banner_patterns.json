@@ -3,7 +3,7 @@
     "icon": "alexsmobs:banner_pattern_bear",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:string",
+    "advancement": "endernomicon:loom",
     "pages": [
         {
             "type": "patchouli:spotlight",

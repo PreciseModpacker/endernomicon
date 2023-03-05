@@ -3,7 +3,7 @@
     "icon": "minecraft:stone_shovel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:cobblestone",
+    "advancement": "endernomicon:stone_tools",
     "pages": [
         {
             "type": "patchouli:crafting",

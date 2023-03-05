@@ -3,7 +3,7 @@
     "icon": "alexsmobs:chorus_on_a_stick",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:chorus_fruit",
+    "advancement": "endernomicon:chorus_on_a_stick",
     "pages": [
         {
             "type": "patchouli:crafting",

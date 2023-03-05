@@ -1,0 +1,62 @@
+{
+    "display": {
+        "title": {
+            "text": "Void Scatter Arrow"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Void Scatter Arrow"
+        },
+        "icon": {
+            "item": "cataclysm:void_scatter_arrow"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:feather",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:flint",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:glowstone_dust",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "cataclysm:void_jaw",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

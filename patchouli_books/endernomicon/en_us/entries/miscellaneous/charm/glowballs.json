@@ -3,7 +3,7 @@
     "icon": "charm:glowball",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:glowstone_dust",
+    "advancement": "endernomicon:glowball",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "alexsmobs:blood_sprayer",
     "category": "patchouli:weapons",
     "sortnum": 35,
-    "advancement": "endernomicon:blood_sac",
+    "advancement": "endernomicon:blood_sprayer",
     "pages": [
         {
             "type": "patchouli:crafting",

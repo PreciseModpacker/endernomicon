@@ -1,0 +1,48 @@
+{
+    "display": {
+        "title": {
+            "text": "Depth Star"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Depth Star"
+        },
+        "icon": {
+            "item": "meetyourfight:depth_star"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "meetyourfight:mossy_tooth",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:bone",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

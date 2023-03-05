@@ -3,7 +3,7 @@
     "icon": "supplementaries:bellows",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:leather",
+    "advancement": "endernomicon:bellows",
     "pages": [
         {
             "type": "patchouli:crafting",

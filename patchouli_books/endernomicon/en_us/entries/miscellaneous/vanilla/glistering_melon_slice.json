@@ -3,7 +3,7 @@
     "icon": "minecraft:glistering_melon_slice",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_nugget",
+    "advancement": "endernomicon:glistering_melon_slice",
     "pages": [
         {
             "type": "patchouli:crafting",

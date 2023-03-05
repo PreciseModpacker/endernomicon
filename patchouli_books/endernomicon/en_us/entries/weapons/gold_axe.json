@@ -3,7 +3,7 @@
     "icon": "minecraft:golden_axe",
     "category": "patchouli:weapons",
     "sortnum": 1,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:golden_tools",
     "pages": [
         {
             "type": "patchouli:crafting",

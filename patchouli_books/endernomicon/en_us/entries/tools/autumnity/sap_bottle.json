@@ -3,7 +3,7 @@
     "icon": "autumnity:sap_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:sap_bottle",
+    "advancement": "endernomicon:glass_bottle",
     "pages": [
         {
             "type": "patchouli:spotlight",

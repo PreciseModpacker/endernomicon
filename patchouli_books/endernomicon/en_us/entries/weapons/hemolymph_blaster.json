@@ -3,7 +3,7 @@
     "icon": "alexsmobs:hemolymph_blaster",
     "category": "patchouli:weapons",
     "sortnum": 36,
-    "advancement": "endernomicon:mimicream",
+    "advancement": "endernomicon:hemolymph_blaster",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -20,7 +20,14 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:netherite_ingot",
+                        "item": "minecraft:netherite_scrap",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:gold_ingot",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

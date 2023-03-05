@@ -3,7 +3,7 @@
     "icon": "meetyourfight:depth_star",
     "category": "patchouli:weapons",
     "sortnum": 3,
-    "advancement": "endernomicon:mossy_tooth",
+    "advancement": "endernomicon:depth_star",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "buzzier_bees:honey_pot",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:honeycomb",
+    "advancement": "endernomicon:honey_pot",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:fermented_spider_eye",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:spider_eye",
+    "advancement": "endernomicon:fermented_spider_eye",
     "pages": [
         {
             "type": "patchouli:crafting",

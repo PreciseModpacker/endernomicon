@@ -3,7 +3,7 @@
     "icon": "minecraft:comparator",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:nether_quartz",
+    "advancement": "endernomicon:comparator",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:arrow",
     "category": "patchouli:weapons",
     "sortnum": 22,
-    "advancement": "endernomicon:flint",
+    "advancement": "endernomicon:arrow",
     "pages": [
         {
             "type": "patchouli:crafting",

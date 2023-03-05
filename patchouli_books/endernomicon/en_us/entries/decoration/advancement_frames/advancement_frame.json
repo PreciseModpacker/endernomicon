@@ -3,7 +3,7 @@
     "icon": "advancementframes:advancement_frame",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:emerald",
+    "advancement": "endernomicon:advancement_frame",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "alexsmobs:falconry_glove",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:bear_fur",
+    "advancement": "endernomicon:falconry_glove",
     "pages": [
         {
             "type": "patchouli:crafting",

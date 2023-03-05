@@ -3,7 +3,7 @@
     "icon": "syp:golden_pet_bandage",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_nugget",
+    "advancement": "endernomicon:golden_pet_bandage",
     "pages": [
         {
             "type": "patchouli:crafting",

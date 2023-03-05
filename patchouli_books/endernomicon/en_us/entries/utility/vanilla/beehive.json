@@ -3,7 +3,7 @@
     "icon": "minecraft:beehive",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:honeycomb",
+    "advancement": "endernomicon:beehive",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "meetyourfight:bone_raker",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:mossy_tooth",
+    "advancement": "endernomicon:bone_raker",
     "pages": [
         {
             "type": "patchouli:crafting",

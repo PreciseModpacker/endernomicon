@@ -3,7 +3,7 @@
     "icon": "supplementaries:planter",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:clay_ball",
+    "advancement": "endernomicon:planter",
     "pages": [
         {
             "type": "patchouli:crafting",

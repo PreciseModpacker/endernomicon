@@ -3,7 +3,7 @@
     "icon": "inspirations:charged_arrow",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:charged_arrow",
     "pages": [
         {
             "type": "patchouli:crafting",

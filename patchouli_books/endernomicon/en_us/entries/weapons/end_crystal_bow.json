@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_bows/end_crystal1.png",
     "category": "patchouli:weapons",
     "sortnum": 28,
-    "advancement": "endernomicon:end_crystal_ingot",
+    "advancement": "endernomicon:end_crystal_bow",
     "pages": [
         {
             "type": "patchouli:crafting",

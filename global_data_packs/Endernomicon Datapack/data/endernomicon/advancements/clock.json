@@ -4,7 +4,7 @@
             "text": "Clock"
         },
         "description": {
-            "text": "Adquire Clock"
+            "text": "Get the materials to be able to create a Clock"
         },
         "icon": {
             "item": "minecraft:clock"
@@ -20,7 +20,14 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:clock",
+                        "item": "minecraft:gold_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:redstone",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

@@ -3,7 +3,7 @@
     "icon": "quark:gravisand",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:ender_pearl",
+    "advancement": "endernomicon:gravisand",
     "pages": [
         {
             "type": "patchouli:crafting",

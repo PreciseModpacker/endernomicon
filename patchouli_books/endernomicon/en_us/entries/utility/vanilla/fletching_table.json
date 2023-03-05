@@ -3,7 +3,7 @@
     "icon": "minecraft:fletching_table",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:flint",
+    "advancement": "endernomicon:fletching_table",
     "pages": [
         {
             "type": "patchouli:crafting",

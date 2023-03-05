@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Conduit"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Conduit"
+        },
+        "icon": {
+            "item": "minecraft:conduit"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:heart_of_the_sea",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:nautilus_shell",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

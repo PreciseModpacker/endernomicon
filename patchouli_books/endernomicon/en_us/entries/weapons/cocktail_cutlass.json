@@ -3,7 +3,7 @@
     "icon": "meetyourfight:cocktail_cutlass",
     "category": "patchouli:weapons",
     "sortnum": 5,
-    "advancement": "endernomicon:fortunes_favor",
+    "advancement": "endernomicon:cocktail_cutlass",
     "pages": [
         {
             "type": "patchouli:crafting",

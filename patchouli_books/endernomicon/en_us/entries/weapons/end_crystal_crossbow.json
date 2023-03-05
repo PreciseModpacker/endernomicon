@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_crossbows/end_crystal5.png",
     "category": "patchouli:weapons",
     "sortnum": 29,
-    "advancement": "endernomicon:end_crystal_ingot",
+    "advancement": "endernomicon:end_crystal_crossbow",
     "pages": [
         {
             "type": "patchouli:crafting",

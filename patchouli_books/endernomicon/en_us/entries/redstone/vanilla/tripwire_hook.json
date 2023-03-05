@@ -3,7 +3,7 @@
     "icon": "minecraft:tripwire_hook",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:tripwire_hook",
     "pages": [
         {
             "type": "patchouli:crafting",

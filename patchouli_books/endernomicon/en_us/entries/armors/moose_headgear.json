@@ -3,7 +3,7 @@
     "icon": "alexsmobs:moose_headgear",
     "category": "patchouli:armors",
     "sortnum": 26,
-    "advancement": "endernomicon:moose_antler",
+    "advancement": "endernomicon:moose_headgear",
     "pages": [
        {
             "type": "patchouli:crafting",

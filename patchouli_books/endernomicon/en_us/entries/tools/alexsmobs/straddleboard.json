@@ -3,7 +3,7 @@
     "icon": "alexsmobs:straddleboard",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:straddlite",
+    "advancement": "endernomicon:straddleboard",
     "pages": [
         {
             "type": "patchouli:crafting",

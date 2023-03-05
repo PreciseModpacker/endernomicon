@@ -3,7 +3,7 @@
     "icon": "meetyourfight:passages_toll",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:phantoplasm",
+    "advancement": "endernomicon:passages_toll",
     "pages": [
         {
             "type": "patchouli:crafting",

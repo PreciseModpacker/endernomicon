@@ -3,7 +3,7 @@
     "icon": "quark:flamerang",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:flamarang",
     "pages": [
         {
             "type": "smithing_table",

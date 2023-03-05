@@ -3,7 +3,7 @@
     "icon": "quark:oak_trapped_chest",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:tripwire_hook",
+    "advancement": "endernomicon:trapped_chest",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "inspirations:photometer",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:glowstone_dust",
+    "advancement": "endernomicon:photometer",
     "pages": [
         {
             "type": "patchouli:crafting",

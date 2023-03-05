@@ -3,7 +3,7 @@
     "icon": "alexsmobs:enderiophage_rocket",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "alexsmobs:alexsmobs/capsid",
+    "advancement": "endernomicon:enderiophage_rocket",
     "pages": [
         {
             "type": "patchouli:crafting",

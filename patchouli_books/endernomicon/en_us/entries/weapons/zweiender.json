@@ -3,7 +3,7 @@
     "icon": "cataclysm:zweiender",
     "category": "patchouli:weapons",
     "sortnum": 10,
-    "advancement": "endernomicon:enderite_ingot",
+    "advancement": "endernomicon:zweiender",
     "pages": [
         {
             "type": "patchouli:crafting",

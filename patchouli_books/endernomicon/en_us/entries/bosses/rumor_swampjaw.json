@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 17,
-    "advancement": "endernomicon:bone",
+    "advancement": "endernomicon:fossil_bait",
     "pages": [
         {
             "type": "patchouli:crafting",
