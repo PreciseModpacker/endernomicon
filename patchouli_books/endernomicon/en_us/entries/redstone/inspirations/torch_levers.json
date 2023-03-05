@@ -3,7 +3,7 @@
     "icon": "inspirations:torch_lever",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:torch",
+    "advancement": "endernomicon:torch_level",
     "pages": [
         {
             "type": "patchouli:crafting",

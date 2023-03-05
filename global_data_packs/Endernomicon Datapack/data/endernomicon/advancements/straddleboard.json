@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Straddleboard"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Straddleboard"
+        },
+        "icon": {
+            "item": "alexsmobs:straddleboard"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:straddlite",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:netherite_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

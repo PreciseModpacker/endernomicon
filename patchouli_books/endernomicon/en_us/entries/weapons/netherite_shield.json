@@ -3,7 +3,7 @@
     "icon": "bettershields:netherite_shield",
     "category": "patchouli:weapons",
     "sortnum": 19,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:netherite_shield",
     "pages": [
         {
             "type": "smithing_table",

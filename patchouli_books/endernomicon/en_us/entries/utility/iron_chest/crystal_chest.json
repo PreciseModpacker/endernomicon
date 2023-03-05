@@ -3,7 +3,7 @@
     "icon": "ironchest:crystal_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:glass",
+    "advancement": "endernomicon:crystal_chest",
     "pages": [
         {
             "type": "patchouli:crafting",

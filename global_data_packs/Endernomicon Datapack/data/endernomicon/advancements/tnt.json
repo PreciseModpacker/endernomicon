@@ -4,7 +4,7 @@
             "text": "TNT"
         },
         "description": {
-            "text": "Adquire TNT"
+            "text": "Get the materials to be able to create a TNT"
         },
         "icon": {
             "item": "minecraft:tnt"
@@ -20,7 +20,14 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:tnt",
+                        "item": "minecraft:gunpowder",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "tag": "forge:sand",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

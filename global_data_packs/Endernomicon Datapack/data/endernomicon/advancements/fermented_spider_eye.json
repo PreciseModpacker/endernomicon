@@ -4,7 +4,7 @@
             "text": "Fermented Spider Eye"
         },
         "description": {
-            "text": "Adquire Fermented Spider Eye"
+            "text": "Get the materials to be able to create a Fermented Spider Eye"
         },
         "icon": {
             "item": "minecraft:fermented_spider_eye"
@@ -20,7 +20,21 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:fermented_spider_eye",
+                        "item": "minecraft:spider_eye",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:sugar_cane",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:brown_mushroom",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

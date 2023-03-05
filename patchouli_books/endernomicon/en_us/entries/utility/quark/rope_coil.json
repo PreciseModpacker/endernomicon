@@ -3,7 +3,7 @@
     "icon": "quark:rope",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:yak_hair",
+    "advancement": "endernomicon:string",
     "pages": [
         {
             "type": "patchouli:small_pictures",

@@ -3,7 +3,7 @@
     "icon": "quark:seed_pouch",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:rabbit_hide",
+    "advancement": "endernomicon:seed_pouch",
     "pages": [
         {
             "type": "patchouli:crafting",

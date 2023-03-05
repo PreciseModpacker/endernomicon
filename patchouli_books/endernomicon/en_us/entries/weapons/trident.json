@@ -3,11 +3,11 @@
     "icon": "minecraft:trident",
     "category": "patchouli:weapons",
     "sortnum": 7,
-    "advancement": "endernomicon:heart_of_the_sea",
+    "advancement": "endernomicon:trident",
     "pages": [
         {
             "type": "patchouli:crafting",
-            "recipe": "minecraft:trident",
+            "recipe": "kubejs:kjs_eumfjzplehxh1jiun6x2d4az2",
             "text": "$(li)The Trident is a weapon used in both melee and ranged combat.$(br)$(li)It can be enchanted with $(l:patchouli:enchanting/vtweaks/imperishable)Imperishable$(/l), $(l:patchouli:enchanting/vanilla/mending)Mending$(/l), $(l:patchouli:enchanting/vanilla/channeling)Channeling$(/l), $(l:patchouli:enchanting/vanilla/riptide)Riptide$(/l) and $(l:patchouli:enchanting/vanilla/loyalty)Loyalty$(/l) enchants.",
             "link_recipe": "true"
         },
@@ -17,14 +17,6 @@
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:trident,Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
             "text": "$(l:patchouli:creatures/vanilla/drowned)Drowneds$(/l) rarely drop this item upon death."
-        },
-        {
-            "type": "patchouli:crafting",
-            "recipe": "upgrade_aquatic:trident",
-            "recipe2": "charm:extra_recipes/trident"
-        },
-        {
-            "type": "patchouli:empty_page"
-        } 
+        }
              ]
 }

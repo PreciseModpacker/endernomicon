@@ -3,7 +3,7 @@
     "icon": "meetyourfight:caged_heart",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:mossy_tooth",
+    "advancement": "endernomicon:caged_heart",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "revampedwolf:netherite_wolf_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:netherite_wolf_armor",
     "pages": [
         {
             "type": "smithing_table",

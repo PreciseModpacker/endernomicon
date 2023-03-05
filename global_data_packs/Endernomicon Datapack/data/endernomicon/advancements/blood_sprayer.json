@@ -1,0 +1,48 @@
+{
+    "display": {
+        "title": {
+            "text": "Blood Sprayer"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Blood Sprayer"
+        },
+        "icon": {
+            "item": "alexsmobs:blood_sprayer"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "alexsmobs:blood_sac",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "alexsmobs:mosquito_proboscis",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:netherrack",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -3,7 +3,7 @@
     "icon": "quark:iron_rod",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:iron_rod",
     "pages": [
         {
             "type": "patchouli:crafting",

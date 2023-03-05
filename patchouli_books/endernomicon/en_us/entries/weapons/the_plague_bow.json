@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_bows/the_plague1.png",
     "category": "patchouli:weapons",
     "sortnum": 30,
-    "advancement": "endernomicon:witherite_ingot",
+    "advancement": "endernomicon:the_plague",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Warped Fungus on a Stick"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Warped Fungus on a Stick"
+        },
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fishing_rod",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:warped_fungus",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -3,7 +3,7 @@
     "icon": "ironchest:gold_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:gold_chest",
     "pages": [
         {
             "type": "patchouli:crafting",

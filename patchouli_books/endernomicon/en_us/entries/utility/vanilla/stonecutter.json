@@ -3,7 +3,7 @@
     "icon": "minecraft:stonecutter",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:stonecutter",
     "pages": [
         {
             "type": "patchouli:crafting",

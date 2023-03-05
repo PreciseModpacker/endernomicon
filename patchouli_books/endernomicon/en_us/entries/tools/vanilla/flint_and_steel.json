@@ -3,7 +3,7 @@
     "icon": "minecraft:flint_and_steel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:flint",
+    "advancement": "endernomicon:flint_and_steel",
     "pages": [
         {
             "type": "patchouli:crafting",

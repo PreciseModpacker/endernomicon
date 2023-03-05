@@ -3,7 +3,7 @@
     "icon": "supplementaries:crank",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:stick",
+    "advancement": "endernomicon:crank",
     "pages": [
         {
             "type": "patchouli:crafting",

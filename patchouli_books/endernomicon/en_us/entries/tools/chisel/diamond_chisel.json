@@ -3,7 +3,7 @@
     "icon": "chisel:diamond_chisel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "minecraft:story/mine_diamond",
+    "advancement": "endernomicon:diamond_chisel",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_crossbows/spider_slayer2.png",
     "category": "patchouli:weapons",
     "sortnum": 25,
-    "advancement": "endernomicon:tarantula_hawk_stinger",
+    "advancement": "endernomicon:spider_slayer",
     "pages": [
         {
             "type": "patchouli:crafting",

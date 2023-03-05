@@ -3,7 +3,7 @@
     "icon": "supplementaries:cog_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_block",
+    "advancement": "endernomicon:cog_block",
     "pages": [
         {
             "type": "patchouli:crafting",

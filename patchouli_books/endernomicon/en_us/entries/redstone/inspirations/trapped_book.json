@@ -3,7 +3,7 @@
     "icon": "inspirations:redstone_book",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:trapped_book",
     "pages": [
         {
             "type": "patchouli:crafting",

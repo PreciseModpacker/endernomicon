@@ -3,7 +3,7 @@
     "icon": "quark:lit_lamp",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_lamp",
+    "advancement": "endernomicon:lit_redstone_lamp",
     "pages": [
         {
             "type": "patchouli:crafting",

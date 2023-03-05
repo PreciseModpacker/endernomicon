@@ -3,7 +3,7 @@
     "icon": "minecraft:netherite_axe",
     "category": "patchouli:weapons",
     "sortnum": 6,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:netherite_tools",
     "pages": [
         {
             "type": "smithing_table",

@@ -3,7 +3,7 @@
     "icon": "alexsmobs:tarantula_hawk_elytra",
     "category": "patchouli:armors",
     "sortnum": 35,
-    "advancement": "minecraft:end/elytra",
+    "advancement": "endernomicon:tarantula_hawk_elytra",
     "pages": [
        {
             "type": "patchouli:crafting",

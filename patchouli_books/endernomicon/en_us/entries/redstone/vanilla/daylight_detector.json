@@ -3,7 +3,7 @@
     "icon": "minecraft:daylight_detector",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:nether_quartz",
+    "advancement": "endernomicon:daylight_detector",
     "pages": [
         {
             "type": "patchouli:crafting",

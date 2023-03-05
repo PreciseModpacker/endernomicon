@@ -3,7 +3,7 @@
     "icon": "minecraft:activator_rail",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_torch",
+    "advancement": "endernomicon:activator_rail",
     "pages": [
         {
             "type": "patchouli:crafting",

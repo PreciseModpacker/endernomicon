@@ -3,7 +3,7 @@
     "icon": "minecraft:dispenser",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:dispenser",
     "pages": [
         {
             "type": "patchouli:crafting",

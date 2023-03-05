@@ -3,7 +3,7 @@
     "icon": "minecraft:nether_brick",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:nether_brick",
+    "advancement": "endernomicon:netherrack",
     "pages": [
         {
             "type": "patchouli:smelting",

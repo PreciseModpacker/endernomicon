@@ -1,0 +1,18 @@
+{    
+    "name": "Prismarine Rod",
+    "icon": "upgrade_aquatic:prismarine_rod",
+    "category": "patchouli:miscellaneous",
+    "sortnum": 0,
+    "advancement": "endernomicon:prismarine_rod",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "upgrade_aquatic:prismarine_rod",
+            "text": "$(li)The Prismarine Rod is an item that can be used to make a $(l:patchouli:weapons/trident)Trident$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}

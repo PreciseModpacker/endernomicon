@@ -3,7 +3,7 @@
     "icon": "ironchest:obsidian_chest",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:story/form_obsidian",
+    "advancement": "endernomicon:obsidian_chest",
     "pages": [
         {
             "type": "patchouli:crafting",

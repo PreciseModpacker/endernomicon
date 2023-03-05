@@ -3,7 +3,7 @@
     "icon": "minecraft:lectern",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:bookshelfs",
+    "advancement": "endernomicon:lectern",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "endergetic:bolloom_balloon",
     "category": "patchouli:tools",
     "sortnum": 3,
-    "advancement": "endernomicon:bolloom_fruit",
+    "advancement": "endernomicon:bolloom_balloon",
     "pages": [
         {
             "type": "patchouli:crafting",

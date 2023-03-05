@@ -3,7 +3,7 @@
     "icon": "infernalexp:blindsight_tongue_whip",
     "category": "patchouli:weapons",
     "sortnum": -3,
-    "advancement": "endernomicon:blindsight_tongue",
+    "advancement": "endernomicon:blindsight_tongue_whip",
     "pages": [
         {
             "type": "patchouli:crafting",

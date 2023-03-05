@@ -3,7 +3,7 @@
     "icon": "minecraft:writable_book",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:book",
+    "advancement": "endernomicon:book_and_quill",
     "pages": [
         {
             "type": "patchouli:crafting",

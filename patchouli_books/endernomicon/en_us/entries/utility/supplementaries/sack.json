@@ -3,7 +3,7 @@
     "icon": "supplementaries:sack",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:flax",
+    "advancement": "endernomicon:sack",
     "pages": [
         {
             "type": "patchouli:crafting",

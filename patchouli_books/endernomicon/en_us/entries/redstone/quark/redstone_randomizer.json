@@ -3,7 +3,7 @@
     "icon": "quark:redstone_randomizer",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:biotite",
+    "advancement": "endernomicon:redstone_randomizer",
     "pages": [
         {
             "type": "patchouli:crafting",

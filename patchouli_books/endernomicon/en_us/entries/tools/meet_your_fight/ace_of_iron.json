@@ -3,7 +3,7 @@
     "icon": "meetyourfight:ace_of_iron",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:fortunes_favor",
+    "advancement": "endernomicon:ace_of_iron",
     "pages": [
         {
             "type": "patchouli:crafting",

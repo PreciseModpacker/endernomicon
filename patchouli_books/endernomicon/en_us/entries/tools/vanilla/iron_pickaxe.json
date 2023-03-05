@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_pickaxe",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:iron_tools",
     "pages": [
         {
             "type": "patchouli:crafting",

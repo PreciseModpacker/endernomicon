@@ -3,7 +3,7 @@
     "icon": "minecraft:sticky_piston",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:slimeball",
+    "advancement": "endernomicon:sticky_piston",
     "pages": [
         {
             "type": "patchouli:crafting",

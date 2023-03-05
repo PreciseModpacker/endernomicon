@@ -3,7 +3,7 @@
     "icon": "supplementaries:safe",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:safe",
     "pages": [
         {
             "type": "smithing_table",

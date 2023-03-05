@@ -3,7 +3,7 @@
     "icon": "cataclysm:bulwark_of_the_flame",
     "category": "patchouli:weapons",
     "sortnum": 20,
-    "advancement": "endernomicon:ignitium_ingot",
+    "advancement": "endernomicon:bulwark_of_the_flame",
     "pages": [
         {
             "type": "crafting",

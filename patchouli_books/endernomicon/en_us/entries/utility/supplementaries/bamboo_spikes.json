@@ -3,7 +3,7 @@
     "icon": "supplementaries:bamboo_spikes",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:bamboo",
+    "advancement": "endernomicon:bamboo_spikes",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "alexsmobs:emu_leggings",
     "category": "patchouli:armors",
     "sortnum": 10,
-    "advancement": "endernomicon:emu_feather",
+    "advancement": "endernomicon:emu_leggings",
     "pages": [
        {
             "type": "patchouli:crafting",

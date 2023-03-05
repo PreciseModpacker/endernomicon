@@ -3,7 +3,7 @@
     "icon": "minecraft:snow_block",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:snow",
+    "advancement": "endernomicon:snow_golem",
     "pages": [
         {
             "type": "patchouli:text",

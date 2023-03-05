@@ -3,7 +3,7 @@
     "icon": "meetyourfight:spectres_grasp",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:phantoplasm",
+    "advancement": "endernomicon:spectres_grasp",
     "pages": [
         {
             "type": "patchouli:crafting",

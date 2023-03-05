@@ -3,7 +3,7 @@
     "icon": "minecraft:redstone_lamp",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:glowstone",
+    "advancement": "endernomicon:redstone_lamp",
     "pages": [
         {
             "type": "patchouli:crafting",

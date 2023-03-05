@@ -3,7 +3,7 @@
     "icon": "minecraft:textures/item/custom_bows/netherite1.png",
     "category": "patchouli:weapons",
     "sortnum": 26,
-    "advancement": "endernomicon:netherite_ingot",
+    "advancement": "endernomicon:netherite_bow",
     "pages": [
         {
             "type": "patchouli:crafting",

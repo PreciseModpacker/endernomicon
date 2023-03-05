@@ -3,7 +3,7 @@
     "icon": "atmospheric:aloe_gel_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:aloe_leaves",
+    "advancement": "endernomicon:aloe_gel_bottle",
     "pages": [
         {
             "type": "patchouli:crafting",

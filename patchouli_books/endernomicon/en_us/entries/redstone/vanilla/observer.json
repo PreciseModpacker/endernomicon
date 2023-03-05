@@ -3,7 +3,7 @@
     "icon": "minecraft:observer",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:nether_quartz",
+    "advancement": "endernomicon:observer",
     "pages": [
         {
             "type": "patchouli:crafting",

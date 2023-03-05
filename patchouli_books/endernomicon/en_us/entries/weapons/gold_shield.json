@@ -3,7 +3,7 @@
     "icon": "bettershields:gold_shield",
     "category": "patchouli:weapons",
     "sortnum": 15,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:gold_shield",
     "pages": [
         {
             "type": "patchouli:crafting",

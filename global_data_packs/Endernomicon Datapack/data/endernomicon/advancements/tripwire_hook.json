@@ -4,7 +4,7 @@
             "text": "Tripwire Hook"
         },
         "description": {
-            "text": "Adquire Tripwire Hook"
+            "text": "Get the materials to be able to create a Tripwire Hook"
         },
         "icon": {
             "item": "minecraft:tripwire_hook"
@@ -20,7 +20,21 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:tripwire_hook",
+                        "item": "minecraft:iron_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:stick",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "tag": "minecraft:planks",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

@@ -3,7 +3,7 @@
     "icon": "minecraft:campfire",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:coal",
+    "advancement": "endernomicon:campfire",
     "pages": [
         {
             "type": "patchouli:crafting",

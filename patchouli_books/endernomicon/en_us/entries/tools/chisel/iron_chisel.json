@@ -3,7 +3,7 @@
     "icon": "chisel:iron_chisel",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:iron_chisel",
     "pages": [
         {
             "type": "patchouli:crafting",

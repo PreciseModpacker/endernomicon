@@ -3,7 +3,7 @@
     "icon": "quark:pickarang",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:diamond_heart",
+    "advancement": "endernomicon:pickarang",
     "pages": [
         {
             "type": "patchouli:crafting",

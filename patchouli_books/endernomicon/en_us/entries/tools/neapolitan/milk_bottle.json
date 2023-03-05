@@ -3,7 +3,7 @@
     "icon": "neapolitan:milk_bottle",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:glass_bottle",
+    "advancement": "endernomicon:milk_bottle",
     "pages": [
         {
             "type": "patchouli:crafting",

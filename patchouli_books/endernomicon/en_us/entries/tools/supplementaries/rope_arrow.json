@@ -3,7 +3,7 @@
     "icon": "supplementaries:rope_arrow",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:rope",
+    "advancement": "endernomicon:rope_arrow",
     "pages": [
         {
             "type": "patchouli:spotlight",

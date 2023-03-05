@@ -3,7 +3,7 @@
     "icon": "minecraft:beacon",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:nether_star",
+    "advancement": "endernomicon:beacon",
     "pages": [
         {
             "type": "patchouli:crafting",

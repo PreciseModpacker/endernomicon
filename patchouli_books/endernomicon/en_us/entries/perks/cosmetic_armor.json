@@ -3,7 +3,6 @@
     "icon": "minecraft:diamond_helmet",
     "category": "patchouli:perks",
     "sortnum": 0,
-#    "advancement": "endrem:main/end_crystal_eye",
     "pages": [
         {
             "type": "patchouli:text",

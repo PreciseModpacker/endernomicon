@@ -3,7 +3,7 @@
     "icon": "supplementaries:pulley_block",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:pulley_block",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:piston",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:redstone_dust",
+    "advancement": "endernomicon:piston",
     "pages": [
         {
             "type": "patchouli:crafting",

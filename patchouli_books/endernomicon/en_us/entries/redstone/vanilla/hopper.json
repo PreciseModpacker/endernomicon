@@ -3,7 +3,7 @@
     "icon": "minecraft:hopper",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:hopper",
     "pages": [
         {
             "type": "patchouli:crafting",

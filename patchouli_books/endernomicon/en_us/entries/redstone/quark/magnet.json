@@ -3,7 +3,7 @@
     "icon": "quark:magnet",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:chorus_fruit",
+    "advancement": "endernomicon:magnet",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "supplementaries:notice_board",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:paper",
+    "advancement": "endernomicon:notice_board",
     "pages": [
         {
             "type": "patchouli:crafting",

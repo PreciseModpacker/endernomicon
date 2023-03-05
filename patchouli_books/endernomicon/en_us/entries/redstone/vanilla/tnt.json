@@ -3,7 +3,7 @@
     "icon": "minecraft:tnt",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:gunpowder",
+    "advancement": "endernomicon:tnt",
     "pages": [
         {
             "type": "patchouli:crafting",

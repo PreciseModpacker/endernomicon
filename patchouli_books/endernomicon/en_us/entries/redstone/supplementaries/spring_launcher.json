@@ -3,7 +3,7 @@
     "icon": "supplementaries:spring_launcher",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:gunpowder",
+    "advancement": "endernomicon:spring_launcher",
     "pages": [
         {
             "type": "patchouli:crafting",

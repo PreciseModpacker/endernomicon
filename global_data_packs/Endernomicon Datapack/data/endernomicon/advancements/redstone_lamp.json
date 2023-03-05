@@ -4,7 +4,7 @@
             "text": "Redstone Lamp"
         },
         "description": {
-            "text": "Adquire Redstone Lamp"
+            "text": "Get the materials to be able to create a Redstone Lamp"
         },
         "icon": {
             "item": "minecraft:redstone_lamp"
@@ -20,7 +20,14 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:redstone_lamp",
+                        "item": "minecraft:glowstone",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:redstone",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

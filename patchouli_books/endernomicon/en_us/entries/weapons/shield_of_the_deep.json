@@ -3,7 +3,7 @@
     "icon": "alexsmobs:shield_of_the_deep",
     "category": "patchouli:weapons",
     "sortnum": 14,
-    "advancement": "endernomicon:heart_of_the_sea",
+    "advancement": "endernomicon:shield_of_the_deep",
     "pages": [
         {
             "type": "patchouli:crafting",

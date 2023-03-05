@@ -3,7 +3,7 @@
     "icon": "minecraft:golden_horse_armor",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:gold_ingot",
+    "advancement": "endernomicon:golden_horse_armor",
     "pages": [
         {
             "type": "patchouli:crafting",

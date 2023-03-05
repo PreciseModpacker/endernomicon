@@ -3,7 +3,7 @@
     "icon": "quark:crate",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "minecraft:story/smelt_iron",
+    "advancement": "endernomicon:crate",
     "pages": [
         {
             "type": "patchouli:crafting",

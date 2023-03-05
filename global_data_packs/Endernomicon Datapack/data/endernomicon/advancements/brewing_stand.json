@@ -1,0 +1,41 @@
+{
+    "display": {
+        "title": {
+            "text": "Brewing Stand"
+        },
+        "description": {
+            "text": "Get the materials to be able to create a Brewing Stand"
+        },
+        "icon": {
+            "item": "minecraft:brewing_stand"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:blaze_rod",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "tag": "minecraft:stone_crafting_materials",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

@@ -3,7 +3,7 @@
     "icon": "bettershields:diamond_shield",
     "category": "patchouli:weapons",
     "sortnum": 18,
-    "advancement": "minecraft:story/mine_diamond",
+    "advancement": "endernomicon:diamond_shield",
     "pages": [
         {
             "type": "patchouli:crafting",

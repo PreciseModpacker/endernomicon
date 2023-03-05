@@ -3,7 +3,7 @@
     "icon": "supplementaries:slingshot",
     "category": "patchouli:tools",
     "sortnum": 0,
-    "advancement": "endernomicon:rabbit_hide",
+    "advancement": "endernomicon:slingshot",
     "pages": [
         {
             "type": "patchouli:crafting",

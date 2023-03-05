@@ -3,7 +3,7 @@
     "icon": "minecraft:warped_fungus_on_a_stick",
     "category": "patchouli:pets",
     "sortnum": 0,
-    "advancement": "endernomicon:warped_fungus",
+    "advancement": "endernomicon:warped_fungus_on_a_stick",
     "pages": [
         {
             "type": "patchouli:crafting",

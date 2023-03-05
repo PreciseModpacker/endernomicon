@@ -3,7 +3,7 @@
     "icon": "buzzier_bees:candle",
     "category": "patchouli:decoration",
     "sortnum": 0,
-    "advancement": "endernomicon:popped_chorus_fruit",
+    "advancement": "endernomicon:scented_candle",
     "pages": [
         {
             "type": "patchouli:spotlight",

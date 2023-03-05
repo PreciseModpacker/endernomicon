@@ -20,7 +20,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "planks",
+                        "tag": "minecraft:planks",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

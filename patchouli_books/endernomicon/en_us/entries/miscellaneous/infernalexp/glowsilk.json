@@ -3,7 +3,7 @@
     "icon": "infernalexp:glowsilk",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:moth_dust",
+    "advancement": "endernomicon:glowsilk",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -3,7 +3,7 @@
     "icon": "minecraft:golden_carrot",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-     "advancement": "endernomicon:gold_nugget",
+    "advancement": "endernomicon:golden_carrot",
     "pages": [
         {
             "type": "patchouli:crafting",

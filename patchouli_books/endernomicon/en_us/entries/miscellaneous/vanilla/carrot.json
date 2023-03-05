@@ -3,7 +3,7 @@
     "icon": "minecraft:carrot",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:cactus",
+    "advancement": "endernomicon:carrot",
     "pages": [
         {
             "type": "patchouli:spotlight",

@@ -3,7 +3,7 @@
     "icon": "cataclysm:final_fractal",
     "category": "patchouli:weapons",
     "sortnum": 8,
-    "advancement": "endernomicon:witherite_ingot",
+    "advancement": "endernomicon:final_fractal",
     "pages": [
         {
             "type": "patchouli:crafting",

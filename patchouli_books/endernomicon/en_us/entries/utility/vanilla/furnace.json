@@ -3,7 +3,7 @@
     "icon": "minecraft:furnace",
     "category": "patchouli:utility",
     "sortnum": 0,
-    "advancement": "endernomicon:cobblestone",
+    "advancement": "endernomicon:furnace",
     "pages": [
         {
             "type": "patchouli:crafting",

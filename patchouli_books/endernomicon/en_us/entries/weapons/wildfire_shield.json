@@ -3,7 +3,7 @@
     "icon": "outvoted:wildfire_shield",
     "category": "patchouli:weapons",
     "sortnum": 17,
-    "advancement": "endernomicon:wildfire_shield_part",
+    "advancement": "endernomicon:wildfire_shield",
     "pages": [
         {
             "type": "smithing_table",

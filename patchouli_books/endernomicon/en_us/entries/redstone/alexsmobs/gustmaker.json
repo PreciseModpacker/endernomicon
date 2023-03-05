@@ -3,7 +3,7 @@
     "icon": "alexsmobs:gustmaker",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:guster_eye",
+    "advancement": "endernomicon:gustmaker",
     "pages": [
         {
             "type": "patchouli:crafting",

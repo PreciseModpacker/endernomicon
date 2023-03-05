@@ -3,7 +3,7 @@
     "icon": "quark:ender_watcher",
     "category": "patchouli:redstone",
     "sortnum": 0,
-    "advancement": "endernomicon:biotite",
+    "advancement": "endernomicon:ender_watcher",
     "pages": [
         {
             "type": "patchouli:crafting",

@@ -4,7 +4,7 @@
             "text": "Torch"
         },
         "description": {
-            "text": "Adquire Torch"
+            "text": "Get the materials to be able to create a Torch"
         },
         "icon": {
             "item": "minecraft:torch"
@@ -20,7 +20,14 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:torch",
+                        "item": "minecraft:stick",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "tag": "minecraft:coals",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

@@ -3,7 +3,7 @@
     "icon": "endrem:end_crystal_axe",
     "category": "patchouli:weapons",
     "sortnum": 7,
-    "advancement": "endernomicon:end_crystal_ingot",
+    "advancement": "endernomicon:end_crystal_tools",
     "pages": [
         {
             "type": "smithing_table",
