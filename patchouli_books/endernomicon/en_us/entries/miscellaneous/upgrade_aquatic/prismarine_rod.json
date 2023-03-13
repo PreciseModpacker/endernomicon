@@ -3,7 +3,7 @@
     "icon": "upgrade_aquatic:prismarine_rod",
     "category": "patchouli:miscellaneous",
     "sortnum": 0,
-    "advancement": "endernomicon:prismarine_rod",
+    "advancement": "endernomicon:prismarine_shard",
     "pages": [
         {
             "type": "patchouli:crafting",
