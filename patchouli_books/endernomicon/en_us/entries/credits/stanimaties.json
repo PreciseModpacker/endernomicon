@@ -20,7 +20,14 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)StAnimaties made the $(l)$(br)L Enders Cataclysm 1.16.5 Expansion Datapack$() to add WIP content of the $(br)L Enders Cataclysm 1.16.5 version."
+            "text": "$(li)StAnimaties made the $(l)$(br)L Enders Cataclysm 1.16.5 Expansion Datapack$() to add WIP content of the $(br)L Enders Cataclysm 1.16.5 version.$(br)$(li)StAnimaties made the $(l)Enders Journey Crystal Fix Datapack$() for break all the iron bars during the Ender Dragon Boss Fight."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)StAnimaties made the $(l)Enders Journey Portal Message Datapack$() to warn the player about the recommended Video Options during the Ender Dragon Fight.$(br)$(li)StAntimaties made the $(l)Enders Journey Weapons Datapack$() to add new weapons."
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
