@@ -8,7 +8,7 @@
             "type": "patchouli:link",
             "url": "https://www.fiverr.com/yankonnin",
             "link_text": "Fiverr",
-            "text": "$(li)Yankonnin made all the art related with the $(l)Endernomicon$() (Icons, Draws & Patchouli Resource Pack).$(br)$(li)Yankonnin made the GUI background of the $(l)Minecraft Menu$() too."
+            "text": "$(li)Yankonnin made all the art related with the $(l)Endernomicon$() (Icons, Draws & Patchouli Resource Pack).$(br)$(li)Yankonnin made the GUI background of the $(l)Minecraft Options Menu$() too."
         },
         {
             "type": "patchouli:empty_page"

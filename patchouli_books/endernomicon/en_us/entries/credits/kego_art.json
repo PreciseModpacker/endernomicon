@@ -8,10 +8,11 @@
             "type": "patchouli:link",
             "url": "https://www.instagram.com/kego._art/",
             "link_text": "Instagram",
-            "text": "$(li)Kego made all the art related with the $(l)Minecraft Menu$() (Icons, Animate Background and Buttons)."
+            "text": "$(li)Kego made the icons and an Antimated Background for the $(l)Minecraft Main Menu$().$(br)$(li)Kego made all the art of the Weapons and Items added in the $(l)Enders Journey Weapons ResourcePack$()."
         },
         {
-            "type": "patchouli:empty_page"
+            "type": "patchouli:text",
+            "text": "$(li)Kego made the all the art of the Boss Bars in the $(l)Enders Journey Boss Bars Resourcepack$().$(br)$(li)Kego made the texture for the minecraft buttons used in the $(l)Enders Journey Resourcepack$().$(br)$(li)Kego made the art for $(l)Modern World Creation Resourcepack$()."
         }
              ]
 }

@@ -8,7 +8,7 @@
             "type": "patchouli:link",
             "url": "https://www.fiverr.com/kizarys/",
             "link_text": "Fiverr",
-            "text": "$(li)Kizarys made the song played in the Minecraft Menu inserted using the FancyMenu and Audio Extension for FancyMenu mods."
+            "text": "$(li)Kizarys made the song played in the $(l)Minecraft Main Menu$().$(br)$(li)Kizarys made the song played after defeat the $(l)Ender Dragon$()."
         },
         {
             "type": "patchouli:empty_page"
