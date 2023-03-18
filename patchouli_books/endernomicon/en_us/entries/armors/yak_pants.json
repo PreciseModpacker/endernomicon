@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "environmental:misc/yak/yak_pants",
-            "text": "$(li)Yak Pants are a bit better than the $(l:patchouli:armors/cactus_armor)Cactus Leggings$(/l), $(l:patchouli:armors/melon_armor)Melon Leggings$(/l) and $(l:patchouli:armors/pumpkin_armor)Pumpkin Leggings$(/l).$(br)$(li)Yak Pants don't give you any special effect.",
+            "text": "$(li)Yak Pants are a bit better than the $(l:patchouli:armors/cactus_armor)Cactus Leggings$(/l), $(l:patchouli:armors/melon_armor)Melon Leggings$(/l) and $(l:patchouli:armors/pumpkin_armor)Pumpkin Leggings$(/l).$(br)$(li)It allows to step over blocks easily without need to jump.",
             "link_recipe": "true"
         },
         {

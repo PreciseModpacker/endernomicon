@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "decorative_blocks:chandelier",
-            "text": "$(li)Chandeliers are a good choice of a light source block.$(br)$(li)They are a good alternative of the $(l:patchouli:decoration/others/torchs)Torches$(/l).",
+            "text": "$(li)Chandeliers are a good choice of a light source block.$(br)$(li)They are a good alternative of the $(l:patchouli:decoration/others/torch)Torches$(/l).",
             "link_recipe": "true",
             "title": "Chandeliers"
         },
