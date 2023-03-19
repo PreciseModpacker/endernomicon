@@ -1,0 +1,17 @@
+{    
+    "name": "Thaetaa-Terraainn",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.youtube.com/@Thaetaa-Terraainn",
+            "link_text": "YouTube",
+            "text": "$(li)Thaetaa-Terraainn made the song played in the $(l)Wither Boss Fight$() called $(l)Wither Boss$()."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
