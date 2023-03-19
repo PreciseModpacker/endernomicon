@@ -1,0 +1,18 @@
+{    
+    "name": "Makai Symphony",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "http://makai-symphony.com/",
+            "link_text": "makai-symphony.com",
+            "text": "$(li)Makai Symphony made the song played in the $(l)Void Worm Boss Fight$() called $(l)Colossal Enemy$().$(br)$(li)Makai Symphony made the song played in the $(l)Ignis Boss Fight$() called $(l)God of Blaze$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Makai Symphony made the song played in the $(l)Warped Mosco Boss Fight$() called $(l)Aerial Combat$()."
+        }
+             ]
+}
