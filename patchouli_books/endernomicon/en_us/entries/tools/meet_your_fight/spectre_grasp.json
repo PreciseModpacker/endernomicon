@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "meetyourfight:spectres_grasp",
-            "text": "$(li)The Spectre's Grasp increases your reach distance by 2 blocks.$(br)$(li)For example, this affect to the distance you hit a creature or place a block.",
+            "text": "$(li)The Spectre's Grasp increases your reach distance by 2 blocks.$(br)$(li)For example, this affect to the distance you open a chest or place a block.",
             "link_recipe": "true"
         },
         {
