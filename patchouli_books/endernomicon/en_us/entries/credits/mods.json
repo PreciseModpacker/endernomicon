@@ -377,12 +377,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare/",
-            "link_text": "CurseForge",
-            "text": "$(l)    Equipment Compare$()$(br)$(li)$(l:https://www.curseforge.com/members/grend_g/)Grend_G (Owner)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/extra-armor/",
             "link_text": "CurseForge",
             "text": "$(l)       Extra Armor$()$(br)$(li)$(l:https://www.curseforge.com/members/bailym/)Bailym (Owner)$(/l)"
@@ -1058,6 +1052,9 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
