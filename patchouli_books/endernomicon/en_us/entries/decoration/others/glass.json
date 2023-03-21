@@ -205,7 +205,7 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "quark:tweaks/crafting/dirty_glass",
+            "recipe": "kubejs:kjs_57ceqwkt7banx4i1g1jyr4do1",
             "text": "$(li)The Dirty Glass is a variant of the common Glass Blocks, that, as its name says, its dirty, so you will not be able to see too much through them.",
             "link_recipe": "true"
         },
