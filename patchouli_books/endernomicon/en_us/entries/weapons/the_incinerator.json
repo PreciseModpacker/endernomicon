@@ -1,0 +1,22 @@
+{    
+    "name": "The Incinerator",
+    "icon": "cataclysm:the_incinerator",
+    "category": "patchouli:weapons",
+    "sortnum": 0,
+    "advancement": "endernomicon:the_incinerator",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cataclysm:the_incinerator",
+            "text": "$(li)The Incinerator is the strongest sword.$(br)$(li)You can charge this weapon holding right click for 3 seconds and release it to summon a flame strike in the direction of looking at." ,
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "The Incinerator",
+            "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{id:\"cataclysm:the_incinerator\",Count:1}],HandDropChances:[0f]}",
+            "scale": 0.4
+        }
+
+             ]
+}
