@@ -17,6 +17,13 @@
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,HandItems:[{},{id:\"cataclysm:bulwark_of_the_flame\",Count:1}],HandDropChances:[0f]}",
             "scale": 0.9,
             "text": "This item can't be burned in fire or lava and it doesn't have durability."
-        }
+        },
+        {
+            "type": "patchouli:text",
+                "text": "$(li)If you stop holding right click while sneak, you will charge forward and give damage to the creatures in front of you.$(br)$(li)If target get hitted by wall, it will take more damage and gain stun."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }  
              ]
 }

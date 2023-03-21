@@ -1,0 +1,18 @@
+{    
+    "name": "Ignited Revenant",
+    "icon": "minecraft:netherrack",
+    "category": "patchouli:creatures",
+    "sortnum": 0,
+    "advancement": "endernomicon:ignited_revenant",
+    "pages": [
+        {
+            "type": "patchouli:text",
+                "text": "$(li)The Ignited Revenant is what is left of the poor soul of a $(l:patchouli:creatures/outvoted/wildfire)Wildfire$(/l) that can be found in the $(l:patchouli:structures/burning_arena)Burning Arena$(/l) over the Nether.$(br)$(li)This creature it is very resistant and use its shields to protect itself.$(br)$(li)It drops $(l:patchouli:miscellaneous/cataclysm/burning_ashes)Burning Ashes$(/l) on death."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:ignited_revenant",
+            "scale": 0.9
+        }
+             ]
+}

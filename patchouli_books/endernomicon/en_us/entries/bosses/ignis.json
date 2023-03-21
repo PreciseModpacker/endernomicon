@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Ignis is a big burning creature that lies inside of the $(l)Burning Coliseum$().$(br)$(li)It will attack you physically with its sword and shield.$(br)$(li)This powerful creature will absorb some of the life it inflicts on you and use it to regenerate its own."
+            "text": "$(li)The Ignis is a big burning creature that lies inside of the $(l:patchouli:structures/burning_arena)Burning Arena$(/l).$(br)$(li)It will attack you physically with its sword and shield.$(br)$(li)This powerful creature will absorb some of the life it inflicts on you and use it to regenerate its own."
         },
         {
             "type": "patchouli:entity",
@@ -15,7 +15,7 @@
             "entity": "cataclysm:ignis",
             "scale": 0.7,
             "offset": 0.1,
-            "text": "It drops $(l:patchouli:miscellaneous/cataclysm/ignitium_ingot)Ignitium Ingots$(/l) on death."
+            "text": "It drops $(l:patchouli:miscellaneous/cataclysm/ignitium_ingot)Ignitium Ingots$(/l) and a $(l)Music Disc$() on death."
         }
              ]
 }
