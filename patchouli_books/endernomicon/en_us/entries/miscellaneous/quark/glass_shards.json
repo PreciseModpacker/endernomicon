@@ -12,8 +12,9 @@
             "link_recipe": "true"
         },
         {   
-            "type": "patchouli:spotlight",
-            "item": "quark:dirty_shard",
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_bv6edtxf9m9j13bgez2sopp84",
+            "text": "The Dirty Glass Shards can be used to create a $(l:patchouli:decoration/others/glass)Dirty Glass$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).",
             "link_recipe": "true"
         },
         {   
