@@ -14,7 +14,7 @@
             "entity": "minecraft:witch",
             "scale": 0.9,
             "offset": 0.3,
-            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l), $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l), $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l), $(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l), $(l:patchouli:potions/buzzier_bees/luck)Luck$(/l) or $(l:patchouli:potions/vanilla/healing)Healing Potions$(/l), $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottles$(/l) and $(l:patchouli:miscellaneous/vanilla/stick)Sticks$(/l) upon death."
+            "text": "They may drop $(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l), $(l:patchouli:miscellaneous/vanilla/gunpowder)Gunpowder$(/l), $(l:patchouli:redstone/vanilla/redstone)Redstone$(/l), $(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l), $(l:patchouli:potions/buzzier_bees/luck)Luck$(/l) or $(l:patchouli:potions/vanilla/healing)Healing Potions$(/l), $(l:patchouli:tools/vanilla/glass_bottle)Glass Bottles$(/l) and $(l:patchouli:miscellaneous/vanilla/stick)Sticks$(/l) upon death."
         }
              ]
 }
