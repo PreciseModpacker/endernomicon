@@ -17,12 +17,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-frames/",
-            "link_text": "CurseForge",
-            "text": "$(l)    Advancement Frames$()$(br)$(li)$(l:https://www.curseforge.com/members/mehvahdjukaar/)MehVahdJukaar (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/plantspookable/)plantspookable (Artist)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements/",
             "link_text": "CurseForge",
             "text": "$(l)     AI Improvements$()$(br)$(li)$(l:https://www.curseforge.com/members/queenofmissiles/)QueenOfMissiles (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/dmodoomsirius/)dmodoomsirius (Maintainer)$(/l)$(li)$(l:https://www.curseforge.com/members/builtbrokenbot/)builtbrokenbot (Mascot)$(/l)"
@@ -1052,9 +1046,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-        {
-            "type": "patchouli:empty_page"
         }
              ]
 }
