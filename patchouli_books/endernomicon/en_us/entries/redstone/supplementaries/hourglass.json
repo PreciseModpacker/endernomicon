@@ -22,7 +22,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The strong of this redstone signal depends of the remaining time of the Hourglass.$(br2)$(l)  Material time list$()$(br)$(li)$(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l): 40 ticks $(li)Sand: 70 ticks $(li)Concrete: 105 ticks $(li)$(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l): 190 ticks $(li)$(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l): 277 ticks  $(li)$(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l): 400 ticks $(li)$(l:patchouli:miscellaneous/vanilla/slimeball)Slime$(/l): 1750 ticks $(li)$(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l) 2000 ticks"
+            "text": "$(li)The strong of this redstone signal depends of the remaining time of the Hourglass.$(br2)$(l)  Material time list$()$(br)$(li)$(l:patchouli:miscellaneous/vanilla/sugar)Sugar$(/l): 40 ticks $(li)Sand: 70 ticks $(li)Concrete: 105 ticks $(li)$(l:patchouli:miscellaneous/vanilla/glowstone_dust)Glowstone$(/l): 190 ticks $(li)$(l:patchouli:miscellaneous/vanilla/blaze_powder)Blaze Powder$(/l): 277 ticks  $(li)$(l:patchouli:redstone/vanilla/redstone)Redstone$(/l): 400 ticks $(li)$(l:patchouli:miscellaneous/vanilla/slimeball)Slime$(/l): 1750 ticks $(li)$(l:patchouli:tools/vanilla/honey_bottle)Honey$(/l) 2000 ticks"
         },
         {
             "type": "patchouli:pictures",

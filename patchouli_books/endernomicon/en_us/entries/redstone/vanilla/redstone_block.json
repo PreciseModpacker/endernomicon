@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:redstone_block",
-            "text": "$(li)The Redstone Block is a new block that can be used to save $(l:patchouli:miscellaneous/vanilla/redstone)Redstone$(/l) in a more efficient way.$(br)$(li)It can be used to craft a $(l:patchouli:redstone/supplementaries/cog_block)Cog Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) too.",  
+            "text": "$(li)The Redstone Block is a new block that can be used to save $(l:patchouli:redstone/vanilla/redstone)Redstone$(/l) in a more efficient way.$(br)$(li)It can be used to craft a $(l:patchouli:redstone/supplementaries/cog_block)Cog Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l) too.",  
             "link_recipe": "true"
         },
         {

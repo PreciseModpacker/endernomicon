@@ -8,7 +8,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "minecraft:activator_rail",
-            "text": "$(li)Activator Rails are a variant of the $(l:patchouli:redstone/vanilla/rail)Rail$(/l).$(br)$(li)This kind of Rail works as the $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l), it can transport input redstone signals, but only with others Activator Rails."
+            "text": "$(li)Activator Rails are a variant of the $(l:patchouli:redstone/vanilla/rail)Rail$(/l).$(br)$(li)This kind of Rail works as the $(l:patchouli:redstone/vanilla/redstone)Redstone Dust$(/l), it can transport input redstone signals, but only with others Activator Rails."
         },
         {
             "type": "patchouli:text",

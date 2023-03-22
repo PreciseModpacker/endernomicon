@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can attract Platypus with $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l).$(br)$(li)Give them $(l:patchouli:miscellaneous/vanilla/redstone)Redstone Dust$(/l) or $(l:patchouli:redstone/vanilla/redstone_block)Redstone Blocks$(/l) to make them find something useful for you in near Clay blocks, like $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l), $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay Balls$(/l), or even a $(l)Fedora$()."
+            "text": "$(li)You can attract Platypus with $(l:patchouli:redstone/vanilla/redstone)Redstone Dust$(/l).$(br)$(li)Give them $(l:patchouli:redstone/vanilla/redstone)Redstone Dust$(/l) or $(l:patchouli:redstone/vanilla/redstone_block)Redstone Blocks$(/l) to make them find something useful for you in near Clay blocks, like $(l:patchouli:miscellaneous/alexsmobs/maggot)Maggots$(/l), $(l:patchouli:miscellaneous/vanilla/clay_ball)Clay Balls$(/l), or even a $(l)Fedora$()."
         },
         {
             "type": "patchouli:empty_page"
