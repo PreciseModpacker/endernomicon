@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Outpost"
+            "text": "Unlock Elder Guardian rumor"
         },
         "description": {
-            "text": "Structures Outpost"
+            "text": "Rumor Elder Guardian"
         },
         "icon": {
-            "item": "minecraft:totem_of_undying"
+            "item": "minecraft:sponge"
         },
         "frame": "task",
         "show_toast": false,
@@ -15,69 +15,63 @@
         "hidden": true
     },
     "criteria": {
-        "Badlands": {
+        "Ocean Monument": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_badlands"
+                "feature": "monument"
             }
         },
-        "Birch": {
+        "Cold Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_birch"
+                "biome": "minecraft:cold_ocean"
             }
         },
-        "Desert": {
+        "Deep Cold Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_desert"
+                "biome": "minecraft:deep_cold_ocean"
             }
         },
-        "Giant Tree Taiga": {
+        "Deep Frozen Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_giant_tree_taiga"
+                "biome": "minecraft:deep_frozen_ocean"
             }
         },
-        "Icy": {
+        "Deep Lukewarm Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_icy"
+                "biome": "minecraft:deep_lukewarm_ocean"
             }
         },
-        "Jungle": {
+        "Deep Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_jungle"
+                "biome": "minecraft:deep_ocean"
             }
         },
-        "Oak": {
+        "Lukewarm Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_oak"
+                "biome": "minecraft:lukewarm_ocean"
             }
         },
-        "Snowy": {
+        "Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_snowy"
+                "biome": "minecraft:ocean"
             }
         },
-        "Taiga": {
+        "Warm Ocean": {
             "trigger": "minecraft:location",
             "conditions": {
-                "feature": "repurposed_structures:outpost_taiga"
-            }
-        },
-        "Outpost": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "pillager_outpost"
+                "biome": "minecraft:warm_ocean"
             }
         }
     },
     "parent": "endernomicon:root",
     "requirements": [
-        ["Badlands", "Birch", "Desert", "Giant Tree Taiga", "Icy", "Jungle", "Oak", "Snowy", "Taiga", "Outpost"]
+        ["Ocean Monument", "Cold Ocean", "Deep Cold Ocean", "Deep Frozen Ocean", "Deep Lukewarm Ocean", "Deep Ocean", "Lukewarm Ocean", "Ocean", "Warm Ocean"]
     ]
 }

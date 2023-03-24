@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 10,
-    "advancement": "endernomicon:ruined_keep",
+    "advancement": "endernomicon:rumor_ogre_and_goblin_king",
     "pages": [
         {
             "type": "patchouli:text",

@@ -1,0 +1,103 @@
+{
+    "display": {
+        "title": {
+            "text": "Unlock Ogre and Goblin King rumor"
+        },
+        "description": {
+            "text": "Rumor Ogre and Goblin King"
+        },
+        "icon": {
+            "item": "goblinsanddungeons:goblin_crown"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Ruined Keep": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:ruined_keep"
+            }
+        },
+        "Large Goblin Camp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:large_goblin_camp"
+            }
+        },
+        "Medium Goblin Camp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:medium_goblin_camp"
+            }
+        },
+        "Small Goblin Camp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "goblinsanddungeons:small_goblin_camp"
+            }
+        },
+        "Garch": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:garch"
+                }
+            }
+        },
+        "Gob": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:gob"
+                }
+            }
+        },
+        "Gobber": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:gobber"
+                }
+            }
+        },
+        "Gobblo": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:goblo"
+                }
+            }
+        },
+        "Goom": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:goom"
+                }
+            }
+        },
+        "Hobgob": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:hobgob"
+                }
+            }
+        },
+        "Mimic": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "goblinsanddungeons:mimic"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Ruined Keep", "Large Goblin Camp", "Medium Goblin Camp", "Small Goblin Camp", "Garch", "Gob", "Gobber", "Gobblo", "Goom", "Hobgob", "Mimic"]
+    ]
+}

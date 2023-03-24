@@ -1,0 +1,45 @@
+{
+    "display": {
+        "title": {
+            "text": "Unlock Ignis rumor"
+        },
+        "description": {
+            "text": "Rumor Ignis King"
+        },
+        "icon": {
+            "item": "minecraft:blaze_rod"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Blaze": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:blaze"
+                }
+            }
+        },
+        "Wildfire": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "outvoted:wildfire"
+                }
+            }
+        },
+        "Burning Arena": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "cataclysm:burning_arena"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Blaze", "Wildfire", "Burning Arena"]
+    ]
+}

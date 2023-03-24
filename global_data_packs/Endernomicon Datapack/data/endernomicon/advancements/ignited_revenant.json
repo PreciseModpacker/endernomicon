@@ -1,13 +1,13 @@
 {
     "display": {
         "title": {
-            "text": "Burning Coliseum"
+            "text": "Ignited Revenant"
         },
         "description": {
-            "text": "Find the Burning Coliseum"
+            "text": "Ignited Revenant"
         },
         "icon": {
-            "item": "cataclysm:ignis_spawn_egg"
+            "item": "cataclysm:ignited_revenant_spawn_egg"
         },
         "frame": "task",
         "show_toast": false,
@@ -19,10 +19,7 @@
             "trigger": "minecraft:player_hurt_entity",
             "conditions": {
                 "entity": {
-                    "type": "outvoted:wildfire"
-                },
-                "entity2": {
-                    "type": "minecraft:blaze"                    
+                    "type": "cataclysm:ignited_revenant"
                 }
             }
         }

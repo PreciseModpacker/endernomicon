@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Unlock Ender Golem and Guardian rumor"
+        },
+        "description": {
+            "text": "Rumor Ender Golem and Guardian"
+        },
+        "icon": {
+            "item": "cataclysm:gauntlet_of_guard"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Ender Dragon": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ender_dragon"
+                }
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Ender Dragon"]
+    ]
+}

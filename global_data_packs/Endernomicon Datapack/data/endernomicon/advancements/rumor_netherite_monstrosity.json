@@ -1,0 +1,57 @@
+{
+    "display": {
+        "title": {
+            "text": "Unlock Netherite Monstrosity rumor"
+        },
+        "description": {
+            "text": "Rumor Netherite Monstrosity King"
+        },
+        "icon": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Soul Black Smith": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "cataclysm:soul_black_smith"
+            }
+        },
+        "Ancient Debris": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:ancient_debris",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Netherite Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Soul Black Smith", "Ancient Debris", "Netherite Ingot"]
+    ]
+}

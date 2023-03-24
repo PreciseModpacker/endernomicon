@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 15,
-    "advancement": "cataclysm:find_soul_black_smith",
+    "advancement": "endernomicon:rumor_netherite_monstrosity",
     "pages": [
         {
             "type": "patchouli:text",

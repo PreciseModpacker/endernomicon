@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 8,
-    "advancement": "endernomicon:burning_arena",
+    "advancement": "endernomicon:rumor_ignis",
     "pages": [
         {
             "type": "patchouli:text",
