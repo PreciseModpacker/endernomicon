@@ -1,0 +1,55 @@
+{
+    "display": {
+        "title": {
+            "text": "The Incinerator"
+        },
+        "description": {
+            "text": "Get the materials to be able to create The Incinerator"
+        },
+        "icon": {
+            "item": "cataclysm:the_incinerator"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Gold Ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:stick",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "minecraft:blaze_rod",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    },
+                    {
+                        "item": "cataclysm:ignitium_ingot",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

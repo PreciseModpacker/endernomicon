@@ -1,0 +1,311 @@
+{
+    "display": {
+        "title": {
+            "text": "Unlock Illagers King rumor"
+        },
+        "description": {
+            "text": "Rumor Illagers King"
+        },
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Archer": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:archer"
+                }
+            }
+        },
+        "Berserker": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:berserker"
+                }
+            }
+        },
+        "Black Iron Golem": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:black_iron_golem"
+                }
+            }
+        },
+        "Enchanter": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:enchanter"
+                }
+            }
+        },
+        "Evoker": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:evoker"
+                }
+            }
+        },
+        "Executioner": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "savageandravage:executioner"
+                }
+            }
+        },
+        "Frostmancer": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:frostmancer"
+                }
+            }
+        },
+        "Furantur": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:furantur"
+                }
+            }
+        },
+        "Griefer": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "savageandravage:griefer"
+                }
+            }
+        },
+        "Hoarder": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:hoarder"
+                }
+            }
+        },
+        "Illager General": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:illager_general"
+                }
+            }
+        },
+        "Illusioner": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:illusioner"
+                }
+            }
+        },
+        "Miner": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:miner"
+                }
+            }
+        },
+        "Necromancer": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illagers_plus:necromancer"
+                }
+            }
+        },
+        "Pillager": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:pillager"
+                }
+            }
+        },
+        "Ravager": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ravager"
+                }
+            }
+        },
+        "Trickster": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "savageandravage:trickster"
+                }
+            }
+        },
+        "Vindicator": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:vindicator"
+                }
+            }
+        },
+        "Ice Castle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:ice_castle"
+            }
+        },
+        "Illager Archer Tower": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:illager_archer_tower"
+            }
+        },
+        "Illager Centre": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:illager_centre"
+            }
+        },
+        "Illager Fort": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:illager_fort"
+            }
+        },
+        "Illager Mine": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:illager_mine"
+            }
+        },
+        "Illager Tower": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "illagers_plus:illager_tower"
+            }
+        },
+        "Birch": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_birch"
+            }
+        },
+        "Desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_desert"
+            }
+        },
+        "Jungle": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_jungle"
+            }
+        },
+        "Oak": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_oak"
+            }
+        },
+        "Savanna": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_savanna"
+            }
+        },
+        "Snowy": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_snowy"
+            }
+        },
+        "Taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:mansion_taiga"
+            }
+        },
+        "Mansion": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "mansion"
+            }
+        },
+        "Badlands Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_badlands"
+            }
+        },
+        "Birch Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_birch"
+            }
+        },
+        "Desert Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_desert"
+            }
+        },
+        "Giant Tree Taiga Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_giant_tree_taiga"
+            }
+        },
+        "Icy Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_icy"
+            }
+        },
+        "Jungle Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_jungle"
+            }
+        },
+        "Oak Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_oak"
+            }
+        },
+        "Snowy Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_snowy"
+            }
+        },
+        "Taiga Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "repurposed_structures:outpost_taiga"
+            }
+        },
+        "Outpost": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "pillager_outpost"
+            }
+        }
+    },
+    "parent": "endernomicon:root",
+    "requirements": [
+        ["Archer", "Berserker", "Black Iron Golem", "Enchanter", "Evoker", "Executioner", "Frostmancer", "Furantur", "Griefer", "Hoarder", "Illager General", "Illusioner", "Miner", "Necromancer", "Pillager", "Ravager", "Trickster", "Vindicator", "Ice Castle", "Illager Archer Tower", "Illager Centre", "Illager Fort", "Illager Mine", "Illager Tower", "Birch", "Desert", "Jungle", "Oak", "Savanna", "Snowy", "Taiga", "Mansion", "Badlands Outpost", "Birch Outpost", "Desert Outpost", "Giant Tree Taiga Outpost", "Icy Outpost", "Jungle Outpost", "Oak Outpost", "Snowy Outpost", "Taiga Outpost", "Outpost"]
+    ]
+}

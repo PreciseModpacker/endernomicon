@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Burning Arena"
+        },
+        "description": {
+            "text": "Find the Burning Arena"
+        },
+        "icon": {
+            "item": "cataclysm:ignis_spawn_egg"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Burning Arena": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "cataclysm:burning_arena"
+            }
+        }
+    },
+    "parent": "endernomicon:root"
+}

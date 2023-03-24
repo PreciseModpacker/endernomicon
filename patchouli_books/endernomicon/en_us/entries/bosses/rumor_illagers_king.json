@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 13,
-    "advancement": "illagers_plus:find_tower",
+    "advancement": "endernomicon:rumor_illagers_king",
     "pages": [
         {
             "type": "patchouli:text",

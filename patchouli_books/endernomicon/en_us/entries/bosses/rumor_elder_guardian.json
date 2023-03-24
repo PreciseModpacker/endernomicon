@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 4,
-    "advancement": "endernomicon:ocean_monument",
+    "advancement": "endernomicon:rumor_elder_guardian",
     "pages": [
         {
             "type": "patchouli:text",

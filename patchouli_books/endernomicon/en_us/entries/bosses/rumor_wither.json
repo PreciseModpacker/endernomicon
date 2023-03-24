@@ -3,7 +3,7 @@
     "icon": "minecraft:book",
     "category": "patchouli:bosses",
     "sortnum": 19,
-    "advancement": "minecraft:nether/get_wither_skull",
+    "advancement": "endernomicon:wither_skeleton",
     "pages": [
         {
             "type": "patchouli:text",
