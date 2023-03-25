@@ -2,7 +2,7 @@
     "name": "The Incinerator",
     "icon": "cataclysm:the_incinerator",
     "category": "patchouli:weapons",
-    "sortnum": 0,
+    "sortnum": 11,
     "advancement": "endernomicon:the_incinerator",
     "pages": [
         {
