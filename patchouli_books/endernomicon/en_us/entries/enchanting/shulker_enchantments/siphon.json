@@ -7,7 +7,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
-            "text": "$(li)The Siphon enchantment can be applied in a $(l:patchouli:enchanting/shulker_enchantments/shulker_box)Shulker Box$(/l).$(br)$(li)If you pick an item that the Shulker Box has at least one of the same type, it will be placed inside instead of your main inventory.",
+            "text": "$(li)The Siphon enchantment can be applied in a $(l:patchouli:utility/vanilla/shulker_box)Shulker Box$(/l).$(br)$(li)If you pick an item that the Shulker Box has at least one of the same type, it will be placed inside instead of your main inventory.",
             "title": "Siphon"
         },
         {
