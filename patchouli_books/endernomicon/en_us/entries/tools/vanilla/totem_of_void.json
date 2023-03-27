@@ -8,12 +8,10 @@
         {
             "type": "patchouli:crafting",
             "recipe": "voidtotem:totem_of_void_undying",
-            "text": "$(li)The Totem of Void Undying is the improved version of the $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l).$(br)$(li)It will resurect and teleport you on the nearest surface if you die in the void."
+            "text": "$(li)The Totem of Void Undying is the improved version of the $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l).$(br)$(li)It will revive and teleport you on the nearest surface if you die in the void."
         },
-        { 
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/totem_of_void.png",
-            "text": "$(li)To save space in your inventory, it can be equipped within the Charm slot in the Curios API menu."
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
