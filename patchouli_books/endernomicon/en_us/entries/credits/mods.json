@@ -647,6 +647,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+            "link_text": "CurseForge",
+            "text": "$(l) Magnesium Dynamic Lights$()$(br)$(li)$(l:https://www.curseforge.com/members/teamdeusvult/)TeamDeusVult (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/",
             "link_text": "CurseForge",
             "text": "$(l)     Magnesium Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/teamdeusvult/)TeamDeusVult (Owner)$(/l)"
@@ -1052,9 +1058,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-        {
-            "type": "patchouli:empty_page"
         }
              ]
 }
