@@ -497,12 +497,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/in-control",
-            "link_text": "CurseForge",
-            "text": "$(l)       In Control!$()$(br)$(li)$(l:https://www.curseforge.com/members/mcjty)mcjty (Owner)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/infernal-expansion/",
             "link_text": "CurseForge",
             "text": "$(l)    Infernal Expansion$()$(br)$(li)$(l:https://www.curseforge.com/members/infernalstudios/)InfernalStudios (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/nekomaster1000)Nekomaster1000 (Author)$(li)$(l:https://www.curseforge.com/members/swanx1)Swanx1 (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/ludocrypt)LudoCrypt (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/helliongames)HellionGames (Contributor)$(/l)$(li)$(l:https://www.curseforge.com/members/caelthequail)CaelTheQuail (Contributor)$(/l)"
@@ -1052,9 +1046,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-        {
-            "type": "patchouli:empty_page"
         }
              ]
 }
