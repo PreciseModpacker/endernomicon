@@ -20,7 +20,8 @@
         },
         {
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/perks/cosmetic_armor_2.png"
+            "picture": "endermonicon:textures/book/entries/perks/cosmetic_armor_2.png",
+            "text": "$(li)$(l)You will not lose your items placed in the Cosmetic Armor Slots on death.$()"  
         }
              ]
 }
