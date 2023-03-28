@@ -533,6 +533,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things",
+            "link_text": "CurseForge",
+            "text": "$(l)  It's the little things$()$(br)$(li)$(l:https://www.curseforge.com/members/zlepper/)Zlepper (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/paint_ninja/)Paint_Ninja (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/jade/",
             "link_text": "CurseForge",
             "text": "$(l)          Jade$()$(br)$(li)$(l:https://www.curseforge.com/members/snownee_/)Snownee_ (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/malayp/)MalayP (Mascot)$(/l)"
@@ -1046,6 +1052,9 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+        {
+            "type": "patchouli:empty_page"
         }
              ]
 }
