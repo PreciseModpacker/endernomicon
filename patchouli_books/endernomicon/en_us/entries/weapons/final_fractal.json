@@ -9,7 +9,7 @@
             "type": "patchouli:crafting",
             "recipe": "ej_weapon:final_fractal",
             "title": "Final Fractal",
-            "text": "$(li)The Final Fractal, forged with a $(l:patchouli:weapons/netherite_sword)Netherite Sword$(/l), a $(l:patchouli:miscellaneous/cataclysm/witherite_ingot)Witherite Ingot$(/l) and a $(l:patchouli:miscellaneous/alexsmobs/soul_heart)Soul Heart$(/l) is the second strongest sword.",
+            "text": "$(li)The Final Fractal is the third strongest sword.$(br)$(li)This weapon will give you the $(l:patchouli:potions/alexsmobs/soulsteal)Soulsteal$(/l) I effect while you are carrying in your hand.",
             "link_recipe": "true"
         },
         {
