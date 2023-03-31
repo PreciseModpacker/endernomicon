@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)Nobody knows who built them, but in the Nether there are numerous structures.$(br2)$(o)In the depths of the Nether, a magnicent Blacksmith can be found.$(br2)$(o)It is said that numerous weapons and armor were forged here using the most resistant material, the Ancient Debris."
+            "text": "$(o)Nobody knows who built them, but in the Nether there are numerous structures.$(br2)$(o)In the depths of the Nether, a magnificent Blacksmith can be found.$(br2)$(o)It is said that numerous weapons and armor were forged here using the most resistant material, the $(l:patchouli:miscellaneous/vanilla/ancient_debris)Ancient Debris$(/l)."
 
         },
         {
             "type": "patchouli:text",
-            "text": "$(o)But beware, there is still a giant guardian defending this smithy abandoned by its creators long ago.$(br2)$(o)It will destroy its great intruders thanks to its immeasurable strength.$(br2)$(o)No matter how much you pray for your life, this unfeeling creature will show no mercy."
+            "text": "$(o)But beware, there is still a giant guardian defending this smithy abandoned by its creators long ago.$(br2)$(o)It will destroy the intruders thanks to its immeasurable strength.$(br2)$(o)No matter how much you pray for your life, this unfeeling creature will show no mercy."
         }
              ]
 }

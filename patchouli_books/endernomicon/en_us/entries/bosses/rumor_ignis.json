@@ -7,10 +7,21 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)Long ago in the depths of the Nether, many $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) fought in the $(l)Burning Coliseum$() to try to obtain the immortality.$(br2)$(o)It is rumored that to this day the champion is still waiting latently for a formidable warrior to appear and face them in a last fated duel."
+            "text": "$(o)Long ago in the depths of the Nether, many $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) fought in the $(l:patchouli:structures/burning_arena)Burning Arena$(/l) to try to obtain the immortality.$(br2)$(o)A champion is still waiting latently for a formidable warrior to appear and face them in a last fated duel.$(br2)First you need to obtain the $(l:patchouli:creatures/outvoted/wildfire)Burning Ashes$(/l) dropped by $(l:patchouli:creatures/cataclysm/ignited_revenant)Ignited Revenant$(/l) on death."
         },
         {
-            "type": "patchouli:empty_page"
+            "type": "patchouli:ignis",
+            "title": "Obtain Burning Ashes",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_ignis_1.png"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Then you have to go to the top of the arena.$(br2)Finally, to summon this powerful warrior you have to place the burning ashes obtained on the $(l)Burning Altar$().$(br2)Be prepared, a real challenge awaits you..."
+        },
+        {
+            "type": "patchouli:ignis",
+            "title": "Burning Altar",
+            "picture": "endermonicon:textures/book/entries/bosses/rumor_ignis_2.png"
         }
              ]
 }

@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)The knowledge about Nicromancy was the main act by which the Villagers exiled the Illagers of their villages.$(br2)$(o)There is a rumor that a very dangerous creature made up of multiple souls can be awakened.$(br2)$(o)This ritual requires to place three Wither Skulls and four blocks of Soul Sand or Soul Soil in an specific order."
+            "text": "$(o)The knowledge about Nicromancy was the main act by which the Villagers exiled the Illagers of their villages.$(br2)$(o)A very dangerous creature made up of multiple souls can be awakened.$(br2)$(o)This ritual requires to place three $(l:patchouli:miscellaneous/vanilla/wither_skeleton_skull)Wither Skeleton Skulls$(/l) and four blocks of $(l)Soul Sand$() or $(l)Soul Soil$() in an specific order."
         },
         {
             "type": "patchouli:wither",

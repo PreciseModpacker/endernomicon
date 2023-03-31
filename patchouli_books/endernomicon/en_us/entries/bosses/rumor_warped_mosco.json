@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)As we all know, in nature only the strongest survive.$(br2)$(o)To accomplish this, the Crimson Mosquito has found a way to make itself stronger.$(br2)$(o)When a Crimson Mosquito absorbs the blood of a Mungus that has been infected by Warped Fungus, it shows its true power."
+            "text": "$(o)As we all know, in nature only the strongest survive.$(br2)$(o)To accomplish this, the $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) has found a way to make itself stronger.$(br2)$(o)When a $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquito$(/l) absorbs the blood of a $(l:patchouli:creatures/alexsmobs/mungus)Mungus$(/l) that has been infected by $(l:patchouli:miscellaneous/vanilla/warped_fungus)Warped Fungus$(/l), it shows its true power."
         },
         {
             "type": "patchouli:warped_mosco",
