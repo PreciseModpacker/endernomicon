@@ -14,7 +14,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(o)To summon this creature, first you have to craft the Fossilt Bait.$(br2)Finally, you have to right click while you are holding this item on your hand."
+            "text": "$(o)To summon this creature, first you have to craft the Fossil Bait.$(br2)Finally, you have to right click while you are holding this item on your hand."
         }
              ]
 }

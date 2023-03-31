@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)What would happen if we could give the power of $(l)the Void$() $(o)into a growing larva?$(br2)$(o)This is what Illagers tried to do a long time ago, but sadly there is no information of the result of the experiment.$(br2)You have to insert a Crimson Larva into a Capsid, to obtain a Void Worm. Finally, you have to throw it into the void, so that it absorbs all its power."
+            "text": "$(o)What would happen if we could give the power of $(l)the Void$() $(o)into a growing larva?$(br2)$(o)It is time to find out!$(br2)First you have to insert a $(l:patchouli:miscellaneous/alexsmobs/crimson_mosquito_larva)Crimson Mosquito Larva$(/l) into a $(l:patchouli:utility/alexsmobs/capsid)Capsid$(/l), to obtain a $(l:patchouli:miscellaneous/alexsmobs/mysterious_worm)Mysterious Worm$(/l).$(br2)Finally, you have to throw it into the void, so that it absorbs all its power."
         },
         {
             "type": "patchouli:void_worm",
