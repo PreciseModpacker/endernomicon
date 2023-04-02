@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)Long ago in the depths of the Nether, many $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) fought in the $(l:patchouli:structures/burning_arena)Burning Arena$(/l) to try to obtain the immortality.$(br2)$(o)A champion is still waiting latently for a formidable warrior to appear and face them in a last fated duel.$(br2)First you need to obtain the $(l:patchouli:creatures/outvoted/wildfire)Burning Ashes$(/l) dropped by $(l:patchouli:creatures/cataclysm/ignited_revenant)Ignited Revenant$(/l) on death."
+            "text": "$(o)Long ago in the depths of the Nether, many $(l:patchouli:creatures/vanilla/blaze)Blazes$(/l) and $(l:patchouli:creatures/outvoted/wildfire)Wildfires$(/l) fought in the $(l:patchouli:structures/burning_arena)Burning Arena$(/l) to try to obtain the immortality.$(br2)$(o)A champion is still waiting latently for a formidable warrior to appear and face them in a last fated duel.$(br2)First you need to obtain the $(l:patchouli:miscellaneous/cataclysm/burning_ashes)Burning Ashes$(/l) dropped by $(l:patchouli:creatures/cataclysm/ignited_revenant)Ignited Revenant$(/l) on death."
         },
         {
             "type": "patchouli:ignis",
