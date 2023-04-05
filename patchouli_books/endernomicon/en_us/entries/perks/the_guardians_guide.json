@@ -1,0 +1,30 @@
+{    
+    "name": "The Guardian's Guide",
+    "icon": "explorerscompass:explorerscompass",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+    "advancement": "endernomicon:the_guardians_guide",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "compass:explorers_compass",
+            "text": "$(li)$(l)The Guardian's Guide$() is a new variant of the $(l:patchouli:tools/vanilla/compass)Compass$(/l) that can be used to find specific structures where some powerful creatures live that are normally hard to find in $(l)the Nether$() and in $(l)the End$().",
+			"title": "The Guardian's Guide"
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/ender_compass_1.png",
+            "text": "$(li)First, just right click while you are holding $(l)The Guardian's Guide$() in your hand."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/ender_compass_2.png",
+            "text": "$(li)Now, select a structure and click the $(l)Start Search$() button to start the Structure Search."
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/ender_compass_3.png",
+            "text": "$(li)When the search ends, needle of this compass will indicate the path to the selected Structure."
+        }
+             ]
+}
