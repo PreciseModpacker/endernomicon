@@ -1,0 +1,47 @@
+{
+    "display": {
+        "title": {
+            "text": "Ignitium Elytra ChestPlate"
+        },
+        "description": {
+            "text": "Get the materials to be able to create an Ignitium Elytra ChestPlate"
+        },
+        "icon": {
+            "item": "cataclysm:ignitium_elytra_chestplate"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "cataclysm:ignitium_chestplate",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Plank" : {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:elytra",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
