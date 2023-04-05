@@ -369,6 +369,12 @@
             "link_text": "CurseForge",
             "text": "$(l)      Environmental$()$(br)$(li)$(l:https://www.curseforge.com/members/teamabnormals/)TeamAbnormals (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/mcvinnyq)mcvinnyq (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/paradiscal/)paradiscal (Artist)$(li)$(l:https://www.curseforge.com/members/nothatsondogs/)nothatsondogs (Artist)$(/l)$(li)$(l:https://www.curseforge.com/members/bageldotjpg/)bageldotjpg (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/martianarchitecture/)martianarchitecture (Author)$(/l)$(li)$(l:https://www.curseforge.com/members/farcr/)Farcr (Former Autor)$(/l)"
         },
+		{
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass/",
+            "link_text": "CurseForge",
+            "text": "$(l)    Explorer's Compass$()$(br)$(li)$(l:https://www.curseforge.com/members/chaosyr/)Chaosyr (Owner)$(/l)"
+        },
         {
             "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/extra-armor/",
@@ -1058,6 +1064,9 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        }
+        },
+		{
+			"type": "patchouli:empty_page"
+		}
              ]
 }

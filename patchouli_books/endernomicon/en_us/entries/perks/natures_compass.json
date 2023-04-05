@@ -12,27 +12,27 @@
         },
         { 
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/natures_compass_1.png",
+            "picture": "endermonicon:textures/book/entries/perks/natures_compass_1.png",
             "text": "$(li)First, just right click while you are holding the Nature's Compass in your hand."
         },
         { 
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/natures_compass_2.png",
+            "picture": "endermonicon:textures/book/entries/perks/natures_compass_2.png",
             "text": "$(li)Then search a Biome, using the searchbox, and the Sort options."
         },
         { 
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/natures_compass_3.png",
+            "picture": "endermonicon:textures/book/entries/perks/natures_compass_3.png",
             "text": "$(li)Now, select it and click the $(l)Start Search$() button to start the Biome Search."
         },
         { 
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/natures_compass_4.png",
+            "picture": "endermonicon:textures/book/entries/perks/natures_compass_4.png",
             "text": "$(li)When the search ends, the Nature's Compass will be indicanting the distance of the selected Biome."
         },
         { 
             "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/tools/natures_compass_5.png",
+            "picture": "endermonicon:textures/book/entries/perks/natures_compass_5.png",
             "text": "$(li)The needle of this compass will indicate the path to the selected Biome."
         }
              ]

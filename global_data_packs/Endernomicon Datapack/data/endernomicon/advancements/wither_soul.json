@@ -1,0 +1,33 @@
+{
+    "display": {
+        "title": {
+            "text": "Wither Soul"
+        },
+        "description": {
+            "text": "Adquire a Wither Soul"
+        },
+        "icon": {
+            "item": "cataclysm:wither_soul"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Wither Soul": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "cataclysm:wither_soul",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

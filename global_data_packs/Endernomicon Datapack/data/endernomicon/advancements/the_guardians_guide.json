@@ -1,0 +1,47 @@
+{
+    "display": {
+        "title": {
+            "text": "The Guardians Guide"
+        },
+        "description": {
+            "text": "Get the materials to be able to create The Guardians Guide"
+        },
+        "icon": {
+            "item": "explorerscompass:explorerscompass"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Wither Soul": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "cataclysm:wither_soul",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "End Crystal Fragment" : {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "endrem:end_crystal_fragment",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
