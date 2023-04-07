@@ -25,21 +25,42 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "B": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:heart_of_the_sea",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "C": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:shark_tooth",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "D": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:serrated_shark_tooth",
                         "count": {

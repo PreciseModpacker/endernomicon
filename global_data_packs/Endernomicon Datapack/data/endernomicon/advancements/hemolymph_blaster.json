@@ -25,35 +25,70 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "B": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:mimicream",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "C": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:mosquito_proboscis",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "D": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:warped_muscle",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "E": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "alexsmobs:blood_sac",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "F": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:netherrack",
                         "count": {

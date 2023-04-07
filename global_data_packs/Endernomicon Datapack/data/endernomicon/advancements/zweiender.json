@@ -25,49 +25,98 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "B": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:blaze_rod",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "C": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "cataclysm:enderite_ingot",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "D": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:stick",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "E": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:diamond",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "F": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:iron_ingot",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "G": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "tag": "minecraft:planks",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "H": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:end_crystal_ingot",
                         "count": {

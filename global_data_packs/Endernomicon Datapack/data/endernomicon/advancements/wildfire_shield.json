@@ -25,21 +25,42 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "B": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "outvoted:wildfire_piece",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "C": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "minecraft:blackstone",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "D": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "tag": "minecraft:planks",
                         "count": {
