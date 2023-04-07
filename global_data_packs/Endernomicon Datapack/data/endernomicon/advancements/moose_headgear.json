@@ -58,8 +58,5 @@
             }
         }
     },
-    "parent": "endernomicon:root",
-    "requirements": [
-        ["Moose Antler"]
-    ]
+    "parent": "endernomicon:root"
 }
