@@ -25,77 +25,154 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "B": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:wither_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "C": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:guardian_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "D": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:old_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "E": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:rogue_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "F": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:nether_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "G": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:cold_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "H": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:corrupted_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "I": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:black_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "J": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:lost_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "K": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:end_crystal_eye",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "L": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "item": "endrem:witch_eye",
                         "count": {

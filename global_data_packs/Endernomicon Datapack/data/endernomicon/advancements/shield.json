@@ -15,7 +15,7 @@
         "hidden": true
     },
     "criteria": {
-        "Gold Ingot": {
+        "Iron": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
@@ -25,7 +25,14 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },
+                    }
+                ]
+            }
+        },
+        "Plank" : {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
                     {
                         "tag": "minecraft:planks",
                         "count": {
@@ -36,6 +43,5 @@
                 ]
             }
         }
-    },
-    "parent": "endernomicon:root"
+    }
 }
