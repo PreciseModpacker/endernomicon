@@ -12,7 +12,8 @@
         {
             "type": "patchouli:entity",
             "entity": "illagers_plus:illager_general",
-            "scale": 0.9
+            "scale": 0.9,
+            "text": "Don't even think about slaying the $(l)Illager General$() or you will start a war against the Illagers."
         }
              ]
 }
