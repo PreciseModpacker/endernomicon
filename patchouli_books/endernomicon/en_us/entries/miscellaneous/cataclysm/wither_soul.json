@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "cataclysm:wither_soul",
-            "text": "$(li)You feel great energy when you hold The Wither Soul in your hand. This item can be used to craft $(l:patchouli:perks/the_guardians_guide)The Guardian's Guide$(/l).$(br)$(li)It only can be dropped by $(l:patchouli:bosses/wither)The Wither$(/l) on death.",
+            "text": "$(li)You feel an extrange energy when you hold $(l)The Wither Soul$() in your hand.$(br)$(li)This item can be used to craft $(l:patchouli:perks/the_guardians_guide)The Guardian's Guide$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It only can be dropped by $(l:patchouli:bosses/wither)The Wither$(/l) on death.",
             "link_recipe": "true"
         },
         {
