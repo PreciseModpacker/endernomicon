@@ -1,0 +1,63 @@
+{    
+    "name": "Shaders",
+    "icon": "endermonicon:textures/book/categories/perks.png",
+    "category": "patchouli:perks",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Shaders allow you to improve the visual aspect of the game in exchange of worse perfomance.$(br)$(li)They are disabled by default, to used them you have to press the $(l)O$() key to access to the $(l)Shader Packs Menu$().$(br)$(li)Now, enable the shaders and select one of the Shaders that you can find in the menu.",
+			"title": "Shaders"
+        },
+        { 
+            "type": "patchouli:small_pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_1.png",
+            "text": "$(li)Finally, just click in the $(l)Apply$() and $(l)Done$() buttons to apply the changes."
+        },
+        { 
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_2.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        { 
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_3.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        { 
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_4.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        { 
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_5.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        },
+        { 
+            "type": "patchouli:pictures",
+            "picture": "endermonicon:textures/book/entries/perks/shaders_6.png",
+            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+             ]
+}
