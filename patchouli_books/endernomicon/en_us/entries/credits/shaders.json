@@ -1,0 +1,28 @@
+{    
+    "name": "Shader Packs",
+    "icon": "minecraft:book",
+    "category": "patchouli:credits",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/customization/bsl-shaders/",
+            "link_text": "CurseForge",
+            "text": "$(l)      BSL Shaders$()$(br)$(li)$(l:https://www.curseforge.com/members/capttatsu/)capttatsu (Titular)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/customization/complementary-shaders/",
+            "link_text": "CurseForge",
+            "text": "$(l) Complementary Shaders v4$()$(br)$(li)$(l:https://www.curseforge.com/members/emingtr/)emingtr (Titular)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default",
+            "link_text": "CurseForge",
+            "text": "$(l) Sildur's Enhanced Default$()$(br) $(l)     Fast & Fancy$()$(br)$(li)$(l:https://www.curseforge.com/members/sildurfx)SildurFX (Titular)$(/l)"
+        },
+		{
+			"type": "patchouli:empty_page"
+		}
+             ]
+}
