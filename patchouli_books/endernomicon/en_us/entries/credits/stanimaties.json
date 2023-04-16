@@ -24,7 +24,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)StAnimaties made the $(l)Enders Journey Portal Message Datapack$() to warn the player about the recommended Video Options during the Ender Dragon Fight.$(br)$(li)StAntimaties made the $(l)Enders Journey Weapons Datapack$() to add new weapons."
+            "text": "$(li)StAnimaties made the $(l)Enders Journey Portal Message Datapack$() to warn the player about the recommended Video Options during the Ender Dragon Fight.$(br)$(li)StAntimaties made the $(l)Enders Journey Weapons Datapack$() to add new weapons.$(br)$(li)StAnimaties helped me to fix a unlock advancements of items in the $(l)Endernomicon Datapack$()."
         },
         {
             "type": "patchouli:empty_page"
