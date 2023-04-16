@@ -13,14 +13,6 @@
             "type": "patchouli:entity",
             "entity": "minecraft:villager{VillagerData:{type:'minecraft:plains',profession:'minecraft:cartographer',level:2}}",
             "scale": 1
-        },
-        {
-            "type": "patchouli:text",
-            "text": "$(li)It is said that a very experienced Cartographer will give you an important stone known as the Levitation Stone.$(br)$(li)This item will help you to arrive to a remote island with many treasures.$(br)$(li)You should trade with one of them until they reach the maximum level and in this way they are interested in trading with you this important item."
-        },
-        {
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/villagers/sky_stone.png"
         }
              ]
 }
