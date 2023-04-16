@@ -1,0 +1,18 @@
+{    
+    "name": "Conch of Conjuring",
+    "icon": "savageandravage:conch_of_conjuring",
+    "category": "patchouli:weapons",
+    "sortnum": 37,
+    "advancement": "endernomicon:conch_of_conjuring",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "savageandravage:conch_of_conjuring",
+            "text": "$(li)The Conch is a range weapon that allows to you to summon big fangs that damage other entities.$(br)$(li)It can only be dropped very rarely by a $(l:patchouli:illagers/evoker)Evoker$(/l) on death.",
+            "link_recipe": "true"
+        },
+        {
+			"type": "patchouli:empty_page"
+		}
+             ]
+}

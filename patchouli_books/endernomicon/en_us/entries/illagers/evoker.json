@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Evokers are powerfull summoners who are able to attack you summoning fangs on the ground that makes damage to you. It is able to summon $(l:patchouli:illagers/vex)Vexes$(/l) to attack you too.$(br)$(li)On death they may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), a $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l), and the $(l:patchouli:enders_journey/ender_eyes)Magical Eye$(/l).$(br)$(li)It can only be found in the $(l:patchouli:illagers/mansion)Mansions$(/l)."
+            "text": "$(li)The Evokers are powerfull summoners who are able to attack you summoning fangs on the ground that makes damage to you. It is able to summon $(l:patchouli:illagers/vex)Vexes$(/l) to attack you too.$(br)$(li)On death they may drop $(l:patchouli:miscellaneous/vanilla/emerald)Emeralds$(/l), a $(l:patchouli:tools/vanilla/totem_of_undying)Totem of Undying$(/l), the $(l:patchouli:enders_journey/ender_eyes)Magical Eye$(/l) and very rarely the $(l:patchouli:weapons/conch_of_conjuring)Conch of Conjuring$(/l)."
         },
         {
             "type": "patchouli:entity",
             "entity": "minecraft:evoker",
             "scale": 1,
-            "text": ""
+            "text": "This creature can be found in the $(l:patchouli:illagers/mansion)Mansions$(/l), $(l:patchouli:illagers/illager_fort)Illager Forts$(/l), $(l:patchouli:illagers/illager_tower)Illager Towers$(/l) and in a $(l:patchouli:illagers/raid)Raid$(/l)."
         }
              ]
 }
