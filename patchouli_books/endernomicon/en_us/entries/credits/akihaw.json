@@ -1,0 +1,17 @@
+{    
+    "name": "Akihaw (Artist)",
+    "icon": "infernalexp:infernal_painting",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/akihaw",
+            "link_text": "Fiverr",
+            "text": "$(li)Akihaw made the new texture for the Levitation Stone in the $(l)Enders Journey Levitation Stone Resourcepack$()."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
