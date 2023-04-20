@@ -1,0 +1,17 @@
+{    
+    "name": "EventHorizon802 (BugFix)",
+    "icon": "endermonicon:textures/book/categories/perks.png",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/eventhorizon802",
+            "link_text": "Fiverr",
+            "text": "$(li)EventHorizon802 helped me to find a Workaround for the OutOfMemory error in the multiplayer mode."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
