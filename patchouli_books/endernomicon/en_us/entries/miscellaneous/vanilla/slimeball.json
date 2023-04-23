@@ -13,8 +13,13 @@
         },
         {
             "type": "patchouli:crafting",
-            "recipe": "minecraft:slime_ball",
+            "recipe": "kubejs:kjs_829skqzbtmy6cdr8dlqi1ijng",
             "recipe2": "alexsmobs:komodo_spit_to_slime",
+            "link_recipe": "true"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:slime_ball",
             "link_recipe": "true"
         }
              ]

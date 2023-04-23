@@ -15,12 +15,26 @@
         "hidden": true
     },
     "criteria": {
-        "Gold Ingot": {
+        "Slimeball": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
                         "item": "minecraft:slime_ball",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        },
+        "Snail Slime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "autumnity:snail_slime",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
