@@ -659,6 +659,18 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mobifier/",
+            "link_text": "CurseForge",
+            "text": "$(l)        Mobifier$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/modernfix/",
+            "link_text": "CurseForge",
+            "text": "$(l)        ModernFix$()$(br)$(li)$(l:https://legacy.curseforge.com/members/embeddedt/)embeddedt (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/modernworldcreation/",
             "link_text": "CurseForge",
             "text": "$(l)  Modern World Creation$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
@@ -851,12 +863,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge/",
-            "link_text": "CurseForge",
-            "text": "$(l)       Smooth Boot$()$(br)$(li)$(l:https://www.curseforge.com/members/ultimateboomer/)UltimateBoomer (Owner)$(/l)"
-        },
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/snow-under-trees/",
             "link_text": "CurseForge",
             "text": "$(l)    Snow Under Trees$()$(br)$(li)$(l:https://www.curseforge.com/members/bl4ckscor3/)bl4ckscor3 (Owner)$(/l)"
@@ -1028,9 +1034,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-		{
-			"type": "patchouli:empty_page"
-		}
+        }
              ]
 }
