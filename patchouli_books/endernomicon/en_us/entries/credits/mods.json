@@ -617,6 +617,12 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/lightspeedmod/",
+            "link_text": "CurseForge",
+            "text": "$(l)         LightSpeed$()$(br)$(li)$(l:https://www.curseforge.com/members/ccr4ft3r/)ccr4ft3r (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/gaxyll/)gaxyll (Artist)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/litewolfcore/",
             "link_text": "CurseForge",
             "text": "$(l)        LiteWolfCores$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
@@ -686,6 +692,12 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix/",
             "link_text": "CurseForge",
             "text": "$(l)     NetherPortalFix$()$(br)$(li)$(l:https://www.curseforge.com/members/blaytheninth/)BlayTheNinth (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/cfgrafanastats)CFGrafanaStats (Mascot)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/no-early-loading-progress",
+            "link_text": "CurseForge",
+            "text": "$(l)No Early Loading Progress$()$(br)$(li)$(l:https://legacy.curseforge.com/members/byquanton_live/)byquanton_live (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
