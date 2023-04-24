@@ -1,0 +1,17 @@
+{    
+    "name": "Shirostories (Datapacker)",
+    "icon": "minecraft:command_block",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/shirostories",
+            "link_text": "Fiverr",
+            "text": "$(li)Shirostories made the $(l)Enders Journey Ender$(br)Dragon Enderite Ingot$(br)Drop Datapack$() to make appear Enderite Ingots after defeat the Ender Dragon."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
