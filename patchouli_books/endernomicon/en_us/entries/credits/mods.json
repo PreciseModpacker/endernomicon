@@ -659,6 +659,18 @@
         },
         {
             "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/",
+            "link_text": "CurseForge",
+            "text": "$(l)     MemoryLeakFix$()$(br)$(li)$(l:https://www.curseforge.com/members/fx_pr0cess/)fx_pr0cess (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/kingcontaria)Kingcontaria (Maintainer)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/memorysweep/",
+            "link_text": "CurseForge",
+            "text": "$(l)     MemorySweep$()$(br)$(li)$(l:https://www.curseforge.com/members/tki_sor/)tki_sor (Owner)$(/l)"
+        },     
+        {
+            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/mobifier/",
             "link_text": "CurseForge",
             "text": "$(l)        Mobifier$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)"
