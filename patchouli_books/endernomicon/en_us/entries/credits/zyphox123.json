@@ -1,0 +1,17 @@
+{    
+    "name": "Zyphox123 (Editor)",
+    "icon": "endrem:ancient_portal_frame",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/zyphox123",
+            "link_text": "Fiverr",
+            "text": "$(li)Zyphox123 made the trailer of the $(l)Ender's Journey Modpack$()."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
