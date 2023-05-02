@@ -11,7 +11,8 @@
             "text": "$(li)Shirostories made the $(l)Enders Journey Ender$(br)Dragon Enderite Ingot$(br)Drop Datapack$() to make appear Enderite Ingots after defeat the Ender Dragon."
         },
         {
-            "type": "patchouli:empty_page"
+            "type": "patchouli:text",
+            "text": "$(li)Shirostories made the $(l)Enders Journey End Crystal Beam Datapack$() to indicate the player what End Crystals are active during the Ender Dragon Boss Fight."
         }
              ]
 }
