@@ -12,7 +12,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Shirostories made the $(l)Enders Journey End Crystal Beam Datapack$() to indicate the player what End Crystals are active during the Ender Dragon Boss Fight."
+            "text": "$(li)Shirostories made the $(l)Enders Journey End Crystal Beam Datapack$() to indicate the player what End Crystals are active during the Ender Dragon Boss Fight.$(br)$(li)Shirostories made the $(l)Enders Journey Remove End Crystal Effect Area$() to remove the Dragon Breath area provocated by the End Crystal explosions during the Ender Dragon Respawn."
         }
              ]
 }
