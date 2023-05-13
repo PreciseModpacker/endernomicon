@@ -28,12 +28,10 @@
         { 
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/perks/natures_compass_4.png",
-            "text": "$(li)When the search ends, the Nature's Compass will be indicanting the distance of the selected Biome."
+            "text": "$(li)When the search ends, the needle of this compass will indicate the path to the selected Biome."
         },
-        { 
-            "type": "patchouli:small_pictures",
-            "picture": "endermonicon:textures/book/entries/perks/natures_compass_5.png",
-            "text": "$(li)The needle of this compass will indicate the path to the selected Biome."
-        }
+        {
+            "type": "patchouli:empty_page"
+        } 
              ]
 }
