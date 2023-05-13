@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "infernalexp:glowcoal",
-            "text": "$(li)Glowcoke is the Nether variant of the $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l).$(br)$(li)This item can be used to craft a $(l:patchouli:utility/vanilla/campfire)Glowlight Campfire$(/l) and $(l:patchouli:decoration/others/torchs)Glowlight Torches$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to smell eight items in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).",
+            "text": "$(li)Glowcoke is the Nether variant of the $(l:patchouli:miscellaneous/vanilla/coal)Coal$(/l).$(br)$(li)This item can be used to craft a $(l:patchouli:utility/vanilla/campfire)Glowlight Campfire$(/l) and $(l:patchouli:decoration/others/torch)Glowlight Torches$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l).$(br)$(li)It can be used to smell eight items in a $(l:patchouli:utility/vanilla/furnace)Furnace$(/l), $(l:patchouli:utility/vanilla/smoker)Smoker$(/l), $(l:patchouli:utility/vanilla/blast_furnace)Blast $(l:patchouli:utility/vanilla/furnace)Furnace$(/l)$(/l), or $(l:patchouli:utility/environmental/kiln)Kiln$(/l).",
             "link_recipe": "true"
         },
         {

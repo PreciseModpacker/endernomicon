@@ -13,7 +13,7 @@
         { 
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/tools/clock.png",
-            "text": "$(li)They can be used to craft a Clock Block in a $(l:patchouli:utility/vanilla/crafting_table)$(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(/l)."
+            "text": "$(li)They can be used to craft a $(l:patchouli:redstone/supplementaries/clock_block)Clock Block$(/l) in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)."
         }
              ]
 }

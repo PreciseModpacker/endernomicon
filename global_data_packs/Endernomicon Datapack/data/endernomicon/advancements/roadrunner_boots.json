@@ -34,7 +34,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:leather_boots",
+                        "item": "minecraft:leather",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999
@@ -48,7 +48,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:chiseled_sandstone",
+                        "item": "minecraft:sand",
                         "count": {
                             "min": 1,
                             "max": 9999999999999999

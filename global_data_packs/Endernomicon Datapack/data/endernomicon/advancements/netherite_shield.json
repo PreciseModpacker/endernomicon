@@ -25,13 +25,6 @@
                             "min": 1,
                             "max": 9999999999999999
                         }
-                    },  
-                    {
-                        "item": "minecraft:diamond",
-                        "count": {
-                            "min": 1,
-                            "max": 9999999999999999
-                        }
                     }
                 ]
             }
@@ -63,6 +56,20 @@
                     }
                 ]
             }
+        }
+    },
+    "D": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+            "items": [
+                {
+                    "item": "minecraft:diamond",
+                    "count": {
+                        "min": 1,
+                        "max": 9999999999999999
+                    }
+                }
+            ]
         }
     },
     "parent": "endernomicon:root"
