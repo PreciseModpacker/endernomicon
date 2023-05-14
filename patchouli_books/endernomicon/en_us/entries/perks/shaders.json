@@ -40,24 +40,6 @@
         {
             "type": "patchouli:empty",
             "draw_filler": false
-        },
-        { 
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/perks/shaders_5.png",
-            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
-        },
-        { 
-            "type": "patchouli:pictures",
-            "picture": "endermonicon:textures/book/entries/perks/shaders_6.png",
-            "transparency": "endermonicon:textures/book/templates/pictures/center_10.png"
-        },
-        {
-            "type": "patchouli:empty",
-            "draw_filler": false
         }
              ]
 }
