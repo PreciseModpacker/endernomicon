@@ -2,7 +2,7 @@
     "name": "A.T. Illagers Bane IX",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:4s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 29,
     "advancement": "endernomicon:ancient_tome_illagers_bane",
     "pages": [
         {

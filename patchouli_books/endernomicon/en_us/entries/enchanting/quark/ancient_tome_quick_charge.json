@@ -2,7 +2,7 @@
     "name": "A.T. Quick Charge IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:quick_charge',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 63,
     "advancement": "endernomicon:ancient_tome_quick_charge",
     "pages": [
         {

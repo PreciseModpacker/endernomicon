@@ -2,6 +2,7 @@
     "name": "Feather Falling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:feather_falling',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 16,
     "advancement": "endernomicon:feather_falling",
     "pages": [
         {

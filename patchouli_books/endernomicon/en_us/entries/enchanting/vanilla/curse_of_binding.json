@@ -2,6 +2,7 @@
     "name": "Curse of Binding",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:binding_curse',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 9,
     "advancement": "endernomicon:curse_of_binding",
     "pages": [
         {

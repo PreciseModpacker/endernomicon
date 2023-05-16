@@ -2,6 +2,7 @@
     "name": "Fire Aspect",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fire_aspect',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 18,
     "advancement": "endernomicon:fire_aspect",
     "pages": [
         {

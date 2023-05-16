@@ -2,6 +2,7 @@
     "name": "Funneling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:funnelling',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 27,
     "advancement": "endernomicon:funnelling",
     "pages": [
         {

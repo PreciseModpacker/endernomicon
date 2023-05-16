@@ -2,6 +2,7 @@
     "name": "Channeling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 8,
     "advancement": "endernomicon:channeling",
     "pages": [
         {

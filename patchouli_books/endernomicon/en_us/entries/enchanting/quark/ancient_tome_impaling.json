@@ -2,7 +2,7 @@
     "name": "A.T. Impaling VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:impaling',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 32,
     "advancement": "endernomicon:ancient_tome_impaling",
     "pages": [
         {

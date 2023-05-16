@@ -2,6 +2,7 @@
     "name": "Piercing",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:piercing',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 52,
     "advancement": "endernomicon:piercing",
     "pages": [
         {

@@ -2,6 +2,7 @@
     "name": "Sharpness",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:sharpness',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 72,
     "advancement": "endernomicon:sharpness",
     "pages": [
         {

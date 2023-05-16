@@ -2,6 +2,7 @@
     "name": "Protection",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:protection',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 58,
     "advancement": "endernomicon:protection",
     "pages": [
         {

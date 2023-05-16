@@ -2,6 +2,7 @@
     "name": "Fire Protection",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:fire_protection',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 20,
     "advancement": "endernomicon:fire_protection",
     "pages": [
         {

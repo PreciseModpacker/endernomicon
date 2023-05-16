@@ -2,6 +2,7 @@
     "name": "Aqua Affinity",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:aqua_affinity',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 3,
     "advancement": "endernomicon:aqua_affinity",
     "pages": [
         {

@@ -2,6 +2,7 @@
     "name": "Marksman",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:marksman',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 49,
     "advancement": "endernomicon:marksman",
     "pages": [
         {

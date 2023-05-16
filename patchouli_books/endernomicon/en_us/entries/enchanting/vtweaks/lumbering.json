@@ -2,6 +2,7 @@
     "name": "Lumbering",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:lumbering',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 46,
     "advancement": "endernomicon:lumbering",
     "pages": [
         {

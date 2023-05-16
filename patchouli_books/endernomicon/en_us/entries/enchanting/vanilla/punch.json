@@ -2,6 +2,7 @@
     "name": "Punch",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:punch',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 60,
     "advancement": "endernomicon:punch",
     "pages": [
         {

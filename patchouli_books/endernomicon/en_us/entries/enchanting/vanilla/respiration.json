@@ -2,6 +2,7 @@
     "name": "Respiration",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:respiration',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 66,
     "advancement": "endernomicon:respiration",
     "pages": [
         {

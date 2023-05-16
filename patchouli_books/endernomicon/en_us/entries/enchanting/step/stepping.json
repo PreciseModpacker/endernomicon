@@ -2,6 +2,7 @@
     "name": "Stepping",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'step:stepping',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 81,
     "advancement": "endernomicon:stepping",
     "pages": [
         {

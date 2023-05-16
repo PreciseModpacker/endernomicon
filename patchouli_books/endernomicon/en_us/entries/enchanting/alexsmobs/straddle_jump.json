@@ -2,6 +2,7 @@
     "name": "Straddle Jump",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:straddle_jump',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 82,
     "advancement": "endernomicon:straddle_jump",
     "pages": [
         {

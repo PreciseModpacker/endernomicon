@@ -2,6 +2,7 @@
     "name": "Efficiency",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:efficency',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 14,
     "advancement": "endernomicon:efficiency",
     "pages": [
         {

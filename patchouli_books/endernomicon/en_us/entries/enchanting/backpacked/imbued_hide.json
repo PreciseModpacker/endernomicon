@@ -2,6 +2,7 @@
     "name": "Imbued Hide",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:imbued_hide',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 30,
     "advancement": "endernomicon:imbued_hide",
     "pages": [
         {

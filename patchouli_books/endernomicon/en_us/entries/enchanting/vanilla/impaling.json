@@ -2,6 +2,7 @@
     "name": "Impaling",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:impaling',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 31,
     "advancement": "endernomicon:impaling",
     "pages": [
         {

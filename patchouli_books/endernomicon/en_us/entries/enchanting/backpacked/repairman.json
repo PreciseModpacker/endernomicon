@@ -2,6 +2,7 @@
     "name": "Repairman",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:repairman',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 65,
     "advancement": "endernomicon:repairman",
     "pages": [
         {

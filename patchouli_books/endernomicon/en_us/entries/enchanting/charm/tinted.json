@@ -2,6 +2,7 @@
     "name": "Tinted",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:tinted',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 87,
     "advancement": "endernomicon:tinted",
     "pages": [
         {

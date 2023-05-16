@@ -2,6 +2,7 @@
     "name": "Curse of Vanishing",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:vanishing_curse',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 10,
     "advancement": "endernomicon:curse_of_vanishing",
     "pages": [
         {

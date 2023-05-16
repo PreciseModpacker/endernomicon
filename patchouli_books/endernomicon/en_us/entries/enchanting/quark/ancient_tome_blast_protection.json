@@ -2,7 +2,7 @@
     "name": "A.T. Blast Protection V",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:blast_protection',lvl:4s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 7,
     "advancement": "endernomicon:ancient_tome_blast_protection",
     "pages": [
         {

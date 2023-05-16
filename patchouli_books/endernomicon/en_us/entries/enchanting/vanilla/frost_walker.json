@@ -2,6 +2,7 @@
     "name": "Frost Walker",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:frost_walker',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 25,
     "advancement": "endernomicon:frost_walker",
     "pages": [
         {

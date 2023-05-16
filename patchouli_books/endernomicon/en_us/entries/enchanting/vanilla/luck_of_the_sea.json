@@ -2,6 +2,7 @@
     "name": "Luck of the Sea",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:luck_of_the_sea',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 44,
     "advancement": "endernomicon:luck_of_the_sea",
     "pages": [
         {

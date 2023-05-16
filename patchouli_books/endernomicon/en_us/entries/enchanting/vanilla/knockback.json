@@ -2,6 +2,7 @@
     "name": "Knockback",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:knockback',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 35,
     "advancement": "endernomicon:knockback",
     "pages": [
         {

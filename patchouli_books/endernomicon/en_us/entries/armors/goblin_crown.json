@@ -8,7 +8,7 @@
         {
             "type": "patchouli:spotlight",
             "item": "goblinsanddungeons:goblin_crown",
-            "text": "$(li)The Goblin Crown once equipped inflicts the effect $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) II to any Goblin or Ogre near you and $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) I to other creatures, reducing the damage of their attacks.$(br)$(li)It can only be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l).",
+            "text": "$(li)The Goblin Crown once equipped inflicts the effect $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) II to any Goblin or Ogre near you and $(l:patchouli:potions/vanilla/weakness)Weakness$(/l) I to other creatures, reducing the damage of their attacks.$(br)$(li)It can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) of the $(l:patchouli:structures/ruined_keep)Ruined Keep$(/l) or be dropped by the $(l:patchouli:bosses/goblin_king)Goblin King$(/l) on death.",
             "link_recipe": "true"
         },
         {

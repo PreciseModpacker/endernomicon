@@ -2,6 +2,7 @@
     "name": "Acquisition",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:acquisition',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 2,
     "advancement": "endernomicon:acquisition",
     "pages": [
         {

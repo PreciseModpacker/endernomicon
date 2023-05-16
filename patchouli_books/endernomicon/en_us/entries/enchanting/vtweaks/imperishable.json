@@ -2,6 +2,7 @@
     "name": "Imperishable",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'vtweaks:imperishable',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 33,
     "advancement": "endernomicon:imperishable",
     "pages": [
         {

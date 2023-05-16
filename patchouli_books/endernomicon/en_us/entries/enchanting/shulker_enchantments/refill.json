@@ -2,6 +2,7 @@
     "name": "Refill",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:refill',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 64,
     "advancement": "endernomicon:refill",
     "pages": [
         {
