@@ -2,6 +2,7 @@
     "name": "Aerial Affinity",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'charm:aerial_affinity',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 1,
     "advancement": "endernomicon:aerial_affinity",
     "pages": [
         {

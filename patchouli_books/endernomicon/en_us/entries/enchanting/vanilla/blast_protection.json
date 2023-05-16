@@ -2,6 +2,7 @@
     "name": "Blast Protection",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:blast_protection',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 6,
     "advancement": "endernomicon:blast_protection",
     "pages": [
         {

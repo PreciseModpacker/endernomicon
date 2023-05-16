@@ -2,7 +2,7 @@
     "name": "A.T. Bane of Arthropods VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 5,
     "advancement": "endernomicon:ancient_tome_bane_of_arthropods",
     "pages": [
         {

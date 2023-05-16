@@ -2,6 +2,7 @@
     "name": "Dashing",
     "icon": "minecraft:enchanted_book",
     "category": "patchouli:enchanting",
+    "sortnum": 11,
     "advancement": "endernomicon:dashing",
     "pages": [
         {

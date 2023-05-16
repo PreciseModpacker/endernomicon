@@ -2,6 +2,7 @@
     "name": "Sweeping Edge",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:sweeping',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 84,
     "advancement": "endernomicon:sweeping_edge",
     "pages": [
         {

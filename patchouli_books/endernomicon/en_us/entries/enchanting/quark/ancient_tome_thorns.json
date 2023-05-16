@@ -2,7 +2,7 @@
     "name": "A.T. Thorns IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:thorns',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 87,
     "advancement": "endernomicon:ancient_tome_thorns",
     "pages": [
         {

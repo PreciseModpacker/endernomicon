@@ -2,6 +2,7 @@
     "name": "Depth Strider",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:depth_strider',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 12,
     "advancement": "endernomicon:depth_strider",
     "pages": [
         {

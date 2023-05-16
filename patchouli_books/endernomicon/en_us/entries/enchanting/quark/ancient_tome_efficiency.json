@@ -2,7 +2,7 @@
     "name": "A.T. Efficiency VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:efficiency',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 15,
     "advancement": "endernomicon:ancient_tome_efficiency",
     "pages": [
         {

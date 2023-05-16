@@ -2,6 +2,7 @@
     "name": "Bane of Arthropods",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:bane_of_arthropods',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 4,
     "advancement": "endernomicon:bane_of_arthropods",
     "pages": [
         {

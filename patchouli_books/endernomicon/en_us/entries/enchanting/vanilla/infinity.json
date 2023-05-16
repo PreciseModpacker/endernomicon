@@ -2,6 +2,7 @@
     "name": "Infinity",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:infinity',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 34,
     "advancement": "endernomicon:infinity",
     "pages": [
         {

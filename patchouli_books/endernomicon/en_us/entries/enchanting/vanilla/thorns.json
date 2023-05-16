@@ -2,6 +2,7 @@
     "name": "Thorns",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:thorns',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 86,
     "advancement": "endernomicon:thorns",
     "pages": [
         {

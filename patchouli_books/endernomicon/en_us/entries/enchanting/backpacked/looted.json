@@ -2,6 +2,7 @@
     "name": "Looted",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'backpacked:looted',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 39,
     "advancement": "endernomicon:looted",
     "pages": [
         {

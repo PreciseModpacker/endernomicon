@@ -2,6 +2,7 @@
     "name": "Multishot",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:multishot',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 51,
     "advancement": "endernomicon:multishot",
     "pages": [
         {

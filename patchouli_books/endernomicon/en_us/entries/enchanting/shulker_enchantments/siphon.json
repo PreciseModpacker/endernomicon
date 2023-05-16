@@ -2,6 +2,7 @@
     "name": "Siphon",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'shulker_enchantments:siphon',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 75,
     "advancement": "endernomicon:siphon",
     "pages": [
         {

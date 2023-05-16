@@ -2,6 +2,7 @@
     "name": "Lure",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:lure',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 47,
     "advancement": "endernomicon:lure",
     "pages": [
         {

@@ -2,6 +2,7 @@
     "name": "Loyalty",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:loyalty',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 42,
     "advancement": "endernomicon:loyalty",
     "pages": [
         {

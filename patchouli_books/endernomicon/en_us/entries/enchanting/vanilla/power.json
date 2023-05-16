@@ -2,6 +2,7 @@
     "name": "Power",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:protection',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 54,
     "advancement": "endernomicon:power",
     "pages": [
         {

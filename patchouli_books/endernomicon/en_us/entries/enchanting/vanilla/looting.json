@@ -2,6 +2,7 @@
     "name": "Looting",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:looting',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 40,
     "advancement": "endernomicon:looting",
     "pages": [
         {

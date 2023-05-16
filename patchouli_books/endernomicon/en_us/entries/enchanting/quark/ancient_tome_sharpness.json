@@ -2,7 +2,7 @@
     "name": "A.T. Sharpness VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:sharpness',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 73,
     "advancement": "endernomicon:ancient_tome_sharpness",
     "pages": [
         {

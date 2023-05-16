@@ -2,6 +2,7 @@
     "name": "Unbreaking",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:unbreaking',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 88,
     "advancement": "endernomicon:unbreaking",
     "pages": [
         {

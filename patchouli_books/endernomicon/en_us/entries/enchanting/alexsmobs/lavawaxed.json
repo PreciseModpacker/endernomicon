@@ -2,6 +2,7 @@
     "name": "Lavawaxed",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:lavawax',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 37,
     "advancement": "endernomicon:lavawaxed",
     "pages": [
         {

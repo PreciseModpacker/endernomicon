@@ -14,7 +14,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "kubejs:kjs_13tvjnrkt0voeybb7ixl61fhn",
-            "text": "$(o)An $(l)Ender Eye$()$(o) can be imbued with energy from this mineral.$(br2)$(o)You have to place it with $(l)Redstone$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l), creating the $(l)Lost Eye$()$(o) in the process."
+            "text": "An $(l)$(l:patchouli:miscellaneous/vanilla/eye_of_ender)Ender Eye$(/l)$() can be imbued with the mysterious energy of $(l)$(l:patchouli:redstone/vanilla/redstone)this mineral$(/l)$().$(br2)You have to place them together in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create the $(#d42c08)$(l)Lost Eye$()."
         },
         {
             "type": "patchouli:micro_pictures",
@@ -26,62 +26,62 @@
         {
             "type": "patchouli:crafting",
             "recipe": "endrem:witch_eye",
-            "text": "$(o)Their pupils are said to contain great arcane power.$(br2)If you were able to put together a $(l)Witch Pupil$() $(o)and an $(l)Eye of Ender$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(o), you will be able to create the $(l)Witch Eye$()$(o).$()"
+            "text": "An $(l)$(l:patchouli:miscellaneous/vanilla/eye_of_ender)Ender Eye$(/l)$() can be imbued with the arcane energy of $(l)$(l:patchouli:miscellaneous/end_remastered/witch_pupil)their pupils$(/l)$() that may be dropped when this creature perish.$(br2)You have to place them together in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create the $(#b32eab)$(l)Witch Eye$()."
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/rogue_eye.png",
             "title": "Rogue Eye",
-            "text": "$(o)The $(l)Rogue Eye$()$(o) is hidden inside of the temples located in the depths of the Jungles over the Overworld.",
+            "text": "$(o)The $(l)$(#32b14d)$(l)Rogue Eye$()$(o) is hidden inside of the different structures located in the depths of the Jungles over the Overworld.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/old_eye.png",
             "title": "Old Eye",
-            "text": "$(o)The $(l)Old Eye$()$(o) is hidden inside of the temples located in the Deserts over the Overworld.",
+            "text": "$(o)The $(l)$(#daa80e)$(l)Old Eye$()$(o) is hidden inside of the different structures located in the Deserts over the Overworld.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/cold_eye.png",
             "title": "Cold Eye",
-            "text": "$(o)The $(l)Cold Eye$()$(o) is hidden inside of the different structures located in the snowy biomes as the Taigas, Tundras, or Mountains over the Overworld.",
+            "text": "$(o)The $(l)$(#13cfd6)Cold Eye$()$(o) is hidden inside of the different structures located in the snowy biomes as the Taigas, Tundras, or Mountains over the Overworld.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/black_eye.png",
             "title": "Black Eye",
-            "text": "$(o)The $(l)Black Eye$()$(o) is a very rare treasure that some pirates hid.$(br2)May some Villagers will exchange Treasure Maps to you.",
+            "text": "$(o)The $(l)Black Eye$()$(o) is a very rare treasure that some pirates hid.$(br2)May some Villagers will exchange Treasure Maps to help you in your search.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/corrupted_eye.png",
             "title": "Corrupted Eye",
-            "text": "$(o)The illagers, being greedy creatures that they are, among their stolen belongings have $(l)Corrupted Eyes$()$(o) stored in their structures.",
+            "text": "$(o)The Illagers, being greedy creatures that they are, among their stolen belongings have the $(l)$(#526566)Corrupted Eye$()$(o) stored in their structures.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/magical_eye.png",
             "title": "Magical Eye",
-            "text": "$(o)The Evokers learned the art of necromancy in their Mansions using the $(l)Magical Eye$() they possess. They won't give it away so easily, you'll have to get it by force.",
+            "text": "$(o)The Evokers learned the art of necromancy in their Mansions using the $(l)$(#2a9ba1)Magical Eye$() $(o)they possess. They won't give it away so easily, you'll have to get it by force.",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/guardian_eye.png",
             "title": "Guardian Eye",
-            "text": "$(o)In the depths of the Oceans are the Ocean Monuments where the Elder Guardians dwell. Defeat one of these creatures to get the $(l)Guardian Eye$()$(o).",
+            "text": "$(o)In the depths of the Oceans are the Ocean Monuments where the Elder Guardians dwell. Defeat one of these creatures to get the $(l)$(#ffaa9a)Guardian Eye$()$(o).",
             "link_recipe": "true"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/wither_eye.png",
             "title": "Wither Eye",
-            "text": "$(o)The union of Wither Skeletons Skulls forms a powerful creature known as the Wither. You will be able to get the $(l)Wither Eye$()$(o) once you defeat this creature.",
+            "text": "$(o)The union of Wither Skeletons Skulls forms a powerful creature known as the Wither. You will be able to get the $(l)$(#a4a09f)Wither Eye$()$(o) once you defeat this creature.",
             "link_recipe": "true"
         },
         {
@@ -94,13 +94,13 @@
         {
             "type": "patchouli:crafting",
             "recipe": "endrem:end_crystal_eye",
-            "text": "$(o)You can place this hard material with $(o)an $(l)Eye of Ender$() in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l)$(o).$(br2)This will allow you to create the $(l)End Crystal Eye$()$(o).$()"
+            "text": "An $(l)$(l:patchouli:miscellaneous/vanilla/eye_of_ender)Ender Eye$(/l)$() can be reforged with $(l)$(l:patchouli:miscellaneous/end_remastered/end_crystal_fragment)this mineral$(/l).$()$(br2)You have to place them together in a $(l:patchouli:utility/vanilla/crafting_table)Crafting Table$(/l) to create the $(l)$(#de2a95)End Crystal Eye$()"
         },
         {
             "type": "patchouli:micro_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/nether_eye.png",
             "title": "Nether Eye",
-            "text": "$(o)The $(l)Nether Eye$()$(o) is hidden inside of the Fortress or other structures located over the Nether.",
+            "text": "$(o)The $(l)$(#923d17)Nether Eye$()$(o) is hidden inside of the Fortress or other structures located over the Nether.",
             "link_recipe": "true"
         },
         {

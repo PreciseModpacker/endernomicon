@@ -2,6 +2,7 @@
     "name": "Smite",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:smite',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 76,
     "advancement": "endernomicon:smite",
     "pages": [
         {

@@ -2,6 +2,7 @@
     "name": "Serpent Charmer",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'alexsmobs:serpentfriend',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 71,
     "advancement": "endernomicon:serpent_chamber",
     "pages": [
         {

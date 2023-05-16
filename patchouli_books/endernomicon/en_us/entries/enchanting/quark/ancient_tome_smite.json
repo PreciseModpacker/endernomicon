@@ -2,7 +2,7 @@
     "name": "A.T. Smite VI",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:smite',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 77,
     "advancement": "endernomicon:ancient_tome_smite",
     "pages": [
         {

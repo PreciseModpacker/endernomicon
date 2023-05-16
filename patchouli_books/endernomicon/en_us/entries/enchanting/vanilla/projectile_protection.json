@@ -2,6 +2,7 @@
     "name": "Projectile Protection",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:projectile_protection',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 56,
     "advancement": "endernomicon:projectile_protection",
     "pages": [
         {

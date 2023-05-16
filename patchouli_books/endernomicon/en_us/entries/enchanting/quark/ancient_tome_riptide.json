@@ -2,7 +2,7 @@
     "name": "A.T. Riptide IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:riptide',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 70,
     "advancement": "endernomicon:ancient_tome_riptide",
     "pages": [
         {

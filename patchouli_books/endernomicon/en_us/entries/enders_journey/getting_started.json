@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)Thanks to download the Ender's Journey modpack!$(br)$(li)If you find any bug, please, don't doubt to report it $(l:https://github.com/PreciseModpacker/enders_journey/issues)here$(/l) .$(br)$(li)If you are new I strongly recommend you read these pages before to start."
+            "text": "$(li)Thanks to download the Ender's Journey modpack!$(br)$(li)If you find any bug, please, don't doubt to report it $(l:https://github.com/PreciseModpacker/enders_journey/issues)here$(/l)$(br)$(li)If it is your first time playing this modpack I strongly recommend you to read these pages before to start."
         },
         {
             "type": "patchouli:text",
@@ -37,11 +37,11 @@
         {
             "type": "patchouli:small_pictures",
             "picture": "endermonicon:textures/book/entries/enders_journey/endernomicon_4.png",
-            "text": "$(li)Inside of every category you will find entries related with that category. At first some of them will be locked too."
+            "text": "$(li)Inside of every category you will find entries related with that category."
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)As you explore the world, discover new dimensions, biomes and structures, find new items, slay creatures and craft items, the book entries will be unlocked little by little.$(br)$(li)This knowledge may be useful to you in your adventure.$(br)$(li)You can $(l:patchouli:enders_journey/craft_endernomicon)craft this book$(/l) to have extra functions too."
+            "text": "$(li)As you explore the world, discover new dimensions, biomes and structures, find new items, slay creatures and craft items, the book entries will be unlocked little by little.$(br)$(li)This knowledge may be useful to you in your adventure.$(br)$(li)In a future you will learn how to $(l:patchouli:enders_journey/craft_endernomicon)craft this book$(/l) to unlock extra functions."
         }
              ]
 }

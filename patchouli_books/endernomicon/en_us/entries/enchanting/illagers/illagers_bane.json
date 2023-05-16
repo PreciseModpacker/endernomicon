@@ -2,6 +2,7 @@
     "name": "Illager's Bane",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'illagers_plus:illagers_bane',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 28,
     "advancement": "endernomicon:illagers_bane",
     "pages": [
         {

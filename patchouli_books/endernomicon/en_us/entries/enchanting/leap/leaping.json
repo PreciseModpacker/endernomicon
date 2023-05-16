@@ -2,6 +2,7 @@
     "name": "Leaping",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'leap:leaping',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 38,
     "advancement": "endernomicon:leaping",
     "pages": [
         {

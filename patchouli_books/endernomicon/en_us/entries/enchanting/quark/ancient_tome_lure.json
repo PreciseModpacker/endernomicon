@@ -2,7 +2,7 @@
     "name": "A.T. Lure IV",
     "icon": "quark:ancient_tome{StoredEnchantments:[{id:'minecraft:lure',lvl:3s}]}",
     "category": "patchouli:enchanting",
-    "sortnum": 1,
+    "sortnum": 48,
     "advancement": "endernomicon:ancient_tome_lure",
     "pages": [
         {

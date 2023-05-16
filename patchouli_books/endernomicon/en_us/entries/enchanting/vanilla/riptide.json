@@ -2,6 +2,7 @@
     "name": "Riptide",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'minecraft:riptide',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 69,
     "advancement": "endernomicon:riptide",
     "pages": [
         {

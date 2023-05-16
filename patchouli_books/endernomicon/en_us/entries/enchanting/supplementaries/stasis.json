@@ -2,6 +2,7 @@
     "name": "Stasis",
     "icon": "minecraft:enchanted_book{StoredEnchantments:[{id:'supplementaries:stasis',lvl:1}]}",
     "category": "patchouli:enchanting",
+    "sortnum": 80,
     "advancement": "endernomicon:stasis",
     "pages": [
         {
