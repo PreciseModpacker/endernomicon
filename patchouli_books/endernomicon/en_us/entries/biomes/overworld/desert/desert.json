@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals can withstand these harsh conditions, such as $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hasks$(/l).$(br)$(li)At night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome by typing the word $(l)Desert$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals can withstand these harsh conditions, such as $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l), $(l:patchouli:pets/alexsmobs/tarantula_hawk)Tarantula Hasks$(/l).$(br)$(li)At night the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Desert too.$(br)$(li)You can search this biome by typing the word $(l)Desert$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

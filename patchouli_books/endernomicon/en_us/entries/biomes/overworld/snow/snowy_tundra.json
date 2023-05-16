@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:creatures/alexsmobs/moose)Moose$(/l) can be found walking around this biome too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Tundra$() in the search box of the Nature's Compass."
+            "text": "$(li)$(l:patchouli:creatures/alexsmobs/moose)Moose$(/l) can be found walking around this biome too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Tundra$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)You can search this biome by typing the word $(l)Ice Spikes$() in the search box of the Nature's Compass."
+            "text": "$(li)You can search this biome by typing the word $(l)Ice Spikes$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Cods, Salmons, $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l) and $(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Sharks$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Deep Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like Cods, Salmons, $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l) and $(l:patchouli:creatures/alexsmobs/frilled_shark)Frilled Sharks$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Deep Ocean$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), Tropical Fish, $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/vanilla/cachalot_whale)Cachalot Whales$(/l) and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here too."
+            "text": "$(li)Some aquatic animals like Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), Tropical Fish, $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/vanilla/cachalot_whale)Cachalot Whales$(/l) and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Lukewarm Ocean$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

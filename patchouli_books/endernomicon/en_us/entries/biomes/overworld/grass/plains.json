@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)$(l:patchouli:pets/alexsmobs/crow)Crows$(/l) can be found flying around this biome.$(br)$(li)You can search this biome by typing the word $(l)Plains$() in the search box of the Nature's Compass."
+            "text": "$(li)$(l:patchouli:pets/alexsmobs/crow)Crows$(/l) can be found flying around this biome.$(br)$(li)You can search this biome by typing the word $(l)Plains$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

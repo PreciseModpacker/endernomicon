@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l), $(l:patchouli:creatures/alexsmobs/emus)Emus$(/l), $(l:patchouli:pets/alexsmobs/elephant)Elephants$(/l) and $(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) can be found here.$(br)$(li)At night, the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Savanna too.$(br)$(li)You can search this biome by typing the word $(l)Savanna$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroos$(/l), $(l:patchouli:creatures/alexsmobs/emus)Emus$(/l), $(l:patchouli:pets/alexsmobs/elephant)Elephants$(/l) and $(l:patchouli:creatures/alexsmobs/gazelle)Gazelles$(/l) can be found here.$(br)$(li)At night, the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) will be around the Savanna too.$(br)$(li)You can search this biome by typing the word $(l)Savanna$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

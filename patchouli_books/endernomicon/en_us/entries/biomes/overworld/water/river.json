@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Here you can find some water vegetation like Seagrass or Tall Purple Pickerelweed.$(br)$(li)Some aquatic animals like Salmons, Cods, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l), and rarely $(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)River$() in the search box of the Nature's Compass."
+            "text": "$(li)Here you can find some water vegetation like Seagrass or Tall Purple Pickerelweed.$(br)$(li)Some aquatic animals like Salmons, Cods, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/alexsmobs/lobster)Lobsters$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l), and rarely $(l:patchouli:creatures/alexsmobs/platypus)Platypus$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)River$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",
