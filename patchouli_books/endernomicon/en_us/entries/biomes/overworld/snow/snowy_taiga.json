@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets, Spruce trees.$(br)$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Taiga$() in the search box of the Nature's Compass."
+            "text": "$(li)In this place you can find some vegetation like Red and Brown Mushrooms, Dandelions, Violets, Spruce trees.$(br)$(li)Some animals like $(l:patchouli:pets/alexsmobs/grizzly_bear)Grizzly Bears$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Snowy Taiga$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

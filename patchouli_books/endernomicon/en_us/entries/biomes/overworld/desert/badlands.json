@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)There are even animals that can withstand this harsh environment. Because life finds a way. You can find $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:creatures/alexsmobs/sunbird)Sunbirds$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroo$(/l) and $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l)$(br)$(li)Dangerous creatures such as the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) can be found in this biome too.$(br)$(li)You can search this biome by typing the word $(l)Badlands$() in the search box of the Nature's Compass."
+            "text": "$(li)There are even animals that can withstand this harsh environment. Because life finds a way. You can find $(l:patchouli:creatures/alexsmobs/roadrunner)Roadrunners$(/l), $(l:patchouli:creatures/alexsmobs/emu)Emus$(/l), $(l:patchouli:creatures/alexsmobs/sunbird)Sunbirds$(/l), $(l:patchouli:pets/alexsmobs/kangaroo)Kangaroo$(/l) and $(l:patchouli:creatures/alexsmobs/rattlesnake)Rattlesnakes$(/l)$(br)$(li)Dangerous creatures such as the $(l:patchouli:creatures/vanilla/husk)Husk$(/l) can be found in this biome too.$(br)$(li)You can search this biome by typing the word $(l)Badlands$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

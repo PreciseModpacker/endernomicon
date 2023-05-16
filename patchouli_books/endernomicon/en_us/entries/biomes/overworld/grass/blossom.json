@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/vanilla/fox)Foxes$(/l), $(l:patchouli:creatures/vanilla/panda)Pandas$(/l), or $(l:patchouli:creatures/environmental/koi)Kois$(/l) can be found here.$(br)$(li)You can search this biome by typing the word $(l)Blossom$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/vanilla/fox)Foxes$(/l), $(l:patchouli:creatures/vanilla/panda)Pandas$(/l), or $(l:patchouli:creatures/environmental/koi)Kois$(/l) can be found here.$(br)$(li)You can search this biome by typing the word $(l)Blossom$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

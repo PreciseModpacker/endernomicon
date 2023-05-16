@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic creatures survive in these cold waters, like $(l:patchouli:creatures/alexsmobs/orca)Orcas$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), Salmons, Cods and $(l:patchouli:creatures/vanilla/squid)Squids$(/l).$(br)$(li)You can search this biome by typing the words $(l)Cold Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic creatures survive in these cold waters, like $(l:patchouli:creatures/alexsmobs/orca)Orcas$(/l), $(l:patchouli:creatures/alexsmobs/cachalot_whale)Cachalot Whales$(/l), Salmons, Cods and $(l:patchouli:creatures/vanilla/squid)Squids$(/l).$(br)$(li)You can search this biome by typing the words $(l)Cold Ocean$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

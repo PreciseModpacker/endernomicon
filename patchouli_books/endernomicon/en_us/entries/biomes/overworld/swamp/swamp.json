@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:creatures/supplementaries/firefly)Fireflies$(/l), $(l:patchouli:creatures/quark/frog)Frogs$(/l), Perches, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Swamp$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:creatures/supplementaries/firefly)Fireflies$(/l), $(l:patchouli:creatures/quark/frog)Frogs$(/l), Perches, $(l:patchouli:creatures/upgrade_aquatic/pike)Pikes$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l) and $(l:patchouli:creatures/alexsmobs/crocodile)Crocodiles$(/l) can be found here too.$(br)$(li)You can search this biome by typing the word $(l)Swamp$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

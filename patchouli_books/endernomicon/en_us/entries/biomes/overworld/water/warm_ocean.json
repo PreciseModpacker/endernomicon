@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some aquatic animals like $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l), Tropical Fish and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here.$(br)$(li)You can find $(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) swimming around of the Coral Reefs too.$(br)$(li)You can search this biome by typing the word $(l)Warm Ocean$() in the search box of the Nature's Compass."
+            "text": "$(li)Some aquatic animals like $(l:patchouli:creatures/vanilla/dolphin)Dolphins$(/l), $(l:patchouli:creatures/vanilla/squid)Squids$(/l), Cods, $(l:patchouli:creatures/vanilla/pufferfish)Pufferfish$(/l), $(l:patchouli:creatures/upgrade_aquatic/lionfish)Lionfish$(/l), Tropical Fish and $(l:patchouli:creatures/alexsmobs/hammerhead_shark)Hammerhead Sharks$(/l) can be found here.$(br)$(li)You can find $(l:patchouli:creatures/charm/coral_squid)Coral Squids$(/l) swimming around of the Coral Reefs too.$(br)$(li)You can search this biome by typing the word $(l)Warm Ocean$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

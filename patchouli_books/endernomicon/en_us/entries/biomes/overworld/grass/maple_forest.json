@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) and $(l:patchouli:creatures/autumnity/snail)Snails$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Maple Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals like $(l:patchouli:pets/alexsmobs/crow)Crows$(/l), $(l:patchouli:creatures/autumnity/turkey)Turkeys$(/l) and $(l:patchouli:creatures/autumnity/snail)Snails$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Maple Forest$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

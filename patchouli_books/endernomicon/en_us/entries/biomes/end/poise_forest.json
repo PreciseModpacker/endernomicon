@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some animals, such as $(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bugs$(/l) and $(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l), can be found in this biome.$(br)$(li)You can search this biome by typing the words $(l)Poise Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some animals, such as $(l:patchouli:creatures/the_endergetic_expansion/puff_bug)Puff Bugs$(/l) and $(l:patchouli:pets/the_endergetic_expansion/booflo)Booflos$(/l), can be found in this biome.$(br)$(li)You can search this biome by typing the words $(l)Poise Forest$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

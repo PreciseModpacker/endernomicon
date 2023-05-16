@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Not too many creatures can survive in this habitat, only $(l:patchouli:creatures/infernal_expansion/basalt_giant)Basalt Giants$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) and $(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l).$(br)$(li)You can search this biome by typing the words $(l)Basalt Deltas$() in the search box of the Nature's Compass."
+            "text": "$(li)Not too many creatures can survive in this habitat, only $(l:patchouli:creatures/infernal_expansion/basalt_giant)Basalt Giants$(/l), $(l:patchouli:creatures/vanilla/magma_cube)Magma Cubes$(/l) and $(l:patchouli:creatures/alexsmobs/straddler)Straddlers$(/l).$(br)$(li)You can search this biome by typing the words $(l)Basalt Deltas$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",

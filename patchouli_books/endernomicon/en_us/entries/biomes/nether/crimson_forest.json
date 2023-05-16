@@ -11,7 +11,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l) and $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Crimson Forest$() in the search box of the Nature's Compass."
+            "text": "$(li)Some creatures such as $(l:patchouli:creatures/infernal_expansion/shroomloin)Shroomloins$(/l), $(l:patchouli:creatures/vanilla/hoglin)Hoglins$(/l), $(l:patchouli:creatures/alexsmobs/crimson_mosquito)Crimson Mosquitos$(/l) and $(l:patchouli:pets/alexsmobs/warped_toad)Warped Toads$(/l) can be found here too.$(br)$(li)You can search this biome by typing the words $(l)Crimson Forest$() in the search box of the $(l:patchouli:perks/natures_compass)Nature's Compass$(/l)."
         },
         {
             "type": "patchouli:pictures",
