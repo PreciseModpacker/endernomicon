@@ -1,0 +1,17 @@
+{    
+    "name": "ZenoKim (Artist)",
+    "icon": "infernalexp:infernal_painting",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://linktr.ee/zenokim",
+            "link_text": "Linktr",
+            "text": "$(li)ZenoKim made the $(br)Ender Eyes scene for the trailer of the $(br)$(l)Ender's Journey Modpack$()."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
