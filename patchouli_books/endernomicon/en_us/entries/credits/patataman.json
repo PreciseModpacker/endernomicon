@@ -6,8 +6,8 @@
     "pages": [
         {
             "type": "patchouli:link",
-            "url": "https://www.twitch.tv/elespectacularpatataman",
-            "link_text": "Twitch",
+            "url": "https://twitter.com/HombrePatata_TW",
+            "link_text": "Twitter",
             "text": "$(li)ElEspectacularPatataMan made the $(l)Endernomicon GIF$() used in the Curseforge Website of the Modpack."
         },
         {
