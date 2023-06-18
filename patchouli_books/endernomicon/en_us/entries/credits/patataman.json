@@ -1,0 +1,17 @@
+{    
+    "name": "PatataMan (Game Design)",
+    "icon": "infernalexp:infernal_painting",
+    "category": "patchouli:credits",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.twitch.tv/elespectacularpatataman",
+            "link_text": "Twitch",
+            "text": "$(li)ElEspectacularPatataMan made the $(l)Endernomicon GIF$() used in the Curseforge Website of the Modpack."
+        },
+        {
+            "type": "patchouli:empty_page"
+        }
+             ]
+}
