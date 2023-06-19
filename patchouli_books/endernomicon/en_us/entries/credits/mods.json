@@ -665,12 +665,6 @@
         },
         {
             "type": "patchouli:link",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/memorysweep/",
-            "link_text": "CurseForge",
-            "text": "$(l)     MemorySweep$()$(br)$(li)$(l:https://www.curseforge.com/members/tki_sor/)tki_sor (Owner)$(/l)"
-        },     
-        {
-            "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/mobifier/",
             "link_text": "CurseForge",
             "text": "$(l)        Mobifier$()$(br)$(li)$(l:https://www.curseforge.com/members/corgi_taco/)Corgi_Taco (Owner)$(/l)"
@@ -1046,6 +1040,9 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
+        },
+	    {
+            "type": "patchouli:empty_page"
         }
              ]
 }
