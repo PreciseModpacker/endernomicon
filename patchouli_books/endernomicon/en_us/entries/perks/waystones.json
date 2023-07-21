@@ -20,6 +20,18 @@
             "picture": "endermonicon:textures/book/entries/perks/waystones_3.png",
             "text": "$(li)If you right click again on the Waystone, you will be able to teleport to other Waystone that you have already found during your adventure."
         },
+		{
+            "type": "patchouli:crafting",
+            "recipe": "kubejs:kjs_ehulw7mbz72nh9qkod6hqhek",
+            "text": "$(li)You can craft a Waystone with a $(l:patchouli:miscellaneous/vanilla/nether_star)Nether Star$(/l) too.$(br)$(li)If you $(l)drop it to the ground$(), a Waystone will apear. Be careful where you place it because this one is $(l)unbreakable$().",
+            "link_recipe": "true"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "kubejs:kjs_9lkwbs922182dmtlzqxcyspp1",
+            "recipe2": "kubejs:kjs_91ujotlf2lmflt61i489m9cy2",
+            "link_recipe": "true"
+        },
         {
             "type": "patchouli:empty_page"
         } 
