@@ -8,7 +8,7 @@
        {
             "type": "patchouli:crafting",
             "recipe": "alexsmobs:moose_headgear",
-            "text": "$(li)The Moose Headgear has Armor Toughness, giving you extra protection from strong attacks.",
+            "text": "$(li)The Antler Headdress has Armor Toughness, giving you extra protection from strong attacks.",
             "link_recipe": "true"
         },
         {
