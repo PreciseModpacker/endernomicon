@@ -1,18 +1,33 @@
 {    
-    "name": "Shirostories (Datapacker)",
+    "name": "Shirostories (Datapa...)",
     "icon": "minecraft:command_block",
     "category": "patchouli:credits",
     "sortnum": -1,
     "pages": [
         {
             "type": "patchouli:link",
-            "url": "https://www.fiverr.com/shirostories",
-            "link_text": "Fiverr",
+            "url": "https://www.twitch.tv/shirostories",
+            "link_text": "Twitch",
             "text": "$(li)Shirostories made the $(l)Enders Journey Ender$(br)Dragon Enderite Ingot$(br)Drop Datapack$() to make appear Enderite Ingots after defeat the Ender Dragon."
         },
         {
+            "type": "patchouli:link",
+            "url": "",
+            "link_text": "Discord Server",
+			"title": "Shirostories (Datapa...)",
+            "text": "$(br)$(li)Shirostories made the $(l)Enders Journey Waystones Spawn Datapack$() to make Waystones to spawn when they are dropped to the ground."
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.fiverr.com/shirostories",
+            "link_text": "Fiverr",
+			"title": "Shirostories (Datapa...)",
+            "text": "$(br)$(li)Shirostories made the $(l)Enders Journey End Crystal Beam Datapack$() to indicate the player what End Crystals are active during the Ender Dragon Boss Fight."
+        },
+        {
             "type": "patchouli:text",
-            "text": "$(li)Shirostories made the $(l)Enders Journey End Crystal Beam Datapack$() to indicate the player what End Crystals are active during the Ender Dragon Boss Fight.$(br)$(li)Shirostories made the $(l)Enders Journey Remove End Crystal Effect Area$() to remove the Dragon Breath area provocated by the End Crystal explosions during the Ender Dragon Respawn."
+			"title": "Shirostories (Datapa...)",
+            "text": "$(br)$(li)Shirostories made the $(l)Enders Journey Remove End Crystal Effect Area$() to remove the Dragon Breath area provocated by the End Crystal explosions during the Ender Dragon Respawn."
         }
              ]
 }

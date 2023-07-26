@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(li)The Pumpkin Armor is a bit better than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l), Leather Armor and $(l:patchouli:armors/snow_armor)Snow Armor$(/l).$(br)$(li)This armor doesn't give you any special effect."
+            "text": "$(li)The Pumpkin Armor is a bit better than the $(l:patchouli:armors/wood_armor)Wood Armor$(/l), $(l:patchouli:armors/leather/armor)Leather Armor$(/l) and $(l:patchouli:armors/snow_armor)Snow Armor$(/l).$(br)$(li)This armor doesn't give you any special effect."
         },
         {
             "type": "patchouli:entity",
