@@ -11,6 +11,7 @@
         },
         {
             "type": "patchouli:entity",
+            "name": "End Crystal Armor",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{id:\"endrem:end_crystal_boots\",Count:1},{id:\"endrem:end_crystal_leggings\",Count:1},{id:\"endrem:end_crystal_chestplate\",Count:1},{id:\"endrem:end_crystal_helmet\",Count:1}],ArmorDropChances:[0f,0f,0f,0f]}"
         },
         {

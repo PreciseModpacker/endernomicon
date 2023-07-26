@@ -14,6 +14,7 @@
         },
         {
             "type": "patchouli:entity",
+            "name": "Architect's Belt",
             "entity": "minecraft:armor_stand{ShowArms:1b,NoBasePlate:1b,ArmorItems:[{},{id:\"environmental:architect_belt\",Count:1},{},{}],ArmorDropChances:[0f,0f,0f,0f]}"
         },
         {
