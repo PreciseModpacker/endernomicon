@@ -19,7 +19,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)The Healer's Pouch can be found in $(l:patchouli:villagers/carpenter)Loot Chests$(/l) inside of the $(l:patchouli:structures/mineshaft)Mineshafts$(/l).$(br2)$(l)     Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
+            "text": "$(li)The Healer's Pouch can be found in $(l:patchouli:perks/loot_chest)Loot Chests$(/l) inside of the $(l:patchouli:structures/mineshaft)Mineshafts$(/l).$(br2)$(l)     Stealth Levels$()$(br)$(li)Lvl 1 Regeneration & Panic$(br) during 3 Seconds$(br)   0/10 - Adrenaline Boost$(br)$(li)Lvl 2 Regeneration & Panic$(br) during 7 Seconds$(br)   10/50 - Adrenaline Boost"
         },
         {
             "type": "patchouli:text",
