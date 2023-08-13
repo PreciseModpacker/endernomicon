@@ -8,7 +8,7 @@
             "type": "patchouli:link",
             "url": "https://linktr.ee/zenokim",
             "link_text": "Linktr",
-            "text": "$(li)ZenoKim made the $(br)Ender Eyes scene for the trailer of the $(br)$(l)Ender's Journey Modpack$()."
+            "text": "$(li)ZenoKim made the $(br)Ender Eyes scene for the trailer of the $(br)$(l)Ender's Journey Modpack$() and the thumbnail for the Modpack Trailer."
         },
         {
             "type": "patchouli:empty_page"

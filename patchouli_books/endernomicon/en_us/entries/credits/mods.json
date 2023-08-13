@@ -619,19 +619,25 @@
             "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/lightspeedmod/",
             "link_text": "CurseForge",
-            "text": "$(l)         LightSpeed$()$(br)$(li)$(l:https://www.curseforge.com/members/ccr4ft3r/)ccr4ft3r (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/gaxyll/)gaxyll (Artist)$(/l)"
+            "text": "$(l)       LightSpeed$()$(br)$(li)$(l:https://www.curseforge.com/members/ccr4ft3r/)ccr4ft3r (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/gaxyll/)gaxyll (Artist)$(/l)"
         },
         {
             "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/litewolfcore/",
             "link_text": "CurseForge",
-            "text": "$(l)        LiteWolfCores$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
+            "text": "$(l)       LiteWolfCores$()$(br)$(li)$(l:https://www.curseforge.com/members/litewolf101/)LiteWolf101 (Owner)$(/l)"
         },
         {
             "type": "patchouli:link",
             "url": "https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge/",
             "link_text": "CurseForge",
             "text": "$(l)    Load My Resources$()$(br)$(li)$(l:https://www.curseforge.com/members/keksuccino/)Keksuccino (Owner)$(/l)"
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/lootr/",
+            "link_text": "CurseForge",
+            "text": "$(l)          Lootr$()$(br)$(li)$(l:https://curseforge.com/members/Noobanidus/)Noobanidus (Owner)$(/l)$(li)$(l:https://curseforge.com/members/AranaiRa/)AranaiRa (Artist)$(/l)$(li)$(l:https://curseforge.com/members/ZestyBlaze/)ZestyBlaze (Author)$(/l)$(li)$(l:https://curseforge.com/members/embeddedt/)embeddedt (Author)$(/l)$(li)$(l:https://curseforge.com/members/MischiefOfMice/)MischiefOfMice (Mascot)$(/l)"
         },
         {
             "type": "patchouli:link",
@@ -1040,9 +1046,6 @@
             "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras/",
             "link_text": "CurseForge",
             "text": "$(l)      Yungs Extras$()$(br)$(li)$(l:https://www.curseforge.com/members/yungnickyoung/)YUNGNICKYOUNG (Owner)$(/l)$(li)$(l:https://www.curseforge.com/members/evecommander/)EveCommander (Author)$(/l)"
-        },
-	    {
-            "type": "patchouli:empty_page"
         }
              ]
 }
